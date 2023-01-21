@@ -2,9 +2,9 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file xml:space="preserve" original="script" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="660788">
+      <trans-unit id="660788" xml:space="preserve" approved="no">
         <source>０３８</source>
-        <target/>
+        <target state="translated">038</target>
       </trans-unit>
       <trans-unit id="660756" xml:space="preserve" approved="no">
         <source>０００</source>
