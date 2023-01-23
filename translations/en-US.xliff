@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file xml:space="preserve" original="dummy" source-language="ja" target-language="en">
     <body>
@@ -14,9 +15,9 @@
         <source>０３８</source>
         <target state="translated">038</target>
       </trans-unit>
-      <trans-unit id="660756" xml:space="preserve">
+      <trans-unit id="660756" xml:space="preserve" approved="no">
         <source>０００</source>
-        <target/>
+        <target state="translated">000</target>
       </trans-unit>
       <trans-unit id="660724" xml:space="preserve" approved="no">
         <source>０３７</source>
