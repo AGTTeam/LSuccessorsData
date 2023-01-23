@@ -1,4 +1,13 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file xml:space="preserve" original="dummy" source-language="ja" target-language="en">
+    <body>
+      <trans-unit id="0" xml:space="preserve">
+        <source>dummy line</source>
+        <target>dummy translation</target>
+        <note>Ignore this</note>
+      </trans-unit>
+    </body>
+  </file>
   <file xml:space="preserve" original="script" source-language="ja" target-language="en">
     <body>
       <trans-unit id="660788" xml:space="preserve" approved="no">
