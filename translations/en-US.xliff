@@ -35,9 +35,9 @@
         <source>０３９</source>
         <target state="translated">039</target>
       </trans-unit>
-      <trans-unit id="660764" xml:space="preserve">
+      <trans-unit id="660764" xml:space="preserve" approved="no">
         <source>０３５</source>
-        <target/>
+        <target state="translated">035</target>
       </trans-unit>
       <trans-unit id="660796" xml:space="preserve">
         <source>Ｌ生存</source>
