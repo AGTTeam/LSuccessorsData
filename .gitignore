@@ -2,6 +2,7 @@ extract*
 repack*
 out_*
 *_data.txt
+filelist.txt
 *_output*
 *.nds
 *.xdelta
