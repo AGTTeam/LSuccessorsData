@@ -17055,9 +17055,9 @@
         <source>キラ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="657920" xml:space="preserve">
+      <trans-unit id="657920" xml:space="preserve" approved="no">
         <source>ロジャー</source>
-        <target/>
+        <target state="translated">Roger</target>
       </trans-unit>
       <trans-unit id="657936" xml:space="preserve">
         <source>粧裕</source>
