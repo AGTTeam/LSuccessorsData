@@ -16827,9 +16827,9 @@
         <source>火口</source>
         <target state="translated">Higuchi</target>
       </trans-unit>
-      <trans-unit id="657888" xml:space="preserve">
+      <trans-unit id="657888" xml:space="preserve" approved="no">
         <source>ニア</source>
-        <target/>
+        <target state="translated">Near</target>
       </trans-unit>
       <trans-unit id="657632" xml:space="preserve" approved="no">
         <source>三堂</source>
@@ -16879,9 +16879,9 @@
         <source>レイ</source>
         <target state="translated">Raye</target>
       </trans-unit>
-      <trans-unit id="657760" xml:space="preserve">
+      <trans-unit id="657760" xml:space="preserve" approved="no">
         <source>ジョー</source>
-        <target/>
+        <target state="translated">Joe</target>
       </trans-unit>
       <trans-unit id="657312" xml:space="preserve" approved="no">
         <source>マット</source>
@@ -16891,9 +16891,9 @@
         <source>ロッド</source>
         <target state="translated">Rod</target>
       </trans-unit>
-      <trans-unit id="493420" xml:space="preserve">
+      <trans-unit id="493420" xml:space="preserve" approved="no">
         <source>レッド</source>
-        <target/>
+        <target state="translated">Red</target>
       </trans-unit>
       <trans-unit id="657824" xml:space="preserve">
         <source>捜査員</source>
@@ -16923,13 +16923,13 @@
         <source>奈南川</source>
         <target state="translated">Namikawa</target>
       </trans-unit>
-      <trans-unit id="493516" xml:space="preserve">
+      <trans-unit id="493516" xml:space="preserve" approved="no">
         <source>ブルー</source>
-        <target/>
+        <target state="translated">Blue</target>
       </trans-unit>
-      <trans-unit id="493524" xml:space="preserve">
+      <trans-unit id="493524" xml:space="preserve" approved="no">
         <source>グリーン</source>
-        <target/>
+        <target state="translated">Green</target>
       </trans-unit>
       <trans-unit id="657472" xml:space="preserve" approved="no">
         <source>レスター</source>
@@ -16947,17 +16947,17 @@
         <source>ジャック</source>
         <target state="translated">Jack</target>
       </trans-unit>
-      <trans-unit id="493680" xml:space="preserve">
+      <trans-unit id="493680" xml:space="preserve" approved="no">
         <source>イエロー</source>
-        <target/>
+        <target state="translated">Yellow</target>
       </trans-unit>
-      <trans-unit id="657776" xml:space="preserve">
+      <trans-unit id="657776" xml:space="preserve" approved="no">
         <source>グレッグ</source>
-        <target/>
+        <target state="translated">Greg</target>
       </trans-unit>
-      <trans-unit id="493728" xml:space="preserve">
+      <trans-unit id="493728" xml:space="preserve" approved="no">
         <source>パープル</source>
-        <target/>
+        <target state="translated">Purple</target>
       </trans-unit>
       <trans-unit id="657840" xml:space="preserve">
         <source>ギャング</source>
