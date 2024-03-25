@@ -659,9 +659,9 @@
         <source>\c04『勝利ポイント』\c02は、|キラ側と捜査側でどちらが|\c04優勢\c02か表したものだ。&gt;&gt;シングルモードや対戦時の|一部のステージで、|規定ターンを過ぎた場合、&gt;&gt;\c04勝利ポイントで勝敗を決する\c02。|勝利ポイントは|以下の行動で増加する。&gt;&gt;\c04『規定ターン数を逃げ切る』|『捜査員をリタイアさせる』|『チェックポイントを訪れる』\c02</source>
         <target/>
       </trans-unit>
-      <trans-unit id="839096" xml:space="preserve">
+      <trans-unit id="839096" xml:space="preserve" approved="no">
         <source>もし、『勝利ポイント』が|同点の場合は、僕ら|\c04キラ側の『勝利』\c02となる。&gt;&gt;僕らの勝利を確実にするためには、|必要なコトだ。|心に留めておくといい。</source>
-        <target/>
+        <target state="translated">In the event that Victory Points are tied, it will result in \c04Kira side's victory\c02. &gt;&gt;This is essential in order for us to assure our victory. Bear it in mind.</target>
       </trans-unit>
       <trans-unit id="770056" xml:space="preserve">
         <source>||||||　　　　基本的な操作</source>
@@ -3071,37 +3071,37 @@
         <source>何だと？　なぜこのアジトが！？|ちっ、逃げるか……それとも…|…何とか奴らを撃退する手は…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="879360" xml:space="preserve">
+      <trans-unit id="879360" xml:space="preserve" approved="no">
         <source>ＦＢＩ捜査官の追求を退けた月。|だが、これで決着がついたとは、|どちらの側も考えてはいなかった。|\T0030\t0002むしろ、この戦いはいよいよ|激しさを増していくであろうという|予感を、両者とも胸に宿していたの|である。|しかし……|\T0045\t0002|そんなふたりの思惑をよそに、|事態はまったく思いもかけない|新たな展開を見せようとしていた。</source>
-        <target/>
+        <target state="translated">Light had evaded pursuit by the FBI agents, but neither side believed that this would put an end to things. \T0030\t0002Deep within their hearts, they felt that their battle would only grow more fierce from here. However... \T0045\t0002|despite their speculations, the situation took a completely unexpected turn.</target>
       </trans-unit>
-      <trans-unit id="776980" xml:space="preserve">
+      <trans-unit id="776980" xml:space="preserve" approved="no">
         <source>||||||　　　　　私はキラです。</source>
-        <target/>
+        <target state="translated">||||||　　　　　 I am Kira.</target>
       </trans-unit>
-      <trans-unit id="877060" xml:space="preserve">
+      <trans-unit id="877060" xml:space="preserve" approved="no">
         <source>自らキラと名乗る者から、|突然、さくらテレビに送られてきた|ビデオテープ。||そこには、キラであることの|証明である予告犯行と、|警察とＬが自分に降伏することを|要求するメッセージが収められて|いたのである。||このテープはさくらテレビによって|放送され、世間は新たなキラの動向|に騒然となったが……</source>
-        <target/>
+        <target state="translated">A videotape was suddenly sent to Sakura TV from someone claiming to be Kira. ||The tape included proof that the sender was Kira in the form of a murder prediction, as well as a message demanding both the police and L to surrender to them. || Sakura TV broadcast the tape, and the world was thrown into confusion by this new Kira's arrival…</target>
       </trans-unit>
-      <trans-unit id="842168" xml:space="preserve">
+      <trans-unit id="842168" xml:space="preserve" approved="no">
         <source>このキラは、|キラの偽者の可能性が|高い。&gt;&gt;いや、第２のキラと|言うべきでしょう。|確率は７０％以上です。&gt;&gt;大体やり方が気にいらない…|…キラらしくない……</source>
-        <target/>
+        <target state="translated">There is a high possibility that this new Kira is an imposter. Or rather, a second Kira. I am over 70% certain. &gt;&gt;I don't like their way of doing things... It's not like Kira…</target>
       </trans-unit>
-      <trans-unit id="808676" xml:space="preserve">
+      <trans-unit id="808676" xml:space="preserve" approved="no">
         <source>キラが２人いることを|鋭く見抜いたＬ。||同時に月も、第２のキラ出現に|考えをめぐらせていた。</source>
-        <target/>
+        <target state="translated">L sharply deduced the fact that there were two Kira's. ||At the same time, Light thought about this second Kira's emergence.</target>
       </trans-unit>
-      <trans-unit id="780580" xml:space="preserve">
+      <trans-unit id="780580" xml:space="preserve" approved="no">
         <source>人間界にもう１匹の死神が|舞い降りた……</source>
-        <target/>
+        <target state="translated">Another shinigami has descended to the human world…</target>
       </trans-unit>
-      <trans-unit id="799460" xml:space="preserve">
+      <trans-unit id="799460" xml:space="preserve" approved="no">
         <source>それはもう１冊のデスノートが、|キラに賛同する人間の手に|あるということだ。</source>
-        <target/>
+        <target state="translated">That means another Death Note is in the hands of someone who supports Kira.</target>
       </trans-unit>
-      <trans-unit id="816824" xml:space="preserve">
+      <trans-unit id="816824" xml:space="preserve" approved="no">
         <source>問題は、こいつが敵か味方か…&gt;&gt;そしてどちらであろうと、|僕がこいつを|うまく利用できるかどうかだ。</source>
-        <target/>
+        <target state="translated">The question is whether they're an enemy or an ally... And whichever they are, if they're of any use to me.</target>
       </trans-unit>
       <trans-unit id="863000" xml:space="preserve">
         <source>捜査本部は、Ｌの計略により、|第２のキラへの返信を作成した。|本物のキラから第２のキラへ…|…という形の偽造メッセージである。||さくらテレビでこれが放映されるや、|第２のキラはＬの策略とも知らず、|すぐさま返事を送ってきた。</source>
@@ -7459,9 +7459,9 @@
         <source>コマンドを実行すると|表示される範囲が、その|コマンドの有効範囲です。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="621497" xml:space="preserve">
+      <trans-unit id="621497" xml:space="preserve" approved="no">
         <source>容疑者を逮捕したり、|捜査員がリタイアした場合、|勝利ポイントが増減します。</source>
-        <target/>
+        <target state="translated">Victory Points are gained and lost whenever a suspect is caught or an investigator is forced out.</target>
       </trans-unit>
       <trans-unit id="627261" xml:space="preserve">
         <source>戦いを中断したい場合は|「オプション」から|「ゲーム中断」を|選択すれば中断できます。</source>
@@ -8631,9 +8631,9 @@
         <source>フフフ…さあ追ってこい。|それこそ僕の思うツボだ！</source>
         <target state="translated">Go on, give me chase! Hmhmhm... Play right into my hand.</target>
       </trans-unit>
-      <trans-unit id="582869" xml:space="preserve">
+      <trans-unit id="582869" xml:space="preserve" approved="no">
         <source>ハハッ…ハハハ！！|キラに逆らう者は|皆そうなるんだよ！</source>
-        <target/>
+        <target state="translated">Haha...Hahaha! This is what happens to all who stand in Kira's way!</target>
       </trans-unit>
       <trans-unit id="530905" xml:space="preserve">
         <source>おまえはここで消えるんだ。|さようなら。</source>
@@ -13723,9 +13723,9 @@
         <source>映像を確認してください。|キラが映っています。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="550177" xml:space="preserve">
+      <trans-unit id="550177" xml:space="preserve" approved="no">
         <source>失敗ね。|この近くにキラ達は|いないという事？</source>
-        <target/>
+        <target state="translated">I failed. Does this mean Kira isn't in this area?</target>
       </trans-unit>
       <trans-unit id="504993" xml:space="preserve">
         <source>映像に手がかりは|ありません。</source>
@@ -13787,9 +13787,9 @@
         <source>この裏路地なら|キラも知らないでしょうね。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="520641" xml:space="preserve">
+      <trans-unit id="520641" xml:space="preserve" approved="no">
         <source>これでキラの裏をかける|かもしれない。</source>
-        <target/>
+        <target state="translated">I might be able to outsmart Kira doing this.</target>
       </trans-unit>
       <trans-unit id="510473" xml:space="preserve">
         <source>裏路地を使えば|先手を打てるかも…</source>
@@ -13819,9 +13819,9 @@
         <source>これより地下鉄で移動する。|移動中は連絡不能になる。|フォローを頼む。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="594381" xml:space="preserve">
+      <trans-unit id="594381" xml:space="preserve" approved="no">
         <source>こちらレイ。キラを追跡中。|これより地下鉄に乗って|移動する。</source>
-        <target/>
+        <target state="translated">This is Raye. I'm on Kira's tail. I'm about to ride the subway.</target>
       </trans-unit>
       <trans-unit id="581069" xml:space="preserve" approved="no">
         <source>聞こえるか？|こちらは地下鉄を使う。|地上の追跡は頼む。</source>
@@ -13863,9 +13863,9 @@
         <source>都市ではこれ以上の|移動手段はない。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="515521" xml:space="preserve">
+      <trans-unit id="515521" xml:space="preserve" approved="no">
         <source>こちらレイ。|キラの仲間を拘束した。</source>
-        <target/>
+        <target state="translated">This is Raye. I've captured one of Kira's accomplices.</target>
       </trans-unit>
       <trans-unit id="549313" xml:space="preserve">
         <source>キラといえど|やはり素人だな。|君を逮捕する。</source>
@@ -13923,9 +13923,9 @@
         <source>こいつがキラの仲間…|とうとう見つけたぞ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="529365" xml:space="preserve">
+      <trans-unit id="529365" xml:space="preserve" approved="no">
         <source>ダメだな。監視する場所を|変えるべきか？</source>
-        <target/>
+        <target state="translated">No luck. Maybe I should monitor a different area?</target>
       </trans-unit>
       <trans-unit id="527121" xml:space="preserve">
         <source>映像に手がかりはないか…|失敗だったな。</source>
@@ -14019,9 +14019,9 @@
         <source>こちらナオミ。|ここから地下鉄で移動します。</source>
         <target state="translated">This is Naomi. I'm taking the subway.</target>
       </trans-unit>
-      <trans-unit id="621257" xml:space="preserve">
+      <trans-unit id="621257" xml:space="preserve" approved="no">
         <source>地下鉄で敵を追います。|目的地付近のトラップには|警戒しますので大丈夫です。</source>
-        <target/>
+        <target state="translated">I'll follow the target using the subway. Don't worry, I'll be on the lookout for any traps around my destination.</target>
       </trans-unit>
       <trans-unit id="589517" xml:space="preserve">
         <source>捜査にもスピードは必要ね。|地下鉄を利用しない手は|ないわ。</source>
@@ -17059,9 +17059,9 @@
         <source>ロジャー</source>
         <target state="translated">Roger</target>
       </trans-unit>
-      <trans-unit id="657936" xml:space="preserve">
+      <trans-unit id="657936" xml:space="preserve" approved="no">
         <source>粧裕</source>
-        <target/>
+        <target state="translated">Sayu</target>
       </trans-unit>
     </body>
   </file>
