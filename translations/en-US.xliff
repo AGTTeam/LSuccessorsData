@@ -375,9 +375,9 @@
         <source>夜神月、どこに行ったんだ！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="777780" xml:space="preserve">
+      <trans-unit id="777780" xml:space="preserve" approved="no">
         <source>くそ！|あの女、どこに行ったんだ！</source>
-        <target/>
+        <target state="translated">Damn it! Where did that woman go?</target>
       </trans-unit>
       <trans-unit id="817444" xml:space="preserve">
         <source>もう、あなたの手の内は|分かっています。&gt;&gt;もっとも、おとなしく|捕まるような人では|ないでしょうが。</source>
@@ -3903,69 +3903,69 @@
         <source>よし！\t0030　\t0002あとは最後の|仕上げをするだけだ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="782648" xml:space="preserve">
+      <trans-unit id="782648" xml:space="preserve" approved="no">
         <source>動くな、メロ！|…いや、ミハエル＝ケール！</source>
-        <target/>
+        <target state="translated">Don't move, Mello! ... Or should I say Mihael Keehl!</target>
       </trans-unit>
-      <trans-unit id="789356" xml:space="preserve">
+      <trans-unit id="789356" xml:space="preserve" approved="no">
         <source>（！…やばい、なぜ…|……まさか、こいつらキラと…）</source>
-        <target/>
+        <target state="translated">( ... Damn, how did he ... There's no way, are they working with Kira...?)</target>
       </trans-unit>
-      <trans-unit id="824568" xml:space="preserve">
+      <trans-unit id="824568" xml:space="preserve" approved="no">
         <source>私の手には、デスノートがある。|おまえを倒すのに１秒もかからん。&gt;&gt;諦めろ、メロ。|おまえが助かるには捕まるしかない。</source>
-        <target/>
+        <target state="translated">I have the Death Note. I wouldn't take a second to kill you. &gt;&gt;Give it up, Mello. The only way to survive this is to turn yourself in.</target>
       </trans-unit>
-      <trans-unit id="788216" xml:space="preserve">
+      <trans-unit id="788216" xml:space="preserve" approved="no">
         <source>（何をばかな…！　父さん、|早くメロを倒すんだ！）</source>
-        <target/>
+        <target state="translated">(What are you doing? Dad, hurry up and kill him!)</target>
       </trans-unit>
-      <trans-unit id="806100" xml:space="preserve">
+      <trans-unit id="806100" xml:space="preserve" approved="no">
         <source>！……夜神、すまないな……|おまえは、さっさと俺を|仕留めておくべきだったんだ…</source>
-        <target/>
+        <target state="translated">... Sorry, Yagami ... You should've killed me when you had the chance …</target>
       </trans-unit>
-      <trans-unit id="766104" xml:space="preserve">
+      <trans-unit id="766104" xml:space="preserve" approved="no">
         <source>……なに！？</source>
-        <target/>
+        <target state="translated">... What?!</target>
       </trans-unit>
-      <trans-unit id="801632" xml:space="preserve">
+      <trans-unit id="801632" xml:space="preserve" approved="no">
         <source>銃声！？&gt;&gt;まずい！　全員突入、全員突入！&gt;&gt;夜神次長！　無事ですか！？</source>
-        <target/>
+        <target state="translated">Gunshots?! Damn it, all officers go, go, go! &gt;&gt;Deputy Director! Are you okay?!</target>
       </trans-unit>
-      <trans-unit id="866496" xml:space="preserve">
+      <trans-unit id="866496" xml:space="preserve" approved="no">
         <source>メロに気を取られ、背後の一味に|気付かなかった総一郎……|その一瞬の油断が命取りになった。||捜査員達の突入により、|デスノートの奪還にだけは、|かろうじて成功したが…||しかし、メロは逃亡、|総一郎は重体となって病院に|運び込まれた……</source>
-        <target/>
+        <target state="translated">Distracted by Mello, Soichiro didn't notice one of Mello's men behind him ... A moment's carelessness was enough to seal his fate. || Thanks to the Investigation team storming in, they just barely succeeded in recovering the Death Note ... || But Mello got away, and Soichiro was rushed to hospital in critical condition.</target>
       </trans-unit>
-      <trans-unit id="795684" xml:space="preserve">
+      <trans-unit id="795684" xml:space="preserve" approved="no">
         <source>父さん！　父さん、しっかり！|メロの…メロの顔は見たんだろう？</source>
-        <target/>
+        <target state="translated">Dad! Dad, stay with me! Mello ... you saw Mello's face, right?</target>
       </trans-unit>
-      <trans-unit id="795772" xml:space="preserve">
+      <trans-unit id="795772" xml:space="preserve" approved="no">
         <source>……ライト……すまなかった…|…結局私はヤツを倒せなかった……</source>
-        <target/>
+        <target state="translated">... Light ... I'm sorry ... In the end, I couldn't kill him…</target>
       </trans-unit>
-      <trans-unit id="787304" xml:space="preserve">
+      <trans-unit id="787304" xml:space="preserve" approved="no">
         <source>わ……私はもうダメだ…|…ライト……後の事は頼……</source>
-        <target/>
+        <target state="translated">I ... I don't have much longer ... Light ... the rest is up to …</target>
       </trans-unit>
-      <trans-unit id="813524" xml:space="preserve">
+      <trans-unit id="813524" xml:space="preserve" approved="no">
         <source>父さん、奴の名前を！　最後の力を|振り絞ってデスノートに書くんだ！|やられっぱなしでいいのか！</source>
-        <target/>
+        <target state="translated">Dad, write his name! Use your last bit of strength and write it in the Death Note! You can't let him beat you like this!</target>
       </trans-unit>
-      <trans-unit id="768348" xml:space="preserve">
+      <trans-unit id="768348" xml:space="preserve" approved="no">
         <source>……残念ですが……</source>
-        <target/>
+        <target state="translated">... I'm sorry …</target>
       </trans-unit>
-      <trans-unit id="794556" xml:space="preserve">
+      <trans-unit id="794556" xml:space="preserve" approved="no">
         <source>父さん！　父さん！|\T0060\t0001死ぬな、バカヤローーーッ！！</source>
-        <target/>
+        <target state="translated">Dad! Dad! \T0060\t0001Don't die, you idiot!!</target>
       </trans-unit>
-      <trans-unit id="835084" xml:space="preserve">
+      <trans-unit id="835084" xml:space="preserve" approved="no">
         <source>父の死に、号泣する月…||…その涙は本物だったのか……|それとも|父の死さえ利用した演技か…||真実は誰にも……おそらく、|月自身にすら、わからなかった。</source>
-        <target/>
+        <target state="translated">Light wept over his father's death... Whether those were true tears... or a mere performance, using his own father's death... ||nobody, perhaps not even Light himself, knew.</target>
       </trans-unit>
-      <trans-unit id="799920" xml:space="preserve">
+      <trans-unit id="799920" xml:space="preserve" approved="no">
         <source>メロから奪還したノートを|返却されたシドウは、喜んで|死神界に帰っていった。</source>
-        <target/>
+        <target state="translated">After his Death Note was returned to him, Sidoh happily returned to the Shinigami Realm.</target>
       </trans-unit>
       <trans-unit id="798632" xml:space="preserve">
         <source>一方、人間界では|キラとの新たな対峙方法を巡って|迷走が深まりつつあった。</source>
