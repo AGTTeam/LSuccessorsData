@@ -8007,9 +8007,9 @@
         <source>負け…ですね。|しかし最後には我々が|勝ちます。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="494217" xml:space="preserve">
+      <trans-unit id="494217" xml:space="preserve" approved="no">
         <source>…………………</source>
-        <target/>
+        <target state="translated">............…</target>
       </trans-unit>
       <trans-unit id="498609" xml:space="preserve">
         <source>やっぱりキラは月くんが…</source>
