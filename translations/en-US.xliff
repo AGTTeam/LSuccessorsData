@@ -39,25 +39,25 @@
         <source>０３５</source>
         <target state="translated">035</target>
       </trans-unit>
-      <trans-unit id="660796" xml:space="preserve">
+      <trans-unit id="660796" xml:space="preserve" approved="no">
         <source>Ｌ生存</source>
-        <target/>
+        <target state="translated">L Alive</target>
       </trans-unit>
-      <trans-unit id="660732" xml:space="preserve">
+      <trans-unit id="660732" xml:space="preserve" approved="no">
         <source>０４７</source>
-        <target/>
+        <target state="translated">047</target>
       </trans-unit>
-      <trans-unit id="660832" xml:space="preserve">
+      <trans-unit id="660832" xml:space="preserve" approved="no">
         <source>夜神　月生存</source>
-        <target/>
+        <target state="translated">Light Yagami Alive</target>
       </trans-unit>
       <trans-unit id="661216" xml:space="preserve">
         <source>生存チェック　Ｌ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="660808" xml:space="preserve">
+      <trans-unit id="660808" xml:space="preserve" approved="no">
         <source>Ｌ死亡</source>
-        <target/>
+        <target state="translated">L Deceased</target>
       </trans-unit>
       <trans-unit id="776644" xml:space="preserve">
         <source>やったー！|ミサ、勝っちゃった！</source>
@@ -71,9 +71,9 @@
         <source>ハハハ！\t0030　\t0002楽勝だ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="788824" xml:space="preserve">
+      <trans-unit id="788824" xml:space="preserve" approved="no">
         <source>ご覧下さっていますか…\t0030|\t0002我々の勝ちです！</source>
-        <target/>
+        <target state="translated">Are you watching? We won!</target>
       </trans-unit>
       <trans-unit id="787608" xml:space="preserve">
         <source>勝った！\t0030　\t0002…月くん…|これでいいのね。</source>
@@ -103,17 +103,17 @@
         <source>生存チェック　夜神　月</source>
         <target/>
       </trans-unit>
-      <trans-unit id="660852" xml:space="preserve">
+      <trans-unit id="660852" xml:space="preserve" approved="no">
         <source>夜神　月死亡</source>
-        <target/>
+        <target state="translated">Light Yagami Deceased</target>
       </trans-unit>
       <trans-unit id="661096" xml:space="preserve">
         <source>生存チェック　Ｌ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="660820" xml:space="preserve">
+      <trans-unit id="660820" xml:space="preserve" approved="no">
         <source>Ｌ死亡</source>
-        <target/>
+        <target state="translated">L Deceased</target>
       </trans-unit>
       <trans-unit id="665492" xml:space="preserve">
         <source>リューク普通</source>
@@ -151,101 +151,101 @@
         <source>葉鳥め、つまらんミスを…|…と俺も笑える状況ではないな。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="790684" xml:space="preserve">
+      <trans-unit id="790684" xml:space="preserve" approved="no">
         <source>奈南川が…逮捕されたか。|私もそろそろ覚悟すべきかな。</source>
-        <target/>
+        <target state="translated">Namikawa was arrested ... Maybe I should prepare myself for the worst...</target>
       </trans-unit>
-      <trans-unit id="790764" xml:space="preserve">
+      <trans-unit id="790764" xml:space="preserve" approved="no">
         <source>尾々井が…逮捕されたか。|私もそろそろ覚悟すべきかな。</source>
-        <target/>
+        <target state="translated">Ooi was arrested ... Maybe I should prepare myself for the worst...</target>
       </trans-unit>
-      <trans-unit id="789432" xml:space="preserve">
+      <trans-unit id="789432" xml:space="preserve" approved="no">
         <source>鷹橋が…逮捕されたか。|私もそろそろ覚悟すべきかな。</source>
-        <target/>
+        <target state="translated">Takahashi was arrested ... Maybe I should prepare myself for the worst ...</target>
       </trans-unit>
-      <trans-unit id="789508" xml:space="preserve">
+      <trans-unit id="789508" xml:space="preserve" approved="no">
         <source>紙村が…逮捕されたか。|私もそろそろ覚悟すべきかな。</source>
-        <target/>
+        <target state="translated">Shimura was arrested ... Maybe I should prepare myself for the worst ...</target>
       </trans-unit>
-      <trans-unit id="789584" xml:space="preserve">
+      <trans-unit id="789584" xml:space="preserve" approved="no">
         <source>樹多が…逮捕されたか。|私もそろそろ覚悟すべきかな。</source>
-        <target/>
+        <target state="translated">Kido was arrested ... Maybe I should prepare myself for the worst ...</target>
       </trans-unit>
-      <trans-unit id="788900" xml:space="preserve">
+      <trans-unit id="788900" xml:space="preserve" approved="no">
         <source>葉鳥が…逮捕されたか。|私もそろそろ覚悟すべきかな。</source>
-        <target/>
+        <target state="translated">Hatori was arrested ... Maybe I should prepare myself for the worst ...</target>
       </trans-unit>
-      <trans-unit id="780772" xml:space="preserve">
+      <trans-unit id="780772" xml:space="preserve" approved="no">
         <source>なんだって！|奈南川が逮捕されたのか！？</source>
-        <target/>
+        <target state="translated">What?! Namikawa was arrested?!</target>
       </trans-unit>
-      <trans-unit id="781540" xml:space="preserve">
+      <trans-unit id="781540" xml:space="preserve" approved="no">
         <source>なんだって！|尾々井が逮捕されたのか！？</source>
-        <target/>
+        <target state="translated">What?! Ooi was arrested?!</target>
       </trans-unit>
-      <trans-unit id="779556" xml:space="preserve">
+      <trans-unit id="779556" xml:space="preserve" approved="no">
         <source>なんだって！|三堂が逮捕されたのか！？</source>
-        <target/>
+        <target state="translated">What?! Mido was arrested?!</target>
       </trans-unit>
-      <trans-unit id="779940" xml:space="preserve">
+      <trans-unit id="779940" xml:space="preserve" approved="no">
         <source>なんだって！|紙村が逮捕されたのか！？</source>
-        <target/>
+        <target state="translated">What?! Shimura was arrested?!</target>
       </trans-unit>
-      <trans-unit id="780004" xml:space="preserve">
+      <trans-unit id="780004" xml:space="preserve" approved="no">
         <source>なんだって！|樹多が逮捕されたのか！？</source>
-        <target/>
+        <target state="translated">What?! Kida was arrested?!</target>
       </trans-unit>
-      <trans-unit id="780068" xml:space="preserve">
+      <trans-unit id="780068" xml:space="preserve" approved="no">
         <source>なんだって！|葉鳥が逮捕されたのか！？</source>
-        <target/>
+        <target state="translated">What?! Hatori was arrested?!</target>
       </trans-unit>
-      <trans-unit id="779620" xml:space="preserve">
+      <trans-unit id="779620" xml:space="preserve" approved="no">
         <source>奈南川が…|次は俺の番かもしれないな。</source>
-        <target/>
+        <target state="translated">They got Namikawa ... I might be next.</target>
       </trans-unit>
-      <trans-unit id="779876" xml:space="preserve">
+      <trans-unit id="779876" xml:space="preserve" approved="no">
         <source>尾々井が…|次は俺の番かもしれないな。</source>
-        <target/>
+        <target state="translated">They got Ooi ... I might be next.</target>
       </trans-unit>
-      <trans-unit id="778500" xml:space="preserve">
+      <trans-unit id="778500" xml:space="preserve" approved="no">
         <source>三堂が…|次は俺の番かもしれないな。</source>
-        <target/>
+        <target state="translated">They got Mido ... I might be next.</target>
       </trans-unit>
-      <trans-unit id="778440" xml:space="preserve">
+      <trans-unit id="778440" xml:space="preserve" approved="no">
         <source>鷹橋が…|次は俺の番かもしれないな。</source>
-        <target/>
+        <target state="translated">They got Takahashi ... I might be next.</target>
       </trans-unit>
-      <trans-unit id="778860" xml:space="preserve">
+      <trans-unit id="778860" xml:space="preserve" approved="no">
         <source>樹多が…|次は俺の番かもしれないな。</source>
-        <target/>
+        <target state="translated">They got Kida ... I might be next.</target>
       </trans-unit>
-      <trans-unit id="778800" xml:space="preserve">
+      <trans-unit id="778800" xml:space="preserve" approved="no">
         <source>葉鳥が…|次は俺の番かもしれないな。</source>
-        <target/>
+        <target state="translated">They got Hatori ... I might be next.</target>
       </trans-unit>
-      <trans-unit id="783940" xml:space="preserve">
+      <trans-unit id="783940" xml:space="preserve" approved="no">
         <source>奈南川のバカめ！|わ、私は絶対に捕まらんぞ！</source>
-        <target/>
+        <target state="translated">Namikawa, you idiot! T- They're not gonna get me too!</target>
       </trans-unit>
-      <trans-unit id="784076" xml:space="preserve">
+      <trans-unit id="784076" xml:space="preserve" approved="no">
         <source>尾々井のバカめ！|わ、私は絶対に捕まらんぞ！</source>
-        <target/>
+        <target state="translated">Ooi, you idiot! T- They're not gonna get me too!</target>
       </trans-unit>
-      <trans-unit id="783056" xml:space="preserve">
+      <trans-unit id="783056" xml:space="preserve" approved="no">
         <source>三堂のバカめ！|わ、私は絶対に捕まらんぞ！</source>
-        <target/>
+        <target state="translated">Mido, you idiot! T- They're not gonna get me too!</target>
       </trans-unit>
-      <trans-unit id="783124" xml:space="preserve">
+      <trans-unit id="783124" xml:space="preserve" approved="no">
         <source>鷹橋のバカめ！|わ、私は絶対に捕まらんぞ！</source>
-        <target/>
+        <target state="translated">Takahashi, you idiot! T- They're not gonna get me too!</target>
       </trans-unit>
-      <trans-unit id="783192" xml:space="preserve">
+      <trans-unit id="783192" xml:space="preserve" approved="no">
         <source>紙村のバカめ！|わ、私は絶対に捕まらんぞ！</source>
-        <target/>
+        <target state="translated">Shimura, you idiot! T- They're not gonna get me too!</target>
       </trans-unit>
-      <trans-unit id="782580" xml:space="preserve">
+      <trans-unit id="782580" xml:space="preserve" approved="no">
         <source>葉鳥のバカめ！|わ、私は絶対に捕まらんぞ！</source>
-        <target/>
+        <target state="translated">Hatori, you idiot! T- They're not gonna get me too!</target>
       </trans-unit>
       <trans-unit id="783260" xml:space="preserve">
         <source>奈南川さんが逮捕…|僕達の末路は、やはり…</source>
@@ -311,9 +311,9 @@
         <source>どうなってるんだ…俺達は…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="784708" xml:space="preserve">
+      <trans-unit id="784708" xml:space="preserve" approved="no">
         <source>ま、まだ俺は何とか|無事だけど、このままじゃ…</source>
-        <target/>
+        <target state="translated">I- I'm still safe for now, but at this rate …</target>
       </trans-unit>
       <trans-unit id="773228" xml:space="preserve">
         <source>じ…状況はどうなってるんだ。</source>
@@ -7563,9 +7563,9 @@
         <source>高速バスは隣のターミナル|までしか移動できません。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="626653" xml:space="preserve">
+      <trans-unit id="626653" xml:space="preserve" approved="no">
         <source>水上バスに乗るには、|水上バスターミナルで|「特殊移動ポイント」を|使ってください。</source>
-        <target/>
+        <target state="translated">In order to use the water-bus, go to the water-bus terminal and use a Special Movement Point.</target>
       </trans-unit>
       <trans-unit id="630301" xml:space="preserve">
         <source>水上バスは自動運行で|ターンにより進行方向が|変わる事があります。|くれぐれも注意して|ください。</source>
