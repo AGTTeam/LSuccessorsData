@@ -67,9 +67,9 @@
         <source>フフフ…\t0030　\t0002僕の勝ちだ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="775300" xml:space="preserve">
+      <trans-unit id="775300" xml:space="preserve" approved="no">
         <source>ハハハ！\t0030　\t0002楽勝だ。</source>
-        <target/>
+        <target state="translated">Hahaha! \t0030　\t0002 Too easy.</target>
       </trans-unit>
       <trans-unit id="788824" xml:space="preserve" approved="no">
         <source>ご覧下さっていますか…\t0030|\t0002我々の勝ちです！</source>
@@ -83,9 +83,9 @@
         <source>ははっ！\t0030|\t0002どうだ。マヌケども！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="774528" xml:space="preserve">
+      <trans-unit id="774528" xml:space="preserve" approved="no">
         <source>おいおい、|もう終わりかい？</source>
-        <target/>
+        <target state="translated">Come on, over already?</target>
       </trans-unit>
       <trans-unit id="776700" xml:space="preserve">
         <source>やりましたね。|我々の勝ちです。</source>
@@ -775,13 +775,13 @@
         <source>ヤツラは一部を除いて、|数だけに頼る集団。|僕らをとめることなど出来ない。</source>
         <target state="translated">As a group, they're reliant on their numbers. They can't stop us.</target>
       </trans-unit>
-      <trans-unit id="776364" xml:space="preserve">
+      <trans-unit id="776364" xml:space="preserve" approved="no">
         <source>||||||　　　隠しカメラ回収コマンド</source>
-        <target/>
+        <target state="translated">||||||　　　Hidden Camera Retrieval Command</target>
       </trans-unit>
-      <trans-unit id="822052" xml:space="preserve">
+      <trans-unit id="822052" xml:space="preserve" approved="no">
         <source>\c04『隠しカメラ回収』\c02コマンドを|実行すると、&gt;&gt;設置した\c04『隠しカメラ』\c02を|回収することができます。</source>
-        <target/>
+        <target state="translated">By using the \c04Hidden Camera Retrieval\c02 command, you can retrieve a \c04Hidden Camera\c02.</target>
       </trans-unit>
       <trans-unit id="826624" xml:space="preserve">
         <source>一度に設置できる\c04隠しカメラの|台数\c02には限りがありますから、&gt;&gt;状況に応じて、隠しカメラを|回収して、再配置しましょう。</source>
@@ -1511,17 +1511,17 @@
         <source>レイ失意　ナシ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="663840" xml:space="preserve">
+      <trans-unit id="663840" xml:space="preserve" approved="no">
         <source>ナオミ普通</source>
-        <target/>
+        <target state="translated">Naomi Normal</target>
       </trans-unit>
-      <trans-unit id="665576" xml:space="preserve">
+      <trans-unit id="665576" xml:space="preserve" approved="no">
         <source>ナオミピンチ</source>
-        <target/>
+        <target state="translated">Naomi Danger</target>
       </trans-unit>
-      <trans-unit id="664372" xml:space="preserve">
+      <trans-unit id="664372" xml:space="preserve" approved="no">
         <source>ナオミ決意</source>
-        <target/>
+        <target state="translated">Naomi Determined</target>
       </trans-unit>
       <trans-unit id="765052" xml:space="preserve">
         <source>ナオミ笑い　ナシ</source>
@@ -1531,9 +1531,9 @@
         <source>ナオミ怒り　ナシ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="663588" xml:space="preserve">
+      <trans-unit id="663588" xml:space="preserve" approved="no">
         <source>ナオミ驚き</source>
-        <target/>
+        <target state="translated">Naomi Surprise</target>
       </trans-unit>
       <trans-unit id="765084" xml:space="preserve">
         <source>ナオミ失意　ナシ</source>
@@ -1915,9 +1915,9 @@
         <source>……誰も手を触れていない。|そして、このノートに再び|僕が手を触れたということは……</source>
         <target/>
       </trans-unit>
-      <trans-unit id="781092" xml:space="preserve">
+      <trans-unit id="781092" xml:space="preserve" approved="no">
         <source>はーっ、|やっと人間界に戻ってこれたぜ。</source>
-        <target/>
+        <target state="translated">Phew, I finally made it back to the Human World.</target>
       </trans-unit>
       <trans-unit id="770488" xml:space="preserve">
         <source>リューク。久しぶりだな。</source>
@@ -2281,7 +2281,7 @@
       </trans-unit>
       <trans-unit id="812924" xml:space="preserve" approved="no">
         <source>リューク。||\T0030\t0002月にしか見えないこの気まぐれな|死神は、月を尾行する者の姿を|見破っていた。</source>
-        <target state="translated">Ryuk.||\T0030\t0002This whimsical god of death, visible only to Light. Those would tailed Light would see right through him.</target>
+        <target state="translated">Ryuk. ||\T0030\t0002 The fickle Shinigami, visible only to Light, noticed someone tailing Light.</target>
       </trans-unit>
       <trans-unit id="784636" xml:space="preserve" approved="no">
         <source>僕に尾行がついている……？|確かか、リューク？</source>
@@ -2309,7 +2309,7 @@
       </trans-unit>
       <trans-unit id="849788" xml:space="preserve" approved="no">
         <source>レイ、ナオミという有能な捜査官を|失ったことはＦＢＩにとっても、|日本の捜査本部にも大きなダメージ|となった。||ＦＢＩは捜査官に犠牲者が|出ることを恐れ、キラ捜査の中止を|Ｌに宣言。</source>
-        <target state="translated">The loss of Rey and Naomi, two capable investigators, dealt a heavy blow to the FBI and the Japanese investigation team.||Fearing further casualties, the FBI announced to L that they would be pulling out of the Kira investigation.</target>
+        <target state="translated">The loss of Raye and Naomi, two capable investigators, dealt a heavy blow to the FBI and the Japanese investigation team.||Fearing further casualties, the FBI announced to L that they would be pulling out of the Kira investigation.</target>
       </trans-unit>
       <trans-unit id="844776" xml:space="preserve" approved="no">
         <source>ひそかにＬは、キラの正体を|捜査責任者、夜神総一郎の息子、|月ではないかと疑う。||証拠は何もない。|論理的には５％程度の可能性。||しかし、Ｌは自分の推理に|こだわった。</source>
@@ -2803,45 +2803,45 @@
         <source>フフフ…\t0030　\t0002僕の勝ちだ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="797988" xml:space="preserve">
+      <trans-unit id="797988" xml:space="preserve" approved="no">
         <source>は……初めまして、|弥海砂（あまね・みさ）です。|このノートを……</source>
-        <target/>
+        <target state="translated">Pl...Pleased to meet you. My Name is Misa Amane. This notebook …</target>
       </trans-unit>
-      <trans-unit id="772708" xml:space="preserve">
+      <trans-unit id="772708" xml:space="preserve" approved="no">
         <source>（！　デスノート……！？）</source>
-        <target/>
+        <target state="translated">(A Death Note?!)</target>
       </trans-unit>
-      <trans-unit id="794052" xml:space="preserve">
+      <trans-unit id="794052" xml:space="preserve" approved="no">
         <source>彼女の差し出したノートに触れると、|背後に立ちはだかる死神が見えた。</source>
-        <target/>
+        <target state="translated">Light touched the notebook Misa held out to him, and the Shinigami looming behind her became visible.</target>
       </trans-unit>
-      <trans-unit id="791084" xml:space="preserve">
+      <trans-unit id="791084" xml:space="preserve" approved="no">
         <source>（偽キラだ……！）&gt;&gt;……ここじゃ何だから……あがれよ。</source>
-        <target/>
+        <target state="translated">(She's the fake Kira ...!) &gt;&gt; Come on in.</target>
       </trans-unit>
       <trans-unit id="875500" xml:space="preserve">
         <source>突然、何の前触れもなしに|名乗り出てきた弥海砂。|彼女は、月に自分の身の上を|打ち明ける。||彼女は両親を強盗に殺されていた。|だが、キラが自分に代わって強盗に|制裁を加えてくれたのだ。|以来キラの崇拝者となり、さらに|偶然デスノートを手に入れたことで、|キラへの接近を試みたのだという。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="834224" xml:space="preserve">
+      <trans-unit id="834224" xml:space="preserve" approved="no">
         <source>あなたは死神と目の取引をして|ないんですね。&gt;&gt;だったら、私はあなたの目になる。|Ｌを倒す手助けをしてあげる。|だから……&gt;&gt;彼女にしてください！</source>
-        <target/>
+        <target state="translated">You haven't made the deal for the Shinigami eyes, have you? I'll become your eyes. I'll help you beat L. So ... please make me your girlfriend!</target>
       </trans-unit>
-      <trans-unit id="803220" xml:space="preserve">
+      <trans-unit id="803220" xml:space="preserve" approved="no">
         <source>そこまで僕のことを…わかった…|彼氏にはなれないが、|振りはしてあげられる。</source>
-        <target/>
+        <target state="translated">You'd go that far for me ... ? I understand ... I can't be your boyfriend, but I can pretend for you.</target>
       </trans-unit>
-      <trans-unit id="791324" xml:space="preserve">
+      <trans-unit id="791324" xml:space="preserve" approved="no">
         <source>ありがとう……|好きになってもらえるように、|がんばる！</source>
-        <target/>
+        <target state="translated">Thank you ... I'll do my best to get you to love me!</target>
       </trans-unit>
-      <trans-unit id="800768" xml:space="preserve">
+      <trans-unit id="800768" xml:space="preserve" approved="no">
         <source>（こいつにＬの顔を見せ、|Ｌの名前を知り、捜査本部|もろとも消す……）</source>
-        <target/>
+        <target state="translated">(I'll show her L's face, figure out his name, and wipe out the entire Investigation Unit ...)</target>
       </trans-unit>
-      <trans-unit id="773904" xml:space="preserve">
+      <trans-unit id="773904" xml:space="preserve" approved="no">
         <source>（こいつの処分は、その後だ）</source>
-        <target/>
+        <target state="translated">(I can figure out how to deal with her after that.)</target>
       </trans-unit>
       <trans-unit id="826176" xml:space="preserve">
         <source>だめだ……|どこにも奴の本名は見つからない。|周到に準備してやがったのか…&gt;&gt;後は、奴の顔を見て|直接本名を知る手段しか……</source>
@@ -2883,85 +2883,85 @@
         <source>皆さん、火口をこれ以上動かすのは|危険と考え、火口の確保に移ります。&gt;&gt;しかし、火口は第２のキラ同様|『顔だけで相手を|倒せるようになった』&gt;&gt;その考えの元での確保です。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="797004" xml:space="preserve">
+      <trans-unit id="797004" xml:space="preserve" approved="no">
         <source>おっと、そこで止まれ。|こっちの指示通り、|１人で来たようだな。</source>
-        <target/>
+        <target state="translated">Alright, stop right there. Looks like you came alone, just like we asked.</target>
       </trans-unit>
-      <trans-unit id="786580" xml:space="preserve">
+      <trans-unit id="786580" xml:space="preserve" approved="no">
         <source>！　おまえが粧裕をさらったのか？|粧裕はどこだ！</source>
-        <target/>
+        <target state="translated">Are you the one who took Sayu? Where is she?!</target>
       </trans-unit>
-      <trans-unit id="827080" xml:space="preserve">
+      <trans-unit id="827080" xml:space="preserve" approved="no">
         <source>心配するな、ここにいる。|デスノートと交換だ。&gt;&gt;断るなら２人ともここで|死んでもらうだけだ……&gt;&gt;逃げ道はない。わかってるな？</source>
-        <target/>
+        <target state="translated">Don't worry, she's right here. I'll trade her for the Death Note. If you refuse, you both die right here ... You've got no way out. Got it?</target>
       </trans-unit>
-      <trans-unit id="772552" xml:space="preserve">
+      <trans-unit id="772552" xml:space="preserve" approved="no">
         <source>…く…っ！……わかった……</source>
-        <target/>
+        <target state="translated">... Damn! ... I understand …</target>
       </trans-unit>
-      <trans-unit id="765276" xml:space="preserve">
+      <trans-unit id="765276" xml:space="preserve" approved="no">
         <source>父さん！</source>
-        <target/>
+        <target state="translated">Dad!</target>
       </trans-unit>
-      <trans-unit id="763388" xml:space="preserve">
+      <trans-unit id="763388" xml:space="preserve" approved="no">
         <source>粧裕！</source>
-        <target/>
+        <target state="translated">Sayu!</target>
       </trans-unit>
-      <trans-unit id="786652" xml:space="preserve">
+      <trans-unit id="786652" xml:space="preserve" approved="no">
         <source>たしかにデスノートは受け取った。|それじゃあな。</source>
-        <target/>
+        <target state="translated">Looks like you held up your end of the bargain. I'll be seeing you around.</target>
       </trans-unit>
-      <trans-unit id="767456" xml:space="preserve">
+      <trans-unit id="767456" xml:space="preserve" approved="no">
         <source>くっ、待てえっ！</source>
-        <target/>
+        <target state="translated">Damn it, stop!</target>
       </trans-unit>
-      <trans-unit id="774060" xml:space="preserve">
+      <trans-unit id="774060" xml:space="preserve" approved="no">
         <source>父さん？　無事か？　粧裕は？</source>
-        <target/>
+        <target state="translated">Dad? Are you okay? How's Sayu?</target>
       </trans-unit>
-      <trans-unit id="798540" xml:space="preserve">
+      <trans-unit id="798540" xml:space="preserve" approved="no">
         <source>『ああ、月……私たちは無事だ。|だが、犯人を取り逃がしてしまった』</source>
-        <target/>
+        <target state="translated">Yeah, Light ... We're fine. But I let the culprit get away.</target>
       </trans-unit>
       <trans-unit id="787988" xml:space="preserve">
         <source>わかった、父さん達は|そのまま犯人を追跡してくれ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="805788" xml:space="preserve">
+      <trans-unit id="805788" xml:space="preserve" approved="no">
         <source>Ｎ、人質は奪還しましたが|ノートを奪われました。|犯人追跡に協力をお願いします。</source>
-        <target/>
+        <target state="translated">N, we recovered the hostage but they got the Death Note. I need your help chasing down the culprit.</target>
       </trans-unit>
-      <trans-unit id="793128" xml:space="preserve">
+      <trans-unit id="793128" xml:space="preserve" approved="no">
         <source>『わかりました。こちらでも|衛星カメラで犯人を追跡します』</source>
-        <target/>
+        <target state="translated">Understood. We'll track him using satellite surveillance.</target>
       </trans-unit>
-      <trans-unit id="773592" xml:space="preserve">
+      <trans-unit id="773592" xml:space="preserve" approved="no">
         <source>（くそっ……逃がすものか！）</source>
-        <target/>
+        <target state="translated">(Damn it ... Like hell I'm letting him get away!)</target>
       </trans-unit>
       <trans-unit id="775524" xml:space="preserve">
         <source>||||||　　　　……勝った……</source>
         <target/>
       </trans-unit>
-      <trans-unit id="765816" xml:space="preserve">
+      <trans-unit id="765816" xml:space="preserve" approved="no">
         <source>うっ……！</source>
-        <target/>
+        <target state="translated">Ugh ... !</target>
       </trans-unit>
-      <trans-unit id="783872" xml:space="preserve">
+      <trans-unit id="783872" xml:space="preserve" approved="no">
         <source>火口？　どうした火口！|おい、しっかりしろ！</source>
-        <target/>
+        <target state="translated">Higuchi? What happened?! Hey, keep it together!</target>
       </trans-unit>
-      <trans-unit id="777148" xml:space="preserve">
+      <trans-unit id="777148" xml:space="preserve" approved="no">
         <source>Ｌ！　火口が！|火口、意識不明！</source>
-        <target/>
+        <target state="translated">L! It's Higuchi! He's unconscious!</target>
       </trans-unit>
       <trans-unit id="874896" xml:space="preserve">
         <source>ノートを照合する振りをして|Ｌの目をごまかし、|密かに隠し持ったノートの切れ端に|火口の名前を書き込む月。||捜査員全員の見ている前で、|火口はあわれにもデスノートの|犠牲となった。||そして、火口が倒れたことにより、|デスノートの所有者は、その瞬間に|ノートを保持していた当人に……</source>
         <target/>
       </trans-unit>
-      <trans-unit id="777204" xml:space="preserve">
+      <trans-unit id="777204" xml:space="preserve" approved="no">
         <source>||||||　　　　　\S12……計画通り。</source>
-        <target/>
+        <target state="translated">||||||　　　　　\S12 ... All according to plan.</target>
       </trans-unit>
       <trans-unit id="798264" xml:space="preserve">
         <source>すべての記憶を蘇らせた今、|月は自分の理想の世界への野望を|新たに燃やす。</source>
@@ -3093,7 +3093,7 @@
       </trans-unit>
       <trans-unit id="780580" xml:space="preserve" approved="no">
         <source>人間界にもう１匹の死神が|舞い降りた……</source>
-        <target state="translated">Another shinigami has descended to the human world…</target>
+        <target state="translated">Another shinigami has descended to the Human World…</target>
       </trans-unit>
       <trans-unit id="799460" xml:space="preserve" approved="no">
         <source>それはもう１冊のデスノートが、|キラに賛同する人間の手に|あるということだ。</source>
@@ -4407,41 +4407,41 @@
         <source>やはり…\t0030|\t0002私は間違っていなかった。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="770392" xml:space="preserve">
+      <trans-unit id="770392" xml:space="preserve" approved="no">
         <source>Ｌ、火口を確保しました。</source>
-        <target/>
+        <target state="translated">L, we've apprehended Higuchi.</target>
       </trans-unit>
       <trans-unit id="808788" xml:space="preserve">
         <source>火口、どうやって裁きをしてきた？&gt;&gt;キラとして|どうやって人を裁いてきた？|言うんだ！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="768700" xml:space="preserve">
+      <trans-unit id="768700" xml:space="preserve" approved="no">
         <source>『……ノートだ……』</source>
-        <target/>
+        <target state="translated">... The notebook ...</target>
       </trans-unit>
-      <trans-unit id="765404" xml:space="preserve">
+      <trans-unit id="765404" xml:space="preserve" approved="no">
         <source>ノート？</source>
-        <target/>
+        <target state="translated">Notebook?</target>
       </trans-unit>
-      <trans-unit id="813164" xml:space="preserve">
+      <trans-unit id="813164" xml:space="preserve" approved="no">
         <source>『信じられないだろうが、|顔を知っている人間の名前を書くと、|書かれた人間が倒れるノートだ…』</source>
-        <target/>
+        <target state="translated">There's no way you'd believe me, but if you write the name of someone whose face you know in that notebook, they'll die ...</target>
       </trans-unit>
-      <trans-unit id="798172" xml:space="preserve">
+      <trans-unit id="798172" xml:space="preserve" approved="no">
         <source>……これか……|Ｌ、ノートはあったが、|格別変わったノートでは……</source>
-        <target/>
+        <target state="translated">... This thing? ...L, I found a notebook, but it doesn't look like…</target>
       </trans-unit>
-      <trans-unit id="771256" xml:space="preserve">
+      <trans-unit id="771256" xml:space="preserve" approved="no">
         <source>！！……うわあああっ！！</source>
-        <target/>
+        <target state="translated">... Uwaaaa!!</target>
       </trans-unit>
-      <trans-unit id="772032" xml:space="preserve">
+      <trans-unit id="772032" xml:space="preserve" approved="no">
         <source>『どうしました、夜神さん』</source>
-        <target/>
+        <target state="translated">Yagami, what is it?</target>
       </trans-unit>
-      <trans-unit id="768128" xml:space="preserve">
+      <trans-unit id="768128" xml:space="preserve" approved="no">
         <source>ば……化物……！！</source>
-        <target/>
+        <target state="translated">A ... a monster!!</target>
       </trans-unit>
       <trans-unit id="836116" xml:space="preserve">
         <source>デスノートをさわった者には、|そのノートに憑いている死神が|見えるのだ。||ノートにさわった捜査員たちも、|レムの姿をそこに確認して|パニックに陥っていく。</source>
@@ -6207,9 +6207,9 @@
         <source>カメラ修復も一苦労だ。|だが、放置するわけにも|いかないな。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="596045" xml:space="preserve">
+      <trans-unit id="596045" xml:space="preserve" approved="no">
         <source>よし。こちらレイだ。|この周辺のカメラはすべて|修復完了した。</source>
-        <target/>
+        <target state="translated">Alright. This is Raye. I've finished repairing all the cameras in this area.</target>
       </trans-unit>
       <trans-unit id="609113" xml:space="preserve">
         <source>この周辺のカメラは修復した。|他には壊されたカメラは|ないだろうな？</source>
@@ -6247,9 +6247,9 @@
         <source>通信が切断されました。|タイトルに戻ります。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="540672" xml:space="preserve">
+      <trans-unit id="540672" xml:space="preserve" approved="no">
         <source>プレイヤー側のリーダーを|選択してください。</source>
-        <target/>
+        <target state="translated">Please select the leader for the Player's side.</target>
       </trans-unit>
       <trans-unit id="549888" xml:space="preserve">
         <source>プレイヤー側のパートナーを|選択してください。</source>
@@ -7319,13 +7319,13 @@
         <source>チェックポイント到達！|キラ側の勝利！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="513080" xml:space="preserve">
+      <trans-unit id="513080" xml:space="preserve" approved="no">
         <source>もう一度同じ設定で|プレイしますか？</source>
-        <target/>
+        <target state="translated">Play again with the same settings?</target>
       </trans-unit>
-      <trans-unit id="592972" xml:space="preserve">
+      <trans-unit id="592972" xml:space="preserve" approved="no">
         <source>もう一度同じ設定で|プレイしますか？|（ホストが選択中です。）</source>
-        <target/>
+        <target state="translated">Play again with the same settings? (Host is choosing.)</target>
       </trans-unit>
       <trans-unit id="525580" xml:space="preserve">
         <source>特殊能力を使用します。|よろしいですか？</source>
@@ -11991,9 +11991,9 @@
         <source>隠しカメラの効果は|僕もよく知っている。|うまくいくといいが…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="553825" xml:space="preserve">
+      <trans-unit id="553825" xml:space="preserve" approved="no">
         <source>この裏路地を敵は知らない。|うまく行くはずだ。</source>
-        <target/>
+        <target state="translated">The enemy doesn't know about this back alley. I'm sure it'll work.</target>
       </trans-unit>
       <trans-unit id="522081" xml:space="preserve">
         <source>これで奴等の裏を|かけるかもしれない。</source>
@@ -12423,9 +12423,9 @@
         <source>夜神だ。|隠しカメラを回収した。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="495869" xml:space="preserve">
+      <trans-unit id="495869" xml:space="preserve" approved="no">
         <source>カメラ回収完了した。</source>
-        <target/>
+        <target state="translated">I've finished retrieving this camera.</target>
       </trans-unit>
       <trans-unit id="495629" xml:space="preserve">
         <source>カメラを回収したぞ。</source>
@@ -12599,9 +12599,9 @@
         <source>隠しカメラか…|うまくいきますかね。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="571529" xml:space="preserve">
+      <trans-unit id="571529" xml:space="preserve" approved="no">
         <source>この裏路地なら、|敵に気づかれる事も|ありませんね。</source>
-        <target/>
+        <target state="translated">There's no way the enemy will notice me if I use this back alley.</target>
       </trans-unit>
       <trans-unit id="532313" xml:space="preserve">
         <source>これで容疑者の|裏をかけるといいけどな。</source>
@@ -12999,9 +12999,9 @@
         <source>隠しカメラか…|わかった。すぐにやろう。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="528529" xml:space="preserve">
+      <trans-unit id="528529" xml:space="preserve" approved="no">
         <source>この裏路地の事は|奴等も知らないはずだ。</source>
-        <target/>
+        <target state="translated">There's no way they know about this back alley.</target>
       </trans-unit>
       <trans-unit id="588149" xml:space="preserve">
         <source>裏路地なら一般道より安全だ。|敵の裏をかくにはいい手だな。</source>
@@ -13691,9 +13691,9 @@
         <source>なんて事！　こんな所で…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="520561" xml:space="preserve">
+      <trans-unit id="520561" xml:space="preserve" approved="no">
         <source>キラを発見。|間違いないと思われます。</source>
-        <target/>
+        <target state="translated">Kira spotted. I'm certain it's them.</target>
       </trans-unit>
       <trans-unit id="535569" xml:space="preserve">
         <source>あの人物もキラなの？|どう対処するべきか…</source>
@@ -13783,9 +13783,9 @@
         <source>日本人は隠しカメラを|あまり使わないようね。|効果は大きいのに。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="539969" xml:space="preserve">
+      <trans-unit id="539969" xml:space="preserve" approved="no">
         <source>この裏路地なら|キラも知らないでしょうね。</source>
-        <target/>
+        <target state="translated">I doubt Kira knows about this back alley.</target>
       </trans-unit>
       <trans-unit id="520641" xml:space="preserve" approved="no">
         <source>これでキラの裏をかける|かもしれない。</source>
@@ -13803,9 +13803,9 @@
         <source>もしかすると彼等の狙いは…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="524241" xml:space="preserve">
+      <trans-unit id="524241" xml:space="preserve" approved="no">
         <source>いやな予感がするわね。|このままじゃ…</source>
-        <target/>
+        <target state="translated">I'm getting a bad feeling about this. At this rate …</target>
       </trans-unit>
       <trans-unit id="500897" xml:space="preserve">
         <source>こちらハル。回収完了です。</source>
@@ -13831,9 +13831,9 @@
         <source>広範囲をカバーするには|高速バスは好都合だ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="594445" xml:space="preserve">
+      <trans-unit id="594445" xml:space="preserve" approved="no">
         <source>こちらレイ。|これより高速バスで移動する。|フォローを頼むぞ。</source>
-        <target/>
+        <target state="translated">This is Raye. I'm about to move via the express bus. Back me up.</target>
       </trans-unit>
       <trans-unit id="614241" xml:space="preserve">
         <source>これよりバス移動を開始する。|大丈夫だ。トラップには十分|警戒している。</source>
@@ -13843,9 +13843,9 @@
         <source>我々の予測通りなら、|これで先回りして|キラを押さえられるだろう。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="585749" xml:space="preserve">
+      <trans-unit id="585749" xml:space="preserve" approved="no">
         <source>こちらレイ。|水上バスで移動を開始する。|地上は任せたぞ。</source>
-        <target/>
+        <target state="translated">This is Raye. I'm about to move via water-bus. I'm leaving the ground to you.</target>
       </trans-unit>
       <trans-unit id="614317" xml:space="preserve">
         <source>これより水上バスで追跡する。|大丈夫だ。トラップには十分|警戒している。</source>
@@ -13899,9 +13899,9 @@
         <source>ヒットだ。|キラの情報が入ったぞ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="516081" xml:space="preserve">
+      <trans-unit id="516081" xml:space="preserve" approved="no">
         <source>こちらレイ。|容疑者は発見できない。</source>
-        <target/>
+        <target state="translated">This is Raye. I can't find the suspect.</target>
       </trans-unit>
       <trans-unit id="514361" xml:space="preserve">
         <source>失敗だったか。|この辺じゃないのか。</source>
@@ -13935,9 +13935,9 @@
         <source>映像からは怪しい人物は|発見できない。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="510257" xml:space="preserve">
+      <trans-unit id="510257" xml:space="preserve" approved="no">
         <source>こちらレイだ。|カメラを修復完了。</source>
-        <target/>
+        <target state="translated">This is Raye. I've finished repairing the camera.</target>
       </trans-unit>
       <trans-unit id="535657" xml:space="preserve">
         <source>くそっ…よけいな手間を|かけさせる奴等だ。</source>
@@ -13947,9 +13947,9 @@
         <source>なぜカメラを破壊したんだ？|単に邪魔だったからか？|それとも…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="535393" xml:space="preserve">
+      <trans-unit id="535393" xml:space="preserve" approved="no">
         <source>こちらレイだ。|周辺一帯の封鎖を完了した。</source>
-        <target/>
+        <target state="translated">This is Raye. I've finished locking down this area.</target>
       </trans-unit>
       <trans-unit id="573881" xml:space="preserve">
         <source>検問で奴等を囲い込めば|間違いなく捜査は有利になる。</source>
@@ -13979,9 +13979,9 @@
         <source>隠しカメラの効果は大きい。|期待してみよう。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="535481" xml:space="preserve">
+      <trans-unit id="535481" xml:space="preserve" approved="no">
         <source>この裏路地の事は|キラ達も知らないはずだ。</source>
-        <target/>
+        <target state="translated">There's no way Kira's people know about this back alley.</target>
       </trans-unit>
       <trans-unit id="560265" xml:space="preserve">
         <source>裏路地なら一般道より安全に|先回りできるだろう。</source>
@@ -14007,9 +14007,9 @@
         <source>隠しカメラは回収したぞ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="499421" xml:space="preserve">
+      <trans-unit id="499421" xml:space="preserve" approved="no">
         <source>こちらレイ。カメラ回収。</source>
-        <target/>
+        <target state="translated">This is Raye. I'm retrieving a camera.</target>
       </trans-unit>
       <trans-unit id="497545" xml:space="preserve">
         <source>隠しカメラ、回収完了。</source>
@@ -14031,9 +14031,9 @@
         <source>バスは高速で移動できる。|これなら広範囲をカバー|できるわ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="535525" xml:space="preserve">
+      <trans-unit id="535525" xml:space="preserve" approved="no">
         <source>こちらナオミ。|高速バスで敵を追跡します。</source>
-        <target/>
+        <target state="translated">This is Naomi. I'm following the enemy using the express bus.</target>
       </trans-unit>
       <trans-unit id="588089" xml:space="preserve">
         <source>バスも到着直後が一番危険ね。|トラップには注意しなければ。</source>
@@ -14043,9 +14043,9 @@
         <source>こちらの予測が正しければ、|これでキラ達より速く|移動できるはず。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="527253" xml:space="preserve">
+      <trans-unit id="527253" xml:space="preserve" approved="no">
         <source>こちらナオミ。|水上バスで敵を追います。</source>
-        <target/>
+        <target state="translated">This is Naomi. I'm going to follow the enemy via water-bus.</target>
       </trans-unit>
       <trans-unit id="594573" xml:space="preserve">
         <source>私達が勝つためには、|どうしてもキラ達の|先手を取らなければ…</source>
@@ -14059,13 +14059,13 @@
         <source>大切なのは|敵より一歩早く動く事よ。|ヘリ移動の効果は大きいわ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="543505" xml:space="preserve">
+      <trans-unit id="543505" xml:space="preserve" approved="no">
         <source>こちらナオミ。|これよりヘリで敵を追います。</source>
-        <target/>
+        <target state="translated">This is Naomi. I'm going to follow the enemy via helicopter.</target>
       </trans-unit>
-      <trans-unit id="520481" xml:space="preserve">
+      <trans-unit id="520481" xml:space="preserve" approved="no">
         <source>こちらナオミ。|容疑者を確保しました。</source>
-        <target/>
+        <target state="translated">This is Naomi. I have apprehended the suspect.</target>
       </trans-unit>
       <trans-unit id="510941" xml:space="preserve">
         <source>犯人を逮捕。|すぐに連行しますか？</source>
@@ -14103,9 +14103,9 @@
         <source>これでもうキラ達には|逃げ場がないわ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="581249" xml:space="preserve">
+      <trans-unit id="581249" xml:space="preserve" approved="no">
         <source>こちらナオミ。|検問を設置しました。|捜査を続行します。</source>
-        <target/>
+        <target state="translated">This is Naomi. I have installed an inspection point. I'm going to continue investigating.</target>
       </trans-unit>
       <trans-unit id="603217" xml:space="preserve">
         <source>検問を使えば、あるいは|キラ達をこちらの捜査網に|誘導できるかも。</source>
@@ -14131,9 +14131,9 @@
         <source>日本では違法になるけれど|隠しカメラは効果が大きいわ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="543793" xml:space="preserve">
+      <trans-unit id="543793" xml:space="preserve" approved="no">
         <source>この裏路地なら|表通りよりも安全でしょうね。</source>
-        <target/>
+        <target state="translated">This back alley should be safer than the main street.</target>
       </trans-unit>
       <trans-unit id="586049" xml:space="preserve">
         <source>裏路地を使えば先回りして|キラをキャッチする事も|可能ね。</source>
@@ -14155,9 +14155,9 @@
         <source>隠しカメラを回収しました。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="510077" xml:space="preserve">
+      <trans-unit id="510077" xml:space="preserve" approved="no">
         <source>こちらナオミ。|隠しカメラを回収。</source>
-        <target/>
+        <target state="translated">This is Naomi. I'm retrieving a hidden camera.</target>
       </trans-unit>
       <trans-unit id="508601" xml:space="preserve">
         <source>回収完了。|次の指示を待ちます。</source>
@@ -14319,9 +14319,9 @@
         <source>了解しました。|隠しカメラ設置を手配します。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="527869" xml:space="preserve">
+      <trans-unit id="527869" xml:space="preserve" approved="no">
         <source>この裏路地は|犯人も知らないはずですね。</source>
-        <target/>
+        <target state="translated">There's no way the criminal knows about this back alley.</target>
       </trans-unit>
       <trans-unit id="517241" xml:space="preserve">
         <source>了解です。|裏路地から回り込みます。</source>
@@ -14347,9 +14347,9 @@
         <source>隠しカメラを回収した。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="496277" xml:space="preserve">
+      <trans-unit id="496277" xml:space="preserve" approved="no">
         <source>カメラ回収完了です。</source>
-        <target/>
+        <target state="translated">I have finished retrieving a camera.</target>
       </trans-unit>
       <trans-unit id="494297" xml:space="preserve">
         <source>回収しました。</source>
@@ -15863,17 +15863,17 @@
         <source>検問で周辺を封鎖した。|これでキラを一気に逮捕…と|いきたいところだな。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="530421" xml:space="preserve">
+      <trans-unit id="530421" xml:space="preserve" approved="no">
         <source>この裏路地の事は|キラも知らないはずだ。</source>
-        <target/>
+        <target state="translated">There's no way Kira knows about this back alley.</target>
       </trans-unit>
-      <trans-unit id="508745" xml:space="preserve">
+      <trans-unit id="508745" xml:space="preserve" approved="no">
         <source>キラを発見！|間違いありません。</source>
-        <target/>
+        <target state="translated">Kira spotted! I'm certain of it.</target>
       </trans-unit>
-      <trans-unit id="495917" xml:space="preserve">
+      <trans-unit id="495917" xml:space="preserve" approved="no">
         <source>キラを発見しました。</source>
-        <target/>
+        <target state="translated">I have spotted Kira.</target>
       </trans-unit>
       <trans-unit id="496873" xml:space="preserve">
         <source>キラはどこにいるんだ…</source>
@@ -16135,9 +16135,9 @@
         <source>隠しカメラは効果が大きい。|期待しよう。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="531037" xml:space="preserve">
+      <trans-unit id="531037" xml:space="preserve" approved="no">
         <source>この裏路地の事は|奴等も知らないはずだ。</source>
-        <target/>
+        <target state="translated">There's no way they know about this back alley.</target>
       </trans-unit>
       <trans-unit id="588629" xml:space="preserve">
         <source>裏路地なら一般道より安全だ。|敵の裏をかくにはいい手だな。</source>
@@ -16587,9 +16587,9 @@
         <source>了解しました。|さっそく隠しカメラを|設置します。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="556657" xml:space="preserve">
+      <trans-unit id="556657" xml:space="preserve" approved="no">
         <source>この裏路地の事は|敵も予想してないと思います。</source>
-        <target/>
+        <target state="translated">I doubt the enemy is expecting me to use this back alley.</target>
       </trans-unit>
       <trans-unit id="524001" xml:space="preserve">
         <source>了解、先回りして不審者を|追跡します。</source>
@@ -16703,9 +16703,9 @@
         <source>検問は失敗でした。|それらしい不審人物は|引っかかりません。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="532841" xml:space="preserve">
+      <trans-unit id="532841" xml:space="preserve" approved="no">
         <source>この裏路地は|あまり知られていませんね。</source>
-        <target/>
+        <target state="translated">Nobody knows about this back alley.</target>
       </trans-unit>
       <trans-unit id="495029" xml:space="preserve">
         <source>容疑者を見つけた！</source>
@@ -16895,9 +16895,9 @@
         <source>レッド</source>
         <target state="translated">Red</target>
       </trans-unit>
-      <trans-unit id="657824" xml:space="preserve">
+      <trans-unit id="657824" xml:space="preserve" approved="no">
         <source>捜査員</source>
-        <target/>
+        <target state="translated">Investigator</target>
       </trans-unit>
       <trans-unit id="657584" xml:space="preserve" approved="no">
         <source>シドウ</source>
@@ -16963,17 +16963,17 @@
         <source>ギャング</source>
         <target/>
       </trans-unit>
-      <trans-unit id="657856" xml:space="preserve">
+      <trans-unit id="657856" xml:space="preserve" approved="no">
         <source>キラ信者</source>
-        <target/>
+        <target state="translated">Kira Follower</target>
       </trans-unit>
       <trans-unit id="657488" xml:space="preserve" approved="no">
         <source>ジェバンニ</source>
         <target state="translated">Gevanni</target>
       </trans-unit>
-      <trans-unit id="494376" xml:space="preserve">
+      <trans-unit id="494376" xml:space="preserve" approved="no">
         <source>すくりぷとてすと|</source>
-        <target/>
+        <target state="translated">Script Test</target>
       </trans-unit>
       <trans-unit id="498106" xml:space="preserve">
         <source>からのメッセージです。|</source>
@@ -17047,9 +17047,9 @@
         <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント６ヶ所到達及び|　　　　捜査員を過半数リタイアで勝利。|Ｔ勝敗：規定ターン経過でキラ側勝利。|</source>
         <target/>
       </trans-unit>
-      <trans-unit id="657872" xml:space="preserve">
+      <trans-unit id="657872" xml:space="preserve" approved="no">
         <source>竜崎</source>
-        <target/>
+        <target state="translated">Ryuzaki</target>
       </trans-unit>
       <trans-unit id="657904" xml:space="preserve">
         <source>キラ</source>
