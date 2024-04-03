@@ -123,9 +123,9 @@
         <source>リューク笑い</source>
         <target/>
       </trans-unit>
-      <trans-unit id="662632" xml:space="preserve">
+      <trans-unit id="662632" xml:space="preserve" approved="no">
         <source>レム普通</source>
-        <target/>
+        <target state="translated">Rem Normal</target>
       </trans-unit>
       <trans-unit id="662296" xml:space="preserve">
         <source>レム笑い</source>
@@ -675,73 +675,73 @@
         <source>捜査は時間との勝負です。|効率的な捜査を行えるように、&gt;&gt;捜査とコマンドの特徴を|よく覚えておいてください。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="780836" xml:space="preserve">
+      <trans-unit id="780836" xml:space="preserve" approved="no">
         <source>夜神次長、人質はまだ|見つかりませんか？</source>
-        <target/>
+        <target state="translated">Deputy Director, has the hostage been located?</target>
       </trans-unit>
-      <trans-unit id="778020" xml:space="preserve">
+      <trans-unit id="778020" xml:space="preserve" approved="no">
         <source>まだだ。|粧裕、一体どこにいる！？</source>
-        <target/>
+        <target state="translated">Not yet. Sayu, where the hell are you?!</target>
       </trans-unit>
-      <trans-unit id="772916" xml:space="preserve">
+      <trans-unit id="772916" xml:space="preserve" approved="no">
         <source>火口の確保は、まだですか？</source>
-        <target/>
+        <target state="translated">Has Higuchi been apprehended yet?</target>
       </trans-unit>
-      <trans-unit id="777428" xml:space="preserve">
+      <trans-unit id="777428" xml:space="preserve" approved="no">
         <source>ダメだ！|まだキャッチできない！</source>
-        <target/>
+        <target state="translated">It's no use, I still haven't caught him!</target>
       </trans-unit>
-      <trans-unit id="781988" xml:space="preserve">
+      <trans-unit id="781988" xml:space="preserve" approved="no">
         <source>まずいですね、|このままだと松田さんが…</source>
-        <target/>
+        <target state="translated">This is bad. At this rate, Matsuda will be …</target>
       </trans-unit>
-      <trans-unit id="772968" xml:space="preserve">
+      <trans-unit id="772968" xml:space="preserve" approved="no">
         <source>火口の確保は、まだですか？</source>
-        <target/>
+        <target state="translated">Has Higuchi been apprehended yet?</target>
       </trans-unit>
-      <trans-unit id="785356" xml:space="preserve">
+      <trans-unit id="785356" xml:space="preserve" approved="no">
         <source>申し訳ありませんが、|いまだに発見できません。</source>
-        <target/>
+        <target state="translated">I'm sorry, I still can't find him.</target>
       </trans-unit>
-      <trans-unit id="782052" xml:space="preserve">
+      <trans-unit id="782052" xml:space="preserve" approved="no">
         <source>まずいですね、|このままだと松田さんが…</source>
-        <target/>
+        <target state="translated">This is bad. At this rate, Matsuda will be …</target>
       </trans-unit>
-      <trans-unit id="773020" xml:space="preserve">
+      <trans-unit id="773020" xml:space="preserve" approved="no">
         <source>火口の確保は、まだですか？</source>
-        <target/>
+        <target state="translated">Has Higuchi been apprehended yet?</target>
       </trans-unit>
       <trans-unit id="785428" xml:space="preserve">
         <source>ダメだ。発見できん。|全力で追跡してるんだが…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="780452" xml:space="preserve">
+      <trans-unit id="780452" xml:space="preserve" approved="no">
         <source>まずいですね、|このままだと松田さんが…</source>
-        <target/>
+        <target state="translated">This is bad. At this rate, Matsuda will be …</target>
       </trans-unit>
-      <trans-unit id="773072" xml:space="preserve">
+      <trans-unit id="773072" xml:space="preserve" approved="no">
         <source>火口の確保は、まだですか？</source>
-        <target/>
+        <target state="translated">Has Higuchi been apprehended yet?</target>
       </trans-unit>
       <trans-unit id="784212" xml:space="preserve">
         <source>全力で追跡中だ。|しかし、まだ発見する事が…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="782116" xml:space="preserve">
+      <trans-unit id="782116" xml:space="preserve" approved="no">
         <source>まずいですね、|このままだと松田さんが…</source>
-        <target/>
+        <target state="translated">This is bad. At this rate, Matsuda will be …</target>
       </trans-unit>
-      <trans-unit id="772864" xml:space="preserve">
+      <trans-unit id="772864" xml:space="preserve" approved="no">
         <source>火口の確保は、まだですか？</source>
-        <target/>
+        <target state="translated">Has Higuchi been apprehended yet?</target>
       </trans-unit>
       <trans-unit id="785500" xml:space="preserve">
         <source>全力で追跡中です。|しかし、どこに隠れたのか…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="782180" xml:space="preserve">
+      <trans-unit id="782180" xml:space="preserve" approved="no">
         <source>まずいですね、|このままだと松田さんが…</source>
-        <target/>
+        <target state="translated">This is bad. At this rate, Matsuda will be …</target>
       </trans-unit>
       <trans-unit id="772448" xml:space="preserve" approved="no">
         <source>||||||　　　　　「キラ」とは</source>
@@ -1035,29 +1035,29 @@
         <source>ミサ失意</source>
         <target/>
       </trans-unit>
-      <trans-unit id="662968" xml:space="preserve">
+      <trans-unit id="662968" xml:space="preserve" approved="no">
         <source>火口普通</source>
-        <target/>
+        <target state="translated">Higuchi Normal</target>
       </trans-unit>
-      <trans-unit id="663448" xml:space="preserve">
+      <trans-unit id="663448" xml:space="preserve" approved="no">
         <source>火口ピンチ</source>
-        <target/>
+        <target state="translated">Higuchi Danger</target>
       </trans-unit>
-      <trans-unit id="763516" xml:space="preserve">
+      <trans-unit id="763516" xml:space="preserve" approved="no">
         <source>火口決意　ナシ</source>
-        <target/>
+        <target state="translated">Higuchi Determined N/A</target>
       </trans-unit>
       <trans-unit id="763548" xml:space="preserve">
         <source>火口笑い　ナシ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="662752" xml:space="preserve">
+      <trans-unit id="662752" xml:space="preserve" approved="no">
         <source>火口怒り</source>
-        <target/>
+        <target state="translated">Higuchi Angry</target>
       </trans-unit>
-      <trans-unit id="662056" xml:space="preserve">
+      <trans-unit id="662056" xml:space="preserve" approved="no">
         <source>火口驚き</source>
-        <target/>
+        <target state="translated">Higuchi Surprised</target>
       </trans-unit>
       <trans-unit id="662416" xml:space="preserve">
         <source>火口失意</source>
@@ -2687,121 +2687,121 @@
         <source>（この状況をどう見るか…|…単に使えない死神なのか…|それとも何かフェイクが…？…）</source>
         <target/>
       </trans-unit>
-      <trans-unit id="770632" xml:space="preserve">
+      <trans-unit id="770632" xml:space="preserve" approved="no">
         <source>||||||　　　　　　特殊移動</source>
-        <target/>
+        <target state="translated">||||||　　　　　　 Special Movement</target>
       </trans-unit>
-      <trans-unit id="850992" xml:space="preserve">
+      <trans-unit id="850992" xml:space="preserve" approved="no">
         <source>マップ上には、通常の移動|よりも優れた移動の方法が|あります。&gt;&gt;\c04『地下鉄』『水上バス』|『高速バス』『ヘリ』\c02など&gt;&gt;これらの移動方法を|\c04『特殊移動』\c02と呼びます。</source>
-        <target/>
+        <target state="translated">On the map, there are ways to move around that are superior to your regular means of movement. &gt;&gt;\c04 These methods are referred to as \c04Special Movement\c02, and include the subway, water-buses, express buses, and helicopters.</target>
       </trans-unit>
-      <trans-unit id="800480" xml:space="preserve">
+      <trans-unit id="800480" xml:space="preserve" approved="no">
         <source>特殊移動を行うには、|特殊移動の\c04ターミナル\c02に|移動する必要があります。</source>
-        <target/>
+        <target state="translated">In order to perform Special Movement, you must move to a Special Movement \c04Terminal\c02.</target>
       </trans-unit>
-      <trans-unit id="822876" xml:space="preserve">
+      <trans-unit id="822876" xml:space="preserve" approved="no">
         <source>\c04ターミナル\c02に入ったら、|\c04移動先\c02を選択します。&gt;&gt;\c04ラインで繋がったターミナル\c02|をタッチしてください。</source>
-        <target/>
+        <target state="translated">Once you've reached the \c04Terminal\c02, you select your destination. This is done by tapping another \c04Terminal connected by a line\c02.</target>
       </trans-unit>
-      <trans-unit id="788748" xml:space="preserve">
+      <trans-unit id="788748" xml:space="preserve" approved="no">
         <source>移動を行う場合は|\c04『ＹＥＳ』\c02をタッチして|ください。</source>
-        <target/>
+        <target state="translated">To confirm the movement, tap \c04YES\c02.</target>
       </trans-unit>
-      <trans-unit id="787456" xml:space="preserve">
+      <trans-unit id="787456" xml:space="preserve" approved="no">
         <source>特殊移動を実行すると、|移動先のターミナルから|現れます。</source>
-        <target/>
+        <target state="translated">Once you've completed the Special Movement, you will arrive at your destination terminal.</target>
       </trans-unit>
-      <trans-unit id="815212" xml:space="preserve">
+      <trans-unit id="815212" xml:space="preserve" approved="no">
         <source>特殊移動は、大変有効な|移動手段です。&gt;&gt;キラメンバーを追い詰めるのに|利用しない手はありません。</source>
-        <target/>
+        <target state="translated">Special Movement is an extremely effective means of moving around. &gt;&gt; It will be an indispensable tool when trying to corner Kira's allies.</target>
       </trans-unit>
-      <trans-unit id="835600" xml:space="preserve">
+      <trans-unit id="835600" xml:space="preserve" approved="no">
         <source>ただし、特殊移動には|\c04『特殊移動ポイント』\c02が必要です。&gt;&gt;序盤から特殊移動を多用すると|いざというときにポイントが|不足するかもしれません。</source>
-        <target/>
+        <target state="translated">However, Special Movement requires \c04Special Movement Points\c02. If you overuse Special Movement from the very start of a match, you may find yourself short on points when you really need them.</target>
       </trans-unit>
-      <trans-unit id="837864" xml:space="preserve">
+      <trans-unit id="837864" xml:space="preserve" approved="no">
         <source>また、特殊移動ポイントは|\c04ステータス画面\c02から|確認することができます。&gt;&gt;残りのポイントを確認して|使い所をよく考えてから|指示を出してください。</source>
-        <target/>
+        <target state="translated">You can check the remaining number of Special Movement Points from the \c04Status Screen\c02. &gt;&gt;Check how many points you have left and think carefully about how to use them before giving an order.</target>
       </trans-unit>
       <trans-unit id="777036" xml:space="preserve">
         <source>やりましたね。|我々の勝ちです。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="810592" xml:space="preserve">
+      <trans-unit id="810592" xml:space="preserve" approved="no">
         <source>……では、あなたがキラである|という疑いをかけられ、Ｌに拘束|されたというのは本当ですか？</source>
-        <target/>
+        <target state="translated">... So, is it true that you were detained by L under suspicion of being Kira?</target>
       </trans-unit>
-      <trans-unit id="777092" xml:space="preserve">
+      <trans-unit id="777092" xml:space="preserve" approved="no">
         <source>……そ……そんなこと、誰に……？</source>
-        <target/>
+        <target state="translated">... Who ... Who told you that ... ?</target>
       </trans-unit>
-      <trans-unit id="820700" xml:space="preserve">
+      <trans-unit id="820700" xml:space="preserve" approved="no">
         <source>あなたをヨツバの|イメージキャラクターに|採用するにあたり&gt;&gt;キラであるという噂が|残っていては困るのです。</source>
-        <target/>
+        <target state="translated">Before hiring you as Yotsuba Corporation's new mascot, &gt;&gt; we need to dispel any rumors that you might be Kira.</target>
       </trans-unit>
-      <trans-unit id="784924" xml:space="preserve">
+      <trans-unit id="784924" xml:space="preserve" approved="no">
         <source>……わ……わかりました、|全てお話しします……</source>
-        <target/>
+        <target state="translated">... I ... I understand. I'll tell you everything …</target>
       </trans-unit>
-      <trans-unit id="834396" xml:space="preserve">
+      <trans-unit id="834396" xml:space="preserve" approved="no">
         <source>ヨツバの８人と対峙するミサ……||実は、これはすべて|Ｌの計略であった。||月たち捜査員の活躍で、８人のうち|火口がキラだということは|ほぼメドがついた。</source>
-        <target/>
+        <target state="translated">Misa found herself face to face with the 8 Yotsuba Group members ... || However, this was all part of L's strategy. || Light and the Investigation Units efforts had all but proven that Higuchi was Kira.</target>
       </trans-unit>
-      <trans-unit id="823156" xml:space="preserve">
+      <trans-unit id="823156" xml:space="preserve" approved="no">
         <source>一方Ｌも、ミサをヨツバ社内に|送り込み、極秘に情報を探らせて|いたのだ。||火口＝キラ説の最後の裏づけを|取るためである。</source>
-        <target/>
+        <target state="translated">Meanwhile, L had sent Misa into the Yotsuba Corporation in order to gather intel in secret. He wanted to find final, definitive proof that Higuchi was Kira.</target>
       </trans-unit>
-      <trans-unit id="783736" xml:space="preserve">
+      <trans-unit id="783736" xml:space="preserve" approved="no">
         <source>ライトー、これ聞いて！|こっそり録音したの。</source>
-        <target/>
+        <target state="translated">Light, listen to this! I recorded it in secret.</target>
       </trans-unit>
-      <trans-unit id="828320" xml:space="preserve">
+      <trans-unit id="828320" xml:space="preserve" approved="no">
         <source>『俺はキラだ。|ミサちゃんに信用してもらうために、|今から犯罪者裁きを止める』&gt;&gt;『そして、俺がキラだと|わかってもらえたら結婚だ』</source>
-        <target/>
+        <target state="translated">I'm Kira. If it gets you to believe me, I'll stop punishing criminals from now on. &gt;&gt; Then, once you believe that I'm Kira, we're getting married.</target>
       </trans-unit>
-      <trans-unit id="794220" xml:space="preserve">
+      <trans-unit id="794220" xml:space="preserve" approved="no">
         <source>火口の声……！|ミサ、これをどうやって火口に|言わせたんだ？</source>
-        <target/>
+        <target state="translated">That's Higuchi's voice ... ! Misa, how did you get him to confess?</target>
       </trans-unit>
-      <trans-unit id="806624" xml:space="preserve">
+      <trans-unit id="806624" xml:space="preserve" approved="no">
         <source>あいつ、ミサにメロメロだもん|『キラなら結婚する』って言ったら|こうなったんだよ。</source>
-        <target/>
+        <target state="translated">He's completely obsessed with me. I told him that I'd marry him if he were Kira, and then he confessed.</target>
       </trans-unit>
-      <trans-unit id="791004" xml:space="preserve">
+      <trans-unit id="791004" xml:space="preserve" approved="no">
         <source>まったく……|Ｌ、これ以上ミサに|危険なマネをさせるな。</source>
-        <target/>
+        <target state="translated">Good grief ... L, don't make Misa do anything this dangerous again.</target>
       </trans-unit>
-      <trans-unit id="831532" xml:space="preserve">
+      <trans-unit id="831532" xml:space="preserve" approved="no">
         <source>いえ、正直ミサさんが|ここまでやってくれるとは|思っていませんでした。&gt;&gt;ミサさん、お手柄です。|あとは、このまま犯罪者裁きが|止まれば……</source>
-        <target/>
+        <target state="translated">No, if I'm honest, I didn't expect her to go this far. Excellent work, Misa. Now, if criminals stop dying …</target>
       </trans-unit>
-      <trans-unit id="786148" xml:space="preserve">
+      <trans-unit id="786148" xml:space="preserve" approved="no">
         <source>火口はキラの能力を持っている。|そこはガチです。</source>
-        <target/>
+        <target state="translated">Then Higuchi has Kira's ability. For sure.</target>
       </trans-unit>
-      <trans-unit id="767176" xml:space="preserve">
+      <trans-unit id="767176" xml:space="preserve" approved="no">
         <source>……そうなるな。</source>
-        <target/>
+        <target state="translated">... I suppose so.</target>
       </trans-unit>
-      <trans-unit id="765148" xml:space="preserve">
+      <trans-unit id="765148" xml:space="preserve" approved="no">
         <source>やった♪</source>
-        <target/>
+        <target state="translated">Yay! ♪</target>
       </trans-unit>
-      <trans-unit id="774112" xml:space="preserve">
+      <trans-unit id="774112" xml:space="preserve" approved="no">
         <source>Ｌ、そうすると残る問題は……</source>
-        <target/>
+        <target state="translated">In that case, L, the only question left is …</target>
       </trans-unit>
-      <trans-unit id="811984" xml:space="preserve">
+      <trans-unit id="811984" xml:space="preserve" approved="no">
         <source>キラが実際に|どうやって人を裁いているか。&gt;&gt;その手口を何とかして|見せてもらうことですね。</source>
-        <target/>
+        <target state="translated">How Kira is able to punish people. It seems we need to get him to show us his method.</target>
       </trans-unit>
-      <trans-unit id="864724" xml:space="preserve">
+      <trans-unit id="864724" xml:space="preserve" approved="no">
         <source>Ｌ・月たちの活躍で、確実に|火口包囲網は狭まっていった。||３日後、火口の言葉どおり裁きが|止まったことが確認され、|火口＝キラの容疑は完全に固まった。||そして、最後の勝負をかけるため、|Ｌは火口をワナに陥れる作戦を|実行する……</source>
-        <target/>
+        <target state="translated">Thanks to L and Light's efforts, the noose around Higuchi's neck tightened. ||Three days later, punishments stopped as Higuchi had said, confirming suspicions that he was Kira. To put an end to their battle, L put his plan to trap Higuchi into action …</target>
       </trans-unit>
-      <trans-unit id="777840" xml:space="preserve">
+      <trans-unit id="777840" xml:space="preserve" approved="no">
         <source>フフフ…\t0030　\t0002僕の勝ちだ。</source>
-        <target/>
+        <target state="translated">Hehehe ... I win.</target>
       </trans-unit>
       <trans-unit id="797988" xml:space="preserve" approved="no">
         <source>は……初めまして、|弥海砂（あまね・みさ）です。|このノートを……</source>
@@ -2847,9 +2847,9 @@
         <source>だめだ……|どこにも奴の本名は見つからない。|周到に準備してやがったのか…&gt;&gt;後は、奴の顔を見て|直接本名を知る手段しか……</source>
         <target/>
       </trans-unit>
-      <trans-unit id="768260" xml:space="preserve">
+      <trans-unit id="768260" xml:space="preserve" approved="no">
         <source>……レム、取引だ。</source>
-        <target/>
+        <target state="translated">.... Rem, let's make the trade.</target>
       </trans-unit>
       <trans-unit id="801440" xml:space="preserve">
         <source>……寿命の半分を使って、|死神の目を手に入れたいんだな？|いいだろう……</source>
@@ -2967,9 +2967,9 @@
         <source>すべての記憶を蘇らせた今、|月は自分の理想の世界への野望を|新たに燃やす。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="829748" xml:space="preserve">
+      <trans-unit id="829748" xml:space="preserve" approved="no">
         <source>一方、捜査本部は、火口逮捕は|ならなかったものの、デスノートと|死神の存在を押さえたことで、|これ以上のキラの犯行は防げる…|…と期待していた。</source>
-        <target/>
+        <target state="translated">While the Investigation Unit were unsuccessful in capturing Higuchi, they were hopeful that they could prevent Kira's crimes thanks to their newfound discovery of the Death Note and Shinigami.</target>
       </trans-unit>
       <trans-unit id="800960" xml:space="preserve">
         <source>|||||しかしそんな中、ひとりＬだけは、|いまだに月＝キラ説に固執していた。</source>
@@ -3159,73 +3159,73 @@
         <source>２２日の青山……|場所は、やはりノートにかけて|クラブ・ノートブルーか？&gt;&gt;……行くしかないな。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="765180" xml:space="preserve">
+      <trans-unit id="765180" xml:space="preserve" approved="no">
         <source>火口だ。</source>
-        <target/>
+        <target state="translated">This is Higuchi.</target>
       </trans-unit>
-      <trans-unit id="794304" xml:space="preserve">
+      <trans-unit id="794304" xml:space="preserve" approved="no">
         <source>『奈南川だ。|火口、まずい。テレビを見ろ。|さくらテレビだ』</source>
-        <target/>
+        <target state="translated">Higuchi, this is Namikawa. It's not looking good. Turn on the TV. Sakura TV.</target>
       </trans-unit>
-      <trans-unit id="766816" xml:space="preserve">
+      <trans-unit id="766816" xml:space="preserve" approved="no">
         <source>さくらテレビ？</source>
-        <target/>
+        <target state="translated">Sakura TV?</target>
       </trans-unit>
-      <trans-unit id="807920" xml:space="preserve">
+      <trans-unit id="807920" xml:space="preserve" approved="no">
         <source>『……では、その中の１人が|キラなんですね』&gt;&gt;『はい。|証拠もたくさんあるんです』</source>
-        <target/>
+        <target state="translated">... So, you're saying one of them is Kira? &gt;&gt; Yes, and I have evidence.</target>
       </trans-unit>
-      <trans-unit id="799644" xml:space="preserve">
+      <trans-unit id="799644" xml:space="preserve" approved="no">
         <source>なんだ、これは……|奈南川、どうせまたデマだろ。|さくらテレビだぞ。</source>
-        <target/>
+        <target state="translated">The hell is this ... ? Namikawa, come on, they're just making stuff up. It's Sakura TV, after all.</target>
       </trans-unit>
-      <trans-unit id="803320" xml:space="preserve">
+      <trans-unit id="803320" xml:space="preserve" approved="no">
         <source>『それが、いちばん最初に|「８人で会議していた所に遭遇した」|と言ったんだ』</source>
-        <target/>
+        <target state="translated">That's the thing, right at the start he said that he barged in while 8 people were in a meeting.</target>
       </trans-unit>
-      <trans-unit id="855128" xml:space="preserve">
+      <trans-unit id="855128" xml:space="preserve" approved="no">
         <source>（会議のことを知っている者……？|誰だ、誰か裏切ったのか？）&gt;&gt;（しかし、テレビに映っている|この男、すりガラスでシルエットに|なってよくわからんが…）&gt;&gt;（待てよ……このシルエット……）</source>
-        <target/>
+        <target state="translated">(Someone who knows about the meeting ...? Who is it, did someone rat us out?) &gt;&gt; (But I can't make out who this guy is because of the privacy screen ...) &gt;&gt; (Wait a second ... I recognize that silhouette ...)</target>
       </trans-unit>
-      <trans-unit id="771016" xml:space="preserve">
+      <trans-unit id="771016" xml:space="preserve" approved="no">
         <source>『あっ……ガラスが！？』</source>
-        <target/>
+        <target state="translated">Ah! The privacy screen!</target>
       </trans-unit>
-      <trans-unit id="852828" xml:space="preserve">
+      <trans-unit id="852828" xml:space="preserve" approved="no">
         <source>（！！　こいつ、|ミサのマネージャーの松井だ！）&gt;&gt;（そうか……あの会議を聞いて、|その後、独自に俺がキラだと|つきとめたのか？）&gt;&gt;（いずれにしろまずい…|…すぐに消さなければ！）</source>
-        <target/>
+        <target state="translated">(That's Misa's manager, Matsui!!) &gt;&gt; (I get it now, he must've overheard our meeting and worked out that I'm Kira.) &gt;&gt; (Either way, this is bad ... I need to get rid of him, fast!)</target>
       </trans-unit>
-      <trans-unit id="786220" xml:space="preserve">
+      <trans-unit id="786220" xml:space="preserve" approved="no">
         <source>『もしもし、火口？|聞いてるか？　もしもし……』</source>
-        <target/>
+        <target state="translated">Hey, Higuchi? Can you hear me? Hey ...</target>
       </trans-unit>
-      <trans-unit id="790364" xml:space="preserve">
+      <trans-unit id="790364" xml:space="preserve" approved="no">
         <source>奴の名は……そうだ松井…太郎…|…デスノートを使えば…</source>
-        <target/>
+        <target state="translated">Matsui ... That's right, his name's Taro Matsui ... If I use the Death Note …</target>
       </trans-unit>
-      <trans-unit id="797532" xml:space="preserve">
+      <trans-unit id="797532" xml:space="preserve" approved="no">
         <source>…ばかな！？　なぜ効果がない？|\T0060\t0000………そうか偽名か！</source>
-        <target/>
+        <target state="translated">... What?! Why won't it work? \T0060\t0000 I get it now, he used a fake name!</target>
       </trans-unit>
-      <trans-unit id="808028" xml:space="preserve">
+      <trans-unit id="808028" xml:space="preserve" approved="no">
         <source>『大丈夫です、このくらいの|アクシデント……正義のために、|最後までがんばります！』</source>
-        <target/>
+        <target state="translated">It's okay, it was only a small accident ... This is the right thing to do, so I'll do my best until the very end!</target>
       </trans-unit>
-      <trans-unit id="814244" xml:space="preserve">
+      <trans-unit id="814244" xml:space="preserve" approved="no">
         <source>くそっ！　なんとかしてあいつの|本名をつきとめ、俺の名前が発表|されるまえに始末しなければ……！</source>
-        <target/>
+        <target state="translated">Damn it! I've gotta figure out his name and get rid of him before my cover's blown ... !</target>
       </trans-unit>
-      <trans-unit id="858148" xml:space="preserve">
+      <trans-unit id="858148" xml:space="preserve" approved="no">
         <source>突然の松田のテレビ出演。||実はこれが、Ｌの仕掛けた火口逮捕|のためのトラップであった。||松田を始末しようと火口が動き、|キラの力を使う……|その瞬間を押さえ、動かぬ証拠を|つかむことがＬの狙いだった。</source>
-        <target/>
+        <target state="translated">Matsuda's sudden appearance on television was all part of L's plan to arrest Higuchi. L's goal was to force Higuchi's hand and catch him in the act of using Kira's ability trying to eliminate Matsuda.</target>
       </trans-unit>
-      <trans-unit id="867008" xml:space="preserve">
+      <trans-unit id="867008" xml:space="preserve" approved="no">
         <source>たった今、火口が自宅を出ました。|これから松田を狙うために|動くと思われます。&gt;&gt;みなさんは、火口の手が|松田に届く前に、火口の身柄を|押さえてください。&gt;&gt;この勝負、一瞬のミスが|命取りになります。|くれぐれも慎重にお願いします。</source>
-        <target/>
+        <target state="translated">Higuchi just left his home. He is likely moving to target Matsuda. &gt;&gt; Everyone, please apprehend Higuchi before he lays his hands on Matsuda. &gt;&gt; The slightest mistake could be fatal. Please proceed with caution.</target>
       </trans-unit>
-      <trans-unit id="778740" xml:space="preserve">
+      <trans-unit id="778740" xml:space="preserve" approved="no">
         <source>フフフ…\t0030　\t0002俺の勝ちだな。</source>
-        <target/>
+        <target state="translated">Heheheh ... \t0030　\t0002 I win.</target>
       </trans-unit>
       <trans-unit id="797444" xml:space="preserve">
         <source>どうやら逃げ切ったようだな……|後はニア、おまえがどう出るか……</source>
@@ -4951,13 +4951,13 @@
         <source>ふざけるな、夜神月！|本当のキラはおまえじゃないか！！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="810244" xml:space="preserve">
+      <trans-unit id="810244" xml:space="preserve" approved="no">
         <source>僕がキラ？　\T0060\t0002何を言うんです。|僕の名前もノートに|書かれているじゃないですか。</source>
-        <target/>
+        <target state="translated">Me, Kira?　\T0060\t0002 What are you talking about? My name's written in the notebook too.</target>
       </trans-unit>
-      <trans-unit id="768832" xml:space="preserve">
+      <trans-unit id="768832" xml:space="preserve" approved="no">
         <source>（……………………）</source>
-        <target/>
+        <target state="translated">(................)</target>
       </trans-unit>
       <trans-unit id="839452" xml:space="preserve">
         <source>そ、そうだ。今までもニアは|Ｌ…月くんを勝手にライバル視して、|あまり協力的じゃなかったぞ。&gt;&gt;その上、月くんがキラだなんて|思い違いもいい加減にしろよ！</source>
