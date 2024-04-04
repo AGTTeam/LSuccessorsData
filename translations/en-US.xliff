@@ -855,41 +855,41 @@
         <source>まずは、容疑者が目撃された|グループのエリアに対して&gt;&gt;目撃情報を実行することが|捜査のセオリーとなります。&gt;&gt;エリアを絞り込むだけで|確実に捜査は進行します。|地道な捜査も重要ですよ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="801248" xml:space="preserve">
+      <trans-unit id="801248" xml:space="preserve" approved="no">
         <source>ノートブルー……|第２のキラが暗に指定してきたのは、|ここにちがいない。</source>
-        <target/>
+        <target state="translated">Note Blue ... This is definitely the place the Second Kira was referring to.</target>
       </trans-unit>
-      <trans-unit id="792456" xml:space="preserve">
+      <trans-unit id="792456" xml:space="preserve" approved="no">
         <source>追跡する捜査員をふりきって、月は|クラブ・ノートブルーに到着した。</source>
-        <target/>
+        <target state="translated">Having shaken off the investigators, Light arrived at Club Note Blue.</target>
       </trans-unit>
-      <trans-unit id="792540" xml:space="preserve">
+      <trans-unit id="792540" xml:space="preserve" approved="no">
         <source>中にまで入る必要はない。|開演前後の入口を見張れば十分だ。</source>
-        <target/>
+        <target state="translated">There's no need to go inside. All I need to do is watch the entrance around the time the show starts.</target>
       </trans-unit>
-      <trans-unit id="817700" xml:space="preserve">
+      <trans-unit id="817700" xml:space="preserve" approved="no">
         <source>まず、ノートを見えるように|持っている者がいないかを見る。&gt;&gt;そして気付かれずにノートに|触れれば……</source>
-        <target/>
+        <target state="translated">First, I need to look for anyone clearly carrying around a notebook. Then, if I can just touch their notebook without being noticed …</target>
       </trans-unit>
-      <trans-unit id="765020" xml:space="preserve">
+      <trans-unit id="765020" xml:space="preserve" approved="no">
         <source>みっけ♪</source>
-        <target/>
+        <target state="translated">There you are! ♪</target>
       </trans-unit>
-      <trans-unit id="773436" xml:space="preserve">
+      <trans-unit id="773436" xml:space="preserve" approved="no">
         <source>||||||　　　ターン終了コマンド</source>
-        <target/>
+        <target state="translated">||||||　　　 End Turn Command</target>
       </trans-unit>
-      <trans-unit id="804332" xml:space="preserve">
+      <trans-unit id="804332" xml:space="preserve" approved="no">
         <source>\c04『ターン終了』\c02コマンドは|捜査員側のターンを終了させる|コマンドです。</source>
-        <target/>
+        <target state="translated">The \c04End Turn\c02 command allows you to end the Investigator Side's turn.</target>
       </trans-unit>
-      <trans-unit id="807704" xml:space="preserve">
+      <trans-unit id="807704" xml:space="preserve" approved="no">
         <source>ただし、\c04現ターンで移動を行って|いない捜査員がいると\c02、|終了させることができません。</source>
-        <target/>
+        <target state="translated">However, you cannot end your turn if there are \c04investigators who have yet to move this turn\c02.</target>
       </trans-unit>
-      <trans-unit id="813044" xml:space="preserve">
+      <trans-unit id="813044" xml:space="preserve" approved="no">
         <source>\c04『ＳＴＡＲＴボタン』\c02や|下画面の\c04『右下』\c02をタッチしても、|同様のコマンドを実行できます。</source>
-        <target/>
+        <target state="translated">This command can be executed by pressing the \c04Start Button\c02 or by tapping the button in the\c04『Bottom Right』\c02 of the screen.</target>
       </trans-unit>
       <trans-unit id="771408" xml:space="preserve" approved="no">
         <source>||||||　　　　　リーダー画面</source>
@@ -1667,9 +1667,9 @@
         <source>||||||　　　　カメラ修復コマンド</source>
         <target/>
       </trans-unit>
-      <trans-unit id="805164" xml:space="preserve">
+      <trans-unit id="805164" xml:space="preserve" approved="no">
         <source>\c04『カメラ修復』\c02コマンドは|破壊された都市カメラを修復する|コマンドです。</source>
-        <target/>
+        <target state="translated">The \c04Camera Repair\c02 command allows you to fix a broken hidden camera.</target>
       </trans-unit>
       <trans-unit id="849188" xml:space="preserve">
         <source>カメラが破壊されると、|そのカメラの撮影範囲が消えて、|\c04撮影が一切されなくなります\c02。&gt;&gt;カメラ修復を行うには、|捜査員が、修復するカメラの近く|まで移動しなくてはなりません。</source>
@@ -2819,9 +2819,9 @@
         <source>（偽キラだ……！）&gt;&gt;……ここじゃ何だから……あがれよ。</source>
         <target state="translated">(She's the fake Kira ...!) &gt;&gt; Come on in.</target>
       </trans-unit>
-      <trans-unit id="875500" xml:space="preserve">
+      <trans-unit id="875500" xml:space="preserve" approved="no">
         <source>突然、何の前触れもなしに|名乗り出てきた弥海砂。|彼女は、月に自分の身の上を|打ち明ける。||彼女は両親を強盗に殺されていた。|だが、キラが自分に代わって強盗に|制裁を加えてくれたのだ。|以来キラの崇拝者となり、さらに|偶然デスノートを手に入れたことで、|キラへの接近を試みたのだという。</source>
-        <target/>
+        <target state="translated">The girl appeared unannounced and introduced herself as Misa Amane before telling Light about her life story. || Her parents were killed by a mugger. However, Kira punished the criminal on her behalf. From then on, she grew to worship Kira. One day, she stumbled upon a Death Note and decided to reach out to Kira directly.</target>
       </trans-unit>
       <trans-unit id="834224" xml:space="preserve" approved="no">
         <source>あなたは死神と目の取引をして|ないんですね。&gt;&gt;だったら、私はあなたの目になる。|Ｌを倒す手助けをしてあげる。|だから……&gt;&gt;彼女にしてください！</source>
@@ -3103,9 +3103,9 @@
         <source>問題は、こいつが敵か味方か…&gt;&gt;そしてどちらであろうと、|僕がこいつを|うまく利用できるかどうかだ。</source>
         <target state="translated">The question is whether they're an enemy or an ally... And whichever they are, if they're of any use to me.</target>
       </trans-unit>
-      <trans-unit id="863000" xml:space="preserve">
+      <trans-unit id="863000" xml:space="preserve" approved="no">
         <source>捜査本部は、Ｌの計略により、|第２のキラへの返信を作成した。|本物のキラから第２のキラへ…|…という形の偽造メッセージである。||さくらテレビでこれが放映されるや、|第２のキラはＬの策略とも知らず、|すぐさま返事を送ってきた。</source>
-        <target/>
+        <target state="translated">As part of L's plan, the Investigation Unit created a message for the 2nd Kira ... a fake message, pretending to be from the real Kira. As soon as it was broadcast on Sakura TV, the 2nd Kira responded immediately, unaware that they were playing into L's hands.</target>
       </trans-unit>
       <trans-unit id="836984" xml:space="preserve" approved="no">
         <source>『キラさん、|お返事ありがとうございます。|私はキラさんに会いたい』&gt;&gt;『キラさんは目を持ってないと|思いますが、私はキラさんを|殺したりはしません』</source>
@@ -3139,25 +3139,25 @@
         <source>「死神……そんな物の存在を|認めろとでも言うのか……</source>
         <target state="translated">Shinigami ... you expect me to believe in the existence of something like that?</target>
       </trans-unit>
-      <trans-unit id="840712" xml:space="preserve">
+      <trans-unit id="840712" xml:space="preserve" approved="no">
         <source>第２のキラの予想のつかない|立ち回りに、月とＬは困惑の|極地に立たされる。||ふたりの思惑や焦燥を知らぬかの|ように、第２のキラはさらなる|メッセージを送ってきた。</source>
-        <target/>
+        <target state="translated">The 2nd Kira's unexpected behavior left both Light and L dumbfounded. Oblivious to their thoughts and frustrations, the 2nd Kira sent yet another message.</target>
       </trans-unit>
-      <trans-unit id="854916" xml:space="preserve">
+      <trans-unit id="854916" xml:space="preserve" approved="no">
         <source>それは、一見ただの日記の一片。||第２のキラは、これをテレビで|流すように要求する。|どういう意図か測りかね、困惑する|捜査陣。||しかし、これを目にした月は、|そこに隠されたメッセージを見抜く。</source>
-        <target/>
+        <target state="translated">At first glance, it just seemed like an entry in someone's diary. The Investigation Unit were left speechless. Why would the 2nd Kira go to the trouble of broadcasting something like that on TV? However, Light was able to deduce the message hidden within the diary entry.</target>
       </trans-unit>
-      <trans-unit id="789964" xml:space="preserve">
+      <trans-unit id="789964" xml:space="preserve" approved="no">
         <source>『２２日、友人と青山で待ち合わせ。|ノートを見せ合う』</source>
-        <target/>
+        <target state="translated">I'm meeting with a friend in Aoyama on the 22nd. We're going to show each other our notebooks.</target>
       </trans-unit>
-      <trans-unit id="785932" xml:space="preserve">
+      <trans-unit id="785932" xml:space="preserve" approved="no">
         <source>ノートという言葉はキラである|月にしか伝わらないはずだ。</source>
-        <target/>
+        <target state="translated">Only Light could recognize the significance of the word 'notebook'.</target>
       </trans-unit>
-      <trans-unit id="814124" xml:space="preserve">
+      <trans-unit id="814124" xml:space="preserve" approved="no">
         <source>２２日の青山……|場所は、やはりノートにかけて|クラブ・ノートブルーか？&gt;&gt;……行くしかないな。</source>
-        <target/>
+        <target state="translated">Aoyama on the 22nd ... Judging by the name, maybe the meeting place is this Club Note Blue? ... &gt;&gt; There's only one way to find out.</target>
       </trans-unit>
       <trans-unit id="765180" xml:space="preserve" approved="no">
         <source>火口だ。</source>
@@ -3991,49 +3991,49 @@
         <source>……ふざけるな！|キラを認めていい訳がない……！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="780516" xml:space="preserve">
+      <trans-unit id="780516" xml:space="preserve" approved="no">
         <source>弥海砂を第２のキラ容疑で|確保しました。</source>
-        <target/>
+        <target state="translated">I have apprehended Misa Amane on suspicion of being the Second Kira.</target>
       </trans-unit>
-      <trans-unit id="880072" xml:space="preserve">
+      <trans-unit id="880072" xml:space="preserve" approved="no">
         <source>ミサの力でＬを追い詰めようと|考えていた月。||ところが、Ｌの動きが一歩早かった。&gt;&gt;極秘に月の周辺を探らせていたＬは、|月とミサが密かに会っている事実を|確認。||そして、ミサの部屋を家宅捜索した。|結果、第２のキラのビデオがそこで|作られたという証拠を発見したのだ。||Ｌはミサを拘束して監禁し、|何としてもキラの力の秘密に|迫ろうと尋問を開始する。</source>
-        <target/>
+        <target state="translated">Light had planned to use Misa's power to back L into a corner, but the detective was one step ahead of him. &gt;&gt; Covertly investigating Light, L discovered that he and Misa had met in secret. A subsequent inspection of Misa's home turned up evidence that the Second Kira's video tapes had been made there. Having Misa restrained and imprisoned, L began torturing her to extract information about Kira's powers.</target>
       </trans-unit>
-      <trans-unit id="794136" xml:space="preserve">
+      <trans-unit id="794136" xml:space="preserve" approved="no">
         <source>……甘かった……|ミサが口を割れば|全てが終わってしまう……</source>
-        <target/>
+        <target state="translated">... I was too naive ... If Misa cracks, it's all over …</target>
       </trans-unit>
-      <trans-unit id="824712" xml:space="preserve">
+      <trans-unit id="824712" xml:space="preserve" approved="no">
         <source>ミサの口を封じれば、身近にいた|自分がキラである疑いが強まる。||いや、それ以前に、|ミサに憑いていた死神レムが|黙っていない。</source>
-        <target/>
+        <target state="translated">If I erase Misa, then suspicions around me will only grow stronger. No, the bigger issue is Misa's Shinigami, Rem. She'd never let me get away with it.</target>
       </trans-unit>
-      <trans-unit id="838216" xml:space="preserve">
+      <trans-unit id="838216" xml:space="preserve" approved="no">
         <source>夜神月……ミサはあれほどの|尋問にも口を割らない。|すべてはおまえを思ってのことだ。&gt;&gt;いいな、何としてもミサを助け出せ。|でなければ、私がおまえを……</source>
-        <target/>
+        <target state="translated">Light Yagami ... Even after enduring so much torture, she refuses to confess. All because of her feelings for you. &gt;&gt;Rescue her, whatever it takes. If you don't, I'll …</target>
       </trans-unit>
-      <trans-unit id="807596" xml:space="preserve">
+      <trans-unit id="807596" xml:space="preserve" approved="no">
         <source>……わかったよ、レム……|これからのＬの出方は大体|わかっている。僕に考えがある……</source>
-        <target/>
+        <target state="translated">... I understand, Rem ... I'm pretty sure I know what L's planning. I have a plan …</target>
       </trans-unit>
       <trans-unit id="784780" xml:space="preserve">
         <source>Ｌの追求を食い止めるべく、|月は逆転の秘策を実行する。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="768568" xml:space="preserve">
+      <trans-unit id="768568" xml:space="preserve" approved="no">
         <source>さよならだ、リューク</source>
-        <target/>
+        <target state="translated">Goodbye, Ryuk.</target>
       </trans-unit>
-      <trans-unit id="828788" xml:space="preserve">
+      <trans-unit id="828788" xml:space="preserve" approved="no">
         <source>……ククク、いいだろう。|おまえの計略に乗ってみるとしよう。&gt;&gt;しかしまさか|俺の渡したノートの最後は、|土の中に捨てられるとはな……</source>
-        <target/>
+        <target state="translated">... Heh, alright. I'll go along with your plan. Although, I never thought the notebook I gave you would end up buried in the dirt …</target>
       </trans-unit>
-      <trans-unit id="777900" xml:space="preserve">
+      <trans-unit id="777900" xml:space="preserve" approved="no">
         <source>レム、おまえにも協力してもらうぞ。</source>
-        <target/>
+        <target state="translated">Rem, I need your help.</target>
       </trans-unit>
-      <trans-unit id="766656" xml:space="preserve">
+      <trans-unit id="766656" xml:space="preserve" approved="no">
         <source>いいだろう……</source>
-        <target/>
+        <target state="translated">Fine …</target>
       </trans-unit>
       <trans-unit id="877376" xml:space="preserve">
         <source>月の策とは、わざとＬにつかまり、|月とミサ、２人がデスノートの|所有権を放棄し、記憶を失うこと|だった。||デスノートの記憶がなければ、|Ｌの頭脳を持ってしても、|２人の口から犯行の自供を|得ることはできない。&gt;&gt;そして、もうひとつ…|いつかまたノートを自分の手に|取り戻す…||月には確信があった。</source>
@@ -5579,9 +5579,9 @@
         <source>隠しカメラ実行時、|コマンド実行範囲が|通常よりも広く、|２ヶ所同時に設置できる。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="624720" xml:space="preserve">
+      <trans-unit id="624720" xml:space="preserve" approved="no">
         <source>カメラ修復実行時、|コマンド実行範囲が|広く、範囲内の全ての|カメラを修復できる。</source>
-        <target/>
+        <target state="translated">This command has a large range, and can repair all cameras in the area.</target>
       </trans-unit>
       <trans-unit id="616368" xml:space="preserve">
         <source>現在自分がいるエリア内の、|容疑者が撮影された|カメラを知ることができる。</source>
@@ -5595,9 +5595,9 @@
         <source>潜伏している容疑者が|どのエリアにいるか、|知ることができる。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="627612" xml:space="preserve">
+      <trans-unit id="627612" xml:space="preserve" approved="no">
         <source>カメラ修復実行時、|コマンド実行範囲が|とても広く、範囲内の全ての|カメラを修復できる。</source>
-        <target/>
+        <target state="translated">This command has a very large range, and can repair all cameras in the area.</target>
       </trans-unit>
       <trans-unit id="627700" xml:space="preserve">
         <source>隠しカメラ実行時、|コマンド実行範囲が|とても広く、２ヶ所同時に|設置することができる。</source>
@@ -6675,9 +6675,9 @@
         <source>捜査員を過半数以上|リタイアさせてください。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="617736" xml:space="preserve">
+      <trans-unit id="617736" xml:space="preserve" approved="no">
         <source>第二のキラとの接触地点と|予想される|『ノートブルー』|を目指してください。</source>
-        <target/>
+        <target state="translated">Head towards Note Blue, where it is thought that the Second Kira wants to meet.</target>
       </trans-unit>
       <trans-unit id="558236" xml:space="preserve">
         <source>『月』は隠されたデスノート|を発見してください。</source>
@@ -6935,9 +6935,9 @@
         <source>特殊移動ターミナルの|出口に人がいるので|移動できません。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="504320" xml:space="preserve">
+      <trans-unit id="504320" xml:space="preserve" approved="no">
         <source>ノートブルーに|到達しました。</source>
-        <target/>
+        <target state="translated">You reached Note Blue.</target>
       </trans-unit>
       <trans-unit id="519200" xml:space="preserve">
         <source>火口がスタジオの１つに|到達しました。</source>
@@ -12147,9 +12147,9 @@
         <source>怪しい人物は|記録されていません。|場所を変えるべきですかな。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="562969" xml:space="preserve">
+      <trans-unit id="562969" xml:space="preserve" approved="no">
         <source>カメラを修復しました。|これで大丈夫のはずです。</source>
-        <target/>
+        <target state="translated">I have repaired the camera. It should be working now.</target>
       </trans-unit>
       <trans-unit id="580041" xml:space="preserve">
         <source>やっと修復が完了しました。|さて、捜査を急ぎませんと。</source>
@@ -12551,9 +12551,9 @@
         <source>映像には怪しい人物は全然…|失敗ですね。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="561149" xml:space="preserve">
+      <trans-unit id="561149" xml:space="preserve" approved="no">
         <source>カメラを修復しました。|どうです？　見えますか？</source>
-        <target/>
+        <target state="translated">I've repaired the camera. How is it? Can you see now?</target>
       </trans-unit>
       <trans-unit id="529321" xml:space="preserve">
         <source>くそっ…よけいな手間|かけさせやがって。</source>
@@ -12703,9 +12703,9 @@
         <source>しまった！　トラップだ！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="497125" xml:space="preserve">
+      <trans-unit id="497125" xml:space="preserve" approved="no">
         <source>ぐわっ！　こんな所で…</source>
-        <target/>
+        <target state="translated">Ugh! Not like this …</target>
       </trans-unit>
       <trans-unit id="509357" xml:space="preserve">
         <source>容疑者を確認！|予想した通りです！</source>
@@ -12903,9 +12903,9 @@
         <source>こ…こんな所で|やられるとは…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="502017" xml:space="preserve">
+      <trans-unit id="502017" xml:space="preserve" approved="no">
         <source>トラップだと！？　ばかな！</source>
-        <target/>
+        <target state="translated">A trap?! There's no way!</target>
       </trans-unit>
       <trans-unit id="552721" xml:space="preserve">
         <source>やはり、この周辺だったか。|容疑者を確認した！</source>
@@ -12955,9 +12955,9 @@
         <source>失敗だったようだ。|怪しい人物は見当たらない。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="567701" xml:space="preserve">
+      <trans-unit id="567701" xml:space="preserve" approved="no">
         <source>カメラを修復したぞ。|とりあえずこれでＯＫだろう。</source>
-        <target/>
+        <target state="translated">I fixed the camera. That should work for now.</target>
       </trans-unit>
       <trans-unit id="567753" xml:space="preserve">
         <source>ふぅ…かなり時間を食ったが、|何とか直ったようだ。</source>
@@ -13347,9 +13347,9 @@
         <source>映像に怪しい人物はいない…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="523441" xml:space="preserve">
+      <trans-unit id="523441" xml:space="preserve" approved="no">
         <source>カメラを修復した。|敵の追跡に戻るぞ。</source>
-        <target/>
+        <target state="translated">I fixed the camera. Going back to tracking the enemy.</target>
       </trans-unit>
       <trans-unit id="538473" xml:space="preserve">
         <source>奴等め…よけいな手間を|かけさせてくれる。</source>
@@ -14215,9 +14215,9 @@
         <source>ムダな抵抗はするな。|おとなしくしろ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="501185" xml:space="preserve">
+      <trans-unit id="501185" xml:space="preserve" approved="no">
         <source>た、助けて！　トラップだ！</source>
-        <target/>
+        <target state="translated">H-help! It's a trap!</target>
       </trans-unit>
       <trans-unit id="500205" xml:space="preserve">
         <source>い、いやだ…こんな所で！</source>
@@ -16211,9 +16211,9 @@
         <source>敵の拘束に成功。|本部に連行するか？</source>
         <target/>
       </trans-unit>
-      <trans-unit id="497685" xml:space="preserve">
+      <trans-unit id="497685" xml:space="preserve" approved="no">
         <source>なっ…トラップだと！？</source>
-        <target/>
+        <target state="translated">Wha- ... a trap?!</target>
       </trans-unit>
       <trans-unit id="539133" xml:space="preserve">
         <source>こちらグレッグだ。|敵はまだ見つからない。</source>
