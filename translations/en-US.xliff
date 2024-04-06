@@ -5972,7 +5972,7 @@
         <target/>
       </trans-unit>
       <trans-unit id="576457" xml:space="preserve">
-        <source>キラはccヶ所に痕跡を|残しました。|何か企んでますね。</source>
+        <source>キラは&lt;name&gt;ヶ所に痕跡を|残しました。|何か企んでますね。</source>
         <target/>
       </trans-unit>
       <trans-unit id="534205" xml:space="preserve">
@@ -6008,7 +6008,7 @@
         <target/>
       </trans-unit>
       <trans-unit id="576737" xml:space="preserve">
-        <source>キラが痕跡を残したのは|ccヶ所。|そこに何かあります。</source>
+        <source>キラが痕跡を残したのは|&lt;name&gt;ヶ所。|そこに何かあります。</source>
         <target/>
       </trans-unit>
       <trans-unit id="514001" xml:space="preserve">
@@ -6040,7 +6040,7 @@
         <target/>
       </trans-unit>
       <trans-unit id="576513" xml:space="preserve">
-        <source>これまでのところ|キラの痕跡はccヶ所に|残っているが…</source>
+        <source>これまでのところ|キラの痕跡は&lt;name&gt;ヶ所に|残っているが…</source>
         <target/>
       </trans-unit>
       <trans-unit id="534557" xml:space="preserve">
@@ -6908,20 +6908,20 @@
         <target/>
       </trans-unit>
       <trans-unit id="592908" xml:space="preserve" approved="no">
-        <source>地下鉄を使って移動します。|特殊移動ポイント|消費Ｐnn／現Ｐnn</source>
-        <target state="translated">Move via subway. Special Movement Points | Required P nn/ Current P nn</target>
+        <source>地下鉄を使って移動します。|特殊移動ポイント|消費Ｐ&lt;num&gt;／現Ｐ&lt;num&gt;</source>
+        <target state="translated">Move via subway.|Special Movement Points|Required P &lt;num&gt;/ Current P &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="597260" xml:space="preserve" approved="no">
-        <source>高速バスを使って移動します。|特殊移動ポイント|消費Ｐnn／現Ｐnn</source>
-        <target state="translated">Move via express bus. Special Movement Points | Required P nn/ Current P nn</target>
+        <source>高速バスを使って移動します。|特殊移動ポイント|消費Ｐ&lt;num&gt;／現Ｐ&lt;num&gt;</source>
+        <target state="translated">Move via express bus.|Special Movement Points|Required P &lt;num&gt;/ Current P &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="597324" xml:space="preserve" approved="no">
-        <source>水上バスを使って移動します。|特殊移動ポイント|消費Ｐnn／現Ｐnn</source>
-        <target state="translated">Move via water-bus. Special Movement Points | Required P nn/ Current P nn</target>
+        <source>水上バスを使って移動します。|特殊移動ポイント|消費Ｐ&lt;num&gt;／現Ｐ&lt;num&gt;</source>
+        <target state="translated">Move via water-bus.|Special Movement Points|Required P &lt;num&gt;/ Current P &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="588208" xml:space="preserve" approved="no">
-        <source>ヘリを使って移動します。|特殊移動ポイント|消費Ｐnn／現Ｐnn</source>
-        <target state="translated">Move via helicopter. Special Movement Points | Required P nn/ Current P nn</target>
+        <source>ヘリを使って移動します。|特殊移動ポイント|消費Ｐ&lt;num&gt;／現Ｐ&lt;num&gt;</source>
+        <target state="translated">Move via helicopter.|Special Movement Points|Required P &lt;num&gt;/ Current P &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="500260" xml:space="preserve" approved="no">
         <source>移動先を選択してください。</source>
@@ -7040,68 +7040,68 @@
         <target state="translated">A character still has not moved this turn. Please move the character.</target>
       </trans-unit>
       <trans-unit id="549456" xml:space="preserve">
-        <source>　グループgr　エリアarで|　ccが目撃されました</source>
+        <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;が目撃されました</source>
         <target/>
       </trans-unit>
       <trans-unit id="541152" xml:space="preserve">
-        <source>　ccにデスノートの|　所有権を移動しました。</source>
+        <source>　&lt;name&gt;にデスノートの|　所有権を移動しました。</source>
         <target/>
       </trans-unit>
       <trans-unit id="565620" xml:space="preserve">
-        <source>　グループgr　エリアarで|　ccがリタイアしました。</source>
+        <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;がリタイアしました。</source>
         <target/>
       </trans-unit>
       <trans-unit id="549648" xml:space="preserve">
-        <source>　捜査重点エリア外で|　ccがリタイアしました。</source>
+        <source>　捜査重点エリア外で|　&lt;name&gt;がリタイアしました。</source>
         <target/>
       </trans-unit>
       <trans-unit id="557924" xml:space="preserve">
-        <source>　グループgr　エリアarで|　ccが逮捕されました。</source>
+        <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;が逮捕されました。</source>
         <target/>
       </trans-unit>
       <trans-unit id="541392" xml:space="preserve">
-        <source>　捜査重点エリア外で|　ccが逮捕されました。</source>
+        <source>　捜査重点エリア外で|　&lt;name&gt;が逮捕されました。</source>
         <target/>
       </trans-unit>
       <trans-unit id="549504" xml:space="preserve">
-        <source>　グループgr　エリアarで|　ccを逮捕しました。</source>
+        <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;を逮捕しました。</source>
         <target/>
       </trans-unit>
       <trans-unit id="533456" xml:space="preserve">
-        <source>　捜査重点エリア外で|　ccを逮捕しました。</source>
+        <source>　捜査重点エリア外で|　&lt;name&gt;を逮捕しました。</source>
         <target/>
       </trans-unit>
       <trans-unit id="519120" xml:space="preserve">
-        <source>　グループgrで|　ccが目撃されました。</source>
+        <source>　グループ&lt;group&gt;で|　&lt;name&gt;が目撃されました。</source>
         <target/>
       </trans-unit>
       <trans-unit id="540864" xml:space="preserve">
-        <source>　グループgr　エリアarで|　ccを捉えました。</source>
+        <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;を捉えました。</source>
         <target/>
       </trans-unit>
       <trans-unit id="525756" xml:space="preserve">
-        <source>　捜査重点エリア外で|　ccを捉えました。</source>
+        <source>　捜査重点エリア外で|　&lt;name&gt;を捉えました。</source>
         <target/>
       </trans-unit>
       <trans-unit id="557976" xml:space="preserve">
-        <source>　グループgr　エリアarで|　ccが発見されました。</source>
+        <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;が発見されました。</source>
         <target/>
       </trans-unit>
       <trans-unit id="540912" xml:space="preserve">
-        <source>　捜査重点エリア外で|　ccが発見されました。</source>
+        <source>　捜査重点エリア外で|　&lt;name&gt;が発見されました。</source>
         <target/>
       </trans-unit>
       <trans-unit id="549552" xml:space="preserve">
-        <source>　グループgr　エリアarで|　ccが捕まりました。</source>
+        <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;が捕まりました。</source>
         <target/>
       </trans-unit>
       <trans-unit id="533192" xml:space="preserve">
-        <source>　捜査重点エリア外で|　ccが捕まりました。</source>
+        <source>　捜査重点エリア外で|　&lt;name&gt;が捕まりました。</source>
         <target/>
       </trans-unit>
       <trans-unit id="509032" xml:space="preserve" approved="no">
-        <source>グループgrで|ccが目撃されました。</source>
-        <target state="translated">cc spotted|in Group Green.</target>
+        <source>グループ&lt;group&gt;で|&lt;name&gt;が目撃されました。</source>
+        <target state="translated">&lt;name&gt; spotted|in Group Green.</target>
       </trans-unit>
       <trans-unit id="500288" xml:space="preserve" approved="no">
         <source>カメラを選択してください。</source>
@@ -7132,7 +7132,7 @@
         <target/>
       </trans-unit>
       <trans-unit id="625896" xml:space="preserve">
-        <source>隠しカメラを設置します。|よろしいですか？|隠しカメラ設置数|現設置数nn／限設置数nn</source>
+        <source>隠しカメラを設置します。|よろしいですか？|隠しカメラ設置数|現設置数&lt;num&gt;／限設置数&lt;num&gt;</source>
         <target/>
       </trans-unit>
       <trans-unit id="500568" xml:space="preserve">
@@ -7172,12 +7172,12 @@
         <target/>
       </trans-unit>
       <trans-unit id="622776" xml:space="preserve" approved="no">
-        <source>トラップを設置します。|よろしいですか？|トラップ設置数|現設置数nn／限設置数nn</source>
-        <target state="translated">Set trap?|Number of traps installed:|Current nn／Limit nn</target>
+        <source>トラップを設置します。|よろしいですか？|トラップ設置数|現設置数&lt;num&gt;／限設置数&lt;num&gt;</source>
+        <target state="translated">Set trap?|Number of traps installed:|Current &lt;num&gt;／Limit &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="494396" xml:space="preserve" approved="no">
-        <source>『cc』リタイア！</source>
-        <target state="translated">cc was defeated!</target>
+        <source>『&lt;name&gt;』リタイア！</source>
+        <target state="translated">&lt;name&gt; was defeated!</target>
       </trans-unit>
       <trans-unit id="525492" xml:space="preserve" approved="no">
         <source>トラップを設置します。|よろしいですか？</source>
@@ -7188,8 +7188,8 @@
         <target state="translated">Place an inspection point within range.</target>
       </trans-unit>
       <trans-unit id="611776" xml:space="preserve" approved="no">
-        <source>検問を設置します。|よろしいですか？|検問設置数|現設置数nn／限設置数nn</source>
-        <target state="translated">Setting up an inspection point. Are you sure? | Number of inspection points | Current nn／ Maximum nn</target>
+        <source>検問を設置します。|よろしいですか？|検問設置数|現設置数&lt;num&gt;／限設置数&lt;num&gt;</source>
+        <target state="translated">Setting up an inspection point.|Are you sure?|Number of inspection points | Current &lt;num&gt;／ Maximum &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="513040" xml:space="preserve" approved="no">
         <source>検問を解除します。|よろしいですか？</source>
@@ -7300,11 +7300,11 @@
         <target/>
       </trans-unit>
       <trans-unit id="562552" xml:space="preserve">
-        <source>勝利ポイント|キラnnＰ　捜査側nnＰ|キラ側の勝利！</source>
+        <source>勝利ポイント|キラ&lt;num&gt;Ｐ　捜査側&lt;num&gt;Ｐ|キラ側の勝利！</source>
         <target/>
       </trans-unit>
       <trans-unit id="561928" xml:space="preserve">
-        <source>勝利ポイント|キラnnＰ　捜査側nnＰ|捜査側の勝利！</source>
+        <source>勝利ポイント|キラ&lt;num&gt;Ｐ　捜査側&lt;num&gt;Ｐ|捜査側の勝利！</source>
         <target/>
       </trans-unit>
       <trans-unit id="502272" xml:space="preserve">
@@ -7416,7 +7416,7 @@
         <target/>
       </trans-unit>
       <trans-unit id="506188" xml:space="preserve">
-        <source>エリアarにccが|潜伏しています。</source>
+        <source>エリア&lt;area&gt;に&lt;name&gt;が|潜伏しています。</source>
         <target/>
       </trans-unit>
       <trans-unit id="562084" xml:space="preserve">
@@ -7440,7 +7440,7 @@
         <target/>
       </trans-unit>
       <trans-unit id="513480" xml:space="preserve">
-        <source>規定エリア外に|ccが潜伏しています。</source>
+        <source>規定エリア外に|&lt;name&gt;が潜伏しています。</source>
         <target/>
       </trans-unit>
       <trans-unit id="549744" xml:space="preserve">
@@ -7876,15 +7876,15 @@
         <target/>
       </trans-unit>
       <trans-unit id="582269" xml:space="preserve">
-        <source>やってくれますね。|しかし、ccが|しぶとくて助かります。</source>
+        <source>やってくれますね。|しかし、&lt;name&gt;が|しぶとくて助かります。</source>
         <target/>
       </trans-unit>
       <trans-unit id="525449" xml:space="preserve">
-        <source>…ccが|無事なだけで|良しとしましょう。</source>
+        <source>…&lt;name&gt;が|無事なだけで|良しとしましょう。</source>
         <target/>
       </trans-unit>
       <trans-unit id="558393" xml:space="preserve">
-        <source>やられましたか…|ですが、ccが|無事でよかった。</source>
+        <source>やられましたか…|ですが、&lt;name&gt;が|無事でよかった。</source>
         <target/>
       </trans-unit>
       <trans-unit id="514761" xml:space="preserve">
@@ -8140,11 +8140,11 @@
         <target/>
       </trans-unit>
       <trans-unit id="566297" xml:space="preserve">
-        <source>やってくれますね。|ccが無事で|ラッキーでしたが。</source>
+        <source>やってくれますね。|&lt;name&gt;が無事で|ラッキーでしたが。</source>
         <target/>
       </trans-unit>
       <trans-unit id="573097" xml:space="preserve">
-        <source>やられました。|ですがccが|無事なら、まだいけます。</source>
+        <source>やられました。|ですが&lt;name&gt;が|無事なら、まだいけます。</source>
         <target/>
       </trans-unit>
       <trans-unit id="518441" xml:space="preserve">
@@ -8384,15 +8384,15 @@
         <target/>
       </trans-unit>
       <trans-unit id="532973" xml:space="preserve">
-        <source>みんな無事ですかっ！？|cc、|状況報告を！</source>
+        <source>みんな無事ですかっ！？|&lt;name&gt;、|状況報告を！</source>
         <target/>
       </trans-unit>
       <trans-unit id="578305" xml:space="preserve">
-        <source>くそっ…やってくれるな。|でも、ccが|無事でよかった。</source>
+        <source>くそっ…やってくれるな。|でも、&lt;name&gt;が|無事でよかった。</source>
         <target/>
       </trans-unit>
       <trans-unit id="518841" xml:space="preserve">
-        <source>してやられた。|ccは|大丈夫なのか…？</source>
+        <source>してやられた。|&lt;name&gt;は|大丈夫なのか…？</source>
         <target/>
       </trans-unit>
       <trans-unit id="513681" xml:space="preserve">
