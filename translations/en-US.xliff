@@ -1371,29 +1371,29 @@
         <source>相沢失意　ナシ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="661744" xml:space="preserve">
+      <trans-unit id="661744" xml:space="preserve" approved="no">
         <source>伊出普通</source>
-        <target/>
+        <target state="translated">Ide Normal</target>
       </trans-unit>
-      <trans-unit id="663280" xml:space="preserve">
+      <trans-unit id="663280" xml:space="preserve" approved="no">
         <source>伊出ピンチ</source>
-        <target/>
+        <target state="translated">Ide Danger</target>
       </trans-unit>
-      <trans-unit id="661912" xml:space="preserve">
+      <trans-unit id="661912" xml:space="preserve" approved="no">
         <source>伊出決意</source>
-        <target/>
+        <target state="translated">Ide Determined</target>
       </trans-unit>
       <trans-unit id="764284" xml:space="preserve">
         <source>伊出笑い　ナシ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="763772" xml:space="preserve">
+      <trans-unit id="763772" xml:space="preserve" approved="no">
         <source>伊出怒り　ナシ</source>
-        <target/>
+        <target state="translated">Ide Angry N/A</target>
       </trans-unit>
-      <trans-unit id="662608" xml:space="preserve">
+      <trans-unit id="662608" xml:space="preserve" approved="no">
         <source>伊出驚き</source>
-        <target/>
+        <target state="translated">Ide Surprised</target>
       </trans-unit>
       <trans-unit id="763420" xml:space="preserve">
         <source>伊出失意　ナシ</source>
@@ -1427,29 +1427,29 @@
         <source>レスター失意　ナシ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="764028" xml:space="preserve">
+      <trans-unit id="764028" xml:space="preserve" approved="no">
         <source>ジェバンニ普通</source>
-        <target/>
+        <target state="translated">Gevanni Normal</target>
       </trans-unit>
-      <trans-unit id="764924" xml:space="preserve">
+      <trans-unit id="764924" xml:space="preserve" approved="no">
         <source>ジェバンニピンチ</source>
-        <target/>
+        <target state="translated">Gevanni Danger</target>
       </trans-unit>
-      <trans-unit id="764476" xml:space="preserve">
+      <trans-unit id="764476" xml:space="preserve" approved="no">
         <source>ジェバンニ決意</source>
-        <target/>
+        <target state="translated">Gevanni Determined</target>
       </trans-unit>
       <trans-unit id="766140" xml:space="preserve">
         <source>ジェバンニ笑い　ナシ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="766392" xml:space="preserve">
+      <trans-unit id="766392" xml:space="preserve" approved="no">
         <source>ジェバンニ怒り　ナシ</source>
-        <target/>
+        <target state="translated">Gevanni Angry N/A</target>
       </trans-unit>
-      <trans-unit id="764124" xml:space="preserve">
+      <trans-unit id="764124" xml:space="preserve" approved="no">
         <source>ジェバンニ驚き</source>
-        <target/>
+        <target state="translated">Gevanni Surprised</target>
       </trans-unit>
       <trans-unit id="766356" xml:space="preserve">
         <source>ジェバンニ失意　ナシ</source>
@@ -4015,9 +4015,9 @@
         <source>……わかったよ、レム……|これからのＬの出方は大体|わかっている。僕に考えがある……</source>
         <target state="translated">... I understand, Rem ... I'm pretty sure I know what L's planning. I have a plan …</target>
       </trans-unit>
-      <trans-unit id="784780" xml:space="preserve">
+      <trans-unit id="784780" xml:space="preserve" approved="no">
         <source>Ｌの追求を食い止めるべく、|月は逆転の秘策を実行する。</source>
-        <target/>
+        <target state="translated">In order to stop L's investigation, Light put his devious plan into action.</target>
       </trans-unit>
       <trans-unit id="768568" xml:space="preserve" approved="no">
         <source>さよならだ、リューク</source>
@@ -4035,77 +4035,77 @@
         <source>いいだろう……</source>
         <target state="translated">Fine …</target>
       </trans-unit>
-      <trans-unit id="877376" xml:space="preserve">
+      <trans-unit id="877376" xml:space="preserve" approved="no">
         <source>月の策とは、わざとＬにつかまり、|月とミサ、２人がデスノートの|所有権を放棄し、記憶を失うこと|だった。||デスノートの記憶がなければ、|Ｌの頭脳を持ってしても、|２人の口から犯行の自供を|得ることはできない。&gt;&gt;そして、もうひとつ…|いつかまたノートを自分の手に|取り戻す…||月には確信があった。</source>
-        <target/>
+        <target state="translated">Light's plan was to allow himself to be caught by L before he and Misa abandoned their Death Notes, erasing their memories. || It would be impossible to get a confession from them if they had no recollection of the Death Note, even for L. &gt;&gt; The final step ... was to ensure the Death Note came back into his possession. ||Light was confident in his plan.</target>
       </trans-unit>
-      <trans-unit id="842352" xml:space="preserve">
+      <trans-unit id="842352" xml:space="preserve" approved="no">
         <source>月の秘策は狙い通り、Ｌの優勢を|崩した。||月、ミサの拘束中でもキラの裁きは|止まらなかったのだ。||自分の推理にこだわりつつ、Ｌは|２人の疑いを解かざるを得なかった。</source>
-        <target/>
+        <target state="translated">Just as Light had predicted, L's investigation was thrown into disarray. || Kira's punishments continued, despite Light and Misa's confinement. || Though he was still unconvinced, L was forced to begrudgingly release them.</target>
       </trans-unit>
-      <trans-unit id="811868" xml:space="preserve">
+      <trans-unit id="811868" xml:space="preserve" approved="no">
         <source>これから月くんには、私と２４時間|行動を共にし、捜査協力してもらう|という事で手を打ちます。</source>
-        <target/>
+        <target state="translated">Light, I'm willing to compromise under the condition that you stay in my sight 24 hours a day and cooperate with the investigation.</target>
       </trans-unit>
-      <trans-unit id="800288" xml:space="preserve">
+      <trans-unit id="800288" xml:space="preserve" approved="no">
         <source>もはや月をキラであると疑う者は|いなくなった。||だがＬの疑惑は消えなかった。</source>
-        <target/>
+        <target state="translated">By now, all doubts surrounding Light had been dispelled. However, L's suspicions remained.</target>
       </trans-unit>
-      <trans-unit id="822188" xml:space="preserve">
+      <trans-unit id="822188" xml:space="preserve" approved="no">
         <source>月くんの推理力は本当に頼りになる。&gt;&gt;…しかし、まだ月くんが|キラである疑いを完全に|捨てたわけではありません。</source>
-        <target/>
+        <target state="translated">I'm relying on you for your remarkable deductive reasoning ... However, that does not mean I'm completely convinced of your innocence, Light.</target>
       </trans-unit>
-      <trans-unit id="829428" xml:space="preserve">
+      <trans-unit id="829428" xml:space="preserve" approved="no">
         <source>……僕といっしょに捜査しながら、|同時に僕を監視できるというわけか。&gt;&gt;いいだろう。必ずキラを捕まえて、|僕の真の潔白を証明してやるよ。</source>
-        <target/>
+        <target state="translated">... So, you want to investigate together while simultaneously monitoring me ... &gt;&gt; Fine. I'll catch Kira and prove my innocence to you.</target>
       </trans-unit>
-      <trans-unit id="844964" xml:space="preserve">
+      <trans-unit id="844964" xml:space="preserve" approved="no">
         <source>こうして月は、かつての自分自身で|あったキラを追う立場となった。||その時、|すでにデスノートの１冊は|死神レムによって|別の人間の手に渡り、|新たなキラを作り出していた…</source>
-        <target/>
+        <target state="translated">Thus, Light began hunting Kira, his former identity. || At that time, the Shinigami Rem had already handed a Death Note over to someone else, giving birth to a new Kira.</target>
       </trans-unit>
-      <trans-unit id="818340" xml:space="preserve">
+      <trans-unit id="818340" xml:space="preserve" approved="no">
         <source>……では、定例会議を始める。&gt;&gt;我々ヨツバグループの|さらなる飛躍発展のために……&gt;&gt;今週は誰を消すか？</source>
-        <target/>
+        <target state="translated">... Let us begin our weekly meeting. &gt;&gt; In order to further development of the Yostuba Group ... who should we erase this week?</target>
       </trans-unit>
       <trans-unit id="873140" xml:space="preserve">
         <source>世界有数の巨大総合企業グループ・|ヨツバ。||この東京本社の一室で、今日も|悪魔の会議が開かれていた。&gt;&gt;八角形のテーブルを囲み、自社の|利益のために消去する邪魔者を|選定する８人の幹部社員……||今デスノートは、|レムの手によって、彼らの中の|１人に渡っていたのである。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="830876" xml:space="preserve">
+      <trans-unit id="830876" xml:space="preserve" approved="no">
         <source>Ｌ、このデータを見てみろ。|ここ３ヶ月のヨツバグループの|成長グラフだ。&gt;&gt;この３ヶ月で、ヨツバに都合のいい|事件が１３件も発生している。</source>
-        <target/>
+        <target state="translated">L, look at this. It's a graph of the Yotsuba Group's growth over the last 3 months. &gt;&gt; In these 3 months, there have been 13 accidents that were beneficial for Yotsuba.</target>
       </trans-unit>
       <trans-unit id="816948" xml:space="preserve">
         <source>キラであった記憶を失った月は、|いまや捜査本部にこもりきり、|本気でキラを逮捕しようと情熱を|燃やしていた。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="799552" xml:space="preserve">
+      <trans-unit id="799552" xml:space="preserve" approved="no">
         <source>どう思う？　僕には、キラが|ヨツバに肩入れしてるとしか|思えないが。</source>
-        <target/>
+        <target state="translated">What do you think? To me, it's clear that Kira is helping Yotsuba.</target>
       </trans-unit>
-      <trans-unit id="849988" xml:space="preserve">
+      <trans-unit id="849988" xml:space="preserve" approved="no">
         <source>……ヨツバの中にキラがいるのか|わかりませんが、&gt;&gt;キラの仕業だと考え、ヨツバを|徹底的に調べましょう。&gt;&gt;ただし、絶対にヨツバ側に|我々が調べている事を|気付かれないよう……</source>
-        <target/>
+        <target state="translated">... It's unclear whether Kira is part of them, but we should investigate Yotsuba thoroughly under the assumption that this is the work of Kira. &gt;&gt; However, we must ensure that our investigation goes unnoticed by Yotsuba …</target>
       </trans-unit>
-      <trans-unit id="768084" xml:space="preserve">
+      <trans-unit id="768084" xml:space="preserve" approved="no">
         <source>……どうしました？</source>
-        <target/>
+        <target state="translated">... What is it?</target>
       </trans-unit>
-      <trans-unit id="818468" xml:space="preserve">
+      <trans-unit id="818468" xml:space="preserve" approved="no">
         <source>松田さんからの緊急サインです。|それもどうやら|ヨツバ本社内からの様で…&gt;&gt;どうやら気づかれたようです。</source>
-        <target/>
+        <target state="translated">There was an emergency signal from Matsuda. It appears to be coming from within Yotsuba's headquarters ... It seems he has been spotted.</target>
       </trans-unit>
-      <trans-unit id="840892" xml:space="preserve">
+      <trans-unit id="840892" xml:space="preserve" approved="no">
         <source>……松田のバカ……|\T0030\t0002作戦、考え直しです。&gt;&gt;まあとにかく、８人の中に|キラらしき者がいることは|確実になりました。&gt;&gt;あとは、誰がキラなのか……</source>
-        <target/>
+        <target state="translated">... Matsuda, you idiot ... \T0030\t0002 Change of plans. &gt;&gt; Well, this confirms that Kira is amongst those 8 members. Now, we just need to find out who …</target>
       </trans-unit>
-      <trans-unit id="807812" xml:space="preserve">
+      <trans-unit id="807812" xml:space="preserve" approved="no">
         <source>そうだな。こうなったら、会議に|出ていた者たちを直接押さえて|調べるしかなさそうだ。</source>
-        <target/>
+        <target state="translated">You're right. Looks like we'll have to catch the members of that meeting and investigate them directly.</target>
       </trans-unit>
-      <trans-unit id="775748" xml:space="preserve">
+      <trans-unit id="775748" xml:space="preserve" approved="no">
         <source>||||||　　　Ｌ　ｉｓ　ｄｅａｄ．</source>
-        <target/>
+        <target state="translated">||||||　　　 L is dead.</target>
       </trans-unit>
       <trans-unit id="796828" xml:space="preserve">
         <source>とある養護施設の一室で|責任者ロジャーは２人の少年に|ある事実を伝えた…</source>
@@ -7147,21 +7147,21 @@
         <source>どの隠しカメラを|回収しますか？</source>
         <target/>
       </trans-unit>
-      <trans-unit id="533324" xml:space="preserve">
+      <trans-unit id="533324" xml:space="preserve" approved="no">
         <source>隠しカメラを回収します。|よろしいですか？</source>
-        <target/>
+        <target state="translated">Retrieving hidden camera. Are you sure?</target>
       </trans-unit>
-      <trans-unit id="500400" xml:space="preserve">
+      <trans-unit id="500400" xml:space="preserve" approved="no">
         <source>隠しカメラを回収しました。</source>
-        <target/>
+        <target state="translated">Retrieved hidden camera.</target>
       </trans-unit>
-      <trans-unit id="549600" xml:space="preserve">
+      <trans-unit id="549600" xml:space="preserve" approved="no">
         <source>新しいデスノートの所有者を|選択してください。</source>
-        <target/>
+        <target state="translated">Choose the new owner of the Death Note.</target>
       </trans-unit>
-      <trans-unit id="561824" xml:space="preserve">
+      <trans-unit id="561824" xml:space="preserve" approved="no">
         <source>デスノート所有権を|移動します。|よろしいですか？</source>
-        <target/>
+        <target state="translated">Changing ownership of the Death Note. Are you sure?</target>
       </trans-unit>
       <trans-unit id="506044" xml:space="preserve">
         <source>ノートの切れ端を|発見しました。</source>
@@ -7175,29 +7175,29 @@
         <source>トラップを設置します。|よろしいですか？|トラップ設置数|現設置数nn／限設置数nn</source>
         <target state="translated">Set trap?|Number of traps installed:|Current nn／Limit nn</target>
       </trans-unit>
-      <trans-unit id="494396" xml:space="preserve">
+      <trans-unit id="494396" xml:space="preserve" approved="no">
         <source>『cc』リタイア！</source>
-        <target/>
+        <target state="translated">cc was defeated!</target>
       </trans-unit>
-      <trans-unit id="525492" xml:space="preserve">
+      <trans-unit id="525492" xml:space="preserve" approved="no">
         <source>トラップを設置します。|よろしいですか？</source>
-        <target/>
+        <target state="translated">Place a trap. Are you sure?</target>
       </trans-unit>
-      <trans-unit id="519160" xml:space="preserve">
+      <trans-unit id="519160" xml:space="preserve" approved="no">
         <source>検問を有効範囲内に|設置してください。</source>
-        <target/>
+        <target state="translated">Place an inspection point within range.</target>
       </trans-unit>
-      <trans-unit id="611776" xml:space="preserve">
+      <trans-unit id="611776" xml:space="preserve" approved="no">
         <source>検問を設置します。|よろしいですか？|検問設置数|現設置数nn／限設置数nn</source>
-        <target/>
+        <target state="translated">Setting up an inspection point. Are you sure? | Number of inspection points | Current nn／ Maximum nn</target>
       </trans-unit>
-      <trans-unit id="513040" xml:space="preserve">
+      <trans-unit id="513040" xml:space="preserve" approved="no">
         <source>検問を解除します。|よろしいですか？</source>
-        <target/>
+        <target state="translated">Lifting inspection point. Are you sure?</target>
       </trans-unit>
-      <trans-unit id="498188" xml:space="preserve">
+      <trans-unit id="498188" xml:space="preserve" approved="no">
         <source>どの検問を解除しますか？</source>
-        <target/>
+        <target state="translated">Which inspection point do you want to lift?</target>
       </trans-unit>
       <trans-unit id="554112" xml:space="preserve">
         <source>推理マーカーを|全て消します。|よろしいですか？</source>
@@ -7211,17 +7211,17 @@
         <source>推理マーカーを|設置・解除してください。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="533016" xml:space="preserve">
+      <trans-unit id="533016" xml:space="preserve" approved="no">
         <source>目的地までの移動ラインを|引いてください。</source>
-        <target/>
+        <target state="translated">Draw a line of movement to your desired location.</target>
       </trans-unit>
       <trans-unit id="496444" xml:space="preserve">
         <source>捜査員を投入しました。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="584068" xml:space="preserve">
+      <trans-unit id="584068" xml:space="preserve" approved="no">
         <source>容疑者を確保！|しかしこの容疑者はノートを|持っていない！</source>
-        <target/>
+        <target state="translated">Suspect apprehended! But this suspect isn't carrying the notebook!</target>
       </trans-unit>
       <trans-unit id="584128" xml:space="preserve">
         <source>容疑者を確保！|デスノートの所持を確認、|キラを逮捕した！</source>
@@ -13035,9 +13035,9 @@
         <source>回収はしたが|本当によかったのか？</source>
         <target/>
       </trans-unit>
-      <trans-unit id="511445" xml:space="preserve">
+      <trans-unit id="511445" xml:space="preserve" approved="no">
         <source>こちら伊出。|地下鉄で移動するぞ。</source>
-        <target/>
+        <target state="translated">This is Ide. I'm moving by subway.</target>
       </trans-unit>
       <trans-unit id="580321" xml:space="preserve">
         <source>地下鉄か…本部との連絡が|一時不通になるが仕方ないな。</source>
@@ -13435,9 +13435,9 @@
         <source>今から地下鉄で敵を追います。|地上は頼みます。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="541681" xml:space="preserve">
+      <trans-unit id="541681" xml:space="preserve" approved="no">
         <source>こちらジェバンニ。|敵を地下鉄で追跡します。</source>
-        <target/>
+        <target state="translated">This is Gevanni. I'm following the enemy via the subway.</target>
       </trans-unit>
       <trans-unit id="614013" xml:space="preserve">
         <source>地下鉄での移動か…|車のように自由はきかないが、|利用しない手はないな。</source>
@@ -13447,9 +13447,9 @@
         <source>広範囲を捜査するには|高速バスもうまく|利用していかなければ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="610337" xml:space="preserve">
+      <trans-unit id="610337" xml:space="preserve" approved="no">
         <source>こちらジェバンニ。|ここから高速バスに乗ります。|フォローを頼みます。</source>
-        <target/>
+        <target state="translated">This is Gevanni. I'm about to get on an express bus. Back me up.</target>
       </trans-unit>
       <trans-unit id="557717" xml:space="preserve">
         <source>バスか…|到着直後のトラップを|警戒しなければ…</source>
@@ -13475,17 +13475,17 @@
         <source>これ以上の移動手段はないな。|これなら一気にキラ達を|追い詰められるはずだ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="602537" xml:space="preserve">
+      <trans-unit id="602537" xml:space="preserve" approved="no">
         <source>こちらジェバンニ。|空から敵を追跡します。|地上の捜査は頼みます。</source>
-        <target/>
+        <target state="translated">This is Gevanni. I'm following the enemy from the sky. Please continue the investigation on the ground.</target>
       </trans-unit>
       <trans-unit id="496761" xml:space="preserve">
         <source>容疑者を確保しました！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="585689" xml:space="preserve">
+      <trans-unit id="585689" xml:space="preserve" approved="no">
         <source>こちらジェバンニ。|容疑者を逮捕しました。|連行しますか？</source>
-        <target/>
+        <target state="translated">This is Gevanni. I've apprehended a suspect. Should I take them in?</target>
       </trans-unit>
       <trans-unit id="497937" xml:space="preserve">
         <source>おまえはもう終わりだ。</source>
@@ -13555,9 +13555,9 @@
         <source>検問、設置しました。|これでキラ達を追い込めます。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="542209" xml:space="preserve">
+      <trans-unit id="542209" xml:space="preserve" approved="no">
         <source>こちらジェバンニ。|検問設置を完了しました。</source>
-        <target/>
+        <target state="translated">This is Gevanni. I've finished setting up an inspection point.</target>
       </trans-unit>
       <trans-unit id="616673" xml:space="preserve">
         <source>奴等の行動を制限できれば、|我々が勝つチャンスは|それだけ大きくなるはず…</source>
@@ -13611,9 +13611,9 @@
         <source>まさか…見られている？</source>
         <target/>
       </trans-unit>
-      <trans-unit id="522521" xml:space="preserve">
+      <trans-unit id="522521" xml:space="preserve" approved="no">
         <source>こちらジェバンニ。|隠しカメラを回収。</source>
-        <target/>
+        <target state="translated">This is Gevanni. I'm retrieving a hidden camera.</target>
       </trans-unit>
       <trans-unit id="511949" xml:space="preserve">
         <source>回収しました。|次の指示をどうぞ。</source>
@@ -16707,9 +16707,9 @@
         <source>この裏路地は|あまり知られていませんね。</source>
         <target state="translated">Nobody knows about this back alley.</target>
       </trans-unit>
-      <trans-unit id="495029" xml:space="preserve">
+      <trans-unit id="495029" xml:space="preserve" approved="no">
         <source>容疑者を見つけた！</source>
-        <target/>
+        <target state="translated">I found the suspect!</target>
       </trans-unit>
       <trans-unit id="565101" xml:space="preserve">
         <source>レスターだ。容疑者を確認。|このまま尾行するか？</source>
@@ -16719,9 +16719,9 @@
         <source>奴等を発見した。|このまま泳がせるぞ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="494237" xml:space="preserve">
+      <trans-unit id="494237" xml:space="preserve" approved="no">
         <source>容疑者を発見！</source>
-        <target/>
+        <target state="translated">Suspect found!</target>
       </trans-unit>
       <trans-unit id="538561" xml:space="preserve">
         <source>こちらジェバンニ。|容疑者を確認しました。</source>
@@ -16731,9 +16731,9 @@
         <source>容疑者を発見。予定通り|このまま泳がせます。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="513961" xml:space="preserve">
+      <trans-unit id="513961" xml:space="preserve" approved="no">
         <source>こちらハル。|容疑者を発見しました。</source>
-        <target/>
+        <target state="translated">This is Halle. I've found the suspect.</target>
       </trans-unit>
       <trans-unit id="505761" xml:space="preserve">
         <source>容疑者を確認。|尾行しますか？</source>
@@ -16751,13 +16751,13 @@
         <source>目標を発見した。|このまま泳がせるぞ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="524881" xml:space="preserve">
+      <trans-unit id="524881" xml:space="preserve" approved="no">
         <source>模木から本部へ。|目標を発見しました！</source>
-        <target/>
+        <target state="translated">Mogi to HQ. I found the target!</target>
       </trans-unit>
-      <trans-unit id="526637" xml:space="preserve">
+      <trans-unit id="526637" xml:space="preserve" approved="no">
         <source>こちら模木。目標を確認。|尾行しますか？</source>
-        <target/>
+        <target state="translated">This is Mogi. Target confirmed. Should I tail them?</target>
       </trans-unit>
       <trans-unit id="512741" xml:space="preserve">
         <source>目標を発見。|予定通り泳がせます。</source>
@@ -16775,25 +16775,25 @@
         <source>目標を発見。ほんとに|監視だけでいいんですか？</source>
         <target/>
       </trans-unit>
-      <trans-unit id="518361" xml:space="preserve">
+      <trans-unit id="518361" xml:space="preserve" approved="no">
         <source>本部、聞こえるか？|目標を発見した！</source>
-        <target/>
+        <target state="translated">HQ, can you hear me? I found the target!</target>
       </trans-unit>
-      <trans-unit id="542737" xml:space="preserve">
+      <trans-unit id="542737" xml:space="preserve" approved="no">
         <source>こちら伊出。目標確認。|このまま尾行するか？</source>
-        <target/>
+        <target state="translated">This is Ide. I've spotted the target. Should I tail them?</target>
       </trans-unit>
       <trans-unit id="534865" xml:space="preserve">
         <source>目標を発見。このまま|泳がせていいんだな？</source>
         <target/>
       </trans-unit>
-      <trans-unit id="496325" xml:space="preserve">
+      <trans-unit id="496325" xml:space="preserve" approved="no">
         <source>目標を発見しました！</source>
-        <target/>
+        <target state="translated">I've spotted the target!</target>
       </trans-unit>
-      <trans-unit id="499001" xml:space="preserve">
+      <trans-unit id="499001" xml:space="preserve" approved="no">
         <source>目標発見！　監視します！</source>
-        <target/>
+        <target state="translated">Target spotted! I'll keep my eyes on them!</target>
       </trans-unit>
       <trans-unit id="524961" xml:space="preserve">
         <source>目標を確認。|このまま尾行に入ります。</source>
