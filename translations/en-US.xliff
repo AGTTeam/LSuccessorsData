@@ -7543,21 +7543,21 @@
         <source>そのエリアの過半数の|都市カメラが破壊されると、|監視網は機能しません。|注意してください。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="601177" xml:space="preserve">
+      <trans-unit id="601177" xml:space="preserve" approved="no">
         <source>地下鉄に乗るには、駅で|「特殊移動ポイント」を|使ってください。</source>
-        <target/>
+        <target state="translated">In order to movie via the subway, please use Special Movement Points at the station.</target>
       </trans-unit>
-      <trans-unit id="531125" xml:space="preserve">
+      <trans-unit id="531125" xml:space="preserve" approved="no">
         <source>地下鉄は隣の駅までしか|移動できません。</source>
-        <target/>
+        <target state="translated">You can only use the subway to reach the neighboring station.</target>
       </trans-unit>
-      <trans-unit id="627965" xml:space="preserve">
+      <trans-unit id="627965" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」には|限りがあります。|くれぐれもポイント不足に|注意してください。</source>
-        <target/>
+        <target state="translated">You have a limited number of Special Movement Points. Be careful to ensure you do not run out.</target>
       </trans-unit>
-      <trans-unit id="623977" xml:space="preserve">
+      <trans-unit id="623977" xml:space="preserve" approved="no">
         <source>高速バスに乗るには、|バスターミナルで|「特殊移動ポイント」を|使ってください。</source>
-        <target/>
+        <target state="translated">In order to move via express bus, use Special Movement Points at the bus terminal.</target>
       </trans-unit>
       <trans-unit id="569781" xml:space="preserve">
         <source>高速バスは隣のターミナル|までしか移動できません。</source>
