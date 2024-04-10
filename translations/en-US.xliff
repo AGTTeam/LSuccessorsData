@@ -7545,7 +7545,7 @@
       </trans-unit>
       <trans-unit id="601177" xml:space="preserve" approved="no">
         <source>地下鉄に乗るには、駅で|「特殊移動ポイント」を|使ってください。</source>
-        <target state="translated">In order to movie via the subway, please use Special Movement Points at the station.</target>
+        <target state="translated">In order to move via the subway, please use Special Movement Points at the station.</target>
       </trans-unit>
       <trans-unit id="531125" xml:space="preserve" approved="no">
         <source>地下鉄は隣の駅までしか|移動できません。</source>
