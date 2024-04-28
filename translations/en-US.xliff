@@ -519,17 +519,17 @@
         <source>ジョー＝モルトンピンチ</source>
         <target state="translated">Joe Morton Danger</target>
       </trans-unit>
-      <trans-unit id="767656" xml:space="preserve">
+      <trans-unit id="767656" xml:space="preserve" approved="no">
         <source>グレッグ＝ランドルフ普通</source>
-        <target/>
+        <target state="translated">Greg Randolph Normal</target>
       </trans-unit>
-      <trans-unit id="767336" xml:space="preserve">
+      <trans-unit id="767336" xml:space="preserve" approved="no">
         <source>グレッグ＝ランドルフ決意</source>
-        <target/>
+        <target state="translated">Greg Randolph Determined</target>
       </trans-unit>
-      <trans-unit id="768436" xml:space="preserve">
+      <trans-unit id="768436" xml:space="preserve" approved="no">
         <source>グレッグ＝ランドルフピンチ</source>
-        <target/>
+        <target state="translated">Greg Randolph Danger</target>
       </trans-unit>
       <trans-unit id="765960" xml:space="preserve">
         <source>シェイブ＝ベール普通</source>
@@ -543,41 +543,41 @@
         <source>シェイブ＝ベールピンチ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="766464" xml:space="preserve">
+      <trans-unit id="766464" xml:space="preserve" approved="no">
         <source>ロイ＝サンダース普通</source>
-        <target/>
+        <target state="translated">Roy Sanders Normal</target>
       </trans-unit>
-      <trans-unit id="765924" xml:space="preserve">
+      <trans-unit id="765924" xml:space="preserve" approved="no">
         <source>ロイ＝サンダース決意</source>
-        <target/>
+        <target state="translated">Roy Sanders Determined</target>
       </trans-unit>
-      <trans-unit id="766936" xml:space="preserve">
+      <trans-unit id="766936" xml:space="preserve" approved="no">
         <source>ロイ＝サンダースピンチ</source>
-        <target/>
+        <target state="translated">Roy Sanders Danger</target>
       </trans-unit>
-      <trans-unit id="764668" xml:space="preserve">
+      <trans-unit id="764668" xml:space="preserve" approved="no">
         <source>無名捜査員普通</source>
-        <target/>
+        <target state="translated">Unnamed Investigator Normal</target>
       </trans-unit>
-      <trans-unit id="763356" xml:space="preserve">
+      <trans-unit id="763356" xml:space="preserve" approved="no">
         <source>無名捜査員決意</source>
-        <target/>
+        <target state="translated">Unnamed Investigator Determined</target>
       </trans-unit>
-      <trans-unit id="764732" xml:space="preserve">
+      <trans-unit id="764732" xml:space="preserve" approved="no">
         <source>無名捜査員ピンチ</source>
-        <target/>
+        <target state="translated">Unnamed Investigator Danger</target>
       </trans-unit>
-      <trans-unit id="666024" xml:space="preserve">
+      <trans-unit id="666024" xml:space="preserve" approved="no">
         <source>ギャング普通</source>
-        <target/>
+        <target state="translated">Gangster Normal</target>
       </trans-unit>
-      <trans-unit id="665660" xml:space="preserve">
+      <trans-unit id="665660" xml:space="preserve" approved="no">
         <source>ギャング決意</source>
-        <target/>
+        <target state="translated">Gangster Determined</target>
       </trans-unit>
-      <trans-unit id="764188" xml:space="preserve">
+      <trans-unit id="764188" xml:space="preserve" approved="no">
         <source>ギャングピンチ</source>
-        <target/>
+        <target state="translated">Gangster Danger</target>
       </trans-unit>
       <trans-unit id="665688" xml:space="preserve" approved="no">
         <source>キラ信者普通</source>
