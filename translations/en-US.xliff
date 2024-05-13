@@ -9875,13 +9875,13 @@
         <source>エリアにあるカメラの|過半数を破壊すれば|監視機能はダウンする。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="537373" xml:space="preserve">
+      <trans-unit id="537373" xml:space="preserve" approved="no">
         <source>仲間の移動はタッチペンを|使えばいいのよ。</source>
-        <target/>
+        <target state="translated">You can use your stylus to move allies.</target>
       </trans-unit>
-      <trans-unit id="615229" xml:space="preserve">
+      <trans-unit id="615229" xml:space="preserve" approved="no">
         <source>コマンドを実行すると、|表示される範囲が、その|コマンドの有効範囲だよ。</source>
-        <target/>
+        <target state="translated">The area displayed when you use a command is that command's range of effect.</target>
       </trans-unit>
       <trans-unit id="628601" xml:space="preserve">
         <source>捜査員をリタイアさせたり|メンバーが逮捕されると|勝利ポイントが増えたり|減ったりするよ。</source>
@@ -9919,9 +9919,9 @@
         <source>「変装」すれば自分の姿を|変えられるから、カメラを|だませるかもね。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="574945" xml:space="preserve">
+      <trans-unit id="574945" xml:space="preserve" approved="no">
         <source>変装は、たまにバレちゃう|事もあるから気をつけてね。</source>
-        <target/>
+        <target state="translated">Sometimes people will see through your disguise, so be careful.</target>
       </trans-unit>
       <trans-unit id="554977" xml:space="preserve">
         <source>トラップが発動すれば、|捜査員はリタイアだよ。</source>
