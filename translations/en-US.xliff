@@ -387,9 +387,9 @@
         <source>もうすぐだ。|もうすぐ新世界が始まる！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="664400" xml:space="preserve">
+      <trans-unit id="664400" xml:space="preserve" approved="no">
         <source>奈南川普通</source>
-        <target/>
+        <target state="translated">Namikawa Normal</target>
       </trans-unit>
       <trans-unit id="664428" xml:space="preserve" approved="no">
         <source>奈南川決意</source>
@@ -1907,9 +1907,9 @@
         <source>||||||　　　　　……あった！</source>
         <target state="translated">||||||…There it is!</target>
       </trans-unit>
-      <trans-unit id="798356" xml:space="preserve">
+      <trans-unit id="798356" xml:space="preserve" approved="no">
         <source>月が記憶を失う前に隠した|デスノート。|それは以前の場所にそのままあった。</source>
-        <target/>
+        <target state="translated">It was the Death Note that Light had hidden before he lost his memories. It was in its original spot.</target>
       </trans-unit>
       <trans-unit id="808136" xml:space="preserve">
         <source>……誰も手を触れていない。|そして、このノートに再び|僕が手を触れたということは……</source>
@@ -1919,9 +1919,9 @@
         <source>はーっ、|やっと人間界に戻ってこれたぜ。</source>
         <target state="translated">Phew, I finally made it back to the Human World.</target>
       </trans-unit>
-      <trans-unit id="770488" xml:space="preserve">
+      <trans-unit id="770488" xml:space="preserve" approved="no">
         <source>リューク。久しぶりだな。</source>
-        <target/>
+        <target state="translated">Ryuk. Long time no see.</target>
       </trans-unit>
       <trans-unit id="853244" xml:space="preserve">
         <source>クックック……よう、月。|計画通り、そのノートを|また手に入れたようだな。&gt;&gt;しかし、おまえさん、また大勢、|尾行を背負ってるじゃないか。&gt;&gt;うまくここから逃げる手立ては|あるのか？</source>
@@ -2019,9 +2019,9 @@
         <source>ただし、キラは\c04『デスノート』\c02|という武器を持っています。&gt;&gt;デスノートによって仕掛けられた|\c04『トラップ』\c02を踏んでしまうと&gt;&gt;捜査員は\c04『リタイア』\c02して|しまいます。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="794892" xml:space="preserve">
+      <trans-unit id="794892" xml:space="preserve" approved="no">
         <source>我々捜査員が最も注意すべき|項目の１つが\c04トラップ\c02です。</source>
-        <target/>
+        <target state="translated">What we investigators should be most on guard for is \c04traps\c02.</target>
       </trans-unit>
       <trans-unit id="802620" xml:space="preserve" approved="no">
         <source>トラップを見破り、|キラに『正義は必ず勝つ』|ということを見せてあげましょう。</source>
@@ -2939,9 +2939,9 @@
         <source>（くそっ……逃がすものか！）</source>
         <target state="translated">(Damn it ... Like hell I'm letting him get away!)</target>
       </trans-unit>
-      <trans-unit id="775524" xml:space="preserve">
+      <trans-unit id="775524" xml:space="preserve" approved="no">
         <source>||||||　　　　……勝った……</source>
-        <target/>
+        <target state="translated">||||||…I’ve won…</target>
       </trans-unit>
       <trans-unit id="765816" xml:space="preserve" approved="no">
         <source>うっ……！</source>
@@ -2963,9 +2963,9 @@
         <source>||||||　　　　　\S12……計画通り。</source>
         <target state="translated">||||||　　　　　\S12 ... All according to plan.</target>
       </trans-unit>
-      <trans-unit id="798264" xml:space="preserve">
+      <trans-unit id="798264" xml:space="preserve" approved="no">
         <source>すべての記憶を蘇らせた今、|月は自分の理想の世界への野望を|新たに燃やす。</source>
-        <target/>
+        <target state="translated">As his memories sparked back to life, so too did Light’s ambition to build his own ideal world.</target>
       </trans-unit>
       <trans-unit id="829748" xml:space="preserve" approved="no">
         <source>一方、捜査本部は、火口逮捕は|ならなかったものの、デスノートと|死神の存在を押さえたことで、|これ以上のキラの犯行は防げる…|…と期待していた。</source>
@@ -4111,13 +4111,13 @@
         <source>とある養護施設の一室で|責任者ロジャーは２人の少年に|ある事実を伝えた…</source>
         <target state="translated">That was what the caretaker of one particular orphanage, Roger, told the two youths before him. The truth.</target>
       </trans-unit>
-      <trans-unit id="767496" xml:space="preserve">
+      <trans-unit id="767496" xml:space="preserve" approved="no">
         <source>Ｌが倒された……</source>
-        <target/>
+        <target state="translated">Or rather… he was killed.</target>
       </trans-unit>
       <trans-unit id="823856" xml:space="preserve" approved="no">
         <source>な、なんで……キ…キラに|やられたって事か！？&gt;&gt;キラを裁きにかけるって言ったのに、|やられたって…そう言うのか！？</source>
-        <target state="translated">Wh-what…? K…Kira got him!? &gt;&gt;Even though he promised to pass judgment on Kira, he was killed… you're joking!</target>
+        <target state="translated">Wh-what? K…Kira got him!? &gt;&gt;Even though he promised to pass judgment on Kira, he got himself killed instead… you're joking!</target>
       </trans-unit>
       <trans-unit id="766032" xml:space="preserve" approved="no">
         <source>……メロ……</source>
@@ -4137,7 +4137,7 @@
       </trans-unit>
       <trans-unit id="812100" xml:space="preserve" approved="no">
         <source>……無理だよ、ロジャー。&gt;&gt;僕とニアが仲良くないのは|わかってるだろ……|いつも僕は二番……</source>
-        <target state="translated">…That's impossible, Roger. &gt;&gt;You know Near and I don't get along. I'm always second place.</target>
+        <target state="translated">…That's impossible, Roger. &gt;&gt;You know Near and I don't get along… I'm always second place…</target>
       </trans-unit>
       <trans-unit id="802120" xml:space="preserve" approved="no">
         <source>いいよ、ロジャー。|Ｌを継ぐのはニアだ。|僕は出て行くよ……この施設から。</source>
@@ -4159,85 +4159,85 @@
         <source>夜神月、警察庁に入庁。|情報通信局情報管理課に配属。||そして数年前から、Ｌの後を継いで|世界中の情報を追跡する、|キラ捜査班の実質的リーダー。||もちろんそれは表向きのことであり、|裏ではキラとして着々と|新世界創世への準備を進めていた。</source>
         <target state="translated">Light Yagami enters the National Police Agency and is assigned to the Intelligence and Information Bureau. Ever since succeeding L all those years ago, he has been acting as the de facto leader of the Kira Task Force as they track information from all around the world.||Of course, this is all just a facade. As Kira, his preparations for the New World are well underway.</target>
       </trans-unit>
-      <trans-unit id="847432" xml:space="preserve">
+      <trans-unit id="847432" xml:space="preserve" approved="no">
         <source>（警察内部での足場も固めた。|僕は今、Ｌであり、キラでもある）&gt;&gt;（もう誰も|僕を止められる者はいない）&gt;&gt;（こんなに簡単にいくとは…|…やはりＬがいないとぬるい……）</source>
-        <target/>
+        <target state="translated">(I've cemented my place in the police force. Now I am L, and also Kira.)&gt;&gt;(No one can stop me now.)&gt;&gt;(Everything is going so smoothly…|…It's almost too easy without L around…)</target>
       </trans-unit>
-      <trans-unit id="867520" xml:space="preserve">
+      <trans-unit id="867520" xml:space="preserve" approved="no">
         <source>世界はキラに対する表向きの非難と|裏の声援とに二分され、|徐々に裏の声が表に出始める。||そしてついに「キラは正義だ」という|者だけでなく「キラを認める」と|表明する国すら現れる。||キラが法となる暗黒の時代へ、|世界は向かいつつあった……</source>
-        <target/>
+        <target state="translated">The world's reaction to Kira is split between outward condemnation and internal approval. More and more, the latter is winning out.||And finally, not only do many publicly proclaim that "Kira is justice," even some countries are announcing their support of Kira.||The world continues towards a dark age where Kira is the law…</target>
       </trans-unit>
-      <trans-unit id="825436" xml:space="preserve">
+      <trans-unit id="825436" xml:space="preserve" approved="no">
         <source>（もう少しだ……遠い未来ではない）&gt;&gt;（理想の世界……|キラが全ての者に認められ神となる|新世界は、もうそこまで来ている）</source>
-        <target/>
+        <target state="translated">(Just a little longer… It's not far off now.)&gt;&gt;(My ideal world…|A world where everyone accepts Kira as their god… It's almost here.)</target>
       </trans-unit>
       <trans-unit id="799828" xml:space="preserve" approved="no">
         <source>『月く……い、いやＬ！　大変だ！|粧裕（さゆ）ちゃんが誘拐された！』</source>
-        <target state="translated">Ligh…I, I mean, L! This is bad! Sayu was just kidnapped!</target>
+        <target state="translated">Ligh… I, I mean, L! This is bad! Sayu was just kidnapped!</target>
       </trans-unit>
       <trans-unit id="772136" xml:space="preserve" approved="no">
         <source>！　何だって……粧裕が！？</source>
         <target state="translated">! What the… Sayu!?</target>
       </trans-unit>
-      <trans-unit id="856192" xml:space="preserve">
+      <trans-unit id="856192" xml:space="preserve" approved="no">
         <source>夜神粧裕は月の妹であり、|警察庁次長・夜神総一郎の娘である。||だが、粧裕自身はキラ事件には|何の関わりもない。||そもそも、総一郎がキラ捜査本部の|トップという事実さえ、|警察外部には極秘なのだ。</source>
-        <target/>
+        <target state="translated">Sayu Yagami was Light's younger sister, and the daughter of the deputy director, Soichiro Yagami.||But Sayu herself had nothing to do with the Kira case.||Besides, the fact that Soichiro was heading the Kira investigation was top secret, even to outside members of the police.</target>
       </trans-unit>
       <trans-unit id="775916" xml:space="preserve" approved="no">
         <source>バカな…　犯人の要求は何だ！？</source>
         <target state="translated">Damn it… What do they want?!</target>
       </trans-unit>
-      <trans-unit id="791804" xml:space="preserve">
+      <trans-unit id="791804" xml:space="preserve" approved="no">
         <source>『…それが…粧裕さんの身柄と|デスノートの交換です！！』</source>
-        <target/>
+        <target state="translated">…In exchange for her safety… they want the Death Note!</target>
       </trans-unit>
-      <trans-unit id="861108" xml:space="preserve">
+      <trans-unit id="861108" xml:space="preserve" approved="no">
         <source>（！…誰が…何の目的で？）&gt;&gt;（デスノートの存在を知る者は、|警察の中でも数人しかいない…）&gt;&gt;（いや、仮に火口逮捕時の|関係者からもれたとしても）&gt;&gt;（ノートの力を信じ、こんな事件を|起こす者がいるとは…）</source>
-        <target/>
+        <target state="translated">(! Who… and why?)&gt;&gt;(Nobody knows about the Death Note, not even most of the police…)&gt;&gt;(Wait. What if it was leaked during Higuchi's arrest?)&gt;&gt;(Someone who believes in the power of the Note… and is going this far to get it…)</target>
       </trans-unit>
-      <trans-unit id="770584" xml:space="preserve">
+      <trans-unit id="770584" xml:space="preserve" approved="no">
         <source>……取引の日時と場所は？</source>
-        <target/>
+        <target state="translated">…When and where do they want it?</target>
       </trans-unit>
-      <trans-unit id="818596" xml:space="preserve">
+      <trans-unit id="818596" xml:space="preserve" approved="no">
         <source>『２日後、|ＬＡ（ロサンゼルス）です。&gt;&gt;『相手は、次長１人でノートを|持ってくるように要求しています』</source>
-        <target/>
+        <target state="translated">Two days later, in Los Angeles.&gt;&gt;They're requesting the deputy director to come alone with the Note.</target>
       </trans-unit>
-      <trans-unit id="779428" xml:space="preserve">
+      <trans-unit id="779428" xml:space="preserve" approved="no">
         <source>何だと？|それじゃ、犯人はアメリカに？</source>
-        <target/>
+        <target state="translated">What the—?|So the kidnapper is in America?</target>
       </trans-unit>
-      <trans-unit id="861572" xml:space="preserve">
+      <trans-unit id="861572" xml:space="preserve" approved="no">
         <source>新世界創造を目前に、新たに|起こったデスノートをめぐる陰謀。||月はやむを得ず、Ｌとしてアメリカの|ＦＢＩに粧裕誘拐事件解決の協力を|あおぐことにする。||しかし、ＦＢＩ長官との通話中、|突然、何者かが割り込んできた。</source>
-        <target/>
+        <target state="translated">Just when the world had almost been remade, a new conspiracy ensnared the Death Note.||Light had no choice but to, as L, ask the FBI for help to save Sayu.||But as he was on the phone with the Chief of the FBI — suddenly, a new voice cut in.</target>
       </trans-unit>
-      <trans-unit id="779492" xml:space="preserve">
+      <trans-unit id="779492" xml:space="preserve" approved="no">
         <source>||||||　　『二代目Ｌ、はじめまして』</source>
-        <target/>
+        <target state="translated">||||||Nice to meet you, L number two.</target>
       </trans-unit>
-      <trans-unit id="786076" xml:space="preserve">
+      <trans-unit id="786076" xml:space="preserve" approved="no">
         <source>！……二代目？|どういうことですか？　あなたは？</source>
-        <target/>
+        <target state="translated">! …Number two? What do you mean by that? …And who might you be?</target>
       </trans-unit>
-      <trans-unit id="802220" xml:space="preserve">
+      <trans-unit id="802220" xml:space="preserve" approved="no">
         <source>『私達はＬに頼らず|キラを捕まえるために|新しく創られた組織、ＳＰＫです』</source>
-        <target/>
+        <target state="translated">We are a new group known as the SPK, which has been established to capture Kira independent of L.</target>
       </trans-unit>
-      <trans-unit id="793044" xml:space="preserve">
+      <trans-unit id="793044" xml:space="preserve" approved="no">
         <source>『そして私がＳＰＫの中心にいる……|そうですね……Ｎです』</source>
-        <target/>
+        <target state="translated">And I am at the center of the SPK… Oh, that's right. I am N.</target>
       </trans-unit>
-      <trans-unit id="815584" xml:space="preserve">
+      <trans-unit id="815584" xml:space="preserve" approved="no">
         <source>（Ｎ……？　ふざけているのか？|しかし、この雰囲気は…何なんだ？|まるでＬと話しているような……）</source>
-        <target/>
+        <target state="translated">(N…? Is this a joke or something? But this strange atmosphere… what is this? It's almost like I'm talking to L…)</target>
       </trans-unit>
       <trans-unit id="859488" xml:space="preserve">
         <source>『私はこの事件がキラ逮捕に|つながる可能性を秘めていると|考えています』&gt;&gt;『ですから、そちらへも|全面的に協力したいと思います』&gt;&gt;『ＬＡにできる限りの捜査員を集め、|全域を衛星カメラで見張らせます』</source>
         <target/>
       </trans-unit>
-      <trans-unit id="815708" xml:space="preserve">
+      <trans-unit id="815708" xml:space="preserve" approved="no">
         <source>（こいつとは関わらない方が？……|いや…もう遅い……ここはひとまず、|二代目Ｌになりきるしかない）</source>
-        <target/>
+        <target state="translated">(Would it be better not to get involved with this guy? …No, it's too late for that… For now, I have no choice but to play L number two.)</target>
       </trans-unit>
       <trans-unit id="813284" xml:space="preserve">
         <source>わかりました、Ｎ。感謝します。|ひとまずこちらが指揮をとり、|夜神粧裕の救出に全力をあげます。</source>
@@ -4249,7 +4249,7 @@
       </trans-unit>
       <trans-unit id="776756" xml:space="preserve" approved="no">
         <source>||||||　　　\S12この世は腐ってる…</source>
-        <target state="translated">This world is rotten.</target>
+        <target state="translated">||||||This world is rotten.</target>
       </trans-unit>
       <trans-unit id="827540" xml:space="preserve" approved="no">
         <source>高校生・夜神　月は腐敗した世界と|退屈な日常にうんざりしていた。\T0030||\t0002そんなある日、彼は偶然、|１冊の奇妙なノートを手に入れる。</source>
@@ -4301,7 +4301,7 @@
       </trans-unit>
       <trans-unit id="857708" xml:space="preserve" approved="no">
         <source>キラ……&gt;&gt;Ｋｉｌｌｅｒ（殺し屋）から|来てるらしいのが|少し気に入らないが、&gt;&gt;僕はもう世界的に|『キラ』になってる。&gt;&gt;世界中の人間が|もう感じてきているんだ。|正義の裁きをする者の存在を。</source>
-        <target state="translated">I think they've taken the name Kira from the english word killer.&gt;&gt;Can't say I'm too happy about that, but...&gt;&gt;The people of the world can already sense that there's something happening.&gt;&gt;They know there's someone out their passing righteous judgement.</target>
+        <target state="translated">I think they've taken the name Kira from the english word "killer."&gt;&gt;Can't say I'm too happy about that, but...&gt;&gt;The people of the world can already sense that there's something happening.&gt;&gt;They know there's someone out there passing righteous judgement.</target>
       </trans-unit>
       <trans-unit id="876744" xml:space="preserve" approved="no">
         <source>リュークに見守られつつ、|犯罪者を消し続ける月。||世界中の凶悪犯罪者を突如襲った|謎の事態は、人々の間で|もちきりとなり、|またインターポールでも|キラの正体解明に乗り出していた。||世論はまだ|「こんな勝手な行動を許すな」と|叫んでいたが、その裏で確実に|キラの活躍を賞賛する声も|高まっていた。</source>
@@ -4345,7 +4345,7 @@
       </trans-unit>
       <trans-unit id="787760" xml:space="preserve" approved="no">
         <source>||||||リンド\t0045・\t0002Ｌ\t0045・\t0002テイラー…</source>
-        <target state="translated">||||||Lind\t0045.\t0002Ｌ\t0045.\t0002Tailor</target>
+        <target state="translated">||||||Lind\t0045.\t0002L\t0045.\t0002Tailor</target>
       </trans-unit>
       <trans-unit id="768040" xml:space="preserve" approved="no">
         <source>『……う……っ…』</source>
@@ -4403,17 +4403,17 @@
         <source>必ずお前を探し出して始末する！！</source>
         <target state="translated">I will hunt you down wherever you're hiding, and I will eliminate you!</target>
       </trans-unit>
-      <trans-unit id="785068" xml:space="preserve">
+      <trans-unit id="785068" xml:space="preserve" approved="no">
         <source>やはり…\t0030|\t0002私は間違っていなかった。</source>
-        <target/>
+        <target state="translated">I knew it…\t0030|\t0002I wasn't wrong.</target>
       </trans-unit>
       <trans-unit id="770392" xml:space="preserve" approved="no">
         <source>Ｌ、火口を確保しました。</source>
         <target state="translated">L, we've apprehended Higuchi.</target>
       </trans-unit>
-      <trans-unit id="808788" xml:space="preserve">
+      <trans-unit id="808788" xml:space="preserve" approved="no">
         <source>火口、どうやって裁きをしてきた？&gt;&gt;キラとして|どうやって人を裁いてきた？|言うんだ！</source>
-        <target/>
+        <target state="translated">How did you pass down your judgments, Higuchi?&gt;&gt;How did you judge people as Kira? Speak!</target>
       </trans-unit>
       <trans-unit id="768700" xml:space="preserve" approved="no">
         <source>『……ノートだ……』</source>
@@ -4443,65 +4443,65 @@
         <source>ば……化物……！！</source>
         <target state="translated">A ... a monster!!</target>
       </trans-unit>
-      <trans-unit id="836116" xml:space="preserve">
+      <trans-unit id="836116" xml:space="preserve" approved="no">
         <source>デスノートをさわった者には、|そのノートに憑いている死神が|見えるのだ。||ノートにさわった捜査員たちも、|レムの姿をそこに確認して|パニックに陥っていく。</source>
-        <target/>
+        <target state="translated">Anyone who touches a Death Note will be able to see the Shinigami possessing that notebook.||After touching the notebook, even the investigators could see Rem now. They flew into a panic.</target>
       </trans-unit>
-      <trans-unit id="791564" xml:space="preserve">
+      <trans-unit id="791564" xml:space="preserve" approved="no">
         <source>夜神さん、落ち着いて。|そのノートを持ってきてください…</source>
-        <target/>
+        <target state="translated">Stay calm, Yagami. And please bring me that notebook…</target>
       </trans-unit>
-      <trans-unit id="769624" xml:space="preserve">
+      <trans-unit id="769624" xml:space="preserve" approved="no">
         <source>『わ……わかった……』</source>
-        <target/>
+        <target state="translated">U-understood.</target>
       </trans-unit>
-      <trans-unit id="796652" xml:space="preserve">
+      <trans-unit id="796652" xml:space="preserve" approved="no">
         <source>そして、ついにＬもノートを|手に取り、死神レムの姿を|目にするのだった。</source>
-        <target/>
+        <target state="translated">Finally, L himself touched the notebook, and saw the Shinigami Rem with his own eyes.</target>
       </trans-unit>
-      <trans-unit id="792624" xml:space="preserve">
+      <trans-unit id="792624" xml:space="preserve" approved="no">
         <source>！！……死神……ですね……|本当に……いた……んですね……</source>
-        <target/>
+        <target state="translated">!! …It's… a Shinigami… They… really do exist…</target>
       </trans-unit>
-      <trans-unit id="778200" xml:space="preserve">
+      <trans-unit id="778200" xml:space="preserve" approved="no">
         <source>Ｌ、本当なのか！？|僕にもノートを。</source>
-        <target/>
+        <target state="translated">Is it true, L?! Let me touch it, too!</target>
       </trans-unit>
-      <trans-unit id="859948" xml:space="preserve">
+      <trans-unit id="859948" xml:space="preserve" approved="no">
         <source>（……これが……キラの手段……|ノート……青山で…ノートを見せ|合う……夜神月……弥……青山で|会……った……ノート……キラ…|…第２のキラ……）|||\T0060\t0008（ノートは…|　　…２冊以上存在している……）</source>
-        <target/>
+        <target state="translated">(This is how Kira kills… The notebook… Aoyama… "Show each other our notebooks"… Light Yagami, Amane, they met at Aoyama… The notebook… Kira… The second Kira…) |||\T0060\t0008(There are at least two notebooks…)</target>
       </trans-unit>
-      <trans-unit id="781028" xml:space="preserve">
+      <trans-unit id="781028" xml:space="preserve" approved="no">
         <source>||||||　（まだ……終わっていない……）</source>
-        <target/>
+        <target state="translated">||||||(…This isn't over yet…)</target>
       </trans-unit>
-      <trans-unit id="775468" xml:space="preserve">
+      <trans-unit id="775468" xml:space="preserve" approved="no">
         <source>||||||　　　うぐあぁあぁあ！！</source>
-        <target/>
+        <target state="translated">||||||AHHHHHHHHHHH!</target>
       </trans-unit>
-      <trans-unit id="768216" xml:space="preserve">
+      <trans-unit id="768216" xml:space="preserve" approved="no">
         <source>！　月くん……！？</source>
-        <target/>
+        <target state="translated">! Light…?!</target>
       </trans-unit>
-      <trans-unit id="864228" xml:space="preserve">
+      <trans-unit id="864228" xml:space="preserve" approved="no">
         <source>『さよならだ、リューク』|\T0045\t0002|『僕は一時的に、デスノートの|所有権を放棄することになる……|しかし、あくまで一時的にだ』|\T0045\t0002|『所有権を放棄すれば、|デスノートに関するあらゆる記憶は|失われる。しかし……』</source>
-        <target/>
+        <target state="translated">"This is goodbye, Ryuk."|\T0045\t0002|"I'm giving up my ownership of the Death Note… but only temporarily."|\T0045\t0002|"If I forfeit ownership, I lose all my memories associated with the Death Note. But…"</target>
       </trans-unit>
-      <trans-unit id="854076" xml:space="preserve">
+      <trans-unit id="854076" xml:space="preserve" approved="no">
         <source>『もう一度ノートに触れれば、|すべての記憶が蘇る。|そこが狙いだ』|\T0045\t0002|『レムには|新たなキラを作ってもらう』|\T0045\t0002|『記憶を失った僕は、|そのキラを追う身となるだろう』</source>
-        <target/>
+        <target state="translated">"If I touch the notebook again, all my memories will come back. That's the goal."|\T0045\t0002|"Rem will make a new Kira for us."|\T0045\t0002|"And, after losing my memories, I'll become one of the people chasing that Kira."</target>
       </trans-unit>
-      <trans-unit id="834568" xml:space="preserve">
+      <trans-unit id="834568" xml:space="preserve" approved="no">
         <source>『そして僕は、Ｌと一緒に|そのキラを捕まえる……|その時……』|\T0045\t0002|『デスノートに触れて記憶を|取り戻す瞬間は必ずくる。|僕には自信がある』</source>
-        <target/>
+        <target state="translated">"And then, along with L, I'll capture that Kira… That's when…"|\T0045\t0002|"I'll touch the Death Note, and all my memories will return. It'll definitely happen. Because I believe in myself."</target>
       </trans-unit>
       <trans-unit id="789052" xml:space="preserve" approved="no">
         <source>||||||『必ずその時はくる……\T0045\t0002必ず……』</source>
         <target state="translated">||||||The time will come...\T0045\t0002I'm certain of it.</target>
       </trans-unit>
-      <trans-unit id="774796" xml:space="preserve">
+      <trans-unit id="774796" xml:space="preserve" approved="no">
         <source>||||||　　　　……勝った……</source>
-        <target/>
+        <target state="translated">||||||…I've won…</target>
       </trans-unit>
       <trans-unit id="873428" xml:space="preserve">
         <source>アメリカがキラに屈した……|衝撃の記者会見の後、世界は一気に|キラ肯定へ傾いていった。||いまだ反キラを叫ぶ勢力もあったが、|その声は弱く、キラを妄信する人々|に圧倒されつつあった。||合衆国政府は次いで対キラ特務機関|ＳＰＫの解散を発表。|ニア達は非合法組織に転落した…</source>
@@ -4515,13 +4515,13 @@
         <source>…いや、私達も最後までキラと戦う。|でなければ、倒された他の仲間に|申し訳が立たない。&gt;&gt;だから、ニア……そろそろ、|キラの正体に関する考えを|聞かせてくれないか。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="777960" xml:space="preserve">
+      <trans-unit id="777960" xml:space="preserve" approved="no">
         <source>||||||　　　キラは二代目Ｌです。</source>
-        <target/>
+        <target state="translated">||||||Kira is the second L.</target>
       </trans-unit>
-      <trans-unit id="800012" xml:space="preserve">
+      <trans-unit id="800012" xml:space="preserve" approved="no">
         <source>可能性は７％くらいですが、|そう考えると全てのつじつまが|合います。</source>
-        <target/>
+        <target state="translated">The possibility is only 7%, but if we assume it's true, everything comes together.</target>
       </trans-unit>
       <trans-unit id="843088" xml:space="preserve">
         <source>Ｌが日本警察の内部にいること、|Ｌと総一郎の関係、|独特な立場などを分析した結果…||初代Ｌさえしのぐ推理力で、|ニアは、キラ＝Ｌすなわち夜神月|との結論に達していた。</source>
@@ -4867,9 +4867,9 @@
         <source>もうすぐ４０秒…あと…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="792204" xml:space="preserve">
+      <trans-unit id="792204" xml:space="preserve" approved="no">
         <source>||||||５・\T0060\t0000４・\T0060\t0000３・\T0060\t0000２…</source>
-        <target/>
+        <target state="translated">||||||5… \T0060\t0000 4… \T0060\t0000 3… \T0060\t0000 2…</target>
       </trans-unit>
       <trans-unit id="769480" xml:space="preserve">
         <source>う…うわああああっ！！</source>
@@ -5119,9 +5119,9 @@
         <source>もうすぐ４０秒です…あと…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="793632" xml:space="preserve">
+      <trans-unit id="793632" xml:space="preserve" approved="no">
         <source>||||||５・\T0060\t0000４・\T0060\t0000３・\T0060\t0000２…</source>
-        <target/>
+        <target state="translated">||||||5… \T0060\t0000 4… \T0060\t0000 3… \T0060\t0000 2…</target>
       </trans-unit>
       <trans-unit id="768304" xml:space="preserve">
         <source>ニア、僕の勝ちだ！</source>
@@ -5287,13 +5287,13 @@
         <source>||デスノートに名前を書き込まれたら、|どんな事をしても取り消せない。|\T0015\t0002おまえが一番よく知っているはずだ。|\T0030\t0002||デスノートを使った人間が天国や|地獄にいけると思うな。|\T0015\t0002||…最初にそう言っただろう。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="784420" xml:space="preserve">
+      <trans-unit id="784420" xml:space="preserve" approved="no">
         <source>||||||　　　さよならだ、\T0045\t0002夜神月。</source>
-        <target/>
+        <target state="translated">||||||This is goodbye, \T0045\t0002Light Yagami.</target>
       </trans-unit>
-      <trans-unit id="784492" xml:space="preserve">
+      <trans-unit id="784492" xml:space="preserve" approved="no">
         <source>||||||　　　ち…\T0060\t0002ちくしょう………</source>
-        <target/>
+        <target state="translated">||||||D…\T0060\t0002Damn it all…</target>
       </trans-unit>
       <trans-unit id="865984" xml:space="preserve">
         <source>キラ＝夜神月が消えて一年。||世界はすでにキラが現れる前の|退屈で堕落した日常に戻り、|重大犯罪も増加していった。||\T0060\t0002この日常に安心する者。||\T0060\t0002キラの裁きの再開を願う者。||\T0060\t0002人々の思いはそれぞれだった。</source>
@@ -5923,13 +5923,13 @@
         <source>大山</source>
         <target state="translated">Ooyama</target>
       </trans-unit>
-      <trans-unit id="493388" xml:space="preserve">
+      <trans-unit id="493388" xml:space="preserve" approved="no">
         <source>ジョー</source>
-        <target/>
+        <target state="translated">Joe</target>
       </trans-unit>
-      <trans-unit id="493692" xml:space="preserve">
+      <trans-unit id="493692" xml:space="preserve" approved="no">
         <source>グレッグ</source>
-        <target/>
+        <target state="translated">Greg</target>
       </trans-unit>
       <trans-unit id="493644" xml:space="preserve">
         <source>シェイブ</source>
@@ -5943,13 +5943,13 @@
         <source>捜査員</source>
         <target/>
       </trans-unit>
-      <trans-unit id="493740" xml:space="preserve">
+      <trans-unit id="493740" xml:space="preserve" approved="no">
         <source>ギャング</source>
-        <target/>
+        <target state="translated">Gangster</target>
       </trans-unit>
-      <trans-unit id="493776" xml:space="preserve">
+      <trans-unit id="493776" xml:space="preserve" approved="no">
         <source>キラ信者</source>
-        <target/>
+        <target state="translated">Kira Follower</target>
       </trans-unit>
       <trans-unit id="584969" xml:space="preserve">
         <source>その場所のカバーは|もう十分でしょう。|他をお願いします。</source>
@@ -16995,9 +16995,9 @@
         <source>は|無事でしたか。|不幸中のさいわいです。|</source>
         <target/>
       </trans-unit>
-      <trans-unit id="634268" xml:space="preserve">
+      <trans-unit id="634268" xml:space="preserve" approved="no">
         <source>てすとてすと</source>
-        <target/>
+        <target state="translated">Test test</target>
       </trans-unit>
       <trans-unit id="634284" xml:space="preserve">
         <source>ああ|</source>
@@ -17007,9 +17007,9 @@
         <source>なし</source>
         <target/>
       </trans-unit>
-      <trans-unit id="634300" xml:space="preserve">
+      <trans-unit id="634300" xml:space="preserve" approved="no">
         <source>てすとてすと|</source>
-        <target/>
+        <target state="translated">Test test|</target>
       </trans-unit>
       <trans-unit id="635856" xml:space="preserve">
         <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント６ヶ所到達及び|　　　　捜査員を全員リタイアで勝利。|Ｔ勝敗：規定ターン経過で勝利Ｐ決着。|</source>
