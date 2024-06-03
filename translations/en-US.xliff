@@ -1847,21 +1847,21 @@
         <source>||||||　　　　ステータスコマンド</source>
         <target state="translated">||||||Status Command</target>
       </trans-unit>
-      <trans-unit id="821236" xml:space="preserve">
+      <trans-unit id="821236" xml:space="preserve" approved="no">
         <source>\c04『ステータス』\c02コマンドでは、|\c04『味方』\c02と\c04『敵』\c02に関する情報を|確認することができます。</source>
-        <target/>
+        <target state="translated">By using the \c04Status\c02 command, you can check information about your \c04Allies\c02 and \c04Enemies\c02.</target>
       </trans-unit>
-      <trans-unit id="812804" xml:space="preserve">
+      <trans-unit id="812804" xml:space="preserve" approved="no">
         <source>ステータスを確認するには、|捜査員をタッチして|\c04『情報』→『ステータス』\c02の|順でタッチします。</source>
-        <target/>
+        <target state="translated">To check an investigator's status, tap on them and select \c04Information→Status\c02.</target>
       </trans-unit>
       <trans-unit id="839992" xml:space="preserve">
         <source>ステータス画面には、|捜査員の特殊能力に|関する情報など、&gt;&gt;\c04捜査員個別\c02の情報が|載っています。&gt;&gt;捜査員の能力を把握すれば|捜査に大きく役立つでしょう。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="811636" xml:space="preserve">
+      <trans-unit id="811636" xml:space="preserve" approved="no">
         <source>また、ステータスは、コマンド|実行回数としてカウントされません。|何度でも情報を確認できます。</source>
-        <target/>
+        <target state="translated">Using the Status command does not require Command Points. You can check the information as many times as you want.</target>
       </trans-unit>
       <trans-unit id="775244" xml:space="preserve">
         <source>||||||　　　捜査側の情報コマンド</source>
