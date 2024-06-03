@@ -8899,9 +8899,9 @@
         <source>あいつ…怪しくない？|ノートを渡しちゃダメだよ！</source>
         <target state="translated">…That'd be weird, wouldn't it?|I can't give the Note to that person!</target>
       </trans-unit>
-      <trans-unit id="587729" xml:space="preserve">
+      <trans-unit id="587729" xml:space="preserve" approved="no">
         <source>あんな人に渡すくらいなら|このままミサがノートを|使うよ。</source>
-        <target/>
+        <target state="translated">I'd rather keep using the Note myself than give it to that kind of person!</target>
       </trans-unit>
       <trans-unit id="573153" xml:space="preserve" approved="no">
         <source>止めとこうよ。|計画が台無しじゃん。|絶対渡さない。</source>
@@ -8979,9 +8979,9 @@
         <source>これも作戦だ。|ノートはそっちで持て。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="516361" xml:space="preserve">
+      <trans-unit id="516361" xml:space="preserve" approved="no">
         <source>警察め、しつこいな…|消すしかない…</source>
-        <target/>
+        <target state="translated">Those cops are damned persistent…|I'll just have to erase them…</target>
       </trans-unit>
       <trans-unit id="548497" xml:space="preserve">
         <source>奴等の動きを封じるには、|トラップが一番だ。</source>
@@ -9051,13 +9051,13 @@
         <source>いつから隠しカメラが…|まさか俺の姿も見られて？</source>
         <target/>
       </trans-unit>
-      <trans-unit id="550321" xml:space="preserve">
+      <trans-unit id="550321" xml:space="preserve" approved="no">
         <source>デスノート…|これさえあれば|恐いものはない。</source>
-        <target/>
+        <target state="translated">The Death Note…|As long as I have this, nothing in the world can scare me.</target>
       </trans-unit>
-      <trans-unit id="540277" xml:space="preserve">
+      <trans-unit id="540277" xml:space="preserve" approved="no">
         <source>ノートを俺に渡すのか？|ふん、いいだろう。</source>
-        <target/>
+        <target state="translated">You're giving me the Note?|Hmph, alright.</target>
       </trans-unit>
       <trans-unit id="528925" xml:space="preserve">
         <source>…いいものをもらった。|これで俺は最強だ</source>
@@ -9087,17 +9087,17 @@
         <source>待てよ。奴に渡して|うまくやれるか？|…ダメだろうな。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="607097" xml:space="preserve">
+      <trans-unit id="607097" xml:space="preserve" approved="no">
         <source>地下鉄は地上と連絡できない。|神の御心をよく考えて|行動しなければ…</source>
-        <target/>
+        <target state="translated">It's impossible to communicate to anyone aboveground while on the subway.|I have to consider God's will carefully before making this move…</target>
       </trans-unit>
       <trans-unit id="593805" xml:space="preserve">
         <source>地下鉄に乗るか。|行動は制限されるが|敵をかわすには仕方ない。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="585209" xml:space="preserve">
+      <trans-unit id="585209" xml:space="preserve" approved="no">
         <source>地下鉄…|神の御心に従えるなら、|どんなリスクも覚悟の上…</source>
-        <target/>
+        <target state="translated">The subway…|As long as I follow God's will, I'm willing to take any risk…</target>
       </trans-unit>
       <trans-unit id="616597" xml:space="preserve">
         <source>神に代わって少しでも広く|活動するには、より速い|交通手段を選ばなければ。</source>
@@ -9155,9 +9155,9 @@
         <source>ノートを慎重に扱う。|それも私の役目だ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="551185" xml:space="preserve">
+      <trans-unit id="551185" xml:space="preserve" approved="no">
         <source>神、仰せの通りに。|ノートの所有権を移します。</source>
-        <target/>
+        <target state="translated">I've done as you asked, God.|I've transferred ownership of the Note.</target>
       </trans-unit>
       <trans-unit id="542257" xml:space="preserve" approved="no">
         <source>神に逆らう愚か者ども…|私が削除しなければ。</source>
@@ -9171,13 +9171,13 @@
         <source>フフ…おまえ達には|神の裁きこそふさわしい。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="503777" xml:space="preserve">
+      <trans-unit id="503777" xml:space="preserve" approved="no">
         <source>反逆者どもの末路は皆同じだ。</source>
-        <target/>
+        <target state="translated">All nonbelievers will meet the same fate.</target>
       </trans-unit>
-      <trans-unit id="542353" xml:space="preserve">
+      <trans-unit id="542353" xml:space="preserve" approved="no">
         <source>神の代理人として|私がおまえに裁きを下した。</source>
-        <target/>
+        <target state="translated">As God's representative, I cast judgment upon you.</target>
       </trans-unit>
       <trans-unit id="534469" xml:space="preserve" approved="no">
         <source>キラの教えに従わぬ人間は、|私が削除する。</source>
@@ -9231,9 +9231,9 @@
         <source>デスノートは神の力だ。|これがあれば新世界は|実現する。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="576625" xml:space="preserve">
+      <trans-unit id="576625" xml:space="preserve" approved="no">
         <source>ノートを私に？|よし、私が神に代わって|反逆者を裁く！</source>
-        <target/>
+        <target state="translated">You're giving me the Note?|Alright! I will judge the nonbelievers in God's name!</target>
       </trans-unit>
       <trans-unit id="607241" xml:space="preserve">
         <source>ノートを使うのは|キラに選ばれた私の役目。|仰せの通りにいたします。</source>
@@ -9251,17 +9251,17 @@
         <source>今ならこの地域は無防備。|反逆者が集まる前に|手を打っておかなければ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="576681" xml:space="preserve">
+      <trans-unit id="576681" xml:space="preserve" approved="no">
         <source>奴は信用できない。|ノートを任せられる|人間ではない。</source>
-        <target/>
+        <target state="translated">That person cannot be trusted. Such a human is not suited to holding the Note.</target>
       </trans-unit>
-      <trans-unit id="607313" xml:space="preserve">
+      <trans-unit id="607313" xml:space="preserve" approved="no">
         <source>奴はノートを任せられる|人間とは思えない。|渡すのは止めるしかない。</source>
-        <target/>
+        <target state="translated">I do not believe that person is someone who can be entrusted with the Note.|I have no choice but to stop you from turning it over.</target>
       </trans-unit>
-      <trans-unit id="589133" xml:space="preserve">
+      <trans-unit id="589133" xml:space="preserve" approved="no">
         <source>奴は神の計画を|ぶち壊しにしかねない。|ノートは渡せないか。</source>
-        <target/>
+        <target state="translated">That will almost certainly ruin God's plan.|Can I not turn the Note over to that person?</target>
       </trans-unit>
       <trans-unit id="542689" xml:space="preserve">
         <source>敵の目をくらますため|地下鉄で移動するわね。</source>
@@ -9411,9 +9411,9 @@
         <source>これがあれば、私はもっと|月くんの力になれる…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="514201" xml:space="preserve">
+      <trans-unit id="514201" xml:space="preserve" approved="no">
         <source>これを私に使えと？|いいわ、任せて。</source>
-        <target/>
+        <target state="translated">You mean, you want me to use this?|Okay… leave it to me.</target>
       </trans-unit>
       <trans-unit id="509501" xml:space="preserve">
         <source>これで少しの間は|自由に動けるわ。</source>
@@ -9471,17 +9471,17 @@
         <source>水上バスなら追跡をかわせる。|その間、逃げ場はないが…|いや、心配はない。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="576009" xml:space="preserve">
+      <trans-unit id="576009" xml:space="preserve" approved="no">
         <source>交通ルートをうまく使えば、|キラもニアも出し抜ける。</source>
-        <target/>
+        <target state="translated">If I can use the transportation in my favor, I'll outsmart both Kira and Near.</target>
       </trans-unit>
       <trans-unit id="532665" xml:space="preserve">
         <source>これ以上の移動方法はない。|俺の勝ちだ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="606277" xml:space="preserve">
+      <trans-unit id="606277" xml:space="preserve" approved="no">
         <source>空を飛ぶのも悪くない。|奴等を出し抜くには、|ちょうどいい道具だ。</source>
-        <target/>
+        <target state="translated">Flying doesn't seem like a bad idea, actually.|It's the perfect tool to outwit those guys.</target>
       </trans-unit>
       <trans-unit id="576065" xml:space="preserve">
         <source>敵もこちらがヘリを使うとは|予想はしていないだろう。</source>
@@ -9499,9 +9499,9 @@
         <source>放せ！　俺が捕まるなんて、|あるはずがないんだ！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="495077" xml:space="preserve">
+      <trans-unit id="495077" xml:space="preserve" approved="no">
         <source>フフ…これでいい。</source>
-        <target/>
+        <target state="translated">Heh… That's enough for now.</target>
       </trans-unit>
       <trans-unit id="570561" xml:space="preserve">
         <source>ノートがこちらにある限り|うまく利用させてもらう。</source>
@@ -9515,17 +9515,17 @@
         <source>これはあくまで保険だ。|だが、奴等には脅威のはず…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="551233" xml:space="preserve">
+      <trans-unit id="551233" xml:space="preserve" approved="no">
         <source>さあ、追ってこい。|その時がおまえ達の最期だ。</source>
-        <target/>
+        <target state="translated">Alright, come on and chase me!|It'll be the last thing you'll ever do.</target>
       </trans-unit>
       <trans-unit id="557377" xml:space="preserve">
         <source>おまえなど片付ける必要は|なかったが仕方ない。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="504385" xml:space="preserve">
+      <trans-unit id="504385" xml:space="preserve" approved="no">
         <source>おまえはここで|ジ・エンドだ。</source>
-        <target/>
+        <target state="translated">This is the end for you.</target>
       </trans-unit>
       <trans-unit id="524921" xml:space="preserve">
         <source>バカな奴等め。|俺の邪魔をするからだ。</source>
@@ -9567,17 +9567,17 @@
         <source>子供だましというところだが、|敵は混乱するだろう。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="512633" xml:space="preserve">
+      <trans-unit id="512633" xml:space="preserve" approved="no">
         <source>カメラか。|顔を見られてはまずい。</source>
-        <target/>
+        <target state="translated">A camera?|I can't let them see my face…</target>
       </trans-unit>
       <trans-unit id="570873" xml:space="preserve">
         <source>ちっ、こいつを処理しないと|うかつには動けないか。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="518401" xml:space="preserve">
+      <trans-unit id="518401" xml:space="preserve" approved="no">
         <source>隠しカメラ…|奴等、何を企んでいる？</source>
-        <target/>
+        <target state="translated">A hidden camera…|What are they planning…?</target>
       </trans-unit>
       <trans-unit id="587849" xml:space="preserve">
         <source>デスノートには|まだまだ利用価値がある。|まあ、見ていろ！</source>
@@ -9655,9 +9655,9 @@
         <source>なるほど、これなら|誰も追いつけやしない。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="566817" xml:space="preserve">
+      <trans-unit id="566817" xml:space="preserve" approved="no">
         <source>空を飛ぶのも悪くない。|いや、サイコーの気分だぜ。</source>
-        <target/>
+        <target state="translated">Flying isn't a bad idea, actually.|No, scratch that. It's totally awesome!</target>
       </trans-unit>
       <trans-unit id="576345" xml:space="preserve">
         <source>ヘリかよ。|ま、奴等を出し抜くには、|ちょうどいいか。</source>
@@ -9743,17 +9743,17 @@
         <source>とりあえず奴等に|見つかる事はないだろう。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="573545" xml:space="preserve">
+      <trans-unit id="573545" xml:space="preserve" approved="no">
         <source>俺の変装は一流なんだぜ。|おまえらに見破れっこない。</source>
-        <target/>
+        <target state="translated">Ha! My disguise is top-notch!|You guys will never be able to see through it.</target>
       </trans-unit>
-      <trans-unit id="542017" xml:space="preserve">
+      <trans-unit id="542017" xml:space="preserve" approved="no">
         <source>隠しカメラ仕掛けるなんて、|ルール違反だぜ。</source>
-        <target/>
+        <target state="translated">Setting up a secret camera? This kind of thing is against the rules.</target>
       </trans-unit>
-      <trans-unit id="551041" xml:space="preserve">
+      <trans-unit id="551041" xml:space="preserve" approved="no">
         <source>おいおい、こういうのは|違法捜査って言うんだ。</source>
-        <target/>
+        <target state="translated">Oi, isn't this kind of thing illegal?</target>
       </trans-unit>
       <trans-unit id="597777" xml:space="preserve">
         <source>いつから捜査員は|こんなゴツイ隠し玉|使っていい事になったんだ？</source>
@@ -9835,17 +9835,17 @@
         <source>「変装」は絶対じゃない。|見破られる事もあるから|過信は禁物だ。</source>
         <target state="translated">Disguises are not absolute.|They can sometimes be seen through, so don't get overconfident!</target>
       </trans-unit>
-      <trans-unit id="615001" xml:space="preserve">
+      <trans-unit id="615001" xml:space="preserve" approved="no">
         <source>「変装」は一時的なものだ。|ずっとそのままの姿で|いられるわけじゃない。</source>
-        <target/>
+        <target state="translated">Disguises are temporary.|The appearance they give you won't stay forever.</target>
       </trans-unit>
       <trans-unit id="568325" xml:space="preserve">
         <source>トラップに引っかかった|捜査員はそこでリタイアだ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="625477" xml:space="preserve">
+      <trans-unit id="625477" xml:space="preserve" approved="no">
         <source>トラップの有効期限は、|設置後２ターンだ。|捜査員の動きを推理して|設置するんだ。</source>
-        <target/>
+        <target state="translated">After they've been set up, traps are effective for two turns.|Use the investigators' movements to deduce the best spot for a trap.</target>
       </trans-unit>
       <trans-unit id="599817" xml:space="preserve" approved="no">
         <source>トラップは数に限りがある。|チャンスを待って、うまく|使うんだ。</source>
@@ -9863,17 +9863,17 @@
         <source>都市カメラを破壊すれば、|捜査員をおびき寄せる事も|できるだろう。</source>
         <target state="translated">You might be able to lure investigators over to check on areas with broken cameras…</target>
       </trans-unit>
-      <trans-unit id="633877" xml:space="preserve">
+      <trans-unit id="633877" xml:space="preserve" approved="no">
         <source>カメラには、|「グループ」と「エリア」|という単位がある。|１つのグループは同一色で|表され、それぞれに|エリアが設定されている。</source>
-        <target/>
+        <target state="translated">Cameras are split in units of "groups" and "areas." Each group of cameras is represented with a single color, and one area is set for each group.</target>
       </trans-unit>
-      <trans-unit id="626317" xml:space="preserve">
+      <trans-unit id="626317" xml:space="preserve" approved="no">
         <source>カメラはターンの最初に|情報を報告してるんだ。|捜査員はその情報を|頼りにしている。</source>
-        <target/>
+        <target state="translated">The cameras will report information based on the situation at the start of each turn. The investigators will rely on this information.</target>
       </trans-unit>
-      <trans-unit id="600089" xml:space="preserve">
+      <trans-unit id="600089" xml:space="preserve" approved="no">
         <source>エリアにあるカメラの|過半数を破壊すれば|監視機能はダウンする。</source>
-        <target/>
+        <target state="translated">If more than half of the cameras in an area have been destroyed, the surveillance system in that area will break down.</target>
       </trans-unit>
       <trans-unit id="537373" xml:space="preserve" approved="no">
         <source>仲間の移動はタッチペンを|使えばいいのよ。</source>
@@ -11099,9 +11099,9 @@
         <source>反逆者どもの末路は|皆同じだ。</source>
         <target state="translated">All nonbelievers will meet the same fate.</target>
       </trans-unit>
-      <trans-unit id="529849" xml:space="preserve">
+      <trans-unit id="529849" xml:space="preserve" approved="no">
         <source>神の代理人として|おまえに裁きを下した。</source>
-        <target/>
+        <target state="translated">As God's representative, I cast judgment upon you.</target>
       </trans-unit>
       <trans-unit id="515241" xml:space="preserve" approved="no">
         <source>キラの教えに従わぬ人間は|削除する。</source>
@@ -11555,25 +11555,25 @@
         <source>ちっ！　やられたか！|だが、次こそは！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="507197" xml:space="preserve">
+      <trans-unit id="507197" xml:space="preserve" approved="no">
         <source>デスノート。|利用価値は高いが…</source>
-        <target/>
+        <target state="translated">The Death Note. It's useful, but…</target>
       </trans-unit>
-      <trans-unit id="501441" xml:space="preserve">
+      <trans-unit id="501441" xml:space="preserve" approved="no">
         <source>キラを倒すのは、この俺だ。</source>
-        <target/>
+        <target state="translated">The one who topples Kira in the end… will be me.</target>
       </trans-unit>
-      <trans-unit id="515761" xml:space="preserve">
+      <trans-unit id="515761" xml:space="preserve" approved="no">
         <source>俺は必ず|Ｌの後継者になってみせる！</source>
-        <target/>
+        <target state="translated">No matter what, I will become L's successor!</target>
       </trans-unit>
-      <trans-unit id="507773" xml:space="preserve">
+      <trans-unit id="507773" xml:space="preserve" approved="no">
         <source>ニアの奴…|必ず出し抜いてやる。</source>
-        <target/>
+        <target state="translated">That Near…|I'll definitely outsmart him.</target>
       </trans-unit>
-      <trans-unit id="498889" xml:space="preserve">
+      <trans-unit id="498889" xml:space="preserve" approved="no">
         <source>キラめ…何を考えている。</source>
-        <target/>
+        <target state="translated">That bastard Kira… What are they thinking?</target>
       </trans-unit>
       <trans-unit id="510869" xml:space="preserve">
         <source>俺がＬを超えるには、|どうしても…</source>
@@ -11585,7 +11585,7 @@
       </trans-unit>
       <trans-unit id="561097" xml:space="preserve" approved="no">
         <source>…ロジャー…俺はこんな|やり方しかできないんだ…</source>
-        <target state="translated">…Roger… There was no other way…</target>
+        <target state="translated">…Roger… There was no other way. You see that, right…?</target>
       </trans-unit>
       <trans-unit id="590221" xml:space="preserve">
         <source>ここはとりあえず、|そっちにノートを渡す。|あとは任せるぜ。</source>
@@ -11699,9 +11699,9 @@
         <source>隠しカメラなんて、|ルール違反だぜ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="553681" xml:space="preserve">
+      <trans-unit id="553681" xml:space="preserve" approved="no">
         <source>おいおい、こういうのは|違法捜査って言うんだ。</source>
-        <target/>
+        <target state="translated">Oi, isn't this kind of thing illegal?</target>
       </trans-unit>
       <trans-unit id="599341" xml:space="preserve">
         <source>いつから捜査員は|こんなゴツイ隠し玉使って|いい事になったんだ？</source>
@@ -11719,9 +11719,9 @@
         <source>よし、次の計画だ。|うまくやれよ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="503169" xml:space="preserve">
+      <trans-unit id="503169" xml:space="preserve" approved="no">
         <source>おいおい、|もう終わりかい？</source>
-        <target/>
+        <target state="translated">Come on, over already?</target>
       </trans-unit>
       <trans-unit id="507413" xml:space="preserve">
         <source>ハハハ！|意外と楽勝じゃないか。</source>
@@ -11747,29 +11747,29 @@
         <source>デスノートか。|こんなアブナイもん、|人には渡したくないね。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="529629" xml:space="preserve">
+      <trans-unit id="529629" xml:space="preserve" approved="no">
         <source>俺はキラもニアも|どうでもいいんだがな。</source>
-        <target/>
+        <target state="translated">Whether it's Kira or Near who comes out on top, I don't really care either way.</target>
       </trans-unit>
       <trans-unit id="582029" xml:space="preserve">
         <source>どうも頭脳戦ってのは|性に合わないな。|派手に行こうぜ！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="545569" xml:space="preserve">
+      <trans-unit id="545569" xml:space="preserve" approved="no">
         <source>メロも損な性格だな。|悪い奴じゃないんだが。</source>
-        <target/>
+        <target state="translated">Mello's personality sure is terrible…|But he's not a bad guy.</target>
       </trans-unit>
-      <trans-unit id="515561" xml:space="preserve">
+      <trans-unit id="515561" xml:space="preserve" approved="no">
         <source>しばらく、うまいもん|食ってねえな。</source>
-        <target/>
+        <target state="translated">Man, it's been a while since I've gotten any good food…</target>
       </trans-unit>
-      <trans-unit id="522041" xml:space="preserve">
+      <trans-unit id="522041" xml:space="preserve" approved="no">
         <source>日本もアメリカも|大して変わらないな。</source>
-        <target/>
+        <target state="translated">Japan and America aren't really all that different, huh.</target>
       </trans-unit>
-      <trans-unit id="515641" xml:space="preserve">
+      <trans-unit id="515641" xml:space="preserve" approved="no">
         <source>キラは本当に神になる|つもりなのか…</source>
-        <target/>
+        <target state="translated">Does Kira really intend to become a god…?</target>
       </trans-unit>
       <trans-unit id="545665" xml:space="preserve">
         <source>警察ってのはどこの国でも|やっかいな奴等だ。</source>
