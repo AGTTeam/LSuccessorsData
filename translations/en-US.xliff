@@ -10847,9 +10847,9 @@
         <source>あはっ。ミサの勝ちー！|ライト、喜んでくれるかな。</source>
         <target state="translated">Aha. A Misa Win!|Maybe Light will be proud of me.</target>
       </trans-unit>
-      <trans-unit id="510365" xml:space="preserve">
+      <trans-unit id="510365" xml:space="preserve" approved="no">
         <source>ど、どうして|こうなっちゃうの！？</source>
-        <target/>
+        <target state="translated">H-how did this happen?!</target>
       </trans-unit>
       <trans-unit id="514721" xml:space="preserve">
         <source>いやーっ！！|こんなの我慢できない！</source>
@@ -11031,9 +11031,9 @@
         <source>うるさい警察を黙らせたら|いよいよミサと結婚だ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="603353" xml:space="preserve">
+      <trans-unit id="603353" xml:space="preserve" approved="no">
         <source>くっ、少し疲れたな。|最近、仕事とキラの裁きで|忙しかったからな。</source>
-        <target/>
+        <target state="translated">Ugh, I'm tired.|The job and Kira's judgments keep me busy.</target>
       </trans-unit>
       <trans-unit id="543985" xml:space="preserve">
         <source>死神か…どこにでも|出入りできる便利な奴だ。</source>
@@ -15987,9 +15987,9 @@
         <source>高速バスか。|捜索範囲は広い方がいい。|好都合な移動手段だ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="600769" xml:space="preserve">
+      <trans-unit id="600769" xml:space="preserve" approved="no">
         <source>こちらジョー。|これより高速バスで移動する。|フォローを頼むぞ。</source>
-        <target/>
+        <target state="translated">This is Joe. I'm about to move via the express bus. Back me up.</target>
       </trans-unit>
       <trans-unit id="618193" xml:space="preserve">
         <source>これよりバス移動を開始する。|トラップには十分に|警戒している。問題ない。</source>
@@ -15999,9 +15999,9 @@
         <source>こいつは便利だ。|我々の計算通りなら、|敵より先回りできるだろう。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="591437" xml:space="preserve">
+      <trans-unit id="591437" xml:space="preserve" approved="no">
         <source>こちらジョー。|水上バスで移動を開始する。|地上は任せたぞ。</source>
-        <target/>
+        <target state="translated">This is Joe. I'm about to move via water-bus. I'm leaving the ground to you.</target>
       </trans-unit>
       <trans-unit id="618269" xml:space="preserve">
         <source>これより水上バスで追跡する。|トラップには十分に|警戒している。問題ない。</source>
@@ -16187,9 +16187,9 @@
         <source>こちらグレッグ。|ここからはバスで敵を追う。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="596429" xml:space="preserve">
+      <trans-unit id="596429" xml:space="preserve" approved="no">
         <source>こちらグレッグ。|水上バスで移動を開始する。|地上は任せたぞ。</source>
-        <target/>
+        <target state="translated">This is Greg. I'm about to move via water-bus. I'm leaving the ground to you.</target>
       </trans-unit>
       <trans-unit id="605325" xml:space="preserve">
         <source>こちらグレッグだ。|ヘリで空中から敵を追跡する。|地上は任せたぞ。</source>
@@ -16279,17 +16279,17 @@
         <source>こちらシェイブ。敵を捜索中。|これより地下鉄に乗って|移動する。</source>
         <target state="translated">This is Shabe. I'm on Kira's tail. I'm about to ride the subway.</target>
       </trans-unit>
-      <trans-unit id="605461" xml:space="preserve">
+      <trans-unit id="605461" xml:space="preserve" approved="no">
         <source>こちらシェイブ。|これより高速バスで移動する。|フォローを頼むぞ。</source>
-        <target/>
+        <target state="translated">This is Shabe. I'm about to move via the express bus. Back me up.</target>
       </trans-unit>
       <trans-unit id="548353" xml:space="preserve">
         <source>こちらシェイブ。|ここからはバスで敵を追う。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="596557" xml:space="preserve">
+      <trans-unit id="596557" xml:space="preserve" approved="no">
         <source>こちらシェイブ。|水上バスで移動を開始する。|地上は任せたぞ。</source>
-        <target/>
+        <target state="translated">This is Shabe. I'm about to move via water-bus. I'm leaving the ground to you.</target>
       </trans-unit>
       <trans-unit id="572817" xml:space="preserve">
         <source>ヘリなら、|他のどんな交通手段より|速く移動できる。</source>
@@ -16363,17 +16363,17 @@
         <source>こちらロイ。敵を捜索中。|これより地下鉄に乗って|移動する。</source>
         <target state="translated">This is Roy. I'm on Kira's tail. I'm about to ride the subway.</target>
       </trans-unit>
-      <trans-unit id="596685" xml:space="preserve">
+      <trans-unit id="596685" xml:space="preserve" approved="no">
         <source>こちらロイ。|これより高速バスで移動する。|フォローを頼むぞ。</source>
-        <target/>
+        <target state="translated">This is Roy. I'm about to move via the express bus. Back me up.</target>
       </trans-unit>
       <trans-unit id="527165" xml:space="preserve">
         <source>こちらロイ。|ここからはバスで敵を追う。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="587249" xml:space="preserve">
+      <trans-unit id="587249" xml:space="preserve" approved="no">
         <source>こちらロイ。|水上バスで移動を開始する。|地上は任せたぞ。</source>
-        <target/>
+        <target state="translated">This is Roy. I'm about to move via water-bus. I'm leaving the ground to you.</target>
       </trans-unit>
       <trans-unit id="596749" xml:space="preserve">
         <source>こちらロイだ。|ヘリで空中から敵を追跡する。|地上は任せたぞ。</source>
@@ -16723,9 +16723,9 @@
         <source>容疑者を発見！</source>
         <target state="translated">Suspect found!</target>
       </trans-unit>
-      <trans-unit id="538561" xml:space="preserve">
+      <trans-unit id="538561" xml:space="preserve" approved="no">
         <source>こちらジェバンニ。|容疑者を確認しました。</source>
-        <target/>
+        <target state="translated">This is Gevanni. I've confirmed the suspect.</target>
       </trans-unit>
       <trans-unit id="541969" xml:space="preserve">
         <source>容疑者を発見。予定通り|このまま泳がせます。</source>
