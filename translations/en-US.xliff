@@ -11019,25 +11019,25 @@
         <source>デスノートがあれば、|何でも手に入る…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="495821" xml:space="preserve">
+      <trans-unit id="495821" xml:space="preserve" approved="no">
         <source>明日は会議だったな。</source>
-        <target/>
+        <target state="translated">Oh, I have a meeting tomorrow, huh.</target>
       </trans-unit>
-      <trans-unit id="574161" xml:space="preserve">
+      <trans-unit id="574161" xml:space="preserve" approved="no">
         <source>デスノートをうまく使えば、|出世だって思いのままだ。</source>
-        <target/>
+        <target state="translated">If I just keep using the Death Note well, I'll get a promotion soon…</target>
       </trans-unit>
-      <trans-unit id="560681" xml:space="preserve">
+      <trans-unit id="560681" xml:space="preserve" approved="no">
         <source>うるさい警察を黙らせたら|いよいよミサと結婚だ。</source>
-        <target/>
+        <target state="translated">I'm going to marry Misa as soon as I silence those annoying cops.</target>
       </trans-unit>
       <trans-unit id="603353" xml:space="preserve" approved="no">
         <source>くっ、少し疲れたな。|最近、仕事とキラの裁きで|忙しかったからな。</source>
-        <target state="translated">Ugh, I'm tired.|The job and Kira's judgments keep me busy.</target>
+        <target state="translated">Ugh, I'm tired.|The job and Kira's judgments are keeping me busy.</target>
       </trans-unit>
-      <trans-unit id="543985" xml:space="preserve">
+      <trans-unit id="543985" xml:space="preserve" approved="no">
         <source>死神か…どこにでも|出入りできる便利な奴だ。</source>
-        <target/>
+        <target state="translated">That Shinigami can get in and out of any room. Pretty damn useful.</target>
       </trans-unit>
       <trans-unit id="577017" xml:space="preserve" approved="no">
         <source>デスノートもキラも|俺のために存在する|ようなものだ。</source>
