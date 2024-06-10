@@ -1927,9 +1927,9 @@
         <source>クックック……よう、月。|計画通り、そのノートを|また手に入れたようだな。&gt;&gt;しかし、おまえさん、また大勢、|尾行を背負ってるじゃないか。&gt;&gt;うまくここから逃げる手立ては|あるのか？</source>
         <target state="translated">Kukuku… Yo, Light.|Seems you’ve gotten your hands back on that Note, just like you said you would.&gt;&gt;But hey, buddy, you know there’s a whole crowd tailing you right now, right?&gt;&gt;You have any idea how you’re getting out of this one?</target>
       </trans-unit>
-      <trans-unit id="850188" xml:space="preserve">
+      <trans-unit id="850188" xml:space="preserve" approved="no">
         <source>尾行？　ああ……Ｌの差し金さ。&gt;&gt;大丈夫。|このノートさえあれば、追手なんか|片っ端から退けられるよ。&gt;&gt;そう……|ここを切り抜けさえすれば、|僕が新世界の神になるのは目前だ。</source>
-        <target/>
+        <target state="translated">Tailing me? Ah… L must have anticipated this.&gt;&gt;Don’t worry. Now I have the Note back, driving them off should be a piece of cake.&gt;&gt;Yes… As soon as I escape this place, I can finally start to become the God of the New World!</target>
       </trans-unit>
       <trans-unit id="770152" xml:space="preserve" approved="no">
         <source>||||||　　　　　容疑者情報</source>
@@ -2043,13 +2043,13 @@
         <source>そのエリアからは|目撃情報や容疑者情報が|\c04得られなくなります。\c02&gt;&gt;もちろん、カメラ解析も|行うことができません。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="830712" xml:space="preserve">
+      <trans-unit id="830712" xml:space="preserve" approved="no">
         <source>これら都市カメラは|捜査員の目といえる存在です。&gt;&gt;破壊された場合は、早急に|\c04『都市カメラ修復』\c02コマンド|で修復する方が得策です。</source>
-        <target/>
+        <target state="translated">These city cameras act as us investigators' eyes.&gt;&gt;In the event they are destroyed, it's a good idea to use the \c04Camera Repair\c02 command to repair them as quickly as possible.</target>
       </trans-unit>
-      <trans-unit id="839272" xml:space="preserve">
+      <trans-unit id="839272" xml:space="preserve" approved="no">
         <source>そして、カメラが破壊された|ということは、容疑者が近い|という証拠でもあります。&gt;&gt;破壊されたカメラから容疑者の|足取りを追うというのも|１つの手段ですね。</source>
-        <target/>
+        <target state="translated">On the other hand, a broken camera is also evidence that the suspect is nearby.&gt;&gt;Tracing a suspect's movements from the cameras they destroy is another viable plan of action.</target>
       </trans-unit>
       <trans-unit id="771980" xml:space="preserve" approved="no">
         <source>||||||　　　　コマンドの使用</source>
