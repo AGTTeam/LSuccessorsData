@@ -3,6 +3,7 @@ repack*
 out_*
 *_data.txt
 filelist.txt
+fontdata.bin
 *_output*
 *.nds
 *.xdelta
