@@ -8147,13 +8147,13 @@
         <source>やられました。|ですが&lt;name&gt;が|無事なら、まだいけます。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="518441" xml:space="preserve">
+      <trans-unit id="518441" xml:space="preserve" approved="no">
         <source>なんでしょう、|イヤな予感がします。</source>
-        <target/>
+        <target state="translated">Strange… I just got a bad feeling about this.</target>
       </trans-unit>
-      <trans-unit id="532621" xml:space="preserve">
+      <trans-unit id="532621" xml:space="preserve" approved="no">
         <source>イヤな予感です。|私の推理が正しければ…</source>
-        <target/>
+        <target state="translated">I have a bad feeling about this.|If my deduction is correct…</target>
       </trans-unit>
       <trans-unit id="570353" xml:space="preserve">
         <source>これで多少、我々は優勢に|なったと言えるようです。</source>
@@ -8231,9 +8231,9 @@
         <source>すべて回収してしまえば、|我々の勝ちです。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="557617" xml:space="preserve">
+      <trans-unit id="557617" xml:space="preserve" approved="no">
         <source>すべてうまくいった。|キラ、おまえは終わりだ。</source>
-        <target/>
+        <target state="translated">Everything's gone perfectly.|This is the end for you, Kira.</target>
       </trans-unit>
       <trans-unit id="558965" xml:space="preserve">
         <source>いよいよ最後の仕上げです。|皆さん、いいですね？</source>
@@ -8247,29 +8247,29 @@
         <source>我々の負けです。ですが…|このままでは終わりません。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="533633" xml:space="preserve">
+      <trans-unit id="533633" xml:space="preserve" approved="no">
         <source>Ｌ…メロ…私は負けた。|しかし、次こそは…</source>
-        <target/>
+        <target state="translated">L… Mello… I've lost.|But next time…</target>
       </trans-unit>
       <trans-unit id="566505" xml:space="preserve">
         <source>…ここは撤退です。どうせ|最後には我々が勝ちます。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="494717" xml:space="preserve">
+      <trans-unit id="494717" xml:space="preserve" approved="no">
         <source>キラと二代目Ｌは…</source>
-        <target/>
+        <target state="translated">Kira and L number two…</target>
       </trans-unit>
-      <trans-unit id="559121" xml:space="preserve">
+      <trans-unit id="559121" xml:space="preserve" approved="no">
         <source>最後には正義が勝つんです。|どんな事があっても。</source>
-        <target/>
+        <target state="translated">In the end, justice will prevail. No matter what.</target>
       </trans-unit>
-      <trans-unit id="566557" xml:space="preserve">
+      <trans-unit id="566557" xml:space="preserve" approved="no">
         <source>私はまだＬを超えられない。|私には足りないものが…</source>
-        <target/>
+        <target state="translated">Even now, I still can't surpass L.|What I lack is…</target>
       </trans-unit>
-      <trans-unit id="494357" xml:space="preserve">
+      <trans-unit id="494357" xml:space="preserve" approved="no">
         <source>メロ…僕達は…</source>
-        <target/>
+        <target state="translated">Mello… We…</target>
       </trans-unit>
       <trans-unit id="550609" xml:space="preserve">
         <source>メロと私は似ているんです。|そう…ある意味で…</source>
@@ -8279,13 +8279,13 @@
         <source>キラの目的が何であれ、|私はキラを捕まえます。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="526021" xml:space="preserve">
+      <trans-unit id="526021" xml:space="preserve" approved="no">
         <source>キラは間違いなく|史上最大の犯罪者です。</source>
-        <target/>
+        <target state="translated">Kira is, without a doubt, the biggest criminal the world has ever seen.</target>
       </trans-unit>
-      <trans-unit id="526285" xml:space="preserve">
+      <trans-unit id="526285" xml:space="preserve" approved="no">
         <source>Ｌが唯一敗北した相手…|それがキラです。</source>
-        <target/>
+        <target state="translated">The only person who's ever beaten L…|…is Kira.</target>
       </trans-unit>
       <trans-unit id="516761" xml:space="preserve">
         <source>容疑者を確認できたのか。|やったな。</source>
