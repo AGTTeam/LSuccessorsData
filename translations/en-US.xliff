@@ -3235,9 +3235,9 @@
         <source>『もしもし……夜神くん？|私…………』</source>
         <target/>
       </trans-unit>
-      <trans-unit id="769672" xml:space="preserve">
+      <trans-unit id="769672" xml:space="preserve" approved="no">
         <source>高田さん！　無事か！？</source>
-        <target/>
+        <target state="translated">Takada! Are you alright?!</target>
       </trans-unit>
       <trans-unit id="798908" xml:space="preserve">
         <source>『え、ええ…|今、見張りの目を盗んで、|隠し持っていた携帯で……』</source>
@@ -3327,25 +3327,25 @@
         <source>…いいでしょう。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="813884" xml:space="preserve">
+      <trans-unit id="813884" xml:space="preserve" approved="no">
         <source>Ｎは、互いの捜査員が|全員その場にそろう事、|そして外から見られる事の|ない場所を会見の条件に指定した。</source>
-        <target/>
+        <target state="translated">N had two conditions: First, all the investigators from both sides were to be present at the scene. Second, they had to meet in a place where they couldn't be seen from outside.</target>
       </trans-unit>
       <trans-unit id="797620" xml:space="preserve">
         <source>どこかからキラに見られる事が|あってはならない…|当然でしょうね。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="787228" xml:space="preserve">
+      <trans-unit id="787228" xml:space="preserve" approved="no">
         <source>大黒埠頭の外れにあるＹＢ倉庫を|準備してあります。</source>
-        <target/>
+        <target state="translated">I'll prepare a meeting place. The Yellow Box Warehouse, outside of Daikoku Wharf.</target>
       </trans-unit>
-      <trans-unit id="767776" xml:space="preserve">
+      <trans-unit id="767776" xml:space="preserve" approved="no">
         <source>わかりました。Ｎ。</source>
-        <target/>
+        <target state="translated">I understand, N.</target>
       </trans-unit>
-      <trans-unit id="766736" xml:space="preserve">
+      <trans-unit id="766736" xml:space="preserve" approved="no">
         <source>（来た……！）</source>
-        <target/>
+        <target state="translated">(So the time has finally come…!)</target>
       </trans-unit>
       <trans-unit id="799276" xml:space="preserve">
         <source>それは月が待っていたニアからの|連絡だった。|||この状況下でニアが取る策…</source>
@@ -3393,7 +3393,7 @@
       </trans-unit>
       <trans-unit id="828164" xml:space="preserve" approved="no">
         <source>２人を倒して裁きが止まったから|『ほら、そうだった』…&gt;&gt;そんな事後承諾的なやり方は|許されません。|私達のやり方ではありません。</source>
-        <target state="translated">Killing two people, making the executions stop, then saying "See, it worked!"…&gt;&gt;That sort of backwards-justification is unforgivable. It is not our type of solution.</target>
+        <target state="translated">Killing two people, making the executions stop, then saying "See, we were right!"…&gt;&gt;That sort of backwards-justification is unforgivable. It is not our type of solution.</target>
       </trans-unit>
       <trans-unit id="764892" xml:space="preserve" approved="no">
         <source>私達…？</source>
@@ -3415,21 +3415,21 @@
         <source>この策を成功させるには、|ある準備が絶対に欠かせない。|それを可能にするためのワナも|必要だ。||\T0045\t0002そのワナのエサは……ニア自身！||\T0045\t0002ニアはＮとして、Ｌにある申し出を|した。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="803720" xml:space="preserve">
+      <trans-unit id="803720" xml:space="preserve" approved="no">
         <source>Ｌ、お会いしたい。|どうしてもキラ事件に関し、|お見せしたいものがあります。</source>
-        <target/>
+        <target state="translated">L, I'd like to meet you.|There is something I must show you pertaining to the Kira case.</target>
       </trans-unit>
-      <trans-unit id="796212" xml:space="preserve">
+      <trans-unit id="796212" xml:space="preserve" approved="no">
         <source>これまで顔を見せなかったあなたが|直接姿を現すというのですか？</source>
-        <target/>
+        <target state="translated">You want to meet in person, even though you haven't shown your face at all so far?</target>
       </trans-unit>
-      <trans-unit id="813644" xml:space="preserve">
+      <trans-unit id="813644" xml:space="preserve" approved="no">
         <source>私の顔を出さなければ見せられない、|顔を出す事でお見せできる事もあり|それで全てが解決します。</source>
-        <target/>
+        <target state="translated">I can't show you what it is without showing my face.|And furthermore, showing my face is what will reveal something to you.|In fact, it will solve everything.</target>
       </trans-unit>
-      <trans-unit id="767616" xml:space="preserve">
+      <trans-unit id="767616" xml:space="preserve" approved="no">
         <source>…いいでしょう。</source>
-        <target/>
+        <target state="translated">…Alright.</target>
       </trans-unit>
       <trans-unit id="814844" xml:space="preserve">
         <source>Ｎは、互いの捜査員が|全員その場にそろう事、|そして外から見られる事の|ない場所を会見の条件に指定した。</source>
@@ -3475,17 +3475,17 @@
         <source>……キラ…|…キラと言うのなら証拠は？</source>
         <target state="translated">…Kira…|…If you say you're Kira, where's your evidence?</target>
       </trans-unit>
-      <trans-unit id="840352" xml:space="preserve">
+      <trans-unit id="840352" xml:space="preserve" approved="no">
         <source>『証拠はすぐにそちらに届きます。|私の持っているノートです』&gt;&gt;『敵のアジトもわかっています。|ノートと一緒に渡します。|これで敵と互角に戦えるはずです』</source>
-        <target/>
+        <target state="translated">"The evidence will arrive at your location shortly. It is my Note."&gt;&gt;"I also know the location of our enemy's hideout. I will send it to you along with the Note.|You should have enough information to take them down this way."</target>
       </trans-unit>
-      <trans-unit id="772760" xml:space="preserve">
+      <trans-unit id="772760" xml:space="preserve" approved="no">
         <source>！？　ど……どういう事だ？</source>
-        <target/>
+        <target state="translated">?! What… What are you talking about?</target>
       </trans-unit>
-      <trans-unit id="850388" xml:space="preserve">
+      <trans-unit id="850388" xml:space="preserve" approved="no">
         <source>『私はあなた方を正義と信じ、|ノートを持つ事を黙認していました。|しかし、あなた方は奪われた』&gt;&gt;『悪人の手にノートがある事は、|私の本意ではありません。|取り返してください』</source>
-        <target/>
+        <target state="translated">"I believed you to be enforcers of justice. That is why I have allowed you to hold onto the Note thus far. But now it has been taken from you."&gt;&gt;"It is not in my interest for such villains to have the Note. You must get it back."</target>
       </trans-unit>
       <trans-unit id="825144" xml:space="preserve">
         <source>突如、夜神総一郎の元にかかってきた|キラからの電話。||それは、ノートを奪還し|メロを仕留めるべく練られた、|月の秘策であった。</source>
@@ -3511,29 +3511,29 @@
         <source>つまり、キラは捜査員の誰かに|死神の目の取引をさせ、|デスノートでメロを始末させようと|している……||捜査本部は異様な空気に包まれた。|目の取引をすれば、寿命は半分に|縮まってしまう……|</source>
         <target/>
       </trans-unit>
-      <trans-unit id="804748" xml:space="preserve">
+      <trans-unit id="804748" xml:space="preserve" approved="no">
         <source>月の読みでは、直情的で一本気な|捜査員・松田がその役を買って|出ると思われたのだが……</source>
-        <target/>
+        <target state="translated">Light had thought that Matsuda, the open and single-minded one of the investigators, would volunteer for the role. But instead…</target>
       </trans-unit>
-      <trans-unit id="774476" xml:space="preserve">
+      <trans-unit id="774476" xml:space="preserve" approved="no">
         <source>いや……目の取引は私がする。</source>
-        <target/>
+        <target state="translated">No… I'll make the deal for the eyes.</target>
       </trans-unit>
-      <trans-unit id="767536" xml:space="preserve">
+      <trans-unit id="767536" xml:space="preserve" approved="no">
         <source>（！　なんだと）</source>
-        <target/>
+        <target state="translated">(What?!)</target>
       </trans-unit>
-      <trans-unit id="815956" xml:space="preserve">
+      <trans-unit id="815956" xml:space="preserve" approved="no">
         <source>元はといえば、私がノートを|渡してしまったんだ。&gt;&gt;私が死神と目の取引をする。|いや、させてくれ。</source>
-        <target/>
+        <target state="translated">I'm the one who let them take the Note in the first place.&gt;&gt;I'm willing to trade for the Shinigami Eyes. Let me do it.</target>
       </trans-unit>
-      <trans-unit id="851808" xml:space="preserve">
+      <trans-unit id="851808" xml:space="preserve" approved="no">
         <source>（…そこまで思い詰めていたのか…|こうなると、止めても……）&gt;&gt;（それに、誰かが目を持たなければ|次の策は進まない……）&gt;&gt;……わかったよ、父さん。|目の取引をするなら父さんだ。</source>
-        <target/>
+        <target state="translated">(…So he feels that guilty about it? I didn't realize…|Now that things have happened this way, even if I try to stop him…)&gt;&gt;(…And besides, for the plan to succeed, someone needs to have the eyes…)&gt;&gt;…Okay, Dad.|The one to trade for the eyes will be my dad.</target>
       </trans-unit>
-      <trans-unit id="845340" xml:space="preserve">
+      <trans-unit id="845340" xml:space="preserve" approved="no">
         <source>（ククッ、|ついに父親まで利用かよ？）&gt;&gt;（これでシドウにもノートが戻り、|一件落着にはなりそうだし……）&gt;&gt;（何より総一郎が目の取引して|突入ってのは面白そうだ）</source>
-        <target/>
+        <target state="translated">(Heheheh, so he's finally sunk to the point of using his own father?)&gt;&gt;(This way, Sidoh will get his Note back, too. Solving everything in one fell swoop…)&gt;&gt;(And Soichiro making the eye trade to break into their hideout? This is going to be prime entertainment!)</target>
       </trans-unit>
       <trans-unit id="809684" xml:space="preserve">
         <source>決死の覚悟を決めた総一郎以下、|日本の捜査員達は、リュークの|手引きでアジトへの突入を決行する。</source>
