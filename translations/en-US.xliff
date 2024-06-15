@@ -7043,9 +7043,9 @@
         <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;が目撃されました</source>
         <target/>
       </trans-unit>
-      <trans-unit id="541152" xml:space="preserve">
+      <trans-unit id="541152" xml:space="preserve" approved="no">
         <source>　&lt;name&gt;にデスノートの|　所有権を移動しました。</source>
-        <target/>
+        <target state="translated">　The ownership of the Death Note was transferred to &lt;name&gt;.</target>
       </trans-unit>
       <trans-unit id="565620" xml:space="preserve">
         <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;がリタイアしました。</source>
@@ -7791,9 +7791,9 @@
         <source>どうやら運はこちらに|向いているようです。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="497293" xml:space="preserve">
+      <trans-unit id="497293" xml:space="preserve" approved="no">
         <source>やはり…予想通りです。</source>
-        <target/>
+        <target state="translated">Yes… Just as I thought.</target>
       </trans-unit>
       <trans-unit id="504545" xml:space="preserve">
         <source>なるほど、|そういう事ですか。</source>
@@ -7807,9 +7807,9 @@
         <source>かなり大きな情報です。|逮捕の決め手になるかも。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="538253" xml:space="preserve">
+      <trans-unit id="538253" xml:space="preserve" approved="no">
         <source>どうやら敵の動きは|活発になったようです。</source>
-        <target/>
+        <target state="translated">It seems the enemy has become more active in their movements.</target>
       </trans-unit>
       <trans-unit id="537945" xml:space="preserve">
         <source>予想外でしたが、|結果がいいのでヨシです。</source>
@@ -7819,9 +7819,9 @@
         <source>大丈夫です。|予測の範囲内です。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="500233" xml:space="preserve">
+      <trans-unit id="500233" xml:space="preserve" approved="no">
         <source>これは…正直マズイです。</source>
-        <target/>
+        <target state="translated">To be honest with you… this is bad.</target>
       </trans-unit>
       <trans-unit id="507233" xml:space="preserve">
         <source>やれやれ、|ムダな事をしますね。</source>
@@ -7839,9 +7839,9 @@
         <source>これは|ちょっとピンチです。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="530113" xml:space="preserve">
+      <trans-unit id="530113" xml:space="preserve" approved="no">
         <source>仕方ないでしょうね。|敵も真剣ですから。</source>
-        <target/>
+        <target state="translated">There’s no way around it. It seems the enemy is as serious as we are.</target>
       </trans-unit>
       <trans-unit id="509681" xml:space="preserve">
         <source>思ったより早く|見つけられました。</source>
@@ -7879,37 +7879,37 @@
         <source>やってくれますね。|しかし、&lt;name&gt;が|しぶとくて助かります。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="525449" xml:space="preserve">
+      <trans-unit id="525449" xml:space="preserve" approved="no">
         <source>…&lt;name&gt;が|無事なだけで|良しとしましょう。</source>
-        <target/>
+        <target state="translated">…Let’s just be happy that &lt;name&gt; is safe.</target>
       </trans-unit>
       <trans-unit id="558393" xml:space="preserve">
         <source>やられましたか…|ですが、&lt;name&gt;が|無事でよかった。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="514761" xml:space="preserve">
+      <trans-unit id="514761" xml:space="preserve" approved="no">
         <source>なんでしょう、|イヤな予感がします。</source>
-        <target/>
+        <target state="translated">Strange… I just got a bad feeling about this.</target>
       </trans-unit>
-      <trans-unit id="511409" xml:space="preserve">
+      <trans-unit id="511409" xml:space="preserve" approved="no">
         <source>イヤな予感がします。|もしや敵は…</source>
-        <target/>
+        <target state="translated">I have a bad feeling about this.|If the enemy is…</target>
       </trans-unit>
-      <trans-unit id="538165" xml:space="preserve">
+      <trans-unit id="538165" xml:space="preserve" approved="no">
         <source>イヤな予感です。|私が敵の立場なら、今が…</source>
-        <target/>
+        <target state="translated">I have a bad feeling all of a sudden.|If I were in the enemy’s shoes right now, I would…</target>
       </trans-unit>
       <trans-unit id="530509" xml:space="preserve">
         <source>確実に追い詰めています。|この調子です。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="554497" xml:space="preserve">
+      <trans-unit id="554497" xml:space="preserve" approved="no">
         <source>相手はキラなんですから、|まだ油断は禁物です。</source>
-        <target/>
+        <target state="translated">We’re facing Kira here. We cannot afford to let our guard down.</target>
       </trans-unit>
-      <trans-unit id="538209" xml:space="preserve">
+      <trans-unit id="538209" xml:space="preserve" approved="no">
         <source>先手必勝です。|気を抜かずにいきましょう。</source>
-        <target/>
+        <target state="translated">Whoever strikes first wins.|Let’s go, but stay on your toes.</target>
       </trans-unit>
       <trans-unit id="522801" xml:space="preserve">
         <source>やはりキラだ。|予想以上にやりますね。</source>
@@ -7919,9 +7919,9 @@
         <source>何とか挽回しないと、|我々はおしまいですよ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="574777" xml:space="preserve">
+      <trans-unit id="574777" xml:space="preserve" approved="no">
         <source>少々マズイです。これ以上、|敵のリードは許せません。</source>
-        <target/>
+        <target state="translated">This isn’t good. We can’t let the enemy gain any more advantage.</target>
       </trans-unit>
       <trans-unit id="511625" xml:space="preserve">
         <source>やりましたね。|これなら勝てます。</source>
@@ -7939,17 +7939,17 @@
         <source>この一手で|決着をつけたいですね。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="502593" xml:space="preserve">
+      <trans-unit id="502593" xml:space="preserve" approved="no">
         <source>さあ、キラ。どうでますか。</source>
-        <target/>
+        <target state="translated">So, Kira. What’s your move?</target>
       </trans-unit>
       <trans-unit id="509789" xml:space="preserve">
         <source>うまく追い込めると|いいんですが。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="512309" xml:space="preserve">
+      <trans-unit id="512309" xml:space="preserve" approved="no">
         <source>裏路地を行けば|危険はありません。</source>
-        <target/>
+        <target state="translated">We shouldn’t meet any danger if we go by this back alley.</target>
       </trans-unit>
       <trans-unit id="554737" xml:space="preserve">
         <source>ここは安全策です。|裏路地なら心配ありません。</source>
@@ -7991,9 +7991,9 @@
         <source>ありがとうございます。|皆さんの協力のおかげです。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="509429" xml:space="preserve">
+      <trans-unit id="509429" xml:space="preserve" approved="no">
         <source>やはり…|私は間違っていなかった。</source>
-        <target/>
+        <target state="translated">I knew it…|I wasn’t wrong.</target>
       </trans-unit>
       <trans-unit id="508529" xml:space="preserve">
         <source>ここは負けか…|だが、次こそは…</source>
@@ -8015,9 +8015,9 @@
         <source>やっぱりキラは月くんが…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="520281" xml:space="preserve">
+      <trans-unit id="520281" xml:space="preserve" approved="no">
         <source>正義は勝ちます。|そう信じてください。</source>
-        <target/>
+        <target state="translated">Justice will prevail. Please have faith in that.</target>
       </trans-unit>
       <trans-unit id="498973" xml:space="preserve">
         <source>キラは私が必ず倒します。</source>
@@ -8027,17 +8027,17 @@
         <source>あとは時間の問題かも|しれません。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="572537" xml:space="preserve">
+      <trans-unit id="572537" xml:space="preserve" approved="no">
         <source>ちょっと甘いものが|足りません。|脳にいいんですよ。</source>
-        <target/>
+        <target state="translated">No amount of sweets is ever “enough.” They’re good for the brain, you know.</target>
       </trans-unit>
       <trans-unit id="575057" xml:space="preserve">
         <source>私にもしもの事があっても|月くんなら大丈夫でしょう。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="497517" xml:space="preserve">
+      <trans-unit id="497517" xml:space="preserve" approved="no">
         <source>…キラは…何のために…</source>
-        <target/>
+        <target state="translated">…Kira… But what for…?</target>
       </trans-unit>
       <trans-unit id="600837" xml:space="preserve">
         <source>どうもこの事件は|今まで解決した事件とは|本質が違う気がします。</source>
@@ -8067,9 +8067,9 @@
         <source>そこはノーマークでした。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="496301" xml:space="preserve">
+      <trans-unit id="496301" xml:space="preserve" approved="no">
         <source>予想以上の情報です。</source>
-        <target/>
+        <target state="translated">This is unexpected information.</target>
       </trans-unit>
       <trans-unit id="531653" xml:space="preserve">
         <source>敵は動いてます。|こちらも急ぎましょう。</source>
@@ -8083,9 +8083,9 @@
         <source>この程度なら|問題ありません。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="511913" xml:space="preserve">
+      <trans-unit id="511913" xml:space="preserve" approved="no">
         <source>…少し甘く見てたかも|しれません。</source>
-        <target/>
+        <target state="translated">…I may have underestimated the situation.</target>
       </trans-unit>
       <trans-unit id="494669" xml:space="preserve">
         <source>何度もムダな事を…</source>
@@ -8271,9 +8271,9 @@
         <source>メロ…僕達は…</source>
         <target state="translated">Mello… We…</target>
       </trans-unit>
-      <trans-unit id="550609" xml:space="preserve">
+      <trans-unit id="550609" xml:space="preserve" approved="no">
         <source>メロと私は似ているんです。|そう…ある意味で…</source>
-        <target/>
+        <target state="translated">In some ways… Mello and I are very similar.</target>
       </trans-unit>
       <trans-unit id="550657" xml:space="preserve">
         <source>キラの目的が何であれ、|私はキラを捕まえます。</source>
@@ -8383,9 +8383,9 @@
         <source>ありがとう。これで捜査が|やりやすくなる。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="532973" xml:space="preserve">
+      <trans-unit id="532973" xml:space="preserve" approved="no">
         <source>みんな無事ですかっ！？|&lt;name&gt;、|状況報告を！</source>
-        <target/>
+        <target state="translated">Is everyone alright?!|&lt;name&gt;! What’s the situation?!</target>
       </trans-unit>
       <trans-unit id="578305" xml:space="preserve">
         <source>くそっ…やってくれるな。|でも、&lt;name&gt;が|無事でよかった。</source>
