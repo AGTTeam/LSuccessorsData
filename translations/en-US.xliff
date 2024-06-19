@@ -2207,17 +2207,17 @@
         <source>通信機を破壊された？！　全滅か！&gt;&gt;くそっ！　これだけ万全の包囲を、|メロの奴、どうやって……！&gt;&gt;こんなことは死神にしか…そうか…|間違いない、死神がいる！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="786940" xml:space="preserve">
+      <trans-unit id="786940" xml:space="preserve" approved="no">
         <source>ボス。大統領の野郎、電話に出ねえ。|まさか……？</source>
-        <target/>
+        <target state="translated">Boss, the president isn't picking up.|You don't think…?</target>
       </trans-unit>
       <trans-unit id="791884" xml:space="preserve">
         <source>特殊部隊を突入させたが失敗……|それで恐怖のあまり…か。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="830228" xml:space="preserve">
+      <trans-unit id="830228" xml:space="preserve" approved="no">
         <source>ふん、まあいい。|死神も味方につけたし、|もう大統領に用はない。&gt;&gt;キラ……それにニア……待ってろ、|決着をつけるのも、そう遠くはない。</source>
-        <target/>
+        <target state="translated">Hmph. Whatever. Now we have a Shinigami on our side, we don't need the president anyway.&gt;&gt;Kira… and Near… Just you wait. I'll put an end to this soon enough.</target>
       </trans-unit>
       <trans-unit id="770920" xml:space="preserve" approved="no">
         <source>||||||　　　　　移動の仕方</source>
@@ -2355,13 +2355,13 @@
         <source>ふーん、なるほど。</source>
         <target state="translated">Hmmm, so that's how it is.</target>
       </trans-unit>
-      <trans-unit id="858368" xml:space="preserve">
+      <trans-unit id="858368" xml:space="preserve" approved="no">
         <source>（死神が憑いていない、|魅上はそうつぶやいた…）&gt;&gt;（ここまで見た限り魅上は独自に|大胆に動いているフシもある）&gt;&gt;（少なくとも魅上の方の死神は|キラとのコンタクトに|使われていない。それなら…）</source>
-        <target/>
+        <target state="translated">(So that means Mikami is not being possessed by a Shinigami…)&gt;&gt;(It seems that as of now, Mikami has been making bold moves all on his own.)&gt;&gt;(At the very least, Mikami does not have a Shinigami to act as a middleman between him and Kira. In that case…)</target>
       </trans-unit>
-      <trans-unit id="806412" xml:space="preserve">
+      <trans-unit id="806412" xml:space="preserve" approved="no">
         <source>魅上に死神は憑いていないようです。|みなさん予定通り、作戦を続行して|ください。</source>
-        <target/>
+        <target state="translated">It appears Mikami is not being possessed by a Shinigami.|Everyone, we'll continue with the same plan of attack.</target>
       </trans-unit>
       <trans-unit id="777372" xml:space="preserve" approved="no">
         <source>||||||　　　　うわあああっ！？</source>
@@ -2407,9 +2407,9 @@
         <source>だが、まずはこのアジトから|逃げ出す手助けをしろ。|表の特殊部隊を何とかするんだ。</source>
         <target state="translated">But first, you have to help us get out of this hideout.|Do something to deal with the special task force in front.</target>
       </trans-unit>
-      <trans-unit id="795596" xml:space="preserve">
+      <trans-unit id="795596" xml:space="preserve" approved="no">
         <source>…それならそのノートで|トラップが使えるように|してあげるよ。</source>
-        <target/>
+        <target state="translated">…In that case, I'll make it so you can use that Note to make traps.</target>
       </trans-unit>
       <trans-unit id="771160" xml:space="preserve" approved="no">
         <source>なるほど……いいだろう。</source>
@@ -2425,7 +2425,7 @@
       </trans-unit>
       <trans-unit id="818084" xml:space="preserve" approved="no">
         <source>何おまえ、人間に飼われてんだよ。|バカじゃねーの？&gt;&gt;いや……今の俺も|えらそうな事、言えないけど……</source>
-        <target state="translated">Hell are you doing, playing lapdog to these humans?|Are you stupid?&gt;&gt;Wait… I'm not really in any place to judge right now…</target>
+        <target state="translated">Hell are you doing, playing lapdog to these humans?|Are you stupid?&gt;&gt;Wait… I'm not really in any place to judge, am I.</target>
       </trans-unit>
       <trans-unit id="779812" xml:space="preserve" approved="no">
         <source>……だって、|こうしないとノートが……</source>
@@ -2439,9 +2439,9 @@
         <source>……あっ、そうだな……</source>
         <target state="translated">…Oh, you're right…</target>
       </trans-unit>
-      <trans-unit id="838568" xml:space="preserve">
+      <trans-unit id="838568" xml:space="preserve" approved="no">
         <source>いいか、|これから警察の突入部隊が|メロを捕まえる。&gt;&gt;おまえは夜神総一郎ってのに|目の取引をして、&gt;&gt;ノートのトラップを|無効にできるようにしてやれ。</source>
-        <target/>
+        <target state="translated">Okay, listen up. The police's special task force is going in to capture Mello.&gt;&gt;See that guy over there? Soichiro Yagami? Do the eyes deal with him so he can disable the Notebook traps.</target>
       </trans-unit>
       <trans-unit id="766696" xml:space="preserve" approved="no">
         <source>わ、わかった。</source>
@@ -2449,7 +2449,7 @@
       </trans-unit>
       <trans-unit id="814604" xml:space="preserve" approved="no">
         <source>リュークの手引きで、夜神総一郎は|シドウと接触。|||そして、ノート奪還に向け、|最後の詰めを行なう……</source>
-        <target state="translated">Using Ryuk as a proxy, Soichiro Yagami was able to contact Sidoh.|||Then the battle was on: to recapture the Note once and for all…</target>
+        <target state="translated">Using Ryuk as a proxy, Soichiro Yagami was able to communicate with Sidoh.|||Then the battle was on: to recapture the Note once and for all…</target>
       </trans-unit>
       <trans-unit id="788140" xml:space="preserve" approved="no">
         <source>……では、父さ…いや夜神次長…|死神と目の取引を。</source>
