@@ -4161,7 +4161,7 @@
       </trans-unit>
       <trans-unit id="847432" xml:space="preserve" approved="no">
         <source>（警察内部での足場も固めた。|僕は今、Ｌであり、キラでもある）&gt;&gt;（もう誰も|僕を止められる者はいない）&gt;&gt;（こんなに簡単にいくとは…|…やはりＬがいないとぬるい……）</source>
-        <target state="translated">(I've cemented my place in the police force. Now I am L, and also Kira.)&gt;&gt;(No one can stop me now.)&gt;&gt;(Everything is going so smoothly…|…It's almost too easy without L around…)</target>
+        <target state="translated">(I've cemented my place in the police force. Now I am L, and also Kira.)&gt;&gt;(No one can stop me now.)&gt;&gt;(Everything is going so smoothly…|…It's almost boring without L around…)</target>
       </trans-unit>
       <trans-unit id="867520" xml:space="preserve" approved="no">
         <source>世界はキラに対する表向きの非難と|裏の声援とに二分され、|徐々に裏の声が表に出始める。||そしてついに「キラは正義だ」という|者だけでなく「キラを認める」と|表明する国すら現れる。||キラが法となる暗黒の時代へ、|世界は向かいつつあった……</source>
@@ -7999,13 +7999,13 @@
         <source>ここは負けか…|だが、次こそは…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="516281" xml:space="preserve">
+      <trans-unit id="516281" xml:space="preserve" approved="no">
         <source>残念です。|キラを逃してしまうとは。</source>
-        <target/>
+        <target state="translated">What a shame.|To think we let Kira escape…</target>
       </trans-unit>
-      <trans-unit id="558445" xml:space="preserve">
+      <trans-unit id="558445" xml:space="preserve" approved="no">
         <source>負け…ですね。|しかし最後には我々が|勝ちます。</source>
-        <target/>
+        <target state="translated">We’ve… lost, huh.|But we will be the victors in the end.</target>
       </trans-unit>
       <trans-unit id="494217" xml:space="preserve" approved="no">
         <source>…………………</source>
@@ -8031,9 +8031,9 @@
         <source>ちょっと甘いものが|足りません。|脳にいいんですよ。</source>
         <target state="translated">No amount of sweets is ever “enough.” They’re good for the brain, you know.</target>
       </trans-unit>
-      <trans-unit id="575057" xml:space="preserve">
+      <trans-unit id="575057" xml:space="preserve" approved="no">
         <source>私にもしもの事があっても|月くんなら大丈夫でしょう。</source>
-        <target/>
+        <target state="translated">Even if something does happen to me, it’ll be alright as long as Light is here.</target>
       </trans-unit>
       <trans-unit id="497517" xml:space="preserve" approved="no">
         <source>…キラは…何のために…</source>
@@ -8251,9 +8251,9 @@
         <source>Ｌ…メロ…私は負けた。|しかし、次こそは…</source>
         <target state="translated">L… Mello… I've lost.|But next time…</target>
       </trans-unit>
-      <trans-unit id="566505" xml:space="preserve">
+      <trans-unit id="566505" xml:space="preserve" approved="no">
         <source>…ここは撤退です。どうせ|最後には我々が勝ちます。</source>
-        <target/>
+        <target state="translated">…We’ll retreat for now. In any case, the final victory will be ours.</target>
       </trans-unit>
       <trans-unit id="494717" xml:space="preserve" approved="no">
         <source>キラと二代目Ｌは…</source>
@@ -8275,9 +8275,9 @@
         <source>メロと私は似ているんです。|そう…ある意味で…</source>
         <target state="translated">In some ways… Mello and I are very similar.</target>
       </trans-unit>
-      <trans-unit id="550657" xml:space="preserve">
+      <trans-unit id="550657" xml:space="preserve" approved="no">
         <source>キラの目的が何であれ、|私はキラを捕まえます。</source>
-        <target/>
+        <target state="translated">No matter what Kira's motives are, I will capture him.</target>
       </trans-unit>
       <trans-unit id="526021" xml:space="preserve" approved="no">
         <source>キラは間違いなく|史上最大の犯罪者です。</source>
@@ -8299,9 +8299,9 @@
         <source>どうやら、形勢は|こちらが有利のようだな。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="494089" xml:space="preserve">
+      <trans-unit id="494089" xml:space="preserve" approved="no">
         <source>予想通りだ！</source>
-        <target/>
+        <target state="translated">Just as I thought!</target>
       </trans-unit>
       <trans-unit id="504449" xml:space="preserve">
         <source>見つけた！|奴等のメンバーだ。</source>
