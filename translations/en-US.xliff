@@ -2195,25 +2195,25 @@
         <source>初めのうちは、\c04『最小望遠』\c02で|慣れてきたら\c04『標準望遠』\c02で|逃亡計画を立てるのがいいだろう。&gt;&gt;状況に応じて|うまく使い分けるといい。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="782920" xml:space="preserve">
+      <trans-unit id="782920" xml:space="preserve" approved="no">
         <source>ははっ！\t0030|\t0002どうだ。マヌケども！</source>
-        <target/>
+        <target state="translated">Haha! \t0030|\t0002How's that feel, bastards?!</target>
       </trans-unit>
-      <trans-unit id="831204" xml:space="preserve">
+      <trans-unit id="831204" xml:space="preserve" approved="no">
         <source>『くそっ！|メロは…メロはどうした！？』&gt;&gt;『突入部隊、応答せよ！|メロは捕まえたのか！？』&gt;&gt;『どうして誰も応答しない！|応答…………』</source>
-        <target/>
+        <target state="translated">"Dammit! What's going on? What did Mello—?!"&gt;&gt;"Task force, do you hear us? Did you get Mello?!"&gt;&gt;"Why isn't anyone answering! Somebody! Anybody… Please…"</target>
       </trans-unit>
-      <trans-unit id="841616" xml:space="preserve">
+      <trans-unit id="841616" xml:space="preserve" approved="no">
         <source>通信機を破壊された？！　全滅か！&gt;&gt;くそっ！　これだけ万全の包囲を、|メロの奴、どうやって……！&gt;&gt;こんなことは死神にしか…そうか…|間違いない、死神がいる！</source>
-        <target/>
+        <target state="translated">The receivers are broken! Was this a trap?!&gt;&gt;Damn it! How did Mello escape such a perfect siege?!&gt;&gt;This is something only a Shinigami could… Wait…|That's it! They must have a Shinigami on their side!</target>
       </trans-unit>
       <trans-unit id="786940" xml:space="preserve" approved="no">
         <source>ボス。大統領の野郎、電話に出ねえ。|まさか……？</source>
         <target state="translated">Boss, the president isn't picking up.|You don't think…?</target>
       </trans-unit>
-      <trans-unit id="791884" xml:space="preserve">
+      <trans-unit id="791884" xml:space="preserve" approved="no">
         <source>特殊部隊を突入させたが失敗……|それで恐怖のあまり…か。</source>
-        <target/>
+        <target state="translated">So he heard about his task force's failure…|And out of fear, he must have…</target>
       </trans-unit>
       <trans-unit id="830228" xml:space="preserve" approved="no">
         <source>ふん、まあいい。|死神も味方につけたし、|もう大統領に用はない。&gt;&gt;キラ……それにニア……待ってろ、|決着をつけるのも、そう遠くはない。</source>
@@ -2223,25 +2223,25 @@
         <source>||||||　　　　　移動の仕方</source>
         <target state="translated">Movement</target>
       </trans-unit>
-      <trans-unit id="876112" xml:space="preserve">
+      <trans-unit id="876112" xml:space="preserve" approved="no">
         <source>捜査員は、キラを追い詰め、|逮捕することが目的です。&gt;&gt;その為に、捜査の基本を|学びましょう。&gt;&gt;捜査の基本は足です。|容疑者の情報を得るのも、|逮捕するのも、&gt;&gt;捜査員を\c04『移動』\c02させなくては|始まりません。&gt;&gt;では、捜査員の移動のさせ方を|教えますから、|しっかり覚えてください。</source>
-        <target/>
+        <target state="translated">The goal of the investigators is to chase and capture Kira.&gt;&gt;To do this, let's go over the basics of investigating.&gt;&gt;An investigation starts on foot. Without \c04moving\c02 the investigators, you won't be able to get information on or capture the suspects.&gt;&gt;The following instructions will tell you how to move investigators. Read them carefully.</target>
       </trans-unit>
-      <trans-unit id="863732" xml:space="preserve">
+      <trans-unit id="863732" xml:space="preserve" approved="no">
         <source>捜査員を移動させるには|\c04タッチペン\c02を使用します。&gt;&gt;タッチペンを使って、|捜査員を\c04タッチ\c02します。&gt;&gt;タッチしたまま、道沿いに|タッチペンを\c04スライド\c02させれば&gt;&gt;捜査員の\c04移動ルート\c02が引かれ|ていきます。</source>
-        <target/>
+        <target state="translated">You can move investigators using the \c04stylus\c02.&gt;&gt;\c04Tap and hold\c02 the investigator as you \c04follow the road \c02with your stylus.&gt;&gt;Doing so will draw their \c04movement path\c02.</target>
       </trans-unit>
-      <trans-unit id="818984" xml:space="preserve">
+      <trans-unit id="818984" xml:space="preserve" approved="no">
         <source>ただし、この状態では、|移動は完了していません。&gt;&gt;タッチペンを\c04放すと\c02、|移動の確認が行われます。</source>
-        <target/>
+        <target state="translated">The movement is not yet complete at this point.&gt;&gt;Remember to \c04release the stylus \c02to confirm the movement.</target>
       </trans-unit>
-      <trans-unit id="870136" xml:space="preserve">
+      <trans-unit id="870136" xml:space="preserve" approved="no">
         <source>移動ルートに問題がなければ|\c04『ＯＫ』\c02をタッチします。&gt;&gt;これで、捜査員が移動指示に|従って移動を開始します。&gt;&gt;移動ルートに間違いがあった|場合は\c04『ＣＡＮＣＥＬ』\c02を|タッチしてください。&gt;&gt;何度でも移動ルートを|引き直すことができます。</source>
-        <target/>
+        <target state="translated">If the route is correct, tap \c04OK\c02.&gt;&gt;The investigator will then move according to the instructions given.&gt;&gt;If the route is not correct, tap \c04CANCEL\c02.&gt;&gt;You can redraw the route as many times as necessary.</target>
       </trans-unit>
-      <trans-unit id="875804" xml:space="preserve">
+      <trans-unit id="875804" xml:space="preserve" approved="no">
         <source>捜査員は\c04『１ターン』\c02に\c04『１回』\c02|だけ、\c04移動ポイント分\c02、|移動することができます。&gt;&gt;ただし、キラ側は|移動ポイントがある限り、|\c04何度でも移動できます。\c02&gt;&gt;このことを、|よく覚えておかないと|容疑者を取り逃がします。&gt;&gt;注意して捜査方針を|立ててください。</source>
-        <target/>
+        <target state="translated">In the span of \c04one turn\c02, the investigators \c04can only move once\c02, given that they have enough \c04Movement Points\c02.&gt;&gt;However, the Kira members \c04can move as many times as they want\c02 within a turn, as long as they have enough Movement Points. Remember this difference so you don't let a suspect slip away.&gt;&gt;Please be careful when planning your investigation.</target>
       </trans-unit>
       <trans-unit id="770296" xml:space="preserve" approved="no">
         <source>||||||　　　　　移動の仕方</source>
@@ -2327,9 +2327,9 @@
         <source>ニア、Ｘキラはもう魅上で|決まりだな。&gt;&gt;どうするニア、魅上を押さえるか？</source>
         <target state="translated">Near, X-Kira is definitely Mikami.&gt;&gt;What should we do, Near? Aren't we going to capture Mikami?</target>
       </trans-unit>
-      <trans-unit id="880444" xml:space="preserve">
+      <trans-unit id="880444" xml:space="preserve" approved="no">
         <source>レスター指揮官、|何度も言わせないでください。&gt;&gt;魅上がＸキラと決まっても|それではＬ＝夜神月には|たどり着けない。&gt;&gt;今回の策は、デスノートに名前を|書かせなければ意味がありません。|そのために私が顔を見せるんです。&gt;&gt;魅上はこの策のキーマンになります。|おそらく死神の目を持っているのは|Ｘキラ＝魅上です。&gt;&gt;ですから身柄は拘束せず、|そのまま泳がせてください。</source>
-        <target/>
+        <target state="translated">Commander Rester, please don't make me repeat myself.&gt;&gt;Even if we assume X-Kira is Mikami, we won't reach L, Light Yagami, that way.&gt;&gt;Our current strategy will not work if we don't allow Kira to write my name in the Death Note. It is for that purpose that I am showing my face.&gt;&gt;Mikami is a key component in this strategy, since it's likely that X-Kira, Mikami, is the one with the Shinigami Eyes.&gt;&gt;So please do not restrain him. Let him be for now.</target>
       </trans-unit>
       <trans-unit id="779364" xml:space="preserve" approved="no">
         <source>『魅上がひとり言を！|　映像送ります』</source>
@@ -2495,9 +2495,9 @@
         <source>『ああ』</source>
         <target state="translated">"Mm-hmm."</target>
       </trans-unit>
-      <trans-unit id="781604" xml:space="preserve">
+      <trans-unit id="781604" xml:space="preserve" approved="no">
         <source>高田を確保する。|手はずを間違えるなよ。</source>
-        <target/>
+        <target state="translated">Secure Takada.|And don't mess up.</target>
       </trans-unit>
       <trans-unit id="766284" xml:space="preserve" approved="no">
         <source>『まかせろ』</source>
@@ -2647,13 +2647,13 @@
         <source>また、特殊移動ポイントは|\c04ステータス画面\c02から|確認することが出来る。&gt;&gt;残りのポイントを確認して|使い所をよく考えてから|行動するんだ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="843460" xml:space="preserve">
+      <trans-unit id="843460" xml:space="preserve" approved="no">
         <source>（非通知着信……|\T0060\t0002…『確認』……やった！|\T0060\t0002これは魅上からの合図…）&gt;&gt;（ニアは思いの他、早く|魅上にたどり着いた。|しかし、これでいい…）</source>
-        <target/>
+        <target state="translated">(A text from an anonymous number…|\T0060\t0002…"I've confirmed it"… Yes!|\T0060\t0002This is a signal from Mikami…)&gt;&gt;(Near got to Mikami faster than I expected.|But that's alright. Everything is set now…)</target>
       </trans-unit>
-      <trans-unit id="869072" xml:space="preserve">
+      <trans-unit id="869072" xml:space="preserve" approved="no">
         <source>（ニアは魅上を捕まえたりはしない。|最終的にはこの策を取るだろうと|考えていた事を、まさに…）&gt;&gt;（これで終わる…|\T0060\t0002いや、今日から始まる。|完全なるキラの世界が）&gt;&gt;（メロも高田も排除した。|これで邪魔者は１人もいなくなる！）</source>
-        <target/>
+        <target state="translated">(Near won't capture Mikami.|I was right about him. He'll stick to his strategy to the very last…)&gt;&gt;(It all ends here…|\T0060\t0002No, it's the other way around. Kira's world will finally begin.)&gt;&gt;(I've eliminated both Mello and Takada.|And now, there won't be a single person left standing in my way!)</target>
       </trans-unit>
       <trans-unit id="779172" xml:space="preserve" approved="no">
         <source>『魅上がひとり言を！|　映像送ります』</source>
@@ -4559,13 +4559,13 @@
         <source>||||||　……削除……\T0045\t0000削除……\T0045\t0000削除……</source>
         <target state="translated">||||||　…Delete…\T0045\t0000Delete…\T0045\t0000Delete…</target>
       </trans-unit>
-      <trans-unit id="868032" xml:space="preserve">
+      <trans-unit id="868032" xml:space="preserve" approved="no">
         <source>キラの新世界創世は、最終段階に|入ろうとしていた。||Ｌとして|捜査本部をあざむき続ける月には、|自分のかわりにキラの裁きを行なう|補佐役が必要になっていた。||この役目はミサでは手に余る……||月は１人のキラ崇拝者に|新たにノートを授けた。</source>
-        <target/>
+        <target state="translated">The creation of Kira's new world had entered its final stage.||Light, who was busy with keeping the task force's suspicions off of him, decided he needed an assistant to carry out Kira's judgments in his stead.||He thought such a duty was beyond Misa, so instead…||Light gave the Note to one particular Kira worshipper.</target>
       </trans-unit>
-      <trans-unit id="816080" xml:space="preserve">
+      <trans-unit id="816080" xml:space="preserve" approved="no">
         <source>魅上照。|検察庁に勤める若手検事。||正義感のあまり、悪人を憎悪する、|キラの代理にふさわしい人物だった。</source>
-        <target/>
+        <target state="translated">Teru Mikami.|A young prosecutor working at the Public Prosecutor’s Office.||Due to his strong sense of justice, he loathed criminals. He was the perfect choice for Kira’s proxy.</target>
       </trans-unit>
       <trans-unit id="821780" xml:space="preserve">
         <source>私はキラに認められ、|キラの法として選ばれた人間……&gt;&gt;キラの胸中を察し、キラの期待に|応えなければならない。</source>
