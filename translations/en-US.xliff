@@ -4639,29 +4639,29 @@
         <source>……わかってるさ、マット。|だが…これは俺がやるしかないんだ。</source>
         <target state="translated">…I know all that, Matt.|But… this is something I have to do.</target>
       </trans-unit>
-      <trans-unit id="786364" xml:space="preserve">
+      <trans-unit id="786364" xml:space="preserve" approved="no">
         <source>もうすぐだ…\t0030|\t0002…できる………新世界！</source>
-        <target/>
+        <target state="translated">It’s almost here…\t0030|\t0002…I can reach it… The new world!</target>
       </trans-unit>
-      <trans-unit id="786436" xml:space="preserve">
+      <trans-unit id="786436" xml:space="preserve" approved="no">
         <source>捜査員の追及をすべて退けた月は、|密かにミサと合流した。</source>
-        <target/>
+        <target state="translated">Having beaten off the investigators on his tail, Light secretly met up with Misa.</target>
       </trans-unit>
-      <trans-unit id="808900" xml:space="preserve">
+      <trans-unit id="808900" xml:space="preserve" approved="no">
         <source>そして、手に入れたデスノートを|ミサに託すと、自分は何食わぬ顔で|捜査本部へと帰ったのである。</source>
-        <target/>
+        <target state="translated">He entrusted Misa with the Death Note he’d just regained, then returned to the investigation headquarters himself, putting on his most innocent look.</target>
       </trans-unit>
-      <trans-unit id="781156" xml:space="preserve">
+      <trans-unit id="781156" xml:space="preserve" approved="no">
         <source>……月くん、|どこへ行っていたのですか？</source>
-        <target/>
+        <target state="translated">…Light, where were you just now?</target>
       </trans-unit>
-      <trans-unit id="782852" xml:space="preserve">
+      <trans-unit id="782852" xml:space="preserve" approved="no">
         <source>だからヤボ用さ。|話すほどのことじゃない。</source>
-        <target/>
+        <target state="translated">I told you, it was just an errand. Nothing worth talking about.</target>
       </trans-unit>
-      <trans-unit id="829908" xml:space="preserve">
+      <trans-unit id="829908" xml:space="preserve" approved="no">
         <source>（……私が彼につけた尾行は、|ことごとく連絡が取れなくなった…）&gt;&gt;（もしや、もう１冊のデスノートを|どこかで手に入れ、それを使って？）</source>
-        <target/>
+        <target state="translated">(…I can’t reach even a single one of the people I assigned to tail him anymore…)&gt;&gt;(But how? Did he get another Death Note from somewhere and use that?)</target>
       </trans-unit>
       <trans-unit id="772240" xml:space="preserve" approved="no">
         <source>||||||　　　　　　数日後……</source>
@@ -4669,7 +4669,7 @@
       </trans-unit>
       <trans-unit id="795156" xml:space="preserve" approved="no">
         <source>また犯罪者が…どういう事だ！？&gt;&gt;またキラが動き出したのか！？</source>
-        <target state="translated">The criminals are being killed again… What's going on?!&gt;&gt;Is Kira back again?!</target>
+        <target state="translated">The criminals are being killed again… What's going on?!&gt;&gt;Is Kira back?!</target>
       </trans-unit>
       <trans-unit id="853452" xml:space="preserve" approved="no">
         <source>キラは再び世界の犯罪者に対して|制裁を始めた。||この情報は、捜査本部に新たな|衝撃をもたらす。||それは、Ｌの考え通り、もう１冊の|デスノートが存在していることが|確実だという意味なのだ。</source>
