@@ -3291,17 +3291,17 @@
         <source>||||||月＝キラは、いよいよ全世界を|手中に収めようとしていた。</source>
         <target state="translated">||||||Bit by bit, the entire world was falling into the palm of Light's, a.k.a. Kira's, hand.</target>
       </trans-unit>
-      <trans-unit id="843272" xml:space="preserve">
+      <trans-unit id="843272" xml:space="preserve" approved="no">
         <source>メロが実行しようとしていた策…||それが成功したのか失敗だったのか|今となっては知る術もない。||しかし、メロの行動によって|キラと魅上の連絡が|困難になったのは確かだ。</source>
-        <target/>
+        <target state="translated">The scheme that Mello had carried out…||For now, they had no way of knowing if it had succeeded or not.||But one thing was certain: Thanks to Mello, it had become much more difficult for Kira and Mikami to communicate.</target>
       </trans-unit>
-      <trans-unit id="871480" xml:space="preserve">
+      <trans-unit id="871480" xml:space="preserve" approved="no">
         <source>おそらくメロは、|キラと高田、そして魅上の関係に|気づいていたはず。|それはニアも同様だ。||当然、ニアもすでに、魅上の存在を|知っていると見るべきだろう。||メロとニアの関係を考えれば、|手を組んだとは思えないが、|その位の情報交換はあり得る|事だった。</source>
-        <target/>
+        <target state="translated">Mello had most likely noticed the link between Kira, Takada, and Mikami.|The same could be said of Near.||It was safe to assume that Near already knew of Mikami’s existence.||Considering the state of Mello and Near’s relationship, they definitely weren’t working together, but it wasn’t out of the question for them to exchange this much information.</target>
       </trans-unit>
       <trans-unit id="811288" xml:space="preserve" approved="no">
         <source>一方ニアは、高田清美と夜神月の|関係もつかんでいた気配がある。|||その上でメロを動かしたとすれば…</source>
-        <target state="translated">Meanwhile, it seemed Near had caught on to the relationship between Kiyomi Takada and Light Yagami.|||If he moved Mello on top of that…</target>
+        <target state="translated">Meanwhile, it seemed Near had also caught on to the relationship between Kiyomi Takada and Light Yagami.|||If he moved Mello on top of that…</target>
       </trans-unit>
       <trans-unit id="814964" xml:space="preserve" approved="no">
         <source>ニアは僕をキラだと疑っている…&gt;&gt;いや、あのＬの後継者を|自認するなら|すでに確信しているはずだ。</source>
@@ -3659,9 +3659,9 @@
         <source>……やっぱりそうか…|…行くしかないのか、人間界に……</source>
         <target state="translated">…So I really don't have a choice…|…I'll have to go down into the Human World…</target>
       </trans-unit>
-      <trans-unit id="665240" xml:space="preserve">
+      <trans-unit id="665240" xml:space="preserve" approved="no">
         <source>ＳＥチェック</source>
-        <target/>
+        <target state="translated">SFX Check</target>
       </trans-unit>
       <trans-unit id="661012" xml:space="preserve">
         <source>決定</source>
@@ -3687,25 +3687,25 @@
         <source>コマンド実行不可</source>
         <target/>
       </trans-unit>
-      <trans-unit id="661528" xml:space="preserve">
+      <trans-unit id="661528" xml:space="preserve" approved="no">
         <source>駒移動音</source>
-        <target/>
+        <target state="translated">Move SFX</target>
       </trans-unit>
-      <trans-unit id="763644" xml:space="preserve">
+      <trans-unit id="763644" xml:space="preserve" approved="no">
         <source>駒移動音（車）</source>
-        <target/>
+        <target state="translated">Move SFX (Car)</target>
       </trans-unit>
-      <trans-unit id="665212" xml:space="preserve">
+      <trans-unit id="665212" xml:space="preserve" approved="no">
         <source>地下鉄利用音</source>
-        <target/>
+        <target state="translated">Subway SFX</target>
       </trans-unit>
-      <trans-unit id="664652" xml:space="preserve">
+      <trans-unit id="664652" xml:space="preserve" approved="no">
         <source>バス利用音</source>
-        <target/>
+        <target state="translated">Bus SFX</target>
       </trans-unit>
-      <trans-unit id="663644" xml:space="preserve">
+      <trans-unit id="663644" xml:space="preserve" approved="no">
         <source>ヘリ利用音</source>
-        <target/>
+        <target state="translated">Helicopter SFX</target>
       </trans-unit>
       <trans-unit id="661480" xml:space="preserve">
         <source>船利用音</source>
@@ -3743,29 +3743,29 @@
         <source>勝利ポイント減少</source>
         <target/>
       </trans-unit>
-      <trans-unit id="765564" xml:space="preserve">
+      <trans-unit id="765564" xml:space="preserve" approved="no">
         <source>デスノート権利移動</source>
-        <target/>
+        <target state="translated">Transfer Death Note Ownership</target>
       </trans-unit>
-      <trans-unit id="663980" xml:space="preserve">
+      <trans-unit id="663980" xml:space="preserve" approved="no">
         <source>カメラ破壊</source>
-        <target/>
+        <target state="translated">Destroy Camera</target>
       </trans-unit>
-      <trans-unit id="660972" xml:space="preserve">
+      <trans-unit id="660972" xml:space="preserve" approved="no">
         <source>変装</source>
-        <target/>
+        <target state="translated">Disguise</target>
       </trans-unit>
-      <trans-unit id="665436" xml:space="preserve">
+      <trans-unit id="665436" xml:space="preserve" approved="no">
         <source>トラップ設置</source>
-        <target/>
+        <target state="translated">Set Trap</target>
       </trans-unit>
       <trans-unit id="663700" xml:space="preserve">
         <source>カメラ再生</source>
         <target/>
       </trans-unit>
-      <trans-unit id="664540" xml:space="preserve">
+      <trans-unit id="664540" xml:space="preserve" approved="no">
         <source>カメラ修復</source>
-        <target/>
+        <target state="translated">Repair Camera</target>
       </trans-unit>
       <trans-unit id="660992" xml:space="preserve">
         <source>検問</source>
@@ -3775,13 +3775,13 @@
         <source>抜け道</source>
         <target/>
       </trans-unit>
-      <trans-unit id="764316" xml:space="preserve">
+      <trans-unit id="764316" xml:space="preserve" approved="no">
         <source>隠しカメラ設置</source>
-        <target/>
+        <target state="translated">Set Hidden Camera</target>
       </trans-unit>
-      <trans-unit id="664764" xml:space="preserve">
+      <trans-unit id="664764" xml:space="preserve" approved="no">
         <source>ターン開始</source>
-        <target/>
+        <target state="translated">Start Turn</target>
       </trans-unit>
       <trans-unit id="665464" xml:space="preserve">
         <source>ノートめくり</source>
@@ -3819,9 +3819,9 @@
         <source>トラップ発動音（通り魔）</source>
         <target/>
       </trans-unit>
-      <trans-unit id="666108" xml:space="preserve">
+      <trans-unit id="666108" xml:space="preserve" approved="no">
         <source>ドアチャイム</source>
-        <target/>
+        <target state="translated">Door Chime</target>
       </trans-unit>
       <trans-unit id="665856" xml:space="preserve">
         <source>携帯電源切れ</source>
@@ -3839,9 +3839,9 @@
         <source>テレビ起動音</source>
         <target/>
       </trans-unit>
-      <trans-unit id="766068" xml:space="preserve">
+      <trans-unit id="766068" xml:space="preserve" approved="no">
         <source>パテーションが倒れる</source>
-        <target/>
+        <target state="translated">Glass Screen Topples</target>
       </trans-unit>
       <trans-unit id="662320" xml:space="preserve">
         <source>車発進音</source>
@@ -3855,9 +3855,9 @@
         <source>事故音</source>
         <target/>
       </trans-unit>
-      <trans-unit id="665632" xml:space="preserve">
+      <trans-unit id="665632" xml:space="preserve" approved="no">
         <source>イスが倒れる</source>
-        <target/>
+        <target state="translated">Chair Topples</target>
       </trans-unit>
       <trans-unit id="763740" xml:space="preserve">
         <source>鉄の扉が閉じる</source>
@@ -3883,13 +3883,13 @@
         <source>ガス弾発射音</source>
         <target/>
       </trans-unit>
-      <trans-unit id="661120" xml:space="preserve">
+      <trans-unit id="661120" xml:space="preserve" approved="no">
         <source>鼓動音</source>
-        <target/>
+        <target state="translated">Heartbeat Sound</target>
       </trans-unit>
-      <trans-unit id="665744" xml:space="preserve">
+      <trans-unit id="665744" xml:space="preserve" approved="no">
         <source>鼓動音（強）</source>
-        <target/>
+        <target state="translated">Heartbeat Sound (Fast)</target>
       </trans-unit>
       <trans-unit id="765744" xml:space="preserve">
         <source>ノートに名前を書く</source>
@@ -7339,9 +7339,9 @@
         <source>検問を突破するキャラを|選択してください。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="525844" xml:space="preserve">
+      <trans-unit id="525844" xml:space="preserve" approved="no">
         <source>移動させるトラップを|選択してください。</source>
-        <target/>
+        <target state="translated">Choose the trap you want to move.</target>
       </trans-unit>
       <trans-unit id="502336" xml:space="preserve">
         <source>移動先を|選択してください。</source>
@@ -7367,9 +7367,9 @@
         <source>特殊移動ポイントを使わずに|特殊移動ができます。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="533104" xml:space="preserve">
+      <trans-unit id="533104" xml:space="preserve" approved="no">
         <source>このターンの移動ポイントが|増加しました。</source>
-        <target/>
+        <target state="translated">Your Movement Points for this turn have increased.</target>
       </trans-unit>
       <trans-unit id="498132" xml:space="preserve">
         <source>隠しカメラを破壊します。</source>
@@ -7395,13 +7395,13 @@
         <source>松田『ガッツ』発動中。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="565568" xml:space="preserve">
+      <trans-unit id="565568" xml:space="preserve" approved="no">
         <source>１つめの隠しカメラ設置。|場所を選択してください。</source>
-        <target/>
+        <target state="translated">Choose where you want to place the first hidden camera.</target>
       </trans-unit>
-      <trans-unit id="558184" xml:space="preserve">
+      <trans-unit id="558184" xml:space="preserve" approved="no">
         <source>２つめの隠しカメラ設置|場所を選択してください。</source>
-        <target/>
+        <target state="translated">Choose where you want to place the second hidden camera.</target>
       </trans-unit>
       <trans-unit id="533368" xml:space="preserve">
         <source>目撃情報を得るエリアを|選択してください。</source>
@@ -7419,9 +7419,9 @@
         <source>エリア&lt;area&gt;に&lt;name&gt;が|潜伏しています。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="562084" xml:space="preserve">
+      <trans-unit id="562084" xml:space="preserve" approved="no">
         <source>ヘリを呼び寄せる|ヘリポートを|選択してください。</source>
-        <target/>
+        <target state="translated">Choose the heliport you want to summon a helicopter to.</target>
       </trans-unit>
       <trans-unit id="549792" xml:space="preserve">
         <source>特殊能力を適用する|キャラを選択してください。</source>
@@ -16019,9 +16019,9 @@
         <source>都市にいる限り|これ以上の移動手段はない。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="505153" xml:space="preserve">
+      <trans-unit id="505153" xml:space="preserve" approved="no">
         <source>こちらジョー。|敵は拘束した。</source>
-        <target/>
+        <target state="translated">This is Joe.|I’ve restrained the enemy.</target>
       </trans-unit>
       <trans-unit id="555169" xml:space="preserve">
         <source>犯罪者などやはり素人だな。|おまえを拘束する。</source>
