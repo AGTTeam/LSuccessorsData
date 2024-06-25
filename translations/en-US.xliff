@@ -139,17 +139,17 @@
         <source>シドウ笑い</source>
         <target state="translated">Sidoh Smiling</target>
       </trans-unit>
-      <trans-unit id="792124" xml:space="preserve">
+      <trans-unit id="792124" xml:space="preserve" approved="no">
         <source>紙村め、つまらんミスを…|…と俺も笑える状況ではないな。</source>
-        <target/>
+        <target state="translated">Shimura, you moron. What a stupid mistake… But I’m not in any position to laugh.</target>
       </trans-unit>
-      <trans-unit id="791644" xml:space="preserve">
+      <trans-unit id="791644" xml:space="preserve" approved="no">
         <source>樹多め、つまらんミスを…|…と俺も笑える状況ではないな。</source>
-        <target/>
+        <target state="translated">Kida, you moron. What a stupid mistake… But I’m not in any position to laugh.</target>
       </trans-unit>
-      <trans-unit id="791724" xml:space="preserve">
+      <trans-unit id="791724" xml:space="preserve" approved="no">
         <source>葉鳥め、つまらんミスを…|…と俺も笑える状況ではないな。</source>
-        <target/>
+        <target state="translated">Hatori, you moron. What a stupid mistake… But I’m not in any position to laugh.</target>
       </trans-unit>
       <trans-unit id="790684" xml:space="preserve" approved="no">
         <source>奈南川が…逮捕されたか。|私もそろそろ覚悟すべきかな。</source>
@@ -347,17 +347,17 @@
         <source>葉鳥が逮捕されたか…|仕方ないだろうな。</source>
         <target state="translated">Hatori got arrested... Guess it couldn't be helped.</target>
       </trans-unit>
-      <trans-unit id="793464" xml:space="preserve">
+      <trans-unit id="793464" xml:space="preserve" approved="no">
         <source>奈南川め、つまらんミスを…|…と俺も笑える状況ではないな。</source>
-        <target/>
+        <target state="translated">Namikawa, you moron. What a stupid mistake… But I’m not in any position to laugh.</target>
       </trans-unit>
-      <trans-unit id="792044" xml:space="preserve">
+      <trans-unit id="792044" xml:space="preserve" approved="no">
         <source>三堂め、つまらんミスを…|…と俺も笑える状況ではないな。</source>
-        <target/>
+        <target state="translated">Mido, you moron. What a stupid mistake… But I’m not in any position to laugh.</target>
       </trans-unit>
-      <trans-unit id="791484" xml:space="preserve">
+      <trans-unit id="791484" xml:space="preserve" approved="no">
         <source>鷹橋め、つまらんミスを…|…と俺も笑える状況ではないな。</source>
-        <target/>
+        <target state="translated">Takahashi, you moron. What a stupid mistake… But I’m not in any position to laugh.</target>
       </trans-unit>
       <trans-unit id="860180" xml:space="preserve" approved="no">
         <source>ククク、|おまえ大したもんだな。&gt;&gt;だが、これで終わりじゃぁ、|ツマラナイよな。&gt;&gt;次は『ハード』モードに|チャレンジしてみな。&gt;&gt;もし、クリアすることが|できたら……&gt;&gt;ククク、|こいつはおもしろそうだぜ。</source>
@@ -3707,17 +3707,17 @@
         <source>ヘリ利用音</source>
         <target state="translated">Helicopter SFX</target>
       </trans-unit>
-      <trans-unit id="661480" xml:space="preserve">
+      <trans-unit id="661480" xml:space="preserve" approved="no">
         <source>船利用音</source>
-        <target/>
+        <target state="translated">Boat SFX</target>
       </trans-unit>
-      <trans-unit id="766616" xml:space="preserve">
+      <trans-unit id="766616" xml:space="preserve" approved="no">
         <source>メッセージ表示音（男）</source>
-        <target/>
+        <target state="translated">Message Display SFX (Low-Pitched)</target>
       </trans-unit>
-      <trans-unit id="766776" xml:space="preserve">
+      <trans-unit id="766776" xml:space="preserve" approved="no">
         <source>メッセージ表示音（女）</source>
-        <target/>
+        <target state="translated">Message Display SFX (High-Pitched)</target>
       </trans-unit>
       <trans-unit id="769384" xml:space="preserve">
         <source>カメラ撮影成功＆カメラ監視解析</source>
@@ -3847,9 +3847,9 @@
         <source>車発進音</source>
         <target/>
       </trans-unit>
-      <trans-unit id="763932" xml:space="preserve">
+      <trans-unit id="763932" xml:space="preserve" approved="no">
         <source>白バイサイレン</source>
-        <target/>
+        <target state="translated">Police Motorcycle Siren</target>
       </trans-unit>
       <trans-unit id="661168" xml:space="preserve">
         <source>事故音</source>
@@ -3863,9 +3863,9 @@
         <source>鉄の扉が閉じる</source>
         <target/>
       </trans-unit>
-      <trans-unit id="663784" xml:space="preserve">
+      <trans-unit id="663784" xml:space="preserve" approved="no">
         <source>ミサイル音</source>
-        <target/>
+        <target state="translated">Missile SFX</target>
       </trans-unit>
       <trans-unit id="764156" xml:space="preserve">
         <source>通信の切れる音</source>
