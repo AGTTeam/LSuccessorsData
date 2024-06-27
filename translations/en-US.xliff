@@ -307,9 +307,9 @@
         <source>さて…我々は今のところ|勝っているのか、それとも…</source>
         <target state="translated">Well now... are we winning right now? Or perhaps…</target>
       </trans-unit>
-      <trans-unit id="771564" xml:space="preserve">
+      <trans-unit id="771564" xml:space="preserve" approved="no">
         <source>どうなってるんだ…俺達は…</source>
-        <target/>
+        <target state="translated">What’s our situation like right now…?</target>
       </trans-unit>
       <trans-unit id="784708" xml:space="preserve" approved="no">
         <source>ま、まだ俺は何とか|無事だけど、このままじゃ…</source>
@@ -319,9 +319,9 @@
         <source>じ…状況はどうなってるんだ。</source>
         <target state="translated">Wh... what's the situation?</target>
       </trans-unit>
-      <trans-unit id="791964" xml:space="preserve">
+      <trans-unit id="791964" xml:space="preserve" approved="no">
         <source>ぼ…僕達、勝っているのか？|いや、そんなに甘くはないな。</source>
-        <target/>
+        <target state="translated">Did… did we win?|No, it can’t be that easy.</target>
       </trans-unit>
       <trans-unit id="782376" xml:space="preserve" approved="no">
         <source>尾々井が逮捕されたか…|仕方ないだろうな。</source>
@@ -377,7 +377,7 @@
       </trans-unit>
       <trans-unit id="777780" xml:space="preserve" approved="no">
         <source>くそ！|あの女、どこに行ったんだ！</source>
-        <target state="translated">Damn it! Where did that woman go?</target>
+        <target state="translated">Damn it! Where did that woman go?!</target>
       </trans-unit>
       <trans-unit id="817444" xml:space="preserve">
         <source>もう、あなたの手の内は|分かっています。&gt;&gt;もっとも、おとなしく|捕まるような人では|ないでしょうが。</source>
@@ -649,7 +649,7 @@
       </trans-unit>
       <trans-unit id="872028" xml:space="preserve" approved="no">
         <source>\c04『勝利ポイント』\c02は|以下の行動で増加します。&gt;&gt;\c04『容疑者を逮捕する』|『ノートの切れ端を回収する』\c02&gt;&gt;もし、『勝利ポイント』が同点の|場合、\c04キラ側の『勝利』\c02となって|しまいます。&gt;&gt;必勝を期すために、|地道な捜査を行いましょう。</source>
-        <target state="translated">\c04 The following actions will increase Victory Points. &gt;&gt;\c04Capturing a suspect|Recovering scraps of the Notebook\c02&gt;&gt;In the event that Victory Points are tied, it will result in \c04Kira side's victory\c02. &gt;&gt;Investigate persistently to ensure your own victory.</target>
+        <target state="translated">\c04 The following actions will increase Victory Points. &gt;&gt;\c04Capturing a suspect|Recovering scraps of the Note\c02&gt;&gt;In the event that Victory Points are tied, it will result in \c04Kira side's victory\c02. &gt;&gt;Investigate persistently to ensure your own victory.</target>
       </trans-unit>
       <trans-unit id="772656" xml:space="preserve" approved="no">
         <source>||||||　　　　　勝利ポイント</source>
@@ -783,73 +783,73 @@
         <source>\c04『隠しカメラ回収』\c02コマンドを|実行すると、&gt;&gt;設置した\c04『隠しカメラ』\c02を|回収することができます。</source>
         <target state="translated">By using the \c04Hidden Camera Retrieval\c02 command, you can retrieve a \c04Hidden Camera\c02.</target>
       </trans-unit>
-      <trans-unit id="826624" xml:space="preserve">
+      <trans-unit id="826624" xml:space="preserve" approved="no">
         <source>一度に設置できる\c04隠しカメラの|台数\c02には限りがありますから、&gt;&gt;状況に応じて、隠しカメラを|回収して、再配置しましょう。</source>
-        <target/>
+        <target state="translated">There is a limit to the \c04number of hidden cameras\c02 that can be set up at the same time,&gt;&gt;so as the situation changes, make sure to retrieve cameras so you can set them up elsewhere.</target>
       </trans-unit>
-      <trans-unit id="814004" xml:space="preserve">
+      <trans-unit id="814004" xml:space="preserve" approved="no">
         <source>どのカメラが必要で、|どのカメラが必要ないか、&gt;&gt;容疑者の潜伏場所を推理して、|決定してください。</source>
-        <target/>
+        <target state="translated">Use information about where the suspects may be lurking to determine which cameras are necessary and which are not.</target>
       </trans-unit>
-      <trans-unit id="773696" xml:space="preserve">
+      <trans-unit id="773696" xml:space="preserve" approved="no">
         <source>||||||　　　　検問解除コマンド</source>
-        <target/>
+        <target state="translated">||||||Inspection Point Disassembly Command</target>
       </trans-unit>
-      <trans-unit id="816452" xml:space="preserve">
+      <trans-unit id="816452" xml:space="preserve" approved="no">
         <source>\c04『検問解除』\c02コマンドを|実行すると、&gt;&gt;設置した\c04『検問』\c02を|解除することができます。</source>
-        <target/>
+        <target state="translated">The \c04Inspection Point Disassembly\c02 command, when executed, will remove one of the \c04inspection points\c02.</target>
       </trans-unit>
-      <trans-unit id="823016" xml:space="preserve">
+      <trans-unit id="823016" xml:space="preserve" approved="no">
         <source>一度に設置できる\c04検問の数には|限りがあります\c02ので、&gt;&gt;状況に応じて検問を解除して、|再度設置してください。</source>
-        <target/>
+        <target state="translated">There is a limit to the \c04number of inspection points\c02 that can be set up at the same time,&gt;&gt;so as the situation changes, make sure to disassemble inspection points so you can set them up elsewhere.</target>
       </trans-unit>
-      <trans-unit id="811520" xml:space="preserve">
+      <trans-unit id="811520" xml:space="preserve" approved="no">
         <source>どの検問が必要で、|どの検問が必要ないか、&gt;&gt;容疑者の潜伏場所を推理して、|決定してください。</source>
-        <target/>
+        <target state="translated">Use information about where the suspects may be lurking to determine which inspection points are necessary and which are not.</target>
       </trans-unit>
-      <trans-unit id="773800" xml:space="preserve">
+      <trans-unit id="773800" xml:space="preserve" approved="no">
         <source>||||||　　　　特殊能力コマンド</source>
-        <target/>
+        <target state="translated">||||||Special Ability Command</target>
       </trans-unit>
-      <trans-unit id="844212" xml:space="preserve">
+      <trans-unit id="844212" xml:space="preserve" approved="no">
         <source>\c04『特殊能力』\c02コマンドは、|捜査員がそれぞれ持っている|\c04スキルを発揮する\c02コマンドです。&gt;&gt;特殊能力は捜査状況を劇的に|変化させるほどの効果を持ちます。</source>
-        <target/>
+        <target state="translated">With the \c04Special Ability\c02 command, an investigator can use their particular skill.&gt;&gt;Special abilities have the power to drastically change the state of the investigation.</target>
       </trans-unit>
-      <trans-unit id="864972" xml:space="preserve">
+      <trans-unit id="864972" xml:space="preserve" approved="no">
         <source>ただし、\c04『使用回数』\c02に\c04『制限』\c02|がありますので、注意して|使用してください。&gt;&gt;また、特殊能力を持たない|キャラクターや、常時能力を|発揮しているキャラクターは&gt;&gt;\c04コマンドを実行することが|できません\c02。</source>
-        <target/>
+        <target state="translated">However, there is a \c04limit\c02 to the number of times the Special Ability command can be used, so please wield it carefully.&gt;&gt;Furthermore, characters who do not have a special ability or who have used their ability too often \c04will not be able to execute this command\c02.</target>
       </trans-unit>
-      <trans-unit id="835772" xml:space="preserve">
+      <trans-unit id="835772" xml:space="preserve" approved="no">
         <source>特殊能力は、我々捜査員側だけ|ではなく、キラメンバーも|持っています。&gt;&gt;キラメンバーの特殊能力も|覚えておけば、勝利の確率は|ぐんと上がるでしょう。</source>
-        <target/>
+        <target state="translated">The Kira members also have special abilities, not just the investigators.&gt;&gt;If you remember the special abilities of each Kira member well, the probability of our victory should increase significantly.</target>
       </trans-unit>
-      <trans-unit id="771876" xml:space="preserve">
+      <trans-unit id="771876" xml:space="preserve" approved="no">
         <source>||||||　　　　ノートの切れ端</source>
-        <target/>
+        <target state="translated">||||||Scraps of the Note</target>
       </trans-unit>
-      <trans-unit id="799000" xml:space="preserve">
+      <trans-unit id="799000" xml:space="preserve" approved="no">
         <source>\c04『ノートの切れ端』\c02は|キラ側の『トラップ』の|\c04残がい\c02です。</source>
-        <target/>
+        <target state="translated">The \c04traps\c02 created by members of the Kira team will leave behind debris in the form of \c04scraps of paper from the Note\c02.</target>
       </trans-unit>
-      <trans-unit id="834052" xml:space="preserve">
+      <trans-unit id="834052" xml:space="preserve" approved="no">
         <source>捜査員は、証拠品として|ノートの切れ端を\c04回収\c02する|ことができます。&gt;&gt;ノートの切れ端を回収すれば|\c04『勝利ポイント』\c02が加算されます。</source>
-        <target/>
+        <target state="translated">The investigators can \c04retrieve\c02 these scraps as evidence.&gt;&gt;Retrieving scraps of the Note will increase the investigation team’s \c04Victory Points\c02.</target>
       </trans-unit>
-      <trans-unit id="805684" xml:space="preserve">
+      <trans-unit id="805684" xml:space="preserve" approved="no">
         <source>皆さんも分かっているように|地道な証拠品集めが、|逮捕に繋がるということなのです。</source>
-        <target/>
+        <target state="translated">As I’m sure you all know, steadily collecting pieces of evidence is key to making an arrest.</target>
       </trans-unit>
-      <trans-unit id="773488" xml:space="preserve">
+      <trans-unit id="773488" xml:space="preserve" approved="no">
         <source>||||||　　　　目撃情報コマンド</source>
-        <target/>
+        <target state="translated">||||||Eyewitness Information Command</target>
       </trans-unit>
-      <trans-unit id="839632" xml:space="preserve">
+      <trans-unit id="839632" xml:space="preserve" approved="no">
         <source>\c04『目撃情報』\c02コマンドは、|捜査員が\c04現在いるエリア\c02の|目撃情報を調査します。&gt;&gt;もし、そのエリアに|容疑者が潜伏していれば|容疑者の情報が入ります。</source>
-        <target/>
+        <target state="translated">The \c04Eyewitness Information\c02 command will check the eyewitness reports from \c04the area in which an investigator is currently located\c02.&gt;&gt;If there is a suspect in that area, the suspect’s information will be entered.</target>
       </trans-unit>
-      <trans-unit id="863980" xml:space="preserve">
+      <trans-unit id="863980" xml:space="preserve" approved="no">
         <source>目撃情報を実行するには、|まず、調査する捜査員を|エリア内に移動させます。&gt;&gt;その後、捜査員をタッチする|と捜査員コマンドが表示されます。&gt;&gt;\c04『情報』→『目撃情報』\c02の|順でタッチすると、コマンド|を実行することができます。</source>
-        <target/>
+        <target state="translated">To get eyewitness information, first move an investigator to the area you want to check.&gt;&gt;Then tap the investigator with the stylus. This will show you the commands available to them.&gt;&gt;Tap \c04Information → Eyewitness Information\c02, and the command will execute.</target>
       </trans-unit>
       <trans-unit id="853868" xml:space="preserve">
         <source>まずは、容疑者が目撃された|グループのエリアに対して&gt;&gt;目撃情報を実行することが|捜査のセオリーとなります。&gt;&gt;エリアを絞り込むだけで|確実に捜査は進行します。|地道な捜査も重要ですよ。</source>
@@ -895,17 +895,17 @@
         <source>||||||　　　　　リーダー画面</source>
         <target state="translated">Info Screen</target>
       </trans-unit>
-      <trans-unit id="862280" xml:space="preserve">
+      <trans-unit id="862280" xml:space="preserve" approved="no">
         <source>\c04『リーダー画面』\c02とは、捜査員を|指揮するリーダーと、捜査状況を|表した画面を指します。&gt;&gt;そして、リーダー画面には|重要なものが２つあります。&gt;&gt;\c04『ターン数』\c02と|\c04『勝利ポイントゲージ』\c02です。</source>
-        <target/>
+        <target state="translated">The \c04Info Screen\c02 will display the leader of the investigation, as well as the current state of the investigation.&gt;&gt;Furthermore, there are two important parts of the Info Screen:&gt;&gt;the \c04Turn Counter\c02 and the \c04Victory Point Gauge\c02.</target>
       </trans-unit>
-      <trans-unit id="882372" xml:space="preserve">
+      <trans-unit id="882372" xml:space="preserve" approved="no">
         <source>||\c04『ターン数』\c02とは、上画面の左上|に表示されている数字のことで、|捜査の残り時間を表します。&gt;&gt;||\c04左側\c02が\c04『現在のターン』\c02|\c04右側\c02が\c04『最終ターン』\c02を|示しています。&gt;&gt;||全てのターンを使い切る前に、|キラを逮捕しなくてはなりません。&gt;&gt;\c04『勝利ポイントゲージ』\c02とは、|上画面の左側にあるゲージの|ことです。&gt;&gt;\c04『勝利ポイント』\c02とは現在の|捜査状況を示した物で、ゲージが|伸びていれば\c04『優勢』\c02を示します。&gt;&gt;捜査状況に応じてゲージは上下|しますので、捜査状況の目安|として確認してください。</source>
-        <target/>
+        <target state="translated">||The \c04Turn Counter\c02 is displayed on the upper left corner of the upper screen. It indicates how much time the investigators have left.&gt;&gt;||The number on the \c04left\c02 is \c04current turn\c02, while the number on the \c04right\c02 is the \c04total number of turns\c02 in this round.&gt;&gt;||The investigators must catch Kira before there are no more turns left.&gt;&gt;The \c04Victory Point Gauge\c02 is the gauge shown on the left side of the upper screen.&gt;&gt;The number of \c04Victory Points\c02 reflects the current state of the investigation. If the gauge increases, then the investigators are at an \c04advantage\c02.&gt;&gt;The gauge will fluctuate as the investigation continues, so please keep an eye on it.</target>
       </trans-unit>
-      <trans-unit id="807272" xml:space="preserve">
+      <trans-unit id="807272" xml:space="preserve" approved="no">
         <source>効率的な捜査にはリーダー画面の|情報を確認することが必須です。|忘れないでください。</source>
-        <target/>
+        <target state="translated">For an efficient investigation, you will find it necessary to check the Info Screen frequently. Please don’t forget.</target>
       </trans-unit>
       <trans-unit id="771356" xml:space="preserve" approved="no">
         <source>||||||　　　　　リーダー画面</source>
@@ -917,7 +917,7 @@
       </trans-unit>
       <trans-unit id="881816" xml:space="preserve" approved="no">
         <source>||\c04『ターン数』\c02とは、上画面の左上|に表示されている数字のことで、|計画の残り時間を表している。&gt;&gt;||\c04左側\c02が\c04『現在のターン』\c02|\c04右側\c02が\c04『最終ターン』\c02だ。&gt;&gt;||全てのターンを使い切る前に、|捜査員をリタイアさせなくては|ならない。&gt;&gt;\c04『勝利ポイントゲージ』\c02とは、|上画面の左側にあるゲージの|ことだ。&gt;&gt;\c04『勝利ポイント』\c02とは|計画の状況を示した物で、ゲージが|伸びていれば\c04『優勢』\c02を示す。&gt;&gt;計画の状況に応じてゲージは上下|するので、状況の目安として|確認するのがいいだろう。</source>
-        <target state="translated">The \c04turn number \c02 is displayed in the upper left corner of the top screen and represents the time remaining for the plan.&gt;&gt;The \c04left \c02number is the \c04current turn\c02, and the \c04right \c02number is the \c04final turn\c02.&gt;&gt;All investigators must have dropped out before the end of the final turn.&gt;&gt;The \c04Victory Point Gauge \c02 is the bar on the left side of the top screen.&gt;&gt;\c04Victory Points \c02indicate the status of the plan and extends in the case of an \c04advantage\c02.&gt;&gt;The gauge goes up and down depending on the situation, so check it often.</target>
+        <target state="translated">The \c04Turn Counter\c02 is displayed in the upper left corner of the top screen and represents the time remaining for the plan.&gt;&gt;The \c04left \c02number is the \c04current turn\c02, and the \c04right \c02number is the \c04final turn\c02.&gt;&gt;All investigators must have dropped out before the end of the final turn.&gt;&gt;The \c04Victory Point Gauge \c02 is the bar on the left side of the top screen.&gt;&gt;\c04Victory Points \c02indicate the status of the plan, and the gauge extends in the case of an \c04advantage\c02.&gt;&gt;The gauge goes up and down depending on the situation, so check it often.</target>
       </trans-unit>
       <trans-unit id="821372" xml:space="preserve" approved="no">
         <source>僕らの理想を達成するには|リーダー画面の情報を確認する|ことが重要なポイントとなる。&gt;&gt;決して忘れないことだ。</source>
@@ -1747,21 +1747,21 @@
         <source>||||||　　　　ステータスコマンド</source>
         <target state="translated">||||||Status Command</target>
       </trans-unit>
-      <trans-unit id="817072" xml:space="preserve">
+      <trans-unit id="817072" xml:space="preserve" approved="no">
         <source>\c04『ステータス』\c02コマンドでは、|\c04味方\c02と\c04敵\c02に関する情報を確認|することが出来る。</source>
-        <target/>
+        <target state="translated">By using the \c04Status\c02 command, you can check information about your \c04allies\c02 and \c04enemies\c02.</target>
       </trans-unit>
-      <trans-unit id="814724" xml:space="preserve">
+      <trans-unit id="814724" xml:space="preserve" approved="no">
         <source>ステータスを確認するには、|メンバーをタッチして&gt;&gt;\c04『情報』→『ステータス』\c02の|順でタッチする。</source>
-        <target/>
+        <target state="translated">To check a Kira member's status, tap on them and select \c04Information→Status\c02.</target>
       </trans-unit>
-      <trans-unit id="838744" xml:space="preserve">
+      <trans-unit id="838744" xml:space="preserve" approved="no">
         <source>ステータス画面には、|メンバーの特殊能力に|関する情報など、&gt;&gt;メンバー\c04個別の情報\c02が載っている。|メンバーの能力を把握すれば|僕らの勝利に役立つだろう。</source>
-        <target/>
+        <target state="translated">The status screen will show information about that member's \c04personal information\c02, including any special abilities. Having a good grasp on each member's skills will be useful for our victory.</target>
       </trans-unit>
-      <trans-unit id="809908" xml:space="preserve">
+      <trans-unit id="809908" xml:space="preserve" approved="no">
         <source>また、ステータスは、コマンド|実行回数としてカウントされない。|何度でも情報を確認出来る。</source>
-        <target/>
+        <target state="translated">Using the Status command doesn't use up Command Points. You can check the information as many times as you want.</target>
       </trans-unit>
       <trans-unit id="773956" xml:space="preserve" approved="no">
         <source>||||||　　　　　コマンドの使用</source>
@@ -1849,15 +1849,15 @@
       </trans-unit>
       <trans-unit id="821236" xml:space="preserve" approved="no">
         <source>\c04『ステータス』\c02コマンドでは、|\c04『味方』\c02と\c04『敵』\c02に関する情報を|確認することができます。</source>
-        <target state="translated">By using the \c04Status\c02 command, you can check information about your \c04Allies\c02 and \c04Enemies\c02.</target>
+        <target state="translated">By using the \c04Status\c02 command, you can check information about your \c04allies\c02 and \c04enemies\c02.</target>
       </trans-unit>
       <trans-unit id="812804" xml:space="preserve" approved="no">
         <source>ステータスを確認するには、|捜査員をタッチして|\c04『情報』→『ステータス』\c02の|順でタッチします。</source>
         <target state="translated">To check an investigator's status, tap on them and select \c04Information→Status\c02.</target>
       </trans-unit>
-      <trans-unit id="839992" xml:space="preserve">
+      <trans-unit id="839992" xml:space="preserve" approved="no">
         <source>ステータス画面には、|捜査員の特殊能力に|関する情報など、&gt;&gt;\c04捜査員個別\c02の情報が|載っています。&gt;&gt;捜査員の能力を把握すれば|捜査に大きく役立つでしょう。</source>
-        <target/>
+        <target state="translated">The status screen will show information about that investigator's \c04personal information\c02, including any special abilities. Having a good grasp on each investigator's skills will be of great use to the investigation.</target>
       </trans-unit>
       <trans-unit id="811636" xml:space="preserve" approved="no">
         <source>また、ステータスは、コマンド|実行回数としてカウントされません。|何度でも情報を確認できます。</source>
@@ -1939,9 +1939,9 @@
         <source>捜査で重要なのは、容疑者の|情報です。&gt;&gt;\c04『容疑者情報』\c02は、毎ターンの|冒頭にもたらされます。&gt;&gt;容疑者が、我々の情報網に|引っかかると容疑者の目撃された|グループが報告されます。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="877692" xml:space="preserve">
+      <trans-unit id="877692" xml:space="preserve" approved="no">
         <source>マップ上には、|\c04『グループ』\c02と\c04『エリア』\c02|という概念があります。&gt;&gt;各グループは\c04『レッド』|『ブルー』『グリーン』\c02に|分けられています。&gt;&gt;マップ上で、\c04各色\c02で塗られた|部分がそれにあたります。&gt;&gt;そして、この\c04グループ内\c02に|\c04エリア\c02という区分けが、|されています。</source>
-        <target/>
+        <target state="translated">The map contains two important concepts: \c04groups\c02 and \c04areas\c02.&gt;&gt;Groups are divided into three colors: \c04red\c02, \c04blue\c02, and \c04green\c02.&gt;&gt;The \c04colored zones\c02 throughout the map correspond to the groups.&gt;&gt;Within the \c04groups\c02 are separate divisions called \c04areas\c02.</target>
       </trans-unit>
       <trans-unit id="833208" xml:space="preserve">
         <source>もし、『グループレッド』で|目撃されたという情報が|入れば『グループレッド』の&gt;&gt;いずれかの\c04『エリア』\c02に|容疑者が潜伏しているという|ことです。</source>
@@ -2085,7 +2085,7 @@
       </trans-unit>
       <trans-unit id="878016" xml:space="preserve" approved="no">
         <source>マップ上には、|\c04『グループ』\c02と\c04『エリア』\c02|という概念がある。&gt;&gt;各グループは\c04『レッド』|『ブルー』『グリーン』\c02に|分けられていて、&gt;&gt;マップ上で、\c04各色\c02で塗られた|部分がそれにあたる。&gt;&gt;そして、この\c04グループ内\c02に|\c04エリア\c02という区分けが、|されているというわけだ。</source>
-        <target state="translated">The map contains two important concepts: \c04groups \c02and \c04areas\c02.&gt;&gt;Groups are divided into three colors: \c04red\c02, \c04blue\c02, and \c04green\c02.&gt;&gt;The \c04colored zones \c02throughout the map correspond to the groups.&gt;&gt;Within the \c04groups \c02are seperate divisions called \c04areas\c02.</target>
+        <target state="translated">The map contains two important concepts: \c04groups \c02and \c04areas\c02.&gt;&gt;Groups are divided into three colors: \c04red\c02, \c04blue\c02, and \c04green\c02.&gt;&gt;The \c04colored zones \c02throughout the map correspond to the groups.&gt;&gt;Within the \c04groups \c02are separate divisions called \c04areas\c02.</target>
       </trans-unit>
       <trans-unit id="834740" xml:space="preserve" approved="no">
         <source>もし、『グループレッド』で|目撃されたという情報が|捜査員に入れば&gt;&gt;『グループレッド』の|いずれかの\c04『エリア』\c02に捜査員を|送り込んでくるハズだ。</source>
@@ -5573,7 +5573,7 @@
       </trans-unit>
       <trans-unit id="533500" xml:space="preserve" approved="no">
         <source>任意のエリアの|目撃情報を得る事ができる。</source>
-        <target state="translated">Gathers eye witness information from an area of your choice.</target>
+        <target state="translated">Gathers eyewitness information from an area of your choice.</target>
       </trans-unit>
       <trans-unit id="624636" xml:space="preserve" approved="no">
         <source>隠しカメラ実行時、|コマンド実行範囲が|通常よりも広く、|２ヶ所同時に設置できる。</source>
@@ -9865,7 +9865,7 @@
       </trans-unit>
       <trans-unit id="633877" xml:space="preserve" approved="no">
         <source>カメラには、|「グループ」と「エリア」|という単位がある。|１つのグループは同一色で|表され、それぞれに|エリアが設定されている。</source>
-        <target state="translated">Cameras are split in units of "groups" and "areas." Each group of cameras is represented with a single color, and one area is set for each group.</target>
+        <target state="translated">Cameras are split into units of "groups" and "areas." One group of cameras is represented with a single color, and each group is divided into multiple areas.</target>
       </trans-unit>
       <trans-unit id="626317" xml:space="preserve" approved="no">
         <source>カメラはターンの最初に|情報を報告してるんだ。|捜査員はその情報を|頼りにしている。</source>
