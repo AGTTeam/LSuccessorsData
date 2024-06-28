@@ -1803,45 +1803,45 @@
         <source>また、キラ側の情報は、|コマンド実行回数としてカウント|されない。何度でも実行できる。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="773644" xml:space="preserve">
+      <trans-unit id="773644" xml:space="preserve" approved="no">
         <source>||||||　　　　検問設置コマンド</source>
-        <target/>
+        <target state="translated">||||||Inspection Point Assembly Command</target>
       </trans-unit>
-      <trans-unit id="819248" xml:space="preserve">
+      <trans-unit id="819248" xml:space="preserve" approved="no">
         <source>\c04『検問設置』\c02コマンドは、|道路を閉鎖して\c04容疑者がその道路|を通過できなくする\c02コマンドです。</source>
-        <target/>
+        <target state="translated">The \c04Inspection Point Assembly\c02 command blocks a given street so that suspects will not be able to move along that street.</target>
       </trans-unit>
-      <trans-unit id="793884" xml:space="preserve">
+      <trans-unit id="793884" xml:space="preserve" approved="no">
         <source>検問をうまく活用すれば、|確実に容疑者を追い詰めることが|できます。</source>
-        <target/>
+        <target state="translated">If you use inspection points well, you should be able to decisively corner the culprits.</target>
       </trans-unit>
-      <trans-unit id="805268" xml:space="preserve">
+      <trans-unit id="805268" xml:space="preserve" approved="no">
         <source>ただし、特殊移動ターミナルなど、|\c04特別な場所に検問を設置する|ことはできません\c02。</source>
-        <target/>
+        <target state="translated">However, \c04inspection points cannot be assembled at some locations\c02, such as transportation terminals.</target>
       </trans-unit>
-      <trans-unit id="839812" xml:space="preserve">
+      <trans-unit id="839812" xml:space="preserve" approved="no">
         <source>検問は、捜査員にとって、|とても重要なコマンドです。&gt;&gt;検問さえあれば、容疑者を|追い詰めることができます。&gt;&gt;道路の繋がりをよく考えて、|設置しましょう。</source>
-        <target/>
+        <target state="translated">Inspection points are extremely important tools for an investigator.&gt;&gt;They are vital in the pursuit of suspects.&gt;&gt;Consider the intersections between streets well when choosing where to place an inspection point.</target>
       </trans-unit>
       <trans-unit id="774216" xml:space="preserve" approved="no">
         <source>||||||　　　　都市カメラの概念</source>
-        <target state="translated">Camera Basics</target>
+        <target state="translated">City Camera Basics</target>
       </trans-unit>
-      <trans-unit id="866240" xml:space="preserve">
+      <trans-unit id="866240" xml:space="preserve" approved="no">
         <source>\c04『都市カメラ』\c02とは、|各エリア内に設置された|監視用カメラを指している。&gt;&gt;都市カメラは捜査側にとって、|とても重要な役割をしているんだ。&gt;&gt;捜査側は都市カメラで得られる|情報を元にして、メンバーの|潜伏場所を探っている。</source>
-        <target/>
+        <target state="translated">\c04City cameras\c02 refer to the surveillance cameras set up in each area.&gt;&gt;These cameras play a crucial role in every investigation.&gt;&gt;The investigators will use the footage from city cameras to search for Kira members.</target>
       </trans-unit>
-      <trans-unit id="787912" xml:space="preserve">
+      <trans-unit id="787912" xml:space="preserve" approved="no">
         <source>その為、エリアに存在する|都市カメラの\c04『過半数』\c02を</source>
-        <target/>
+        <target state="translated">If \c04more than half\c02 of the city cameras in an area are</target>
       </trans-unit>
-      <trans-unit id="806840" xml:space="preserve">
+      <trans-unit id="806840" xml:space="preserve" approved="no">
         <source>破壊すると、捜査員はそのエリア|から\c04情報を得られなくなる\c02。|目を失うということだ。</source>
-        <target/>
+        <target state="translated">destroyed, then the investigators will be \c04unable to get any information\c02 from that area. This makes the area a blind spot.</target>
       </trans-unit>
-      <trans-unit id="815460" xml:space="preserve">
+      <trans-unit id="815460" xml:space="preserve" approved="no">
         <source>都市カメラはメンバーにとって|邪魔者でしかない。&gt;&gt;機会があれば、積極的に|破壊するのもいいだろう。</source>
-        <target/>
+        <target state="translated">City cameras aren’t anything but a nuisance to us Kira members.&gt;&gt;We’d better destroy as many as we can.</target>
       </trans-unit>
       <trans-unit id="775188" xml:space="preserve" approved="no">
         <source>||||||　　　　ステータスコマンド</source>
@@ -1959,25 +1959,25 @@
         <source>||||||　　　　　変装コマンド</source>
         <target state="translated">Disguise Command</target>
       </trans-unit>
-      <trans-unit id="863488" xml:space="preserve">
+      <trans-unit id="863488" xml:space="preserve" approved="no">
         <source>\c04『変装』\c02コマンドとは、|コマンドを実行したメンバーが、|他のキラメンバーに変装し、&gt;&gt;捜査情報を混乱させる|コマンドの事だ。&gt;&gt;変装を行えば、捜査員の|\c04情報網\c02には、\c04変装後の姿\c02で|報告されるんだ。</source>
-        <target/>
+        <target state="translated">The \c04Disguise\c02 command allows a member of Team Kira to disguise themselves as another member of Team Kira.&gt;&gt;This will confuse the investigators.&gt;&gt;After disguising yourself successfully, the investigators’ information network won’t be able to differentiate between you and the person you’re disguised as.</target>
       </trans-unit>
-      <trans-unit id="874300" xml:space="preserve">
+      <trans-unit id="874300" xml:space="preserve" approved="no">
         <source>つまり『グループレッド』に月が、|『グループブルー』にミサが潜伏。&gt;&gt;この場合、ミサが月に変装すると、|捜査員は&gt;&gt;『グループレッド』に月。|『グループブルー』に月。|という、情報を受け取る。&gt;&gt;まるで、\c04月が二つのグループ|を行き来しているように\c02|見せかける事が出来る。</source>
-        <target/>
+        <target state="translated">For instance, let’s say Light is somewhere in Group Red and Misa is somewhere in Group Blue.&gt;&gt;Then if Misa disguises herself as Light, the investigators will receive the following information: Light is in Group Red. Also, Light is in Group Blue.&gt;&gt;This way, we can make it look as though Light is walking back and forth between the two groups.</target>
       </trans-unit>
-      <trans-unit id="805996" xml:space="preserve">
+      <trans-unit id="805996" xml:space="preserve" approved="no">
         <source>その他にも、変装は状況次第で、|様々な利用方法がある。|よく考えて使用するんだ。</source>
-        <target/>
+        <target state="translated">Of course, there are plenty of other ways to use disguises, depending on the situation at hand. Just think it through first.</target>
       </trans-unit>
       <trans-unit id="821508" xml:space="preserve" approved="no">
         <source>ただし、変装は必ず成功する|ものではない。&gt;&gt;時として、捜査側のリーダーに|\c04見破られてしまう\c02事もある。</source>
         <target state="translated">However, a disguise is not always guaranteed to work. &gt;&gt;At times, the leader of the Investigator team might see through your disguise.</target>
       </trans-unit>
-      <trans-unit id="825000" xml:space="preserve">
+      <trans-unit id="825000" xml:space="preserve" approved="no">
         <source>また、メンバーが１人しか|いない場合は、使用することが|出来ない。&gt;&gt;単純な手だが、効果はある。|うまく、活用することだ。</source>
-        <target/>
+        <target state="translated">Also, if only one person is on Team Kira, they can’t disguise themselves as anyone else.&gt;&gt;Disguises are simple but effective. Better use them well.</target>
       </trans-unit>
       <trans-unit id="771720" xml:space="preserve" approved="no">
         <source>||||||　　　　　行動アイコン</source>
