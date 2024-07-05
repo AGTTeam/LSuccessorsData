@@ -1767,21 +1767,21 @@
         <source>||||||　　　　　コマンドの使用</source>
         <target state="translated">Commands</target>
       </trans-unit>
-      <trans-unit id="829108" xml:space="preserve">
+      <trans-unit id="829108" xml:space="preserve" approved="no">
         <source>\c04『コマンド』\c02とは、捜査員の|捜査行動を指します。&gt;&gt;コマンドを実行するには、|コマンドを実行する捜査員を|\c04タッチ\c02します。</source>
-        <target/>
+        <target state="translated">\c04Commands\c02 refer to the actions the investigators can take to advance the investigation.&gt;&gt;To make an investigator execute a command, use the stylus to \c04tap\c02 the investigator.</target>
       </trans-unit>
-      <trans-unit id="826928" xml:space="preserve">
+      <trans-unit id="826928" xml:space="preserve" approved="no">
         <source>捜査員をタッチすると、|\c04『コマンドメニュー』\c02が|表示されます。&gt;&gt;表示されたコマンドを|タッチすると、コマンドが|実行されます。</source>
-        <target/>
+        <target state="translated">Upon tapping an investigator, the \c04Command Menu\c02 will appear.&gt;&gt;Tap the command you want, and it will be executed.</target>
       </trans-unit>
-      <trans-unit id="826472" xml:space="preserve">
+      <trans-unit id="826472" xml:space="preserve" approved="no">
         <source>コマンドによっては|\c04階層化\c02されているコマンドも|あるので、&gt;&gt;まず、いろんなコマンドを|タッチしてみるのも、|１つの手ですね。</source>
-        <target/>
+        <target state="translated">Note that some commands have \c04multiple layers\c02.&gt;&gt;One way to start out is by tapping different commands to see what they do.</target>
       </trans-unit>
-      <trans-unit id="784564" xml:space="preserve">
+      <trans-unit id="784564" xml:space="preserve" approved="no">
         <source>はやく捜査のコツを掴んで|キラを逮捕しましょう。</source>
-        <target/>
+        <target state="translated">Get the hang of investigating quickly so we can catch Kira!</target>
       </trans-unit>
       <trans-unit id="775020" xml:space="preserve">
         <source>||||||　　　キラ側の情報コマンド</source>
@@ -2011,13 +2011,13 @@
         <source>\c04『捜査員』\c02とは\c04『キラ』\c02を|逮捕すべく結成された組織員の|ことを指します。&gt;&gt;我々、日本捜査本部員もそうです。&gt;&gt;マップ上を潜伏しながら|逃亡を図るキラを追い詰め、|逮捕することが捜査員の目的です。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="820040" xml:space="preserve">
+      <trans-unit id="820040" xml:space="preserve" approved="no">
         <source>潜伏しているキラと\c04『同じマス』\c02|に止まるか、\c04『通過』\c02すれば、|キラを\c04逮捕\c02することができます。</source>
-        <target/>
+        <target state="translated">Kira can be captured by stopping on the \c04same square\c02 that they are lurking in, or by \c04passing through\c02 that square.</target>
       </trans-unit>
-      <trans-unit id="850788" xml:space="preserve">
+      <trans-unit id="850788" xml:space="preserve" approved="no">
         <source>ただし、キラは\c04『デスノート』\c02|という武器を持っています。&gt;&gt;デスノートによって仕掛けられた|\c04『トラップ』\c02を踏んでしまうと&gt;&gt;捜査員は\c04『リタイア』\c02して|しまいます。</source>
-        <target/>
+        <target state="translated">However, Kira possesses a weapon: the \c04Death Note\c02.&gt;&gt;If an investigator steps on a \c04trap\c02 set by the Death Note,&gt;&gt;that investigator will be \c04eliminated\c02.</target>
       </trans-unit>
       <trans-unit id="794892" xml:space="preserve" approved="no">
         <source>我々捜査員が最も注意すべき|項目の１つが\c04トラップ\c02です。</source>
@@ -2027,21 +2027,21 @@
         <source>トラップを見破り、|キラに『正義は必ず勝つ』|ということを見せてあげましょう。</source>
         <target state="translated">Let's defeat Kira's traps and prove to him that justice will always win.</target>
       </trans-unit>
-      <trans-unit id="773332" xml:space="preserve">
+      <trans-unit id="773332" xml:space="preserve" approved="no">
         <source>||||||　　　　都市カメラの概念</source>
-        <target/>
+        <target state="translated">||||||Camera Basics</target>
       </trans-unit>
-      <trans-unit id="878672" xml:space="preserve">
+      <trans-unit id="878672" xml:space="preserve" approved="no">
         <source>\c04『都市カメラ』\c02とは、|各エリア内に設置された、|監視用カメラを指します。&gt;&gt;都市カメラは捜査上とても|重要な役割をしています。&gt;&gt;ターン冒頭にもたらされる|\c04『容疑者情報』\c02や\c04『目撃情報』\c02|\c04『カメラ解析』\c02といった&gt;&gt;捜査上重要なコマンドを実行|する上で、都市カメラは|不可欠な存在なのです。</source>
-        <target/>
+        <target state="translated">\c04City cameras\c02 refer to the surveillance cameras set up within each area.&gt;&gt;These cameras are extremely important for the investigation.&gt;&gt;The \c04Eyewitness Information\c02, \c04Suspect Information\c02, and \c04Footage Analysis\c02 commands all rely upon the operation of city cameras.</target>
       </trans-unit>
       <trans-unit id="790124" xml:space="preserve" approved="no">
         <source>エリアに存在する、|都市カメラの\c04過半数\c02が|破壊されると</source>
         <target state="translated">If more than half of the city cameras in an area have been destroyed,</target>
       </trans-unit>
-      <trans-unit id="821916" xml:space="preserve">
+      <trans-unit id="821916" xml:space="preserve" approved="no">
         <source>そのエリアからは|目撃情報や容疑者情報が|\c04得られなくなります。\c02&gt;&gt;もちろん、カメラ解析も|行うことができません。</source>
-        <target/>
+        <target state="translated">eyewitness accounts and suspect information \c04cannot be recovered\c02 from that area.&gt;&gt;Naturally, it will also become impossible to perform footage analysis.</target>
       </trans-unit>
       <trans-unit id="830712" xml:space="preserve" approved="no">
         <source>これら都市カメラは|捜査員の目といえる存在です。&gt;&gt;破壊された場合は、早急に|\c04『都市カメラ修復』\c02コマンド|で修復する方が得策です。</source>
@@ -2099,25 +2099,25 @@
         <source>カメラを避けて行動するのは|難しいが、逆に捜査員を誘き出す|策にも、カメラは使える。&gt;&gt;僕らには|\c04『デスノート』\c02があるのだから…</source>
         <target state="translated">Avoiding cameras will be difficult, but they can also be used to lure investigators.&gt;&gt;And then we have the \c04Death Note\c02.</target>
       </trans-unit>
-      <trans-unit id="773384" xml:space="preserve">
+      <trans-unit id="773384" xml:space="preserve" approved="no">
         <source>||||||　　　　マップサイズ変更</source>
-        <target/>
+        <target state="translated">||||||Zooming In and Out</target>
       </trans-unit>
-      <trans-unit id="840172" xml:space="preserve">
+      <trans-unit id="840172" xml:space="preserve" approved="no">
         <source>\c04『マップ』\c02は、必要に応じて|大きさを変更することができます。&gt;&gt;下画面の\c04『左上』\c02を|をタッチすれば、|\c04マップの倍率\c02を変更できます。</source>
-        <target/>
+        <target state="translated">You may want to change the size of the \c04map\c02 depending on the situation.&gt;&gt;Touch the upper left corner of the lower screen to change the map’s \c04magnification\c02 and therefore zoom in or out.</target>
       </trans-unit>
-      <trans-unit id="809348" xml:space="preserve">
+      <trans-unit id="809348" xml:space="preserve" approved="no">
         <source>\c04『最大望遠』\c02のマップでは、|捜査員を操作できませんが、|捜査範囲を見渡すことができます。</source>
-        <target/>
+        <target state="translated">When \c04fully zoomed out\c02, you will not be able to move or control the investigators, but you will be able to see the entire range of the investigation.</target>
       </trans-unit>
-      <trans-unit id="790284" xml:space="preserve">
+      <trans-unit id="790284" xml:space="preserve" approved="no">
         <source>\c04『最小望遠』\c02では細かく状況を|確認することができます。</source>
-        <target/>
+        <target state="translated">By \c04fully zooming in\c02, on the other hand, you can check on the details of the current situation.</target>
       </trans-unit>
-      <trans-unit id="797896" xml:space="preserve">
+      <trans-unit id="797896" xml:space="preserve" approved="no">
         <source>\c04『標準望遠』\c02では、|捜査と捜査範囲の確認を|バランスよく行えます。</source>
-        <target/>
+        <target state="translated">At \c04standard magnification\c02, you should be able to find a balance between carrying out the investigation and grasping the range of the map.</target>
       </trans-unit>
       <trans-unit id="831368" xml:space="preserve">
         <source>最初のうちは\c04『最小望遠』\c02で|慣れてきたら\c04『標準望遠』\c02で|捜査するのがいいでしょう。&gt;&gt;状況に応じて|うまく使い分けてください。</source>
@@ -2147,49 +2147,49 @@
         <source>行動アイコンを見れば、|捜査員の状態を一目で把握する|ことができるというわけです。&gt;&gt;重大な局面で、|行動を起こせる捜査員がいない。&gt;&gt;そんなことが起こらないように|捜査員の状況を把握しながら|捜査を進めてください。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="776308" xml:space="preserve">
+      <trans-unit id="776308" xml:space="preserve" approved="no">
         <source>||||||　　　隠しカメラ設置コマンド</source>
-        <target/>
+        <target state="translated">||||||Hidden Camera Setup Command</target>
       </trans-unit>
-      <trans-unit id="821100" xml:space="preserve">
+      <trans-unit id="821100" xml:space="preserve" approved="no">
         <source>\c04『隠しカメラ設置』\c02コマンドは、|キラ側が\c04目視することのできない\c02|カメラを設置するコマンドです。</source>
-        <target/>
+        <target state="translated">The \c04Hidden Camera Setup\c02 command allows us to place cameras that Kira members \c04are unaware of\c02.</target>
       </trans-unit>
-      <trans-unit id="792288" xml:space="preserve">
+      <trans-unit id="792288" xml:space="preserve" approved="no">
         <source>隠しカメラを設置すると|カメラは有効範囲内を自動的に|撮影します。</source>
-        <target/>
+        <target state="translated">After a hidden camera is placed, it will automatically perform surveillance within its effective range.</target>
       </trans-unit>
-      <trans-unit id="846472" xml:space="preserve">
+      <trans-unit id="846472" xml:space="preserve" approved="no">
         <source>撮影範囲内に容疑者が侵入すると、|\c04『容疑者情報』\c02としてターン冒頭|に撮影画像が再生されます。&gt;&gt;撮影と再生は全て自動的に行われ、|基本的に容疑者にも気づかれ|ません。</source>
-        <target/>
+        <target state="translated">When a suspect enters this surveillance range, the footage of them will be displayed as \c04Suspect Information\c02 at the beginning of each turn.&gt;&gt;Since this entire process is automated, the suspect generally will not notice they are being recorded.</target>
       </trans-unit>
-      <trans-unit id="810360" xml:space="preserve">
+      <trans-unit id="810360" xml:space="preserve" approved="no">
         <source>容疑者が利用しそうな、\c04道路や|特殊移動ターミナル\c02付近に設置|すると、捜査に役立つでしょう。</source>
-        <target/>
+        <target state="translated">For the sake of the investigation, it’s probably best to place them near the \c04roads and transportation terminals\c02 that suspects could frequent.</target>
       </trans-unit>
-      <trans-unit id="829268" xml:space="preserve">
+      <trans-unit id="829268" xml:space="preserve" approved="no">
         <source>ただし、隠しカメラも万能では|ありません。\c04容疑者に発見されて|しまう\c02場合もあります。&gt;&gt;過信せず、うまく活用することが|重要です。</source>
-        <target/>
+        <target state="translated">However, hidden cameras have vulnerabilities, too. Once in a while, \c04they can be discovered by suspects\c02.&gt;&gt;Use them well, but remember to not rely on them too much.</target>
       </trans-unit>
-      <trans-unit id="773540" xml:space="preserve">
+      <trans-unit id="773540" xml:space="preserve" approved="no">
         <source>||||||　　　　マップサイズ変更</source>
-        <target/>
+        <target state="translated">||||||Zooming In and Out</target>
       </trans-unit>
-      <trans-unit id="841984" xml:space="preserve">
+      <trans-unit id="841984" xml:space="preserve" approved="no">
         <source>\c04『マップ』\c02は、必要に応じて|大きさを変更することが出来る。&gt;&gt;下画面の\c04『左上』\c02を、|タッチすれば、マップの倍率を|変更することが出来るハズだ。</source>
-        <target/>
+        <target state="translated">You might want to change the size of the \c04map\c02 depending on the situation.&gt;&gt;Touch the upper left corner of the lower screen to change the map’s \c04magnification\c02. You should be able to zoom in or out then.</target>
       </trans-unit>
-      <trans-unit id="806308" xml:space="preserve">
+      <trans-unit id="806308" xml:space="preserve" approved="no">
         <source>\c04『最大望遠』\c02のマップでは、|メンバーを操作出来ないが、|逃亡範囲を広く見渡せる。</source>
-        <target/>
+        <target state="translated">When \c04fully zoomed out\c02, you won’t be able to move or control Team Kira, but you’ll be able to see the entire area you’ll have to make your escape from.</target>
       </trans-unit>
-      <trans-unit id="789736" xml:space="preserve">
+      <trans-unit id="789736" xml:space="preserve" approved="no">
         <source>\c04『最小望遠』\c02では細かく状況を|確認することが出来る。</source>
-        <target/>
+        <target state="translated">By \c04fully zooming in\c02, on the other hand, you can check on the details of the current situation.</target>
       </trans-unit>
-      <trans-unit id="801824" xml:space="preserve">
+      <trans-unit id="801824" xml:space="preserve" approved="no">
         <source>\c04『標準望遠』\c02では、|逃亡コマンドと逃亡範囲の確認を|バランスよく行える。</source>
-        <target/>
+        <target state="translated">At \c04standard magnification\c02, you should be able to find a balance between planning your escape and grasping the range of the map.</target>
       </trans-unit>
       <trans-unit id="835256" xml:space="preserve">
         <source>初めのうちは、\c04『最小望遠』\c02で|慣れてきたら\c04『標準望遠』\c02で|逃亡計画を立てるのがいいだろう。&gt;&gt;状況に応じて|うまく使い分けるといい。</source>
@@ -2269,7 +2269,7 @@
       </trans-unit>
       <trans-unit id="838040" xml:space="preserve" approved="no">
         <source>Ｌを挑発するかのように|月はキラとして犯罪者を裁き続ける。|一方、Ｌもキラの行動から|ひとつの推測を下す。\T0030||\t0002警察の情報が\T0030\t0002漏れている……</source>
-        <target state="translated">Light continues to pass judgement on criminals as if to provoke L. Meanwhile, L makes a conjecture based on Kira's actions.\T0030||\t0002Someone from inside the police\T0030\t0002 is leaking information to Kira.</target>
+        <target state="translated">Light continued to pass judgement on criminals as if to taunt L. Meanwhile, L made a conjecture based on Kira's actions:\T0030||\t0002Someone from inside the police\T0030\t0002 was leaking information to Kira.</target>
       </trans-unit>
       <trans-unit id="836808" xml:space="preserve" approved="no">
         <source>Ｌは密かにＦＢＩとコンタクト。|敏腕捜査官たちを極秘で日本に|潜入させた。||捜査官の調査力とＬの推理により、|やがて、月の身辺にも徐々に|捜査の手が及ぶ……</source>
