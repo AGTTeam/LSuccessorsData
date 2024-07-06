@@ -1783,25 +1783,25 @@
         <source>はやく捜査のコツを掴んで|キラを逮捕しましょう。</source>
         <target state="translated">Get the hang of investigating quickly so we can catch Kira!</target>
       </trans-unit>
-      <trans-unit id="775020" xml:space="preserve">
+      <trans-unit id="775020" xml:space="preserve" approved="no">
         <source>||||||　　　キラ側の情報コマンド</source>
-        <target/>
+        <target state="translated">||||||Team Kira Info Command</target>
       </trans-unit>
-      <trans-unit id="811172" xml:space="preserve">
+      <trans-unit id="811172" xml:space="preserve" approved="no">
         <source>\c04『キラ側の情報』\c02コマンドでは、|\c04キラ側全体\c02の情報を確認する|ことが出来る。</source>
-        <target/>
+        <target state="translated">The \c04Team Kira Info\c02 command shows statistics on \c04Team Kira as a whole\c02.</target>
       </trans-unit>
-      <trans-unit id="821644" xml:space="preserve">
+      <trans-unit id="821644" xml:space="preserve" approved="no">
         <source>キラ側の情報を確認するには、|メンバーをタッチして&gt;&gt;\c04『情報』→『キラ側の情報』\c02の|順でタッチする必要がある。</source>
-        <target/>
+        <target state="translated">To check these statistics, tap any Kira member, then tap \c04Information → Team Kira Info\c02.</target>
       </trans-unit>
       <trans-unit id="845528" xml:space="preserve">
         <source>キラ側の情報画面には、|\c04『所有権移動回数（非接触）』|『変装コマンド使用回数』&gt;&gt;『デスノート使用回数』|『リタイアさせた捜査員数』|『勝利ポイント』\c02が表示される。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="808352" xml:space="preserve">
+      <trans-unit id="808352" xml:space="preserve" approved="no">
         <source>また、キラ側の情報は、|コマンド実行回数としてカウント|されない。何度でも実行できる。</source>
-        <target/>
+        <target state="translated">Also, the Team Kira Info command doesn’t use up Command Points. You can run it as many times as you want.</target>
       </trans-unit>
       <trans-unit id="773644" xml:space="preserve" approved="no">
         <source>||||||　　　　検問設置コマンド</source>
@@ -1863,29 +1863,29 @@
         <source>また、ステータスは、コマンド|実行回数としてカウントされません。|何度でも情報を確認できます。</source>
         <target state="translated">Using the Status command does not require Command Points. You can check the information as many times as you want.</target>
       </trans-unit>
-      <trans-unit id="775244" xml:space="preserve">
+      <trans-unit id="775244" xml:space="preserve" approved="no">
         <source>||||||　　　捜査側の情報コマンド</source>
-        <target/>
+        <target state="translated">||||||Investigation Info Command</target>
       </trans-unit>
-      <trans-unit id="811752" xml:space="preserve">
+      <trans-unit id="811752" xml:space="preserve" approved="no">
         <source>\c04『捜査側の情報』\c02コマンドでは、|\c04捜査側全体\c02の情報を確認する|ことができます。</source>
-        <target/>
+        <target state="translated">The \c04Investigation Info\c02 command displays statistics on \c04the investigation team as a whole\c02.</target>
       </trans-unit>
-      <trans-unit id="816700" xml:space="preserve">
+      <trans-unit id="816700" xml:space="preserve" approved="no">
         <source>捜査側の情報を確認するには、|捜査員をタッチして&gt;&gt;\c04『情報』→『捜査側の情報』\c02|の順でタッチします。</source>
-        <target/>
+        <target state="translated">To check these statistics, tap any investigator, then tap \c04Information → Investigation Info\c02.</target>
       </trans-unit>
-      <trans-unit id="832200" xml:space="preserve">
+      <trans-unit id="832200" xml:space="preserve" approved="no">
         <source>捜査員側の情報画面には、|\c04『検問設置数』『逮捕した人数』|『隠しカメラ設置数』&gt;&gt;『隠しカメラ総撮影回数』|『勝利ポイント』\c02|が表示されます。</source>
-        <target/>
+        <target state="translated">This will prompt the Investigator Info Screen to appear. It displays the current number of\c04inspection points assembled, people arrested, hidden cameras placed, hidden camera videos filmed, and Victory Points gained\c02.</target>
       </trans-unit>
-      <trans-unit id="797804" xml:space="preserve">
+      <trans-unit id="797804" xml:space="preserve" approved="no">
         <source>また、捜査側の情報は、|コマンド実行回数としてカウント|されません。</source>
-        <target/>
+        <target state="translated">Also, the Investigation Info command doesn’t require Command Points. You can run it as many times as you want.</target>
       </trans-unit>
       <trans-unit id="775804" xml:space="preserve" approved="no">
         <source>||||||　　　　カメラ破壊コマンド</source>
-        <target state="translated">Destroying Cameras</target>
+        <target state="translated">|||||Destroying Cameras</target>
       </trans-unit>
       <trans-unit id="809236" xml:space="preserve">
         <source>\c04『カメラ破壊』\c02コマンドは、|マップ上の\c04『カメラ』\c02を破壊する|コマンドだ。</source>
