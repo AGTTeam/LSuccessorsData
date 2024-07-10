@@ -1885,23 +1885,23 @@
       </trans-unit>
       <trans-unit id="775804" xml:space="preserve" approved="no">
         <source>||||||　　　　カメラ破壊コマンド</source>
-        <target state="translated">|||||Destroying Cameras</target>
+        <target state="translated">|||||Camera Destruction Command</target>
       </trans-unit>
-      <trans-unit id="809236" xml:space="preserve">
+      <trans-unit id="809236" xml:space="preserve" approved="no">
         <source>\c04『カメラ破壊』\c02コマンドは、|マップ上の\c04『カメラ』\c02を破壊する|コマンドだ。</source>
-        <target/>
+        <target state="translated">The \c04Camera Destruction\c02 command lets you destroy cameras on the map.</target>
       </trans-unit>
-      <trans-unit id="837512" xml:space="preserve">
+      <trans-unit id="837512" xml:space="preserve" approved="no">
         <source>カメラを破壊すれば、|捜査側は\c04情報源\c02を失うことになる。&gt;&gt;ただしカメラ破壊を行う為には|メンバーが、破壊するカメラの|近くまで移動しなくてはならない。</source>
-        <target/>
+        <target state="translated">When we break a camera, the investigation loses an important \c04source of information\c02.&gt;&gt;However, a Kira member has to move close to the camera in order to carry out the Camera Destruction command.</target>
       </trans-unit>
-      <trans-unit id="851400" xml:space="preserve">
+      <trans-unit id="851400" xml:space="preserve" approved="no">
         <source>カメラを破壊すれば捜査員は|目を奪われたも同然だ。&gt;&gt;ここで１つ注意がある。|確かにカメラ破壊は捜査を|混乱させる有効な手段だが&gt;&gt;メンバーの居場所を突き止める|ヒントにもなりかねない。</source>
-        <target/>
+        <target state="translated">By destroying cameras, we’re effectively blinding the investigation.&gt;&gt;But watch out. The Camera Destruction command is a good way to mess with the investigators, but it also tells them that a Kira member is close to that camera’s location.</target>
       </trans-unit>
-      <trans-unit id="803520" xml:space="preserve">
+      <trans-unit id="803520" xml:space="preserve" approved="no">
         <source>\c04キラ以外\c02のメンバーが|カメラ破壊を中心に行動するのも|有効な策だろう。</source>
-        <target/>
+        <target state="translated">One strategy you could try is getting members of Team Kira who \c04aren’t Kira themselves\c02 to focus on destroying cameras.</target>
       </trans-unit>
       <trans-unit id="775692" xml:space="preserve" approved="no">
         <source>||||||　　　　　……あった！</source>
