@@ -1795,9 +1795,9 @@
         <source>キラ側の情報を確認するには、|メンバーをタッチして&gt;&gt;\c04『情報』→『キラ側の情報』\c02の|順でタッチする必要がある。</source>
         <target state="translated">To check these statistics, tap any Kira member, then tap \c04Information → Team Kira Info\c02.</target>
       </trans-unit>
-      <trans-unit id="845528" xml:space="preserve">
+      <trans-unit id="845528" xml:space="preserve" approved="no">
         <source>キラ側の情報画面には、|\c04『所有権移動回数（非接触）』|『変装コマンド使用回数』&gt;&gt;『デスノート使用回数』|『リタイアさせた捜査員数』|『勝利ポイント』\c02が表示される。</source>
-        <target/>
+        <target state="translated">This will prompt the Team Kira Info Screen to appear. It displays the current number of:|\c04Ownership transferrals (when non-adjacent)|Disguises used&gt;&gt;Traps set|Investigators eliminated|Victory Points gained\c02.</target>
       </trans-unit>
       <trans-unit id="808352" xml:space="preserve" approved="no">
         <source>また、キラ側の情報は、|コマンド実行回数としてカウント|されない。何度でも実行できる。</source>
@@ -1877,7 +1877,7 @@
       </trans-unit>
       <trans-unit id="832200" xml:space="preserve" approved="no">
         <source>捜査員側の情報画面には、|\c04『検問設置数』『逮捕した人数』|『隠しカメラ設置数』&gt;&gt;『隠しカメラ総撮影回数』|『勝利ポイント』\c02|が表示されます。</source>
-        <target state="translated">This will prompt the Investigator Info Screen to appear. It displays the current number of\c04inspection points assembled, people arrested, hidden cameras placed, hidden camera videos filmed, and Victory Points gained\c02.</target>
+        <target state="translated">This will prompt the Investigator Info Screen to appear. It displays the current number of:|\c04Inspection points assembled|People arrested|Hidden cameras placed&gt;&gt;Hidden camera videos filmed|Victory Points gained\c02.</target>
       </trans-unit>
       <trans-unit id="797804" xml:space="preserve" approved="no">
         <source>また、捜査側の情報は、|コマンド実行回数としてカウント|されません。</source>
@@ -2617,35 +2617,35 @@
       </trans-unit>
       <trans-unit id="770344" xml:space="preserve" approved="no">
         <source>||||||　　　　　　特殊移動</source>
-        <target state="translated">Transportation</target>
+        <target state="translated">||||||Special Movement</target>
       </trans-unit>
-      <trans-unit id="849388" xml:space="preserve">
+      <trans-unit id="849388" xml:space="preserve" approved="no">
         <source>マップ上には、通常の移動|よりも優れた移動の方法が|存在する。&gt;&gt;\c04『地下鉄』『水上バス』|『高速バス』『ヘリ』\c02など&gt;&gt;これらの移動方法を|\c04『特殊移動』\c02と呼ぶ。</source>
-        <target/>
+        <target state="translated">On the map, there are ways to move around that are superior to just walking down a street. &gt;&gt;These methods are referred to as \c04Special Movement\c02, and include \c04the subway, ferries, express buses, and helicopters\c02.</target>
       </trans-unit>
-      <trans-unit id="800864" xml:space="preserve">
+      <trans-unit id="800864" xml:space="preserve" approved="no">
         <source>特殊移動を行うには、|特殊移動の\c04『ターミナル』\c02に|移動する必要がある。</source>
-        <target/>
+        <target state="translated">To use Special Movement, you must first move to a Special Movement \c04Terminal\c02.</target>
       </trans-unit>
-      <trans-unit id="812216" xml:space="preserve">
+      <trans-unit id="812216" xml:space="preserve" approved="no">
         <source>ターミナルに入ったら、|移動先を選択する。&gt;&gt;ラインで繋がった\c04ターミナル\c02|をタッチするんだ。</source>
-        <target/>
+        <target state="translated">Upon entering a terminal, you can choose your destination.&gt;&gt;Just use the stylus to touch any terminal that’s \c04connected with a line\c02 to the one you’re in.</target>
       </trans-unit>
-      <trans-unit id="786508" xml:space="preserve">
+      <trans-unit id="786508" xml:space="preserve" approved="no">
         <source>移動を行う場合は|\c04『ＹＥＳ』\c02をタッチすればいい。</source>
-        <target/>
+        <target state="translated">To confirm the movement, just tap \c04YES\c02.</target>
       </trans-unit>
-      <trans-unit id="872860" xml:space="preserve">
+      <trans-unit id="872860" xml:space="preserve" approved="no">
         <source>特殊移動を実行すると、|移動先のターミナルから|出現する。&gt;&gt;ただし、\c04特殊移動したターン\c02は|移動ポイントが\c04残っていても|移動することは出来ない\c02。&gt;&gt;特殊移動は、僕らにとって|大変有効な移動手段となる。&gt;&gt;捜査員から逃亡するのに|利用しない手はない。</source>
-        <target/>
+        <target state="translated">Once you've completed the Special Movement, you’ll arrive at your destination terminal.&gt;&gt;However, note that \c04on turns where you use Special Movement\c02, you can’t move any further \c04even if you have Movement Points left\c02.&gt;&gt;Special Movement is a very effective method for us to move around.&gt;&gt;There’s no way you’ll escape the investigators without it.</target>
       </trans-unit>
-      <trans-unit id="847048" xml:space="preserve">
+      <trans-unit id="847048" xml:space="preserve" approved="no">
         <source>たが、注意点が１つある。|特殊移動には\c04『特殊移動ポイント』\c02|が必要となる。&gt;&gt;序盤から特殊移動を多用すると|いざというときにポイントが|不足するかもしれない。</source>
-        <target/>
+        <target state="translated">But there’s one more thing you should know.|Special Movement requires \c04Special Movement Points\c02.&gt;&gt;If you overuse Special Movement from the start of a match, you might find yourself short on points when you really need them.</target>
       </trans-unit>
-      <trans-unit id="832704" xml:space="preserve">
+      <trans-unit id="832704" xml:space="preserve" approved="no">
         <source>また、特殊移動ポイントは|\c04ステータス画面\c02から|確認することが出来る。&gt;&gt;残りのポイントを確認して|使い所をよく考えてから|行動するんだ。</source>
-        <target/>
+        <target state="translated">You can check how many Special Movement Points you have left from the \c04Status Screen\c02.&gt;&gt;Think carefully about how to use these points before moving.</target>
       </trans-unit>
       <trans-unit id="843460" xml:space="preserve" approved="no">
         <source>（非通知着信……|\T0060\t0002…『確認』……やった！|\T0060\t0002これは魅上からの合図…）&gt;&gt;（ニアは思いの他、早く|魅上にたどり着いた。|しかし、これでいい…）</source>
@@ -2701,7 +2701,7 @@
       </trans-unit>
       <trans-unit id="822876" xml:space="preserve" approved="no">
         <source>\c04ターミナル\c02に入ったら、|\c04移動先\c02を選択します。&gt;&gt;\c04ラインで繋がったターミナル\c02|をタッチしてください。</source>
-        <target state="translated">Once you've reached the \c04Terminal\c02, you select your destination. This is done by tapping another \c04Terminal connected by a line\c02.</target>
+        <target state="translated">Upon entering a terminal, you may choose your destination.&gt;&gt;Use the stylus to touch any terminal that is \c04connected with a line\c02 to the one you’re in.</target>
       </trans-unit>
       <trans-unit id="788748" xml:space="preserve" approved="no">
         <source>移動を行う場合は|\c04『ＹＥＳ』\c02をタッチして|ください。</source>
@@ -2721,15 +2721,15 @@
       </trans-unit>
       <trans-unit id="837864" xml:space="preserve" approved="no">
         <source>また、特殊移動ポイントは|\c04ステータス画面\c02から|確認することができます。&gt;&gt;残りのポイントを確認して|使い所をよく考えてから|指示を出してください。</source>
-        <target state="translated">You can check the remaining number of Special Movement Points from the \c04Status Screen\c02. &gt;&gt;Check how many points you have left and think carefully about how to use them before giving an order.</target>
+        <target state="translated">You can check the remaining number of Special Movement Points from the \c04Status Screen\c02. &gt;&gt;Think carefully about how to use these points before giving an order.</target>
       </trans-unit>
-      <trans-unit id="777036" xml:space="preserve">
+      <trans-unit id="777036" xml:space="preserve" approved="no">
         <source>やりましたね。|我々の勝ちです。</source>
-        <target/>
+        <target state="translated">We’ve done it.|This is our victory.</target>
       </trans-unit>
       <trans-unit id="810592" xml:space="preserve" approved="no">
         <source>……では、あなたがキラである|という疑いをかけられ、Ｌに拘束|されたというのは本当ですか？</source>
-        <target state="translated">... So, is it true that you were detained by L under suspicion of being Kira?</target>
+        <target state="translated">…So, is it true that you were detained by L under suspicion of being Kira?</target>
       </trans-unit>
       <trans-unit id="777092" xml:space="preserve" approved="no">
         <source>……そ……そんなこと、誰に……？</source>
@@ -3005,7 +3005,7 @@
       </trans-unit>
       <trans-unit id="854284" xml:space="preserve" approved="no">
         <source>（……やはり、Ｌには|まだ疑われている……）&gt;&gt;（しかし、あの隠したノートは|何としても回収しなきゃならない）&gt;&gt;（あのノートこそ……Ｌ、|おまえの息の根を止めるための|カギだからだ）</source>
-        <target state="translated">(…I knew it. L still suspects me…)&gt;&gt;(But no matter what, I still have to get back the Note that I hid…)&gt;&gt;(Because that Note… It'll be the key, L, to stopping your breath forevermore.)</target>
+        <target state="translated">(…I knew it. L still suspects me…)&gt;&gt;(But no matter what, I still have to get back the Note that I hid.)&gt;&gt;(Because that Note… It'll be the key, L, to stopping your breath forevermore.)</target>
       </trans-unit>
       <trans-unit id="778680" xml:space="preserve" approved="no">
         <source>||||||　　　大統領、取引をしよう。</source>
@@ -3407,13 +3407,13 @@
         <source>これはニアにとって、|Ｌとキラのプライドを賭けた|戦いだった。|負けるわけにはいかない。||Ｌ＝夜神月＝キラ。|それは９９．９９９９％確実だった。||１００にならないのは、証拠がない、|ただそれだけの事。||その証拠をつかむ決定的な策とは…</source>
         <target state="translated">To Near, this was a battle with L and Kira's prides on the line. He could not afford to lose.||L was Light Yagami was Kira. He knew this with 99.9999% certainty.||The only reason it hadn't reached 100% was lack of evidence.||How could he force that evidence to come to light, once and for all?</target>
       </trans-unit>
-      <trans-unit id="788292" xml:space="preserve">
+      <trans-unit id="788292" xml:space="preserve" approved="no">
         <source>デスノートに名前を書かせた上で|そこを押さえます。</source>
-        <target/>
+        <target state="translated">Make him write a name in the Death Note, right before everyone’s eyes. That was the only way.</target>
       </trans-unit>
-      <trans-unit id="855764" xml:space="preserve">
+      <trans-unit id="855764" xml:space="preserve" approved="no">
         <source>この策を成功させるには、|ある準備が絶対に欠かせない。|それを可能にするためのワナも|必要だ。||\T0045\t0002そのワナのエサは……ニア自身！||\T0045\t0002ニアはＮとして、Ｌにある申し出を|した。</source>
-        <target/>
+        <target state="translated">For this plan to succeed, some preparation was absolutely crucial.|A trap had to be laid.||\T0045\t0002And the bait for that trap would be… Near himself!||\T0045\t0002Near, as N, reached out to L with a request.</target>
       </trans-unit>
       <trans-unit id="803720" xml:space="preserve" approved="no">
         <source>Ｌ、お会いしたい。|どうしてもキラ事件に関し、|お見せしたいものがあります。</source>
