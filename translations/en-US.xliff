@@ -5487,13 +5487,13 @@
         <source>メロ！？|そ、そんな…まだ死神を|見つけてないのに！</source>
         <target state="translated">Mello?! B- but ... I still haven't found the Shinigami!</target>
       </trans-unit>
-      <trans-unit id="597516" xml:space="preserve">
+      <trans-unit id="597516" xml:space="preserve" approved="no">
         <source>指定したキャラが|そのターンだけ、検問を|突破することができる。</source>
-        <target/>
+        <target state="translated">Allows a character of your choice to break through an Inspection Point (only lasts for this turn).</target>
       </trans-unit>
-      <trans-unit id="606888" xml:space="preserve">
+      <trans-unit id="606888" xml:space="preserve" approved="no">
         <source>デスノートの使用回数を|減らさず、トラップを|設置することができる。</source>
-        <target/>
+        <target state="translated">Sets a trap without increasing the number of times the Death Note has been used.</target>
       </trans-unit>
       <trans-unit id="622376" xml:space="preserve" approved="no">
         <source>勝利ポイントを得た場合、|通常よりも多く、ポイントを|手に入れることができる。</source>
@@ -5569,7 +5569,7 @@
       </trans-unit>
       <trans-unit id="629816" xml:space="preserve" approved="no">
         <source>その能力を使用したターンで|トラップにかかった場合、|１度リタイアするが|次のターンに復帰する。</source>
-        <target state="translated">If the unit is caught by a trap in the turn this ability is used, they will be temporarily KO'd and return in the next turn.</target>
+        <target state="translated">If the investigator is caught by a trap in the turn this ability is used, they will be temporarily KO'd and return in the next turn.</target>
       </trans-unit>
       <trans-unit id="533500" xml:space="preserve" approved="no">
         <source>任意のエリアの|目撃情報を得る事ができる。</source>
@@ -5581,7 +5581,7 @@
       </trans-unit>
       <trans-unit id="624720" xml:space="preserve" approved="no">
         <source>カメラ修復実行時、|コマンド実行範囲が|広く、範囲内の全ての|カメラを修復できる。</source>
-        <target state="translated">This command has a large range, and can repair all cameras in the area.</target>
+        <target state="translated">When repairing cameras, increases the range of the Camera Repair command and repairs all cameras within the area.</target>
       </trans-unit>
       <trans-unit id="616368" xml:space="preserve" approved="no">
         <source>現在自分がいるエリア内の、|容疑者が撮影された|カメラを知ることができる。</source>
@@ -5611,29 +5611,29 @@
         <source>このままでは、|いずれ追い詰められる。|ここは強行突破策だ！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="495461" xml:space="preserve">
+      <trans-unit id="495461" xml:space="preserve" approved="no">
         <source>よし！　よくやった！</source>
-        <target/>
+        <target state="translated">Alright! Nicely done!</target>
       </trans-unit>
-      <trans-unit id="516401" xml:space="preserve">
+      <trans-unit id="516401" xml:space="preserve" approved="no">
         <source>ふ…これでしばらくは|安心できるな。</source>
-        <target/>
+        <target state="translated">Phew… Now I can relax for a bit.</target>
       </trans-unit>
-      <trans-unit id="504737" xml:space="preserve">
+      <trans-unit id="504737" xml:space="preserve" approved="no">
         <source>いいよ。|ここはミサに任せて。</source>
-        <target/>
+        <target state="translated">Okay, this is a job for Misa. Just leave it to me.</target>
       </trans-unit>
-      <trans-unit id="519921" xml:space="preserve">
+      <trans-unit id="519921" xml:space="preserve" approved="no">
         <source>お願い死神さん、|ミサに力を貸してっ！</source>
-        <target/>
+        <target state="translated">Please, Mr… Ms…? Please, Shinigami, lend me your strength!</target>
       </trans-unit>
-      <trans-unit id="497265" xml:space="preserve">
+      <trans-unit id="497265" xml:space="preserve" approved="no">
         <source>よ～し！　準備完了よ！</source>
-        <target/>
+        <target state="translated">Alllllright! Everything’s ready!</target>
       </trans-unit>
-      <trans-unit id="554545" xml:space="preserve">
+      <trans-unit id="554545" xml:space="preserve" approved="no">
         <source>ライトの邪魔する人は|ミサがやっつけちゃうの！</source>
-        <target/>
+        <target state="translated">I’ll get rid of anyone who gets in Light’s way!</target>
       </trans-unit>
       <trans-unit id="494041" xml:space="preserve" approved="no">
         <source>………………</source>
@@ -5647,29 +5647,29 @@
         <source>トラップの位置がよくない。|もっと効率よく敵を|誘い込まなけまれば…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="494621" xml:space="preserve">
+      <trans-unit id="494621" xml:space="preserve" approved="no">
         <source>よし…これでいい。</source>
-        <target/>
+        <target state="translated">Alright… This looks fine.</target>
       </trans-unit>
-      <trans-unit id="568533" xml:space="preserve">
+      <trans-unit id="568533" xml:space="preserve" approved="no">
         <source>さあ、寄って来い反逆者。|神の裁きを受けるがいい。</source>
-        <target/>
+        <target state="translated">Bring it on, dissidents.|May you taste God’s judgment.</target>
       </trans-unit>
-      <trans-unit id="582329" xml:space="preserve">
+      <trans-unit id="582329" xml:space="preserve" approved="no">
         <source>ＮＨＮの高田です！|至急、ここにヘリを|呼んでください！</source>
-        <target/>
+        <target state="translated">This is Takada from NHN!|Please, call a helicopter as fast as you can!</target>
       </trans-unit>
-      <trans-unit id="558549" xml:space="preserve">
+      <trans-unit id="558549" xml:space="preserve" approved="no">
         <source>ＮＨＮです！|報道ヘリをここに回して！|急いで！</source>
-        <target/>
+        <target state="translated">This is NHN! Quick, call a news helicopter here! It’s an emergency!</target>
       </trans-unit>
-      <trans-unit id="577801" xml:space="preserve">
+      <trans-unit id="577801" xml:space="preserve" approved="no">
         <source>敵もまさか|ヘリを呼びつけるとは|思わないでしょうね。</source>
-        <target/>
+        <target state="translated">I’m sure even the enemy wouldn’t have suspected that I’d call a helicopter.</target>
       </trans-unit>
-      <trans-unit id="595789" xml:space="preserve">
+      <trans-unit id="595789" xml:space="preserve" approved="no">
         <source>私もマスコミの人間。|こういう時くらい|立場を利用しなければ。</source>
-        <target/>
+        <target state="translated">I am a media representative, after all.|It’s at times like this that I have to use that to my advantage.</target>
       </trans-unit>
       <trans-unit id="546337" xml:space="preserve">
         <source>ここは奴等にヘタな策を|取られると面倒だな。</source>
@@ -5679,13 +5679,13 @@
         <source>ここは少し、奴等の動きを|封じておくか…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="496157" xml:space="preserve">
+      <trans-unit id="496157" xml:space="preserve" approved="no">
         <source>よし！　これでいい。</source>
-        <target/>
+        <target state="translated">Alright! This looks fine.</target>
       </trans-unit>
-      <trans-unit id="554593" xml:space="preserve">
+      <trans-unit id="554593" xml:space="preserve" approved="no">
         <source>諦めろ。おまえ達には|俺を捕まえるのは無理だ。</source>
-        <target/>
+        <target state="translated">Give it up already. It’s impossible for you people to catch me.</target>
       </trans-unit>
       <trans-unit id="522161" xml:space="preserve">
         <source>こっちの動きがバレると|やっかいだな。</source>
@@ -5695,9 +5695,9 @@
         <source>ここは奴等の目玉を|つぶしとくか。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="500485" xml:space="preserve">
+      <trans-unit id="500485" xml:space="preserve" approved="no">
         <source>よし！|これでいいだろう。</source>
-        <target/>
+        <target state="translated">Alright! This should be fine.</target>
       </trans-unit>
       <trans-unit id="515801" xml:space="preserve">
         <source>ちっ…しくじったな。|俺とした事が…</source>
@@ -5719,29 +5719,29 @@
         <source>特殊能力使用後２</source>
         <target/>
       </trans-unit>
-      <trans-unit id="540769" xml:space="preserve">
+      <trans-unit id="540769" xml:space="preserve" approved="no">
         <source>へへっ、|ミサには奥の手が|あるんだもんね。</source>
-        <target/>
+        <target state="translated">Ehe. Misa always has a secret weapon up her sleeve.</target>
       </trans-unit>
-      <trans-unit id="535921" xml:space="preserve">
+      <trans-unit id="535921" xml:space="preserve" approved="no">
         <source>誰かを動けなくして|その間に攻めちゃうよ！</source>
-        <target/>
+        <target state="translated">I’ll immobilize someone and then punch ’em out!</target>
       </trans-unit>
-      <trans-unit id="495701" xml:space="preserve">
+      <trans-unit id="495701" xml:space="preserve" approved="no">
         <source>やったー！　大成功！</source>
-        <target/>
+        <target state="translated">We did it! That was awesome!</target>
       </trans-unit>
-      <trans-unit id="502049" xml:space="preserve">
+      <trans-unit id="502049" xml:space="preserve" approved="no">
         <source>ライトー！　今のうちだよ！</source>
-        <target/>
+        <target state="translated">Liiiight! Now!</target>
       </trans-unit>
-      <trans-unit id="591117" xml:space="preserve">
+      <trans-unit id="591117" xml:space="preserve" approved="no">
         <source>警察も油断できん。|どこかから監視でもされると|やっかいだ。</source>
-        <target/>
+        <target state="translated">Can’t let my guard down about the cops.|They might be monitoring me from somewhere… That’d be bad.</target>
       </trans-unit>
-      <trans-unit id="572369" xml:space="preserve">
+      <trans-unit id="572369" xml:space="preserve" approved="no">
         <source>まさか、この近くに|隠しカメラなんて|ないだろうな…</source>
-        <target/>
+        <target state="translated">It really doesn’t seem like there are any hidden cameras around here…</target>
       </trans-unit>
       <trans-unit id="554641" xml:space="preserve">
         <source>ふん、やっぱりか…|くだらん小細工しやがって！</source>
