@@ -1003,9 +1003,9 @@
         <source>キラ月驚き</source>
         <target state="translated">Kira Light Surprised</target>
       </trans-unit>
-      <trans-unit id="664708" xml:space="preserve">
+      <trans-unit id="664708" xml:space="preserve" approved="no">
         <source>キラ月失意</source>
-        <target/>
+        <target state="translated">Kira Light Despair</target>
       </trans-unit>
       <trans-unit id="663040" xml:space="preserve" approved="no">
         <source>ミサ普通</source>
@@ -1031,9 +1031,9 @@
         <source>ミサ驚き</source>
         <target state="translated">Misa Surprised</target>
       </trans-unit>
-      <trans-unit id="663136" xml:space="preserve">
+      <trans-unit id="663136" xml:space="preserve" approved="no">
         <source>ミサ失意</source>
-        <target/>
+        <target state="translated">Misa Despair</target>
       </trans-unit>
       <trans-unit id="662968" xml:space="preserve" approved="no">
         <source>火口普通</source>
@@ -1059,9 +1059,9 @@
         <source>火口驚き</source>
         <target state="translated">Higuchi Surprised</target>
       </trans-unit>
-      <trans-unit id="662416" xml:space="preserve">
+      <trans-unit id="662416" xml:space="preserve" approved="no">
         <source>火口失意</source>
-        <target/>
+        <target state="translated">Higuchi Despair</target>
       </trans-unit>
       <trans-unit id="663160" xml:space="preserve" approved="no">
         <source>魅上普通</source>
@@ -1087,9 +1087,9 @@
         <source>魅上驚き</source>
         <target state="translated">Mikami Surprised</target>
       </trans-unit>
-      <trans-unit id="662680" xml:space="preserve">
+      <trans-unit id="662680" xml:space="preserve" approved="no">
         <source>魅上失意</source>
-        <target/>
+        <target state="translated">Mikami Despair</target>
       </trans-unit>
       <trans-unit id="661816" xml:space="preserve" approved="no">
         <source>高田普通</source>
@@ -1115,9 +1115,9 @@
         <source>高田驚き</source>
         <target state="translated">Takada Surprised</target>
       </trans-unit>
-      <trans-unit id="661888" xml:space="preserve">
+      <trans-unit id="661888" xml:space="preserve" approved="no">
         <source>高田失意</source>
-        <target/>
+        <target state="translated">Takada Despair</target>
       </trans-unit>
       <trans-unit id="661792" xml:space="preserve" approved="no">
         <source>メロ普通</source>
@@ -1143,9 +1143,9 @@
         <source>メロ驚き</source>
         <target state="translated">Mello Surprised</target>
       </trans-unit>
-      <trans-unit id="661672" xml:space="preserve">
+      <trans-unit id="661672" xml:space="preserve" approved="no">
         <source>メロ失意</source>
-        <target/>
+        <target state="translated">Mello Despair</target>
       </trans-unit>
       <trans-unit id="664904" xml:space="preserve" approved="no">
         <source>マット普通</source>
@@ -1171,9 +1171,9 @@
         <source>マット驚き</source>
         <target state="translated">Matt Surprised</target>
       </trans-unit>
-      <trans-unit id="765244" xml:space="preserve">
+      <trans-unit id="765244" xml:space="preserve" approved="no">
         <source>マット失意　ナシ</source>
-        <target/>
+        <target state="translated">Matt Despair N/A</target>
       </trans-unit>
       <trans-unit id="662176" xml:space="preserve" approved="no">
         <source>エル普通</source>
@@ -1199,9 +1199,9 @@
         <source>エル驚き</source>
         <target state="translated">L Surprised</target>
       </trans-unit>
-      <trans-unit id="663112" xml:space="preserve">
+      <trans-unit id="663112" xml:space="preserve" approved="no">
         <source>エル失意</source>
-        <target/>
+        <target state="translated">L Despair</target>
       </trans-unit>
       <trans-unit id="664680" xml:space="preserve" approved="no">
         <source>捜査月普通</source>
@@ -1227,9 +1227,9 @@
         <source>捜査月驚き</source>
         <target state="translated">Investigator Light Surprised</target>
       </trans-unit>
-      <trans-unit id="664176" xml:space="preserve">
+      <trans-unit id="664176" xml:space="preserve" approved="no">
         <source>捜査月失意</source>
-        <target/>
+        <target state="translated">Investigator Light Despair</target>
       </trans-unit>
       <trans-unit id="663616" xml:space="preserve" approved="no">
         <source>ワタリ普通</source>
@@ -1255,9 +1255,9 @@
         <source>ワタリ驚き</source>
         <target state="translated">Watari Surprised</target>
       </trans-unit>
-      <trans-unit id="765532" xml:space="preserve">
+      <trans-unit id="765532" xml:space="preserve" approved="no">
         <source>ワタリ失意　ナシ</source>
-        <target/>
+        <target state="translated">Watari Despair N/A</target>
       </trans-unit>
       <trans-unit id="664820" xml:space="preserve" approved="no">
         <source>総一郎普通</source>
@@ -1283,9 +1283,9 @@
         <source>総一郎驚き</source>
         <target state="translated">Soichiro Surprised</target>
       </trans-unit>
-      <trans-unit id="663532" xml:space="preserve">
+      <trans-unit id="663532" xml:space="preserve" approved="no">
         <source>総一郎失意</source>
-        <target/>
+        <target state="translated">Soichiro Despair</target>
       </trans-unit>
       <trans-unit id="661384" xml:space="preserve" approved="no">
         <source>松田普通</source>
@@ -1311,9 +1311,9 @@
         <source>松田驚き</source>
         <target state="translated">Matsuda Surprised</target>
       </trans-unit>
-      <trans-unit id="661552" xml:space="preserve">
+      <trans-unit id="661552" xml:space="preserve" approved="no">
         <source>松田失意</source>
-        <target/>
+        <target state="translated">Matsuda Despair</target>
       </trans-unit>
       <trans-unit id="663256" xml:space="preserve" approved="no">
         <source>模木普通</source>
@@ -1339,9 +1339,9 @@
         <source>模木驚き</source>
         <target state="translated">Mogi Surprised</target>
       </trans-unit>
-      <trans-unit id="764444" xml:space="preserve">
+      <trans-unit id="764444" xml:space="preserve" approved="no">
         <source>模木失意　ナシ</source>
-        <target/>
+        <target state="translated">Mogi Despair N/A</target>
       </trans-unit>
       <trans-unit id="662152" xml:space="preserve" approved="no">
         <source>相沢普通</source>
@@ -1367,9 +1367,9 @@
         <source>相沢驚き</source>
         <target state="translated">Aizawa Surprised</target>
       </trans-unit>
-      <trans-unit id="763996" xml:space="preserve">
+      <trans-unit id="763996" xml:space="preserve" approved="no">
         <source>相沢失意　ナシ</source>
-        <target/>
+        <target state="translated">Aizawa Despair N/A</target>
       </trans-unit>
       <trans-unit id="661744" xml:space="preserve" approved="no">
         <source>伊出普通</source>
@@ -1395,9 +1395,9 @@
         <source>伊出驚き</source>
         <target state="translated">Ide Surprised</target>
       </trans-unit>
-      <trans-unit id="763420" xml:space="preserve">
+      <trans-unit id="763420" xml:space="preserve" approved="no">
         <source>伊出失意　ナシ</source>
-        <target/>
+        <target state="translated">Ide Despair N/A</target>
       </trans-unit>
       <trans-unit id="665156" xml:space="preserve" approved="no">
         <source>レスター普通</source>
@@ -1423,9 +1423,9 @@
         <source>レスター驚き</source>
         <target state="translated">Rester Surprised</target>
       </trans-unit>
-      <trans-unit id="765636" xml:space="preserve">
+      <trans-unit id="765636" xml:space="preserve" approved="no">
         <source>レスター失意　ナシ</source>
-        <target/>
+        <target state="translated">Rester Despair N/A</target>
       </trans-unit>
       <trans-unit id="764028" xml:space="preserve" approved="no">
         <source>ジェバンニ普通</source>
@@ -1451,9 +1451,9 @@
         <source>ジェバンニ驚き</source>
         <target state="translated">Gevanni Surprised</target>
       </trans-unit>
-      <trans-unit id="766356" xml:space="preserve">
+      <trans-unit id="766356" xml:space="preserve" approved="no">
         <source>ジェバンニ失意　ナシ</source>
-        <target/>
+        <target state="translated">Gevanni Despair N/A</target>
       </trans-unit>
       <trans-unit id="662464" xml:space="preserve" approved="no">
         <source>ハル普通</source>
@@ -1479,9 +1479,9 @@
         <source>ハル驚き</source>
         <target state="translated">Halle Surprised</target>
       </trans-unit>
-      <trans-unit id="763964" xml:space="preserve">
+      <trans-unit id="763964" xml:space="preserve" approved="no">
         <source>ハル失意　ナシ</source>
-        <target/>
+        <target state="translated">Halle Despair N/A</target>
       </trans-unit>
       <trans-unit id="662368" xml:space="preserve" approved="no">
         <source>レイ普通</source>
@@ -1507,9 +1507,9 @@
         <source>レイ驚き</source>
         <target state="translated">Raye Surprised</target>
       </trans-unit>
-      <trans-unit id="763900" xml:space="preserve">
+      <trans-unit id="763900" xml:space="preserve" approved="no">
         <source>レイ失意　ナシ</source>
-        <target/>
+        <target state="translated">Raye Despair N/A</target>
       </trans-unit>
       <trans-unit id="663840" xml:space="preserve" approved="no">
         <source>ナオミ普通</source>
@@ -1535,9 +1535,9 @@
         <source>ナオミ驚き</source>
         <target state="translated">Naomi Surprised</target>
       </trans-unit>
-      <trans-unit id="765084" xml:space="preserve">
+      <trans-unit id="765084" xml:space="preserve" approved="no">
         <source>ナオミ失意　ナシ</source>
-        <target/>
+        <target state="translated">Naomi Despair N/A</target>
       </trans-unit>
       <trans-unit id="773176" xml:space="preserve" approved="no">
         <source>||||||　　　　チェックポイント</source>
@@ -1611,9 +1611,9 @@
         <source>ニア驚き</source>
         <target state="translated">Near Surprised</target>
       </trans-unit>
-      <trans-unit id="662656" xml:space="preserve">
+      <trans-unit id="662656" xml:space="preserve" approved="no">
         <source>ニア失意</source>
-        <target/>
+        <target state="translated">Near Despair</target>
       </trans-unit>
       <trans-unit id="764252" xml:space="preserve" approved="no">
         <source>ニアシルエット</source>
@@ -5755,17 +5755,17 @@
         <source>フフ…いい目をもらった。|偽名の奴さえ確実に裁ける。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="534601" xml:space="preserve">
+      <trans-unit id="534601" xml:space="preserve" approved="no">
         <source>神に逆らう者がまだいる。|削除しなければ。</source>
-        <target/>
+        <target state="translated">There are still people out there who defy the will of God. They must be deleted.</target>
       </trans-unit>
-      <trans-unit id="568585" xml:space="preserve">
+      <trans-unit id="568585" xml:space="preserve" approved="no">
         <source>さあ、寄って来い反逆者。|神の裁きを受けるがいい。</source>
-        <target/>
+        <target state="translated">Bring it on, dissidents.|May you taste God’s judgment.</target>
       </trans-unit>
-      <trans-unit id="595917" xml:space="preserve">
+      <trans-unit id="595917" xml:space="preserve" approved="no">
         <source>ＮＨＮの高田です！|急いでるんで、これ、|使わせてもらいます。</source>
-        <target/>
+        <target state="translated">This is Takada from NHN! Please let me borrow this. It’s urgent.</target>
       </trans-unit>
       <trans-unit id="565881" xml:space="preserve">
         <source>ＮＨＮです！|緊急事態なんです。|乗せてください！</source>
@@ -9475,17 +9475,17 @@
         <source>交通ルートをうまく使えば、|キラもニアも出し抜ける。</source>
         <target state="translated">If I can use the transportation in my favor, I'll outsmart both Kira and Near.</target>
       </trans-unit>
-      <trans-unit id="532665" xml:space="preserve">
+      <trans-unit id="532665" xml:space="preserve" approved="no">
         <source>これ以上の移動方法はない。|俺の勝ちだ。</source>
-        <target/>
+        <target state="translated">There’s no better way to move around than this.|This’ll be my victory.</target>
       </trans-unit>
       <trans-unit id="606277" xml:space="preserve" approved="no">
         <source>空を飛ぶのも悪くない。|奴等を出し抜くには、|ちょうどいい道具だ。</source>
         <target state="translated">Flying doesn't seem like a bad idea, actually.|It's the perfect tool to outwit those guys.</target>
       </trans-unit>
-      <trans-unit id="576065" xml:space="preserve">
+      <trans-unit id="576065" xml:space="preserve" approved="no">
         <source>敵もこちらがヘリを使うとは|予想はしていないだろう。</source>
-        <target/>
+        <target state="translated">My opponents definitely won’t think I’m the kind of guy to use a helicopter, that’s for sure.</target>
       </trans-unit>
       <trans-unit id="570509" xml:space="preserve">
         <source>くっ……俺は…俺の力は|この程度だったというのか？</source>
@@ -11999,17 +11999,17 @@
         <source>これで奴等の裏を|かけるかもしれない。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="586469" xml:space="preserve">
+      <trans-unit id="586469" xml:space="preserve" approved="no">
         <source>裏路地なんて|あまり使いたくなかったが|ここは仕方ないな。</source>
-        <target/>
+        <target state="translated">I don’t really want to use something like a back alley, but there’s no other way around it.</target>
       </trans-unit>
       <trans-unit id="510725" xml:space="preserve">
         <source>どうも近くに|敵の気配を感じるな。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="506585" xml:space="preserve">
+      <trans-unit id="506585" xml:space="preserve" approved="no">
         <source>！　あいつ…|どこかで見た事が…</source>
-        <target/>
+        <target state="translated">! That person…|Seems familiar somehow…</target>
       </trans-unit>
       <trans-unit id="510041" xml:space="preserve">
         <source>いやな予感がする…|もしかすると…</source>
@@ -12499,9 +12499,9 @@
         <source>しまった！　やられた！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="499337" xml:space="preserve">
+      <trans-unit id="499337" xml:space="preserve" approved="no">
         <source>わっ！　ト、トラップ！？</source>
-        <target/>
+        <target state="translated">Ack! A, a trap?!</target>
       </trans-unit>
       <trans-unit id="494157" xml:space="preserve">
         <source>容疑者を確認！</source>
@@ -16959,9 +16959,9 @@
         <source>パープル</source>
         <target state="translated">Purple</target>
       </trans-unit>
-      <trans-unit id="657840" xml:space="preserve">
+      <trans-unit id="657840" xml:space="preserve" approved="no">
         <source>ギャング</source>
-        <target/>
+        <target state="translated">Gangster</target>
       </trans-unit>
       <trans-unit id="657856" xml:space="preserve" approved="no">
         <source>キラ信者</source>
