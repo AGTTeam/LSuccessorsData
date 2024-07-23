@@ -4927,21 +4927,21 @@
         <source>キラの指示で魅上は|本物とニセ物、２冊のノートを|所有していたんです。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="820964" xml:space="preserve">
+      <trans-unit id="820964" xml:space="preserve" approved="no">
         <source>ニアは本物のノートを取り出した。||ニアは、魅上のノートに|死神が憑いていない事から、|魅上のノートをニセ物と疑った。</source>
-        <target/>
+        <target state="translated">Near pulled out the real Note for everyone to see.||Near, upon realizing that Mikami’s Note was not being haunted by a Shinigami, had begun to suspect that Mikami’s Note was a fake.</target>
       </trans-unit>
-      <trans-unit id="799368" xml:space="preserve">
+      <trans-unit id="799368" xml:space="preserve" approved="no">
         <source>それがはっきりしたのは|メロのおかげなんです。|ここを見てください。</source>
-        <target/>
+        <target state="translated">But it was thanks to Mello that the doubt became a certainty.|Please look here.</target>
       </trans-unit>
-      <trans-unit id="870404" xml:space="preserve">
+      <trans-unit id="870404" xml:space="preserve" approved="no">
         <source>ニアの示した本物のデスノート。||\T0045\t0002そこにはメロに誘拐された|高田清美の名前があった。||\T0090\t0002つまり、魅上も独自の判断で|高田を消すためにノートを|使ったのだ。||\T0045\t0002そのとき魅上がノートをもう１冊|持っているとニアは知った。</source>
-        <target/>
+        <target state="translated">Near flipped open the real Death Note.||\T0045\t0002There was the name of the person Mello had kidnapped: Kiyomi Takada.||\T0090\t0002Mikami must have independently concluded that Takada needed to die, then used the notebook to kill her.||\T0045\t0002At that point, Near realized that Mikami had a second notebook.</target>
       </trans-unit>
-      <trans-unit id="848988" xml:space="preserve">
+      <trans-unit id="848988" xml:space="preserve" approved="no">
         <source>２冊のノートのどちらが本物か、|手に入れてみなければ１００％の|確証はない…||そこでニアは、魅上の持つ２冊の|ノートを、両方ともすり替える策に|出たのだった。||\T0090\t0000だが…</source>
-        <target/>
+        <target state="translated">Which was the real notebook? There was no way to be 100% certain without having both on hand…||So Near proposed a strategy: replacing both of the notebooks with fakes.||\T0090\t0000And yet…</target>
       </trans-unit>
       <trans-unit id="846280" xml:space="preserve" approved="no">
         <source>ニア、これまでの協力に感謝します。|しかし、ここは日本だ。&gt;&gt;魅上の身柄は我々、日本捜査本部で|預かります。&gt;&gt;むろん、あなた方が手に入れた|本物のデスノートもです。</source>
@@ -5155,53 +5155,53 @@
         <source>最初の４人は我々ＳＰＫの本名に|間違いありません。&gt;&gt;そして、ここにいて|唯一名前がないのが夜神月。</source>
         <target state="translated">The first four names are us, the members of the SPK.&gt;&gt;And the only name missing is Light Yagami.</target>
       </trans-unit>
-      <trans-unit id="790844" xml:space="preserve">
+      <trans-unit id="790844" xml:space="preserve" approved="no">
         <source>魅上はあなたを神と呼び、|言われた通りにしたと言った…</source>
-        <target/>
+        <target state="translated">Mikami referred to you as God just now. He said he’d done everything “according to your will”…</target>
       </trans-unit>
-      <trans-unit id="780964" xml:space="preserve">
+      <trans-unit id="780964" xml:space="preserve" approved="no">
         <source>決まりです…|夜神月、あなたがキラです。</source>
-        <target/>
+        <target state="translated">It’s decided… Light Yagami, you are Kira.</target>
       </trans-unit>
-      <trans-unit id="782244" xml:space="preserve">
+      <trans-unit id="782244" xml:space="preserve" approved="no">
         <source>わ、ワナだ…|僕はそんなヤツは知らない！</source>
-        <target/>
+        <target state="translated">I-it’s a trick!|I don’t even know that guy!</target>
       </trans-unit>
-      <trans-unit id="802520" xml:space="preserve">
+      <trans-unit id="802520" xml:space="preserve" approved="no">
         <source>…月くん、君はさっき|『僕の勝ちだ』と言った。|あれは自白したのと同じだ…</source>
-        <target/>
+        <target state="translated">…Light, you just shouted “I win!” at everyone.|That’s practically a confession.</target>
       </trans-unit>
-      <trans-unit id="803920" xml:space="preserve">
+      <trans-unit id="803920" xml:space="preserve" approved="no">
         <source>あなたはさっき自分の勝ちを|宣言しましたが、|確かに本来あなたは勝っていた。</source>
-        <target/>
+        <target state="translated">Your declaration of victory would have been correct, if you hadn’t overlooked one thing.</target>
       </trans-unit>
-      <trans-unit id="790924" xml:space="preserve">
+      <trans-unit id="790924" xml:space="preserve" approved="no">
         <source>私はあなたの策に乗ってノートの|すり替えに踏み切った…</source>
-        <target/>
+        <target state="translated">Yes, I took advantage of your plan and decided to swap the notebooks…</target>
       </trans-unit>
-      <trans-unit id="813764" xml:space="preserve">
+      <trans-unit id="813764" xml:space="preserve" approved="no">
         <source>しかし、私がさっき|『ノートに細工した』と言ったのは&gt;&gt;本物のノートに対しても、|なんですよ。</source>
-        <target/>
+        <target state="translated">But when I said earlier that we tampered with the notebook, I was referring to the real notebook as well.</target>
       </trans-unit>
-      <trans-unit id="767376" xml:space="preserve">
+      <trans-unit id="767376" xml:space="preserve" approved="no">
         <source>…ば、ばかな…！</source>
-        <target/>
+        <target state="translated">…Y-you’re joking…!</target>
       </trans-unit>
-      <trans-unit id="874596" xml:space="preserve">
+      <trans-unit id="874596" xml:space="preserve" approved="no">
         <source>ニアは本物のノートを取り出した。|だが、それでも月には納得する事は|できなかった。|魅上に用意させたニセのノートは|完全なはずだったのだ。||\T0045\t0002だがニアは、魅上のノートに|死神が憑いていない事から、|魅上のノートをニセ物と疑った。||\T0045\t0002そこである行動に出たのだ。</source>
-        <target/>
+        <target state="translated">Near pulled out the real Note for everyone to see.|But even then, Light couldn’t accept the reality of what had just happened.|The fake Note Mikami had prepared was flawless. It should have fooled Near perfectly.||\T0045\t0002But Near, upon realizing that Mikami’s Note was not being haunted by a Shinigami, had begun to suspect that Mikami’s Note was a fake.||\T0045\t0002That was the basis of Near’s entire plan.</target>
       </trans-unit>
-      <trans-unit id="799184" xml:space="preserve">
+      <trans-unit id="799184" xml:space="preserve" approved="no">
         <source>メロのおかげです。|メロの行動がなければ、|私はあなたに負けていた。</source>
-        <target/>
+        <target state="translated">This is all thanks to Mello.|If Mello hadn’t done what he did, I would have lost to you.</target>
       </trans-unit>
-      <trans-unit id="869868" xml:space="preserve">
+      <trans-unit id="869868" xml:space="preserve" approved="no">
         <source>ニアの示した本物のデスノート。||\T0045\t0002そこにはメロに誘拐された|高田清美の名前があった。||\T0090\t0002つまり、魅上も独自の判断で|高田を消すためにノートを|使ったのだ。||\T0045\t0002そのとき魅上がノートをもう１冊|持っているとニアは知った。</source>
-        <target/>
+        <target state="translated">Near flipped open the real Death Note.||\T0045\t0002There was the name of the person Mello had kidnapped: Kiyomi Takada.||\T0090\t0002Mikami must have independently concluded that Takada needed to die, then used the notebook to kill her.||\T0045\t0002At that point, Near realized that Mikami had a second notebook.</target>
       </trans-unit>
-      <trans-unit id="837688" xml:space="preserve">
+      <trans-unit id="837688" xml:space="preserve" approved="no">
         <source>２冊のノートのどちらが本物か、|手に入れてみなければ１００％の|確証はない…||そこでニアは、魅上の持つ２冊の|ノートを、両方ともすり替える策に|出たのだった。</source>
-        <target/>
+        <target state="translated">Which was the real notebook? There was no way to be 100% certain without having both on hand…||So Near proposed a strategy: replacing both of the notebooks with fakes.</target>
       </trans-unit>
       <trans-unit id="843836" xml:space="preserve">
         <source>メロには、わかっていたんです。|私もメロもＬを超せない事を…&gt;&gt;私は行動力に欠け、|メロは冷静さに欠ける…&gt;&gt;つまり互いが互いの目標とする者を|超せないと…しかし…</source>
@@ -5211,81 +5211,81 @@
         <source>||||　　　２人ならＬに並べる、|||\T0060\t0002　　　２人ならＬを超せる。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="785644" xml:space="preserve">
+      <trans-unit id="785644" xml:space="preserve" approved="no">
         <source>…ふ\T0060\t0002…ふふ\T0030\t0000…ふははは！！</source>
-        <target/>
+        <target state="translated">…Hah\T0060\t0002…Hah hah…\T0030\t0000…Ahahahaha!</target>
       </trans-unit>
-      <trans-unit id="788520" xml:space="preserve">
+      <trans-unit id="788520" xml:space="preserve" approved="no">
         <source>…そうだ…僕がキラだ！|\T0060\t0002ならばどうする？</source>
-        <target/>
+        <target state="translated">…That’s right… I’m Kira!|\T0060\t0002And what are you going to do about it?</target>
       </trans-unit>
-      <trans-unit id="868292" xml:space="preserve">
+      <trans-unit id="868292" xml:space="preserve" approved="no">
         <source>僕はキラ。そして新世界の神だ！||今の世界では僕が法であり|僕が秩序を守っている。|これは事実。|\T0045\t0002|もはや僕は正義。世界の人間の希望。||\T0045\t0002世の中は腐っている。|腐った人間が多すぎる。|ならば、なくさなければならない。</source>
-        <target/>
+        <target state="translated">I am Kira. And I’m the god of the new world!||Look around you. In today’s world, I am the law. I’m the one who keeps the peace.|You can’t deny that.|\T0045\t0002It’s already too late. I am justice. I am the hope of humankind.||\T0045\t0002This world is rotten.|It’s overflowing with rotten people.|There’s nothing we can do, other than make them disappear.</target>
       </trans-unit>
-      <trans-unit id="844024" xml:space="preserve">
+      <trans-unit id="844024" xml:space="preserve" approved="no">
         <source>この腐った世の中を改め、|真の平和・理想の世界を|創生するため選ばれた人間、||\T0045\t0002僕にしかできない。|僕がキラとしてやるしかない。|これは僕に与えられた使命。</source>
-        <target/>
+        <target state="translated">We have to fix this rotten world, to make a world of peace, a utopia.||\T0045\t0002And I was the only one who could do it.|I had no choice but to become Kira.|This is the duty I have been assigned.</target>
       </trans-unit>
-      <trans-unit id="858588" xml:space="preserve">
+      <trans-unit id="858588" xml:space="preserve" approved="no">
         <source>そうさ、僕にしかできない…|\T0045\t0002新世界を創れるのは…||\T0045\t0002その頂点に立ち、常に正しく|導けるのは僕しかいない…||\T0045\t0002おまえ達が今|目の前にしているのはキラだが|新世界の神だ！</source>
-        <target/>
+        <target state="translated">That’s right. I’m the only one who can do it…|\T0045\t0002The only one who can create the new world…||who can stand on that peak and guide the world correctly… It has to be me…||\T0045\t0002The person standing before all of you right now is Kira, but also the god of the new world!</target>
       </trans-unit>
-      <trans-unit id="822596" xml:space="preserve">
+      <trans-unit id="822596" xml:space="preserve" approved="no">
         <source>いいえ、|あなたはただの犯罪者です。&gt;&gt;夜神月…\T0030\t0002Ｌ…\T0030\t0002キラ…|\T0030\t0002あなたの負けです。</source>
-        <target/>
+        <target state="translated">No. You’re just another criminal.&gt;&gt;Light Yagami…\T0030\t0002L…\T0030\t0002Kira…|\T0030\t0002You lose.</target>
       </trans-unit>
-      <trans-unit id="783532" xml:space="preserve">
+      <trans-unit id="783532" xml:space="preserve" approved="no">
         <source>（言ってもわからぬ\T0030\t0008バカばかり…）</source>
-        <target/>
+        <target state="translated">(It’s no use trying to explain. \T0030\t0008Idiots, the lot of them…)</target>
       </trans-unit>
-      <trans-unit id="823576" xml:space="preserve">
+      <trans-unit id="823576" xml:space="preserve" approved="no">
         <source>リューク…\T0060\t0000そうだリューク！|\T0025\t0000書け！\T0025\t0001　おまえのノートに|こいつらの名前を書くんだ！</source>
-        <target/>
+        <target state="translated">Ryuk…\T0060\t0000That’s it! Ryuk!|\T0025\t0000Write!\T0025\t0001 Write these bastards’ names into your Note!</target>
       </trans-unit>
-      <trans-unit id="769052" xml:space="preserve">
+      <trans-unit id="769052" xml:space="preserve" approved="no">
         <source>や、止めろリューク！</source>
-        <target/>
+        <target state="translated">D-don’t just walk away! Ryuk!</target>
       </trans-unit>
-      <trans-unit id="772500" xml:space="preserve">
+      <trans-unit id="772500" xml:space="preserve" approved="no">
         <source>ああ…\T0030\t0002書こう。</source>
-        <target/>
+        <target state="translated">Aah…\T0030\t0002Yeah, I’ll write.</target>
       </trans-unit>
-      <trans-unit id="771824" xml:space="preserve">
+      <trans-unit id="771824" xml:space="preserve" approved="no">
         <source>だがそれは月、お前の名だ。</source>
-        <target/>
+        <target state="translated">But it’ll be your name on this page, Light.</target>
       </trans-unit>
-      <trans-unit id="778980" xml:space="preserve">
+      <trans-unit id="778980" xml:space="preserve" approved="no">
         <source>！？　\T0030\t0002リューク、おまえ…！</source>
-        <target/>
+        <target state="translated">?! \T0030\t0002Ryuk, you…!</target>
       </trans-unit>
-      <trans-unit id="860412" xml:space="preserve">
+      <trans-unit id="860412" xml:space="preserve" approved="no">
         <source>どう見ても、おまえの負けだ、月。&gt;&gt;ここをどう切り抜けるか、|少しは期待したが、&gt;&gt;俺にすがるようじゃな…|おまえは終わりだ。&gt;&gt;けっこう長い間、お互い|退屈しのぎになったじゃないか。|いろいろ面白かったぜ。</source>
-        <target/>
+        <target state="translated">You’ve got to admit it now, Light. You’ve lost.&gt;&gt;I was kind of looking forward to watching how you’d make it out of this one,&gt;&gt;but it won’t be by clinging to me…|This is the way it ends for you.&gt;&gt;We had a good run, didn’t we? Nice break from all the boredom.|It’s been interesting.</target>
       </trans-unit>
-      <trans-unit id="782308" xml:space="preserve">
+      <trans-unit id="782308" xml:space="preserve" approved="no">
         <source>…終わるのか！？|僕はここで終わるのか！！</source>
-        <target/>
+        <target state="translated">…The way it ends?|Now? Here?!</target>
       </trans-unit>
-      <trans-unit id="776420" xml:space="preserve">
+      <trans-unit id="776420" xml:space="preserve" approved="no">
         <source>そうだ。４０秒で…もう決まりだ。</source>
-        <target/>
+        <target state="translated">That’s right. In 40 seconds… it’ll go just as written.</target>
       </trans-unit>
-      <trans-unit id="776196" xml:space="preserve">
+      <trans-unit id="776196" xml:space="preserve" approved="no">
         <source>い…いやだ…ふざけるな、止めろ！</source>
-        <target/>
+        <target state="translated">N…No… Stop joking around! Stop it!</target>
       </trans-unit>
-      <trans-unit id="784348" xml:space="preserve">
+      <trans-unit id="784348" xml:space="preserve" approved="no">
         <source>みっともないぞ、月。|いや、おまえらしくない。</source>
-        <target/>
+        <target state="translated">You’re looking pretty pathetic right now, Light.|It’s not like you.</target>
       </trans-unit>
-      <trans-unit id="801056" xml:space="preserve">
+      <trans-unit id="801056" xml:space="preserve" approved="no">
         <source>い、いやだ終わりたくない|何とかしろ、何か手はあるんだろ！|リューク！！</source>
-        <target/>
+        <target state="translated">N-no, I don’t want it to be over! There has to be something! Some way out of this! Ryuk!!</target>
       </trans-unit>
-      <trans-unit id="865728" xml:space="preserve">
+      <trans-unit id="865728" xml:space="preserve" approved="no">
         <source>||デスノートに名前を書き込まれたら、|どんな事をしても取り消せない。|\T0015\t0002おまえが一番よく知っているはずだ。|\T0030\t0002||デスノートを使った人間が天国や|地獄にいけると思うな。|\T0015\t0002||…最初にそう言っただろう。</source>
-        <target/>
+        <target state="translated">||When a name is written into the Death Note, there’s nothing you can do to erase it.|\T0015\t0002You should know that better than anyone.|\T0030\t0002||A human who uses the Death Note will not go to heaven nor hell.|\T0015\t0002||…I told you that right at the beginning, didn’t I?</target>
       </trans-unit>
       <trans-unit id="784420" xml:space="preserve" approved="no">
         <source>||||||　　　さよならだ、\T0045\t0002夜神月。</source>
@@ -5293,11 +5293,11 @@
       </trans-unit>
       <trans-unit id="784492" xml:space="preserve" approved="no">
         <source>||||||　　　ち…\T0060\t0002ちくしょう………</source>
-        <target state="translated">||||||D…\T0060\t0002Damn it all…</target>
+        <target state="translated">||||||D…\T0060\t0002Damn it…</target>
       </trans-unit>
-      <trans-unit id="865984" xml:space="preserve">
+      <trans-unit id="865984" xml:space="preserve" approved="no">
         <source>キラ＝夜神月が消えて一年。||世界はすでにキラが現れる前の|退屈で堕落した日常に戻り、|重大犯罪も増加していった。||\T0060\t0002この日常に安心する者。||\T0060\t0002キラの裁きの再開を願う者。||\T0060\t0002人々の思いはそれぞれだった。</source>
-        <target/>
+        <target state="translated">A year had passed since the death of Kira, i.e. Light Yagami.||The world had already fallen back into the everyday boredom and drudgery that it roiled within before Kira had first appeared.|The rate of serious crime shot back up.||\T0060\t0002Some took comfort in this reality.||\T0060\t0002Others prayed for Kira’s judgments to return.||\T0060\t0002The public opinion, as always, was divided.</target>
       </trans-unit>
       <trans-unit id="820172" xml:space="preserve" approved="no">
         <source>夜神月のめざした新世界は|ついに実現しなかった。||||\T0060\t0002ただ、キラの復活を願う者達は|確実に残っている。</source>
