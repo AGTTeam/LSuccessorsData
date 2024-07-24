@@ -65,7 +65,7 @@
       </trans-unit>
       <trans-unit id="777720" xml:space="preserve" approved="no">
         <source>フフフ…\t0030　\t0002僕の勝ちだ。</source>
-        <target state="translated">Heh ... \t0030　\t0002 I win.</target>
+        <target state="translated">Heh…\t0030 \t0002I win.</target>
       </trans-unit>
       <trans-unit id="775300" xml:space="preserve" approved="no">
         <source>ハハハ！\t0030　\t0002楽勝だ。</source>
@@ -2801,7 +2801,7 @@
       </trans-unit>
       <trans-unit id="777840" xml:space="preserve" approved="no">
         <source>フフフ…\t0030　\t0002僕の勝ちだ。</source>
-        <target state="translated">Hehehe ... I win.</target>
+        <target state="translated">Heh…\t0030 \t0002I win.</target>
       </trans-unit>
       <trans-unit id="797988" xml:space="preserve" approved="no">
         <source>は……初めまして、|弥海砂（あまね・みさ）です。|このノートを……</source>
@@ -4801,7 +4801,7 @@
       </trans-unit>
       <trans-unit id="777540" xml:space="preserve" approved="no">
         <source>フフフ…\t0030　\t0002僕の勝ちだ。</source>
-        <target state="translated">Heheheh…\t0030 \t0002This is my perfect victory.</target>
+        <target state="translated">Heh…\t0030 \t0002I win.</target>
       </trans-unit>
       <trans-unit id="825732" xml:space="preserve" approved="no">
         <source>大黒埠頭の外れ、ＹＢ倉庫…||ついに日本捜査本部とＳＰＫの|全員が集結した。||そして夜神月とニアは、|初めて顔を合わせたのだが……</source>
@@ -4923,9 +4923,9 @@
         <source>２冊だって？</source>
         <target state="translated">Both notebooks what?</target>
       </trans-unit>
-      <trans-unit id="800384" xml:space="preserve">
+      <trans-unit id="800384" xml:space="preserve" approved="no">
         <source>キラの指示で魅上は|本物とニセ物、２冊のノートを|所有していたんです。</source>
-        <target/>
+        <target state="translated">On Kira's instructions, Mikami was carrying two notebooks — one real and one fake.</target>
       </trans-unit>
       <trans-unit id="820964" xml:space="preserve" approved="no">
         <source>ニアは本物のノートを取り出した。||ニアは、魅上のノートに|死神が憑いていない事から、|魅上のノートをニセ物と疑った。</source>
@@ -5027,9 +5027,9 @@
         <source>そう、それも僕のワナさ。||\T0045\t0002ノートの隠し場所を知られる事…||\T0045\t0002それこそが、おまえを欺く|エサだったんだ。</source>
         <target state="translated">That's right. It was another trap laid by yours truly.||\T0045\t0002The knowledge of where the Note was hidden…||\T0045\t0002That was bait in and of itself. And you fell for it.</target>
       </trans-unit>
-      <trans-unit id="870672" xml:space="preserve">
+      <trans-unit id="870672" xml:space="preserve" approved="no">
         <source>おまえが本物だと思っている|２冊のノート…|それさえ、どちらもニセ物だ。||\T0030\t0002常識外れな、おまえのことだ。|万一、ノートで魅上を|操られでもしたら|やっかいな事になるからな。||\T0030\t0002本物は切れ端も含め、|先回りして僕達が回収した。</source>
-        <target/>
+        <target state="translated">The second Note, the one you thought was real…|That was a fake, too. They both were.||\T0030\t0002You don't have any common sense, do you?|If Mikami were somehow being controlled by the Note, that would be bad, wouldn't it?||\T0030\t0002So we collected the real Death Note and all its scraps first.</target>
       </trans-unit>
       <trans-unit id="817572" xml:space="preserve" approved="no">
         <source>つまりニア、|\T0060\t0002おまえが魅上に目をつけた瞬間から、|どう転んでも、僕の勝ちは|決まっていたのさ。</source>
