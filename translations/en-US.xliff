@@ -369,7 +369,7 @@
       </trans-unit>
       <trans-unit id="852216" xml:space="preserve" approved="no">
         <source>ククク、意外とやるじゃないか。&gt;&gt;こういう時人間は、|「おめでとう」って|言うんだよな。&gt;&gt;次は『ノーマル』モードに|チャレンジしてみな。&gt;&gt;もっと俺を楽しませてくれよ。|ククク。</source>
-        <target state="translated">Kukuku, not bad at all. &gt;&gt;At times like this, you humans would say "congratulations", right? &gt;&gt;Next time, give Normal Mode a try. Keep me entertained. Kukuku...</target>
+        <target state="translated">Kukuku, not bad at all. &gt;&gt;At times like this, you humans would say "congratulations," right? &gt;&gt;Next time, give Normal Mode a try. Keep me entertained. Kukuku...</target>
       </trans-unit>
       <trans-unit id="772812" xml:space="preserve" approved="no">
         <source>夜神月、どこに行ったんだ！</source>
@@ -749,7 +749,7 @@
       </trans-unit>
       <trans-unit id="855976" xml:space="preserve" approved="no">
         <source>\c04『キラ』\c02とは\c04『デスノート』\c02を|所持し、\c04『トラップ』\c02を|仕掛けられる者を指す。&gt;&gt;\c04デスノートを持つ者が、|キラと呼ばれるんだ。\c02&gt;&gt;キラは捜査員が狙う最重要人物。</source>
-        <target state="translated">The name \c04Kira \c02 refers to the person in possession of the \c04Death Note.\c02&gt;&gt;As well, Kira is able to \c04set traps\c02.&gt;&gt;Kira is the primary target for the investigators.</target>
+        <target state="translated">The name \c04Kira\c02 refers to the person in possession of the \c04Death Note.\c02&gt;&gt;As well, Kira is able to \c04set traps\c02.&gt;&gt;Kira is the primary target for the investigators.</target>
       </trans-unit>
       <trans-unit id="793968" xml:space="preserve" approved="no">
         <source>キラが逮捕されれば、|僕らの\c04『敗北』\c02となってしまう。</source>
@@ -765,11 +765,11 @@
       </trans-unit>
       <trans-unit id="837336" xml:space="preserve" approved="no">
         <source>僕らは捜査員を\c04リタイア\c02させる|為に\c04『移動』\c02そして\c04『コマンド』\c02|を使用する。&gt;&gt;移動とは文字通り、メンバーを|移動させることだ。</source>
-        <target state="translated">In order to force out the investigators, we must first \c04move \c02into position before activating a \c04command\c02.&gt;&gt;Doing so will cause them to abandon the investigation.</target>
+        <target state="translated">In order to force out the investigators, we must first \c04move\c02 into position before activating a \c04command\c02.&gt;&gt;Doing so will cause them to abandon the investigation.</target>
       </trans-unit>
       <trans-unit id="872304" xml:space="preserve" approved="no">
         <source>コマンドはメンバーが|様々な逃亡行動を取る。&gt;&gt;コマンドは\c04１ターン\c02に\c04『１回』\c02。|移動は\c04『移動ポイント』\c02が|残っている限りは、&gt;&gt;\c04『何度でも行うことが出来る』\c02。|ここが捜査員との決定的な違いに|なる。よく覚えておくんだ。</source>
-        <target state="translated">The different commands will allow for members to escape.&gt;&gt;Movement is only limited by \c04Move Points\c02, whereas only \c04one \c02command may be used \c04per turn\c02.&gt;&gt;This is the principal difference from the investigators. Remember it well.</target>
+        <target state="translated">The different commands will allow for members to escape.&gt;&gt;Movement is only limited by \c04Move Points\c02, whereas only \c04one\c02 command may be used \c04per turn\c02.&gt;&gt;This is the principal difference from the investigators. Remember it well.</target>
       </trans-unit>
       <trans-unit id="801344" xml:space="preserve" approved="no">
         <source>ヤツラは一部を除いて、|数だけに頼る集団。|僕らをとめることなど出来ない。</source>
@@ -889,7 +889,7 @@
       </trans-unit>
       <trans-unit id="813044" xml:space="preserve" approved="no">
         <source>\c04『ＳＴＡＲＴボタン』\c02や|下画面の\c04『右下』\c02をタッチしても、|同様のコマンドを実行できます。</source>
-        <target state="translated">This command can be executed by pressing the \c04Start Button\c02 or by tapping the button in the\c04『Bottom Right』\c02 of the screen.</target>
+        <target state="translated">This command can be executed by pressing the \c04Start Button\c02 or by tapping the button in the\c04Bottom Right\c02 of the screen.</target>
       </trans-unit>
       <trans-unit id="771408" xml:space="preserve" approved="no">
         <source>||||||　　　　　リーダー画面</source>
@@ -913,7 +913,7 @@
       </trans-unit>
       <trans-unit id="865476" xml:space="preserve" approved="no">
         <source>\c04『リーダー画面』\c02とは、|キラメンバーのリーダーである|キラと、現在の状況を表した&gt;&gt;情報画面を指している。|そして、リーダー画面には|重要なものが２つある。&gt;&gt;\c04『ターン数』\c02と|\c04『勝利ポイントゲージ』\c02だ。</source>
-        <target state="translated">The \c04Info Screen \c02is available for Kira to view.&gt;&gt;It displays important information on the current situation.&gt;&gt;Specifically, it shows the \c04turn number \c02and the \c04Victory Point Gauge\c02.</target>
+        <target state="translated">The \c04Info Screen\c02 is available for Kira to view.&gt;&gt;It displays important information on the current situation.&gt;&gt;Specifically, it shows the \c04turn number\c02 and the \c04Victory Point Gauge\c02.</target>
       </trans-unit>
       <trans-unit id="881816" xml:space="preserve" approved="no">
         <source>||\c04『ターン数』\c02とは、上画面の左上|に表示されている数字のことで、|計画の残り時間を表している。&gt;&gt;||\c04左側\c02が\c04『現在のターン』\c02|\c04右側\c02が\c04『最終ターン』\c02だ。&gt;&gt;||全てのターンを使い切る前に、|捜査員をリタイアさせなくては|ならない。&gt;&gt;\c04『勝利ポイントゲージ』\c02とは、|上画面の左側にあるゲージの|ことだ。&gt;&gt;\c04『勝利ポイント』\c02とは|計画の状況を示した物で、ゲージが|伸びていれば\c04『優勢』\c02を示す。&gt;&gt;計画の状況に応じてゲージは上下|するので、状況の目安として|確認するのがいいだろう。</source>
@@ -1723,9 +1723,9 @@
         <source>以上だ。|決して、忘れるんじゃないぞ。|よく覚えておくんだ。</source>
         <target state="translated">That’s all.|You’d better not forget that, alright?|Remember it well.</target>
       </trans-unit>
-      <trans-unit id="775580" xml:space="preserve">
+      <trans-unit id="775580" xml:space="preserve" approved="no">
         <source>||||||　　　推理マーカーコマンド</source>
-        <target/>
+        <target state="translated">||||||Theory Maker Command</target>
       </trans-unit>
       <trans-unit id="832368" xml:space="preserve">
         <source>\c04『推理マーカー』\c02コマンドは、|捜査員側が推理を組み立てる際に|マップ上に置くことができる&gt;&gt;捜査予想の為の|マーキングのコマンドです。</source>
@@ -2923,9 +2923,9 @@
         <source>『ああ、月……私たちは無事だ。|だが、犯人を取り逃がしてしまった』</source>
         <target state="translated">Yeah, Light ... We're fine. But I let the culprit get away.</target>
       </trans-unit>
-      <trans-unit id="787988" xml:space="preserve">
+      <trans-unit id="787988" xml:space="preserve" approved="no">
         <source>わかった、父さん達は|そのまま犯人を追跡してくれ。</source>
-        <target/>
+        <target state="translated">Got it. Try to track the culprit for me, but don't move too far.</target>
       </trans-unit>
       <trans-unit id="805788" xml:space="preserve" approved="no">
         <source>Ｎ、人質は奪還しましたが|ノートを奪われました。|犯人追跡に協力をお願いします。</source>
@@ -3165,7 +3165,7 @@
       </trans-unit>
       <trans-unit id="794304" xml:space="preserve" approved="no">
         <source>『奈南川だ。|火口、まずい。テレビを見ろ。|さくらテレビだ』</source>
-        <target state="translated">Higuchi, this is Namikawa. It's not looking good. Turn on the TV. Sakura TV.</target>
+        <target state="translated">"Higuchi, this is Namikawa. It's not looking good. Turn on the TV. Sakura TV."</target>
       </trans-unit>
       <trans-unit id="766816" xml:space="preserve" approved="no">
         <source>さくらテレビ？</source>
@@ -6527,9 +6527,9 @@
         <source>ノートを回収する為に『月』|はチェックポイントに向かっ|てください。回収後、捜査員|をリタイアさせてください。</source>
         <target state="translated">Light, head towards the checkpoint to retrieve the Death Note. Once you have the Note, eliminate the investigators.</target>
       </trans-unit>
-      <trans-unit id="584308" xml:space="preserve">
+      <trans-unit id="584308" xml:space="preserve" approved="no">
         <source>Ｌは疑いを強め、キラ側の|人間を確保しようとして|います。</source>
-        <target/>
+        <target state="translated">L's suspicions are growing stronger. He will attempt to capture members of Team Kira.</target>
       </trans-unit>
       <trans-unit id="619484" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　３８|特殊移動ポイント　　８０|トラップ設置数　　　１５</source>
@@ -6547,9 +6547,9 @@
         <source>『総一郎』は粧裕救出の為、|チェックポイントに|向かってください。</source>
         <target state="translated">Soichiro, head towards the checkpoint in order to rescue Sayu.</target>
       </trans-unit>
-      <trans-unit id="593036" xml:space="preserve">
+      <trans-unit id="593036" xml:space="preserve" approved="no">
         <source>途中、潜んでいるギャングに|発見されるとリタイアと|なります。</source>
-        <target/>
+        <target state="translated">If you are discovered by a gang member lying in wait along the way, you will be eliminated.</target>
       </trans-unit>
       <trans-unit id="631624" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　３５|特殊移動ポイント　　８０|隠しカメラ設置数　　０５|検問設置数　　　　　０５</source>
