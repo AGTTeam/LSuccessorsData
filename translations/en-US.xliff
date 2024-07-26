@@ -5345,7 +5345,7 @@
       </trans-unit>
       <trans-unit id="568741" xml:space="preserve" approved="no">
         <source>推理通りです。ノートの|切れ端は回収してください。</source>
-        <target state="translated">Just as theorized. Please retrieve all scraps of the notebook.</target>
+        <target state="translated">Yes, just as theorized. Please retrieve the notebook scrap.</target>
       </trans-unit>
       <trans-unit id="546529" xml:space="preserve" approved="no">
         <source>トラップはなかった…|私が間違っていたのか？</source>
@@ -5383,9 +5383,9 @@
         <source>これも|新世界のためってやつか？|人間ってのは本当に面白い。</source>
         <target state="translated">Is this another one of those guys who shout about "the new world"?|Humans really are interesting.</target>
       </trans-unit>
-      <trans-unit id="546673" xml:space="preserve">
+      <trans-unit id="546673" xml:space="preserve" approved="no">
         <source>あっちも本気だな。|また面白くなりそうだな。</source>
-        <target/>
+        <target state="translated">Looks like those guys are serious about this too.|Things are getting interesting again…</target>
       </trans-unit>
       <trans-unit id="505537" xml:space="preserve">
         <source>ウホッ…|本気出すってわけだ。</source>
