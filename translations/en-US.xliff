@@ -2119,9 +2119,9 @@
         <source>\c04『標準望遠』\c02では、|捜査と捜査範囲の確認を|バランスよく行えます。</source>
         <target state="translated">At \c04standard magnification\c02, you should be able to find a balance between carrying out the investigation and grasping the range of the map.</target>
       </trans-unit>
-      <trans-unit id="831368" xml:space="preserve">
+      <trans-unit id="831368" xml:space="preserve" approved="no">
         <source>最初のうちは\c04『最小望遠』\c02で|慣れてきたら\c04『標準望遠』\c02で|捜査するのがいいでしょう。&gt;&gt;状況に応じて|うまく使い分けてください。</source>
-        <target/>
+        <target state="translated">You may want to try \c04fully zooming in\c02 first, to understand the different actions one can take on the map, then returning to \c04standard magnification\c02 to carry out your investigation.&gt;&gt;You can adjust the magnification level as you adapt to the changing situation.</target>
       </trans-unit>
       <trans-unit id="771512" xml:space="preserve" approved="no">
         <source>||||||　　　　　行動アイコン</source>
@@ -2191,9 +2191,9 @@
         <source>\c04『標準望遠』\c02では、|逃亡コマンドと逃亡範囲の確認を|バランスよく行える。</source>
         <target state="translated">At \c04standard magnification\c02, you should be able to find a balance between planning your escape and grasping the range of the map.</target>
       </trans-unit>
-      <trans-unit id="835256" xml:space="preserve">
+      <trans-unit id="835256" xml:space="preserve" approved="no">
         <source>初めのうちは、\c04『最小望遠』\c02で|慣れてきたら\c04『標準望遠』\c02で|逃亡計画を立てるのがいいだろう。&gt;&gt;状況に応じて|うまく使い分けるといい。</source>
-        <target/>
+        <target state="translated">You might want to try \c04fully zooming in\c02 first, to understand the different actions one can take on the map, then returning to \c04standard magnification\c02 to carry out your escape plan.&gt;&gt;Just remember to adjust the magnification level as you adapt to the changing situation.</target>
       </trans-unit>
       <trans-unit id="782920" xml:space="preserve" approved="no">
         <source>ははっ！\t0030|\t0002どうだ。マヌケども！</source>
@@ -2551,13 +2551,13 @@
         <source>新宿</source>
         <target state="translated">Shinjuku</target>
       </trans-unit>
-      <trans-unit id="660872" xml:space="preserve">
+      <trans-unit id="660872" xml:space="preserve" approved="no">
         <source>港区</source>
-        <target/>
+        <target state="translated">Minato</target>
       </trans-unit>
-      <trans-unit id="664512" xml:space="preserve">
+      <trans-unit id="664512" xml:space="preserve" approved="no">
         <source>東京２３区</source>
-        <target/>
+        <target state="translated">Tokyo</target>
       </trans-unit>
       <trans-unit id="661052" xml:space="preserve" approved="no">
         <source>ＬＡ</source>
@@ -5311,45 +5311,45 @@
   </file>
   <file xml:space="preserve" original="bin" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="537417" xml:space="preserve">
+      <trans-unit id="537417" xml:space="preserve" approved="no">
         <source>気をつけてください。|いやな予感がします。</source>
-        <target/>
+        <target state="translated">Please be careful.|I have a bad feeling about this.</target>
       </trans-unit>
-      <trans-unit id="538385" xml:space="preserve">
+      <trans-unit id="538385" xml:space="preserve" approved="no">
         <source>まずいですね。|トラップの可能性ありです。</source>
-        <target/>
+        <target state="translated">Well, this is bad.|There is the possibility of a trap here.</target>
       </trans-unit>
-      <trans-unit id="503681" xml:space="preserve">
+      <trans-unit id="503681" xml:space="preserve" approved="no">
         <source>やはり！|私の推理通りです。</source>
-        <target/>
+        <target state="translated">I knew it!|It's just as I theorized.</target>
       </trans-unit>
-      <trans-unit id="568637" xml:space="preserve">
+      <trans-unit id="568637" xml:space="preserve" approved="no">
         <source>もしや…と思ったのですが|やはりトラップでしたか。</source>
-        <target/>
+        <target state="translated">I suspected, but…|It seems there really was a trap there.</target>
       </trans-unit>
-      <trans-unit id="525001" xml:space="preserve">
+      <trans-unit id="525001" xml:space="preserve" approved="no">
         <source>そうですか。|見つからなかったですか…</source>
-        <target/>
+        <target state="translated">I see.|So you couldn't find it…</target>
       </trans-unit>
-      <trans-unit id="540453" xml:space="preserve">
+      <trans-unit id="540453" xml:space="preserve" approved="no">
         <source>気をつけてください。|いやな予感がします。</source>
-        <target/>
+        <target state="translated">Please be careful.|I have a bad feeling about this.</target>
       </trans-unit>
-      <trans-unit id="564425" xml:space="preserve">
+      <trans-unit id="564425" xml:space="preserve" approved="no">
         <source>うかつに動くのは危険です。|別ルートを調べます。</source>
-        <target/>
+        <target state="translated">It's dangerous to move around carelessly.|I will look for a different route.</target>
       </trans-unit>
-      <trans-unit id="570457" xml:space="preserve">
+      <trans-unit id="570457" xml:space="preserve" approved="no">
         <source>別ルートで正解でした。|トラップがあったようです。</source>
-        <target/>
+        <target state="translated">Taking a different route was the right answer.|It seems there was a trap on the original road.</target>
       </trans-unit>
-      <trans-unit id="568741" xml:space="preserve">
+      <trans-unit id="568741" xml:space="preserve" approved="no">
         <source>推理通りです。ノートの|切れ端は回収してください。</source>
-        <target/>
+        <target state="translated">Just as theorized. Please retrieve all scraps of the notebook.</target>
       </trans-unit>
-      <trans-unit id="546529" xml:space="preserve">
+      <trans-unit id="546529" xml:space="preserve" approved="no">
         <source>トラップはなかった…|私が間違っていたのか？</source>
-        <target/>
+        <target state="translated">No trap…|Did I make a mistake?</target>
       </trans-unit>
       <trans-unit id="557185" xml:space="preserve">
         <source>ここは誰かにもっと、|動いてもらう方がいいな。</source>
@@ -5379,9 +5379,9 @@
         <source>ククク…死神以上に|ずる賢い奴なんて|初めてだぜ。</source>
         <target state="translated">Kekeke... I've never seen a human with as much cunning as a shinigami before.</target>
       </trans-unit>
-      <trans-unit id="591501" xml:space="preserve">
+      <trans-unit id="591501" xml:space="preserve" approved="no">
         <source>これも|新世界のためってやつか？|人間ってのは本当に面白い。</source>
-        <target/>
+        <target state="translated">Is this another one of those guys who shout about "the new world"?|Humans really are interesting.</target>
       </trans-unit>
       <trans-unit id="546673" xml:space="preserve">
         <source>あっちも本気だな。|また面白くなりそうだな。</source>
