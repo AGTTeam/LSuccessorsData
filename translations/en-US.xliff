@@ -951,33 +951,33 @@
         <source>||||||　　　ショートカットコマンド</source>
         <target state="translated">||||||Shortcut Command</target>
       </trans-unit>
-      <trans-unit id="820568" xml:space="preserve">
+      <trans-unit id="820568" xml:space="preserve" approved="no">
         <source>\c04『ショートカットコマンド』\c02とは、|各種\c04『情報系』\c02のコマンドを|まとめて呼び出すコマンドです。</source>
-        <target/>
+        <target state="translated">The \c04Shortcut Command\c02 summarizes and displays all the current information from our\c04information networks\c02.</target>
       </trans-unit>
-      <trans-unit id="841432" xml:space="preserve">
+      <trans-unit id="841432" xml:space="preserve" approved="no">
         <source>\c04『コマンド』\c02を呼び出すには、|下画面の\c04『右上』\c02をタッチするか、|\c04『Ｒボタン』\c02を押してください。&gt;&gt;捜査に役立つ情報に素早く|アクセスできます。</source>
-        <target/>
+        <target state="translated">To execute this command, tap the \c04upper right corner\c02 of the bottom screen, or press the \c04R button\c02.&gt;&gt;It allows you to quickly access information that is useful to the investigation.</target>
       </trans-unit>
-      <trans-unit id="780900" xml:space="preserve">
+      <trans-unit id="780900" xml:space="preserve" approved="no">
         <source>上手に利用して、捜査効率を|上げましょう。</source>
-        <target/>
+        <target state="translated">Use this ability well to make the investigation process more efficient.</target>
       </trans-unit>
       <trans-unit id="776532" xml:space="preserve" approved="no">
         <source>||||||　　　ショートカットコマンド</source>
         <target state="translated">||||||Shortcut Command</target>
       </trans-unit>
-      <trans-unit id="819908" xml:space="preserve">
+      <trans-unit id="819908" xml:space="preserve" approved="no">
         <source>\c04『ショートカットコマンド』\c02とは、|各種\c04『情報系』\c02のコマンドを|まとめて呼び出すコマンドだ。</source>
-        <target/>
+        <target state="translated">The \c04Shortcut Command\c02 summarizes and shows all the current information from our\c04information networks\c02.</target>
       </trans-unit>
-      <trans-unit id="838920" xml:space="preserve">
+      <trans-unit id="838920" xml:space="preserve" approved="no">
         <source>\c04『コマンド』\c02を呼び出すには、|下画面の\c04『右上』\c02をタッチするか、|\c04『Ｒボタン』\c02を押せばいい。&gt;&gt;計画に役立つ情報に素早く|アクセスできる。</source>
-        <target/>
+        <target state="translated">To execute this command, tap the \c04upper right corner\c02 of the bottom screen, or press the \c04R button\c02.&gt;&gt;It’ll let you quickly access information that’s useful for the plan.</target>
       </trans-unit>
-      <trans-unit id="784144" xml:space="preserve">
+      <trans-unit id="784144" xml:space="preserve" approved="no">
         <source>計画を成功させるために、|うまく活用するんだ。</source>
-        <target/>
+        <target state="translated">For the sake of our plan, use this ability well.</target>
       </trans-unit>
       <trans-unit id="663756" xml:space="preserve" approved="no">
         <source>キラ月普通</source>
@@ -1727,21 +1727,21 @@
         <source>||||||　　　推理マーカーコマンド</source>
         <target state="translated">||||||Theory Maker Command</target>
       </trans-unit>
-      <trans-unit id="832368" xml:space="preserve">
+      <trans-unit id="832368" xml:space="preserve" approved="no">
         <source>\c04『推理マーカー』\c02コマンドは、|捜査員側が推理を組み立てる際に|マップ上に置くことができる&gt;&gt;捜査予想の為の|マーキングのコマンドです。</source>
-        <target/>
+        <target state="translated">The \c04Theory Maker\c02 command allows the investigation team to place marks on the map that denote their current theories.</target>
       </trans-unit>
-      <trans-unit id="837160" xml:space="preserve">
+      <trans-unit id="837160" xml:space="preserve" approved="no">
         <source>捜査員側は、容疑者が潜伏して|いると予想される場所や、&gt;&gt;トラップが仕掛けられていると|予想される場所をタッチすると、|\c04マーカー\c02を置くことができます。</source>
-        <target/>
+        <target state="translated">Investigators can tap on the locations they believe might contain a Kira member or a trap. This places a \c04mark\c02 on the location.</target>
       </trans-unit>
-      <trans-unit id="796564" xml:space="preserve">
+      <trans-unit id="796564" xml:space="preserve" approved="no">
         <source>ただし、使用するには|オプションで設定を『ＯＮ』に|する必要があります。</source>
-        <target/>
+        <target state="translated">However, you will have to manually turn on the Theory Maker ability in the Options menu in order to use this command.</target>
       </trans-unit>
-      <trans-unit id="804228" xml:space="preserve">
+      <trans-unit id="804228" xml:space="preserve" approved="no">
         <source>これらを活用して、|自分の捜査地図を作り上げれば|スムーズに捜査が進むでしょう。</source>
-        <target/>
+        <target state="translated">By using this command well, you’ll essentially be able to create your own investigation map, which should help the case proceed much more smoothly.</target>
       </trans-unit>
       <trans-unit id="775356" xml:space="preserve" approved="no">
         <source>||||||　　　　ステータスコマンド</source>
@@ -2467,25 +2467,25 @@
         <source>\c04『カメラ解析』\c02コマンドは、|個々の都市カメラの撮影記録を|チェックするコマンドです。</source>
         <target state="translated">The \c04Camera Analysis\c02 command allows you to check the footage of all the city cameras.</target>
       </trans-unit>
-      <trans-unit id="831864" xml:space="preserve">
+      <trans-unit id="831864" xml:space="preserve" approved="no">
         <source>マップ上の都市カメラは、|一定の撮影範囲を持っています。&gt;&gt;カメラは撮影範囲を自動的に|撮影しています。容疑者がカメラ|範囲に侵入すれば撮影されます。</source>
-        <target/>
+        <target state="translated">The cameras on the map all have a fixed range of surveillance.&gt;&gt;The cameras record footage within this range automatically. If any suspect steps into range, they’ll be shown in the footage.</target>
       </trans-unit>
-      <trans-unit id="826028" xml:space="preserve">
+      <trans-unit id="826028" xml:space="preserve" approved="no">
         <source>カメラ解析を実行するには、|解析するカメラに近づかなくては|なりません。&gt;&gt;容疑者が撮影されていると|推理されるカメラに近づいたら、</source>
-        <target/>
+        <target state="translated">To perform analysis on a given camera, it is necessary to move close to that camera.&gt;&gt;Upon nearing the camera that you believe has footage of the suspect,</target>
       </trans-unit>
-      <trans-unit id="824136" xml:space="preserve">
+      <trans-unit id="824136" xml:space="preserve" approved="no">
         <source>カメラ解析を実行する|捜査員をタッチします。&gt;&gt;\c04『カメラ』→『カメラ解析』\c02|をタッチすると、|コマンドを実行できます。</source>
-        <target/>
+        <target state="translated">tap the investigator who will perform the camera analysis.&gt;&gt;Tap \c04Camera → Camera Analysis\c02, and the command will execute.</target>
       </trans-unit>
-      <trans-unit id="824280" xml:space="preserve">
+      <trans-unit id="824280" xml:space="preserve" approved="no">
         <source>推理があっていれば、容疑者の|足取りを掴むことができます。&gt;&gt;もし、都市カメラが容疑者を|捉えていれば、逮捕の|チャンスです！</source>
-        <target/>
+        <target state="translated">If your theory is correct, you’ll be able to track the movements of the suspect.&gt;&gt;By catching them on city camera footage, you’ll have the opportunity to arrest them!</target>
       </trans-unit>
-      <trans-unit id="782512" xml:space="preserve">
+      <trans-unit id="782512" xml:space="preserve" approved="no">
         <source>捜査員を集結させ、|一気に追い詰めましょう！</source>
-        <target/>
+        <target state="translated">Investigators assemble — let’s catch Kira once and for all!</target>
       </trans-unit>
       <trans-unit id="768612" xml:space="preserve" approved="no">
         <source>マット、聞こえるか？</source>
@@ -2579,21 +2579,21 @@
         <source>ダーク２</source>
         <target state="translated">Dark 2</target>
       </trans-unit>
-      <trans-unit id="661696" xml:space="preserve">
+      <trans-unit id="661696" xml:space="preserve" approved="no">
         <source>デモ平穏</source>
-        <target/>
+        <target state="translated">Demo Calm</target>
       </trans-unit>
-      <trans-unit id="661576" xml:space="preserve">
+      <trans-unit id="661576" xml:space="preserve" approved="no">
         <source>デモ緊張</source>
-        <target/>
+        <target state="translated">Demo Suspense</target>
       </trans-unit>
-      <trans-unit id="663504" xml:space="preserve">
+      <trans-unit id="663504" xml:space="preserve" approved="no">
         <source>デモ急展開</source>
-        <target/>
+        <target state="translated">Demo Plot Twist</target>
       </trans-unit>
-      <trans-unit id="662392" xml:space="preserve">
+      <trans-unit id="662392" xml:space="preserve" approved="no">
         <source>デモ衝撃</source>
-        <target/>
+        <target state="translated">Demo Impact</target>
       </trans-unit>
       <trans-unit id="764572" xml:space="preserve" approved="no">
         <source>ステージクリア</source>
@@ -2683,9 +2683,9 @@
         <source>（死神が憑いていない、|魅上はそうつぶやいた…）&gt;&gt;（ここまで見た限り魅上は独自に|大胆に動いているフシもある）&gt;&gt;魅上に死神は憑いていないようです。|みなさん予定通り、作戦を続行して|ください。</source>
         <target state="translated">(So that means Mikami is not being possessed by a Shinigami…)&gt;&gt;(It seems that as of now, Mikami has been making bold moves all on his own.)&gt;&gt;It appears Mikami is not being possessed by a Shinigami.|Everyone, we'll continue with the same plan of attack.</target>
       </trans-unit>
-      <trans-unit id="807164" xml:space="preserve">
+      <trans-unit id="807164" xml:space="preserve" approved="no">
         <source>（この状況をどう見るか…|…単に使えない死神なのか…|それとも何かフェイクが…？…）</source>
-        <target/>
+        <target state="translated">(How to interpret this situation, I wonder…|…Is the Shinigami just uncooperative…|Or is something here a fake…?)</target>
       </trans-unit>
       <trans-unit id="770632" xml:space="preserve" approved="no">
         <source>||||||　　　　　　特殊移動</source>
@@ -3283,9 +3283,9 @@
         <source>こ……これは……！&gt;&gt;高田さんはあの中に…|…どういう事だ……</source>
         <target/>
       </trans-unit>
-      <trans-unit id="809124" xml:space="preserve">
+      <trans-unit id="809124" xml:space="preserve" approved="no">
         <source>高田にメロを始末させ、|さらに救出に向かう車中から|ノートの切れ端を使い、|高田を消した月……</source>
-        <target/>
+        <target state="translated">Mello was dead by Takada’s hand.|And now, in the very car racing to rescue her, Light had used a scrap of the Note to silence Takada forever.</target>
       </trans-unit>
       <trans-unit id="794808" xml:space="preserve" approved="no">
         <source>||||||月＝キラは、いよいよ全世界を|手中に収めようとしていた。</source>
@@ -3399,9 +3399,9 @@
         <source>私達…？</source>
         <target state="translated">"Our"…?</target>
       </trans-unit>
-      <trans-unit id="858812" xml:space="preserve">
+      <trans-unit id="858812" xml:space="preserve" approved="no">
         <source>そうです私達…|私や…Ｌのやり方ではない。|Ｌが浮かばれません。&gt;&gt;Ｌが次の者に託した意味がない。&gt;&gt;すべての根源、|夜神月がキラだという事を|明らかにし、&gt;&gt;叩きのめさなければ|意味がありません。</source>
-        <target/>
+        <target state="translated">That’s right. Not mine… or L’s.|L is at rest, but not at peace.&gt;&gt;L never meant to have a successor in the first place.&gt;&gt;We have to strike down the root of the evil. We have to prove that Light Yagami is Kira.&gt;&gt;Otherwise, none of this will mean anything.</target>
       </trans-unit>
       <trans-unit id="867776" xml:space="preserve" approved="no">
         <source>これはニアにとって、|Ｌとキラのプライドを賭けた|戦いだった。|負けるわけにはいかない。||Ｌ＝夜神月＝キラ。|それは９９．９９９９％確実だった。||１００にならないのは、証拠がない、|ただそれだけの事。||その証拠をつかむ決定的な策とは…</source>
@@ -3535,69 +3535,69 @@
         <source>（ククッ、|ついに父親まで利用かよ？）&gt;&gt;（これでシドウにもノートが戻り、|一件落着にはなりそうだし……）&gt;&gt;（何より総一郎が目の取引して|突入ってのは面白そうだ）</source>
         <target state="translated">(Heheheh, so he's finally sunk to the point of using his own father?)&gt;&gt;(This way, Sidoh will get his Note back, too. Solving everything in one fell swoop…)&gt;&gt;(And Soichiro making the eye trade to break into their hideout? This is going to be prime entertainment!)</target>
       </trans-unit>
-      <trans-unit id="809684" xml:space="preserve">
+      <trans-unit id="809684" xml:space="preserve" approved="no">
         <source>決死の覚悟を決めた総一郎以下、|日本の捜査員達は、リュークの|手引きでアジトへの突入を決行する。</source>
-        <target/>
+        <target state="translated">Soichiro had made his peace with his potential demise. Under the newfound grim determination of their leader, the Japanese investigators prepared to storm the hideout with Ryuk’s guidance.</target>
       </trans-unit>
-      <trans-unit id="855552" xml:space="preserve">
+      <trans-unit id="855552" xml:space="preserve" approved="no">
         <source>夜神次長、アジトにはメロの手先の|死神がいるはずです。&gt;&gt;その死神と接触し目の取引をすれば|相手のノートのトラップは|無効化できるはずです。&gt;&gt;まずは死神と接触してください。|いいですか？</source>
-        <target/>
+        <target state="translated">Deputy Director Yagami, there should be a Shinigami working for Mello somewhere in the hideout.&gt;&gt;If you make contact with that Shinigami and trade with them for the eyes, the enemy’s traps should become useless.&gt;&gt;Find the Shinigami first. Do you copy?</target>
       </trans-unit>
       <trans-unit id="770776" xml:space="preserve" approved="no">
         <source>『夜神からＬへ。了解だ』</source>
         <target state="translated">"Yagami to L; understood."</target>
       </trans-unit>
-      <trans-unit id="787012" xml:space="preserve">
+      <trans-unit id="787012" xml:space="preserve" approved="no">
         <source>死神リューク、突入チームの|手引きをうまく頼む。</source>
-        <target/>
+        <target state="translated">Shinigami — Ryuk. I’m counting on you to guide the task force safely.</target>
       </trans-unit>
       <trans-unit id="770824" xml:space="preserve" approved="no">
         <source>『はい、Ｌ。おまかせを』</source>
-        <target state="translated">"Alright, L. Leave it to me."</target>
+        <target state="translated">"Okay, L. Leave it to me."</target>
       </trans-unit>
       <trans-unit id="768788" xml:space="preserve" approved="no">
         <source>よし……幸運を祈る。</source>
-        <target state="translated">Okay… Good luck.</target>
+        <target state="translated">Alright… Good luck. Be safe.</target>
       </trans-unit>
-      <trans-unit id="793380" xml:space="preserve">
+      <trans-unit id="793380" xml:space="preserve" approved="no">
         <source>３・\T0060\t0000２・\T0060\t0000１\T0060\t0000……突入！！</source>
-        <target/>
+        <target state="translated">3 —\T0060\t0000 2 —\T0060\t0000 1\T0060\t0000… Go!</target>
       </trans-unit>
-      <trans-unit id="786724" xml:space="preserve">
+      <trans-unit id="786724" xml:space="preserve" approved="no">
         <source>うまくいった。\t0030|\t0002こちらの作戦勝ちだ！</source>
-        <target/>
+        <target state="translated">Everything went perfectly. \t0030|\t0002Our strategy was a success!</target>
       </trans-unit>
-      <trans-unit id="813404" xml:space="preserve">
+      <trans-unit id="813404" xml:space="preserve" approved="no">
         <source>見つけたぞ！　誘拐犯！&gt;&gt;Ｌ、こちら夜神総一郎。|犯人を追い詰めた。|これより身柄を確保し……</source>
-        <target/>
+        <target state="translated">There you are! Kidnapper!&gt;&gt;L, this is Soichiro Yagami. I’ve cornered the culprit. We’ll put him in custody…</target>
       </trans-unit>
-      <trans-unit id="765852" xml:space="preserve">
+      <trans-unit id="765852" xml:space="preserve" approved="no">
         <source>……フン！</source>
-        <target/>
+        <target state="translated">…Hah!</target>
       </trans-unit>
-      <trans-unit id="795420" xml:space="preserve">
+      <trans-unit id="795420" xml:space="preserve" approved="no">
         <source>あっ！？　ど、どこに消えた？&gt;&gt;こっちだ！　ここに抜け道が…！</source>
-        <target/>
+        <target state="translated">Huh?! Wh-where did he go?&gt;&gt;Here! An escape route…!</target>
       </trans-unit>
-      <trans-unit id="817828" xml:space="preserve">
+      <trans-unit id="817828" xml:space="preserve" approved="no">
         <source>ミ……ミサイル！？|ばかな…こんな市街地で|あんなものを使うなんて！&gt;&gt;はっ、まさかあれにノートを！？</source>
-        <target/>
+        <target state="translated">A… a missile?!|What the… Who the hell would use that kind of thing in an urban area!&gt;&gt;Wait — the Note… It can’t be on that thing… can it?!</target>
       </trans-unit>
-      <trans-unit id="836288" xml:space="preserve">
+      <trans-unit id="836288" xml:space="preserve" approved="no">
         <source>『ダメです。やられましたね、Ｌ。|あのミサイルはレーダーでは|追えない型です』&gt;&gt;『自分は別ルートで逃亡し、|ノートは後で回収するつもり|でしょう』</source>
-        <target/>
+        <target state="translated">“It’s no use. We’ve been beaten, L.|That missile is a type that cannot be tracked by radar.”&gt;&gt;“The culprit must have fled via another route and planned to retrieve the notebook later.”</target>
       </trans-unit>
       <trans-unit id="768876" xml:space="preserve" approved="no">
         <source>（……くそっ……！）</source>
         <target state="translated">(…Damn it…!)</target>
       </trans-unit>
-      <trans-unit id="810708" xml:space="preserve">
+      <trans-unit id="810708" xml:space="preserve" approved="no">
         <source>『もうノートは犯人に渡ったと|考えるしかありません。何もできず、|みすみす渡してしまった』</source>
-        <target/>
+        <target state="translated">“We have no choice now but to regard the notebook as having fallen into… or rather, passed directly into the perpetrator’s hands. Nothing could be done. It was handed over, right before our eyes.”</target>
       </trans-unit>
       <trans-unit id="842536" xml:space="preserve" approved="no">
         <source>Ｎ、誘拐犯とアメリカ…ＳＰＫ…|本当に無関係なんですか？　これは|アメリカの仕組んだことでは……？&gt;&gt;犯人はミサイルまで所持していた。|そう考えるのが自然です。</source>
-        <target state="translated">N, are the kidnappers really not connected with the United States… or the SPK? Was all of this arranged by the United States…?&gt;&gt;The kidnappers even had access to a missile. It's only natural for me to think that way.</target>
+        <target state="translated">N, are the kidnappers really not connected with the United States… or the SPK? Was all of this arranged by the United States…?&gt;&gt;The kidnappers even had access to a missile. It's a logical suspicion.</target>
       </trans-unit>
       <trans-unit id="830068" xml:space="preserve" approved="no">
         <source>『正直それだったらよいのですが…|違います』&gt;&gt;『私達はノートやキラの正体が|ほしい』&gt;&gt;『しかし、この誘拐には一切|関わっていません』</source>
@@ -3663,17 +3663,17 @@
         <source>ＳＥチェック</source>
         <target state="translated">SFX Check</target>
       </trans-unit>
-      <trans-unit id="661012" xml:space="preserve">
+      <trans-unit id="661012" xml:space="preserve" approved="no">
         <source>決定</source>
-        <target/>
+        <target state="translated">Yes</target>
       </trans-unit>
       <trans-unit id="664932" xml:space="preserve" approved="no">
         <source>キャンセル</source>
         <target state="translated">Cancel</target>
       </trans-unit>
-      <trans-unit id="665128" xml:space="preserve">
+      <trans-unit id="665128" xml:space="preserve" approved="no">
         <source>アイコン移動</source>
-        <target/>
+        <target state="translated">Icon Movement</target>
       </trans-unit>
       <trans-unit id="665716" xml:space="preserve" approved="no">
         <source>コマンド成功</source>
@@ -3683,9 +3683,9 @@
         <source>コマンド失敗</source>
         <target state="translated">Command Failure</target>
       </trans-unit>
-      <trans-unit id="765372" xml:space="preserve">
+      <trans-unit id="765372" xml:space="preserve" approved="no">
         <source>コマンド実行不可</source>
-        <target/>
+        <target state="translated">Command could not be executed</target>
       </trans-unit>
       <trans-unit id="661528" xml:space="preserve" approved="no">
         <source>駒移動音</source>
@@ -3719,29 +3719,29 @@
         <source>メッセージ表示音（女）</source>
         <target state="translated">Message Display SFX (High-Pitched)</target>
       </trans-unit>
-      <trans-unit id="769384" xml:space="preserve">
+      <trans-unit id="769384" xml:space="preserve" approved="no">
         <source>カメラ撮影成功＆カメラ監視解析</source>
-        <target/>
+        <target state="translated">Camera Recording Success &amp; Camera Footage Analysis</target>
       </trans-unit>
-      <trans-unit id="764060" xml:space="preserve">
+      <trans-unit id="764060" xml:space="preserve" approved="no">
         <source>特殊能力発動１</source>
-        <target/>
+        <target state="translated">Special Ability Activation 1</target>
       </trans-unit>
-      <trans-unit id="764508" xml:space="preserve">
+      <trans-unit id="764508" xml:space="preserve" approved="no">
         <source>特殊能力発動２</source>
-        <target/>
+        <target state="translated">Special Ability Activation 2</target>
       </trans-unit>
-      <trans-unit id="661144" xml:space="preserve">
+      <trans-unit id="661144" xml:space="preserve" approved="no">
         <source>逮捕音</source>
-        <target/>
+        <target state="translated">Capture SFX</target>
       </trans-unit>
-      <trans-unit id="764796" xml:space="preserve">
+      <trans-unit id="764796" xml:space="preserve" approved="no">
         <source>勝利ポイント増加</source>
-        <target/>
+        <target state="translated">Victory Points Increase</target>
       </trans-unit>
-      <trans-unit id="764764" xml:space="preserve">
+      <trans-unit id="764764" xml:space="preserve" approved="no">
         <source>勝利ポイント減少</source>
-        <target/>
+        <target state="translated">Victory Points Decrease</target>
       </trans-unit>
       <trans-unit id="765564" xml:space="preserve" approved="no">
         <source>デスノート権利移動</source>
@@ -3759,21 +3759,21 @@
         <source>トラップ設置</source>
         <target state="translated">Set Trap</target>
       </trans-unit>
-      <trans-unit id="663700" xml:space="preserve">
+      <trans-unit id="663700" xml:space="preserve" approved="no">
         <source>カメラ再生</source>
-        <target/>
+        <target state="translated">Play Camera Footage</target>
       </trans-unit>
       <trans-unit id="664540" xml:space="preserve" approved="no">
         <source>カメラ修復</source>
         <target state="translated">Repair Camera</target>
       </trans-unit>
-      <trans-unit id="660992" xml:space="preserve">
+      <trans-unit id="660992" xml:space="preserve" approved="no">
         <source>検問</source>
-        <target/>
+        <target state="translated">Inspection Point</target>
       </trans-unit>
-      <trans-unit id="661192" xml:space="preserve">
+      <trans-unit id="661192" xml:space="preserve" approved="no">
         <source>抜け道</source>
-        <target/>
+        <target state="translated">Escape Route</target>
       </trans-unit>
       <trans-unit id="764316" xml:space="preserve" approved="no">
         <source>隠しカメラ設置</source>
@@ -3783,25 +3783,25 @@
         <source>ターン開始</source>
         <target state="translated">Start Turn</target>
       </trans-unit>
-      <trans-unit id="665464" xml:space="preserve">
+      <trans-unit id="665464" xml:space="preserve" approved="no">
         <source>ノートめくり</source>
-        <target/>
+        <target state="translated">Turn Notebook Page</target>
       </trans-unit>
-      <trans-unit id="660892" xml:space="preserve">
+      <trans-unit id="660892" xml:space="preserve" approved="no">
         <source>衝撃</source>
-        <target/>
+        <target state="translated">Impact</target>
       </trans-unit>
-      <trans-unit id="660932" xml:space="preserve">
+      <trans-unit id="660932" xml:space="preserve" approved="no">
         <source>決着</source>
-        <target/>
+        <target state="translated">End</target>
       </trans-unit>
-      <trans-unit id="660952" xml:space="preserve">
+      <trans-unit id="660952" xml:space="preserve" approved="no">
         <source>悪意</source>
-        <target/>
+        <target state="translated">Malice</target>
       </trans-unit>
-      <trans-unit id="660912" xml:space="preserve">
+      <trans-unit id="660912" xml:space="preserve" approved="no">
         <source>早業</source>
-        <target/>
+        <target state="translated">Trick</target>
       </trans-unit>
       <trans-unit id="664988" xml:space="preserve">
         <source>スピード感</source>
@@ -3815,9 +3815,9 @@
         <source>トラップ発動音（鉄骨落下）</source>
         <target state="translated">Trap Activation Sound (Scaffolding Collapse)</target>
       </trans-unit>
-      <trans-unit id="767296" xml:space="preserve">
+      <trans-unit id="767296" xml:space="preserve" approved="no">
         <source>トラップ発動音（通り魔）</source>
-        <target/>
+        <target state="translated">Trap Activation Sound (Random Murder)</target>
       </trans-unit>
       <trans-unit id="666108" xml:space="preserve" approved="no">
         <source>ドアチャイム</source>
@@ -3851,17 +3851,17 @@
         <source>白バイサイレン</source>
         <target state="translated">Police Motorcycle Siren</target>
       </trans-unit>
-      <trans-unit id="661168" xml:space="preserve">
+      <trans-unit id="661168" xml:space="preserve" approved="no">
         <source>事故音</source>
-        <target/>
+        <target state="translated">Traffic Accident SFX</target>
       </trans-unit>
       <trans-unit id="665632" xml:space="preserve" approved="no">
         <source>イスが倒れる</source>
         <target state="translated">Chair Topples</target>
       </trans-unit>
-      <trans-unit id="763740" xml:space="preserve">
+      <trans-unit id="763740" xml:space="preserve" approved="no">
         <source>鉄の扉が閉じる</source>
-        <target/>
+        <target state="translated">Metal Door Shuts</target>
       </trans-unit>
       <trans-unit id="663784" xml:space="preserve" approved="no">
         <source>ミサイル音</source>
@@ -3891,9 +3891,9 @@
         <source>鼓動音（強）</source>
         <target state="translated">Heartbeat Sound (Fast)</target>
       </trans-unit>
-      <trans-unit id="765744" xml:space="preserve">
+      <trans-unit id="765744" xml:space="preserve" approved="no">
         <source>ノートに名前を書く</source>
-        <target/>
+        <target state="translated">Writing a Name in the Note</target>
       </trans-unit>
       <trans-unit id="660740" xml:space="preserve" approved="no">
         <source>０４０</source>
@@ -3953,7 +3953,7 @@
       </trans-unit>
       <trans-unit id="768348" xml:space="preserve" approved="no">
         <source>……残念ですが……</source>
-        <target state="translated">... I'm sorry …</target>
+        <target state="translated">... I'm sorry, but …</target>
       </trans-unit>
       <trans-unit id="794556" xml:space="preserve" approved="no">
         <source>父さん！　父さん！|\T0060\t0001死ぬな、バカヤローーーッ！！</source>
