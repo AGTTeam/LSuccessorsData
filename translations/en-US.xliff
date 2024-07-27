@@ -5387,9 +5387,9 @@
         <source>あっちも本気だな。|また面白くなりそうだな。</source>
         <target state="translated">Looks like those guys are serious about this too.|Things are getting interesting again…</target>
       </trans-unit>
-      <trans-unit id="505537" xml:space="preserve">
+      <trans-unit id="505537" xml:space="preserve" approved="no">
         <source>ウホッ…|本気出すってわけだ。</source>
-        <target/>
+        <target state="translated">Ooo…|That means they’re getting serious!</target>
       </trans-unit>
       <trans-unit id="546721" xml:space="preserve">
         <source>なるほど、さすがだね。|そんな手を使うとは。</source>
@@ -5415,9 +5415,9 @@
         <source>そんなことするのか？|使い方、間違ってるだろ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="538737" xml:space="preserve">
+      <trans-unit id="538737" xml:space="preserve" approved="no">
         <source>頭イイなおまえ。|きっと思い通りになるぞ。</source>
-        <target/>
+        <target state="translated">You’re a smart guy, aren’t ya?|I’m sure you’ll figure it out.</target>
       </trans-unit>
       <trans-unit id="507161" xml:space="preserve">
         <source>大丈夫かな。|こんなことしてて。</source>
@@ -5431,21 +5431,21 @@
         <source>お、そんなことするの？</source>
         <target/>
       </trans-unit>
-      <trans-unit id="533809" xml:space="preserve">
+      <trans-unit id="533809" xml:space="preserve" approved="no">
         <source>密集すると危険だ。|他へ行った方がいいな。</source>
-        <target/>
+        <target state="translated">Clustering too many of us together is dangerous.|Better to head somewhere else.</target>
       </trans-unit>
-      <trans-unit id="607025" xml:space="preserve">
+      <trans-unit id="607025" xml:space="preserve" approved="no">
         <source>そこには別の人がいるよ。|今、行ったら邪魔に|なっちゃうと思うけど。</source>
-        <target/>
+        <target state="translated">Somebody else is there already!|It’ll make trouble if I go too, I think.</target>
       </trans-unit>
-      <trans-unit id="565361" xml:space="preserve">
+      <trans-unit id="565361" xml:space="preserve" approved="no">
         <source>バカか。|密集してどうするんだ。|他へ行け、他へ。</source>
-        <target/>
+        <target state="translated">Are you stupid?|What’s the point of clustering together like that?|We’re going somewhere else. Come on.</target>
       </trans-unit>
-      <trans-unit id="541825" xml:space="preserve">
+      <trans-unit id="541825" xml:space="preserve" approved="no">
         <source>今、そこに行っても|危険なだけだ。他へ行け。</source>
-        <target/>
+        <target state="translated">Heading to that place will only invite more danger. We’re not going there.</target>
       </trans-unit>
       <trans-unit id="514161" xml:space="preserve">
         <source>何人も集まると目立つわ。|分散して。</source>
@@ -5459,33 +5459,33 @@
         <source>仲良しゴッコのつもりか？|集まっても仕方ないだろ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="596237" xml:space="preserve">
+      <trans-unit id="596237" xml:space="preserve" approved="no">
         <source>おまえらバカか？|こっちにはデスノートが|あるのを忘れたのか？</source>
-        <target/>
+        <target state="translated">Are you all stupid?|We’ve got the Death Note, remember?</target>
       </trans-unit>
-      <trans-unit id="516841" xml:space="preserve">
+      <trans-unit id="516841" xml:space="preserve" approved="no">
         <source>し、しまった…|まだ死神と取引が…！</source>
-        <target/>
+        <target state="translated">S-Shit…|We haven’t done the trade with the Shinigami yet…!</target>
       </trans-unit>
-      <trans-unit id="578081" xml:space="preserve">
+      <trans-unit id="578081" xml:space="preserve" approved="no">
         <source>そ、そんな…|こんな所でメロと|ハチ合わせするなんて…</source>
-        <target/>
+        <target state="translated">N-no way…|Why would we bump into Mello in a place like this?</target>
       </trans-unit>
-      <trans-unit id="555073" xml:space="preserve">
+      <trans-unit id="555073" xml:space="preserve" approved="no">
         <source>そ、そんな…まさか|こいつと先に出会うなんて！</source>
-        <target/>
+        <target state="translated">N-no way… Why did we have to come face-to-face with him first?!</target>
       </trans-unit>
-      <trans-unit id="494957" xml:space="preserve">
+      <trans-unit id="494957" xml:space="preserve" approved="no">
         <source>なにっ！…まさか！</source>
-        <target/>
+        <target state="translated">What the—! …It can’t be!</target>
       </trans-unit>
-      <trans-unit id="516881" xml:space="preserve">
+      <trans-unit id="516881" xml:space="preserve" approved="no">
         <source>メロ！？|死神より先に出会うとは…！</source>
-        <target/>
+        <target state="translated">Mello?!|…Why did we have to bump into him of all people before even getting to the Shinigami?!</target>
       </trans-unit>
       <trans-unit id="572481" xml:space="preserve" approved="no">
         <source>メロ！？|そ、そんな…まだ死神を|見つけてないのに！</source>
-        <target state="translated">Mello?! B- but ... I still haven't found the Shinigami!</target>
+        <target state="translated">Mello?! B-but... I still haven't found the Shinigami!</target>
       </trans-unit>
       <trans-unit id="597516" xml:space="preserve" approved="no">
         <source>指定したキャラが|そのターンだけ、検問を|突破することができる。</source>
@@ -5505,7 +5505,7 @@
       </trans-unit>
       <trans-unit id="580096" xml:space="preserve" approved="no">
         <source>ヘリを、指定する|ヘリポートに呼び寄せる|ことができる。</source>
-        <target state="translated">Call a helicopter to a designated heliport.</target>
+        <target state="translated">Calls a helicopter to a designated heliport.</target>
       </trans-unit>
       <trans-unit id="572312" xml:space="preserve" approved="no">
         <source>指定した捜査員の特殊能力を|そのターン使えなくする。</source>
