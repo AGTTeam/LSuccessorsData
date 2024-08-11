@@ -3227,9 +3227,9 @@
         <source>フフフ…\t0030　\t0002俺の勝ちだな。</source>
         <target state="translated">Heheheh ... \t0030　\t0002 I win.</target>
       </trans-unit>
-      <trans-unit id="797444" xml:space="preserve">
+      <trans-unit id="797444" xml:space="preserve" approved="no">
         <source>どうやら逃げ切ったようだな……|後はニア、おまえがどう出るか……</source>
-        <target/>
+        <target state="translated">Seems like the escape was successful.|What’s your move now, Near…?</target>
       </trans-unit>
       <trans-unit id="780132" xml:space="preserve" approved="no">
         <source>『もしもし……夜神くん？|私…………』</source>
@@ -4577,11 +4577,11 @@
       </trans-unit>
       <trans-unit id="833712" xml:space="preserve" approved="no">
         <source>月は、キラの意志を世に伝える|スポークスマンも必要と考えていた。||その意志を受け、魅上が選んだのは、|偶然にも、月の学生時代の友人、|高田清美だった。</source>
-        <target state="translated">Light had deemed it necessary to have a spokesman who could present Kira’s intentions to the world at large.||As his proxy, Mikami had chosen Kiyomi Takada for the task.|Unbeknownst to Mikami, Takada just so happened to be Light’s friend from college.</target>
+        <target state="translated">Light had deemed it necessary to have a spokesperson who could present Kira’s intentions to the world at large.||As his proxy, Mikami had chosen Kiyomi Takada for the task.|Unbeknownst to Mikami, Takada just so happened to be Light’s friend from college.</target>
       </trans-unit>
-      <trans-unit id="856408" xml:space="preserve">
+      <trans-unit id="856408" xml:space="preserve" approved="no">
         <source>彼女はその美貌と清楚な雰囲気で、|キラ信者からは高位の女神官の|ように注目を集めることとなる。||世界へ向けてのキラの代弁者として、|また裏では月と魅上の連絡役として、|高田は有能な手腕を発揮した。</source>
-        <target/>
+        <target state="translated">With her regal appearance and crisp demeanor, Takada was quickly noticed by Kira worshippers and hailed as a high priestess.||Using her skills as a news announcer, she deftly presented herself as Kira’s representative to the world at large, while acting as the intermediary between Light and Mikami.</target>
       </trans-unit>
       <trans-unit id="845904" xml:space="preserve" approved="no">
         <source>彼女には常に護衛がついている。||その中にＳＰＫメンバーの１人|ハル＝リドナーの姿を見たとき|メロにはその意味がすぐにわかった。|||\T0045\t0002ニアも高田を監視している…</source>
@@ -4613,7 +4613,7 @@
       </trans-unit>
       <trans-unit id="794724" xml:space="preserve" approved="no">
         <source>そう…あなたに伝え忘れた事が|ひとつある、教えて来いってね。</source>
-        <target state="translated">Yes… There’s something you should know. I came here to tell you.</target>
+        <target state="translated">Yes… It’s something he forgot to tell you. I was told to come here in his place.</target>
       </trans-unit>
       <trans-unit id="841800" xml:space="preserve" approved="no">
         <source>伝え忘れただと？　よく言うぜ。&gt;&gt;ニアはどうしても|俺をパズルの道具にする|つもりなんだろう？&gt;&gt;だが、まあいい。Ｘキラは魅上照。|それさえわかれば策はある…</source>
@@ -5395,9 +5395,9 @@
         <source>なるほど、さすがだね。|そんな手を使うとは。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="508637" xml:space="preserve">
+      <trans-unit id="508637" xml:space="preserve" approved="no">
         <source>…そういうことか。|なんて奴だ。</source>
-        <target/>
+        <target state="translated">…So that’s how it is?|Huh. What a guy.</target>
       </trans-unit>
       <trans-unit id="569001" xml:space="preserve" approved="no">
         <source>ほぅ。賢いじゃないか。|すべて分かっているんだな。</source>
@@ -5983,9 +5983,9 @@
         <source>このまま泳がせるのも|一興かもしれません。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="536801" xml:space="preserve">
+      <trans-unit id="536801" xml:space="preserve" approved="no">
         <source>ラッキーですね。|この状況は利用できます。</source>
-        <target/>
+        <target state="translated">How lucky. We can use this situation to our advantage.</target>
       </trans-unit>
       <trans-unit id="593997" xml:space="preserve">
         <source>その地点はすでに十分|カバーされています。|他をお願いします。</source>
@@ -8799,9 +8799,9 @@
         <source>ノートは手放しても|ミサはライトから|離れないもんね。</source>
         <target state="translated">Even if I let go of the Note, I’ll never leave Light’s side.</target>
       </trans-unit>
-      <trans-unit id="557233" xml:space="preserve">
+      <trans-unit id="557233" xml:space="preserve" approved="no">
         <source>ミサだってキラだもん！|この位、やれるんだよ。</source>
-        <target/>
+        <target state="translated">I’m literally Kira!|I can at least do this much.</target>
       </trans-unit>
       <trans-unit id="592461" xml:space="preserve" approved="no">
         <source>あ…焦っちゃだめ。|これはライトとミサ、|２人のためなのよ。</source>
@@ -8831,9 +8831,9 @@
         <source>こんなものがあるから|ライトと会えないんじゃん！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="517641" xml:space="preserve">
+      <trans-unit id="517641" xml:space="preserve" approved="no">
         <source>ミサだって、|やる時はやるんだから。</source>
-        <target/>
+        <target state="translated">When it comes down to it, Misa will do whatever it takes.</target>
       </trans-unit>
       <trans-unit id="539925" xml:space="preserve">
         <source>こんなもの使うなんて、|ふぅ…ヤバかった。</source>
@@ -8879,9 +8879,9 @@
         <source>…そうか、|これもライトの計画なのね。</source>
         <target state="translated">…Oh, I get it.|This is a part of Light's plan, too.</target>
       </trans-unit>
-      <trans-unit id="557329" xml:space="preserve">
+      <trans-unit id="557329" xml:space="preserve" approved="no">
         <source>いいよ。このノートでミサ、|ライトの力になる！</source>
-        <target/>
+        <target state="translated">Okay! With this Note, I’m just as powerful as Light!</target>
       </trans-unit>
       <trans-unit id="516921" xml:space="preserve">
         <source>よーし！|今のうちにがんばらなきゃ。</source>
