@@ -9147,9 +9147,9 @@
         <source>何故、私がこんな目に会う！|…ち、違う…あり得ない。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="534381" xml:space="preserve">
+      <trans-unit id="534381" xml:space="preserve" approved="no">
         <source>神の御心にかなうなら、|ノートを手放して…</source>
-        <target/>
+        <target state="translated">To fulfill God's will, I have to let go of the Note…</target>
       </trans-unit>
       <trans-unit id="526461" xml:space="preserve">
         <source>ノートを慎重に扱う。|それも私の役目だ。</source>
@@ -11191,9 +11191,9 @@
         <source>こんなはずは…|策を間違ったというのか！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="536229" xml:space="preserve">
+      <trans-unit id="536229" xml:space="preserve" approved="no">
         <source>奴等に負けるなど…|こんな事は許されない！</source>
-        <target/>
+        <target state="translated">Losing… to those people?|I can’t let this happen!</target>
       </trans-unit>
       <trans-unit id="577521" xml:space="preserve">
         <source>次は…次こそは|神の御心にかなう働きを|してみせます！</source>
@@ -11211,9 +11211,9 @@
         <source>キラという神に出会い|私は真実に目覚めたのだ。</source>
         <target state="translated">It was only when I met my God, Kira, that I opened my eyes to the truth.</target>
       </trans-unit>
-      <trans-unit id="599885" xml:space="preserve">
+      <trans-unit id="599885" xml:space="preserve" approved="no">
         <source>我々の気高い理想を|理解しない反逆者どもめ…|必ず倒してみせる。</source>
-        <target/>
+        <target state="translated">The dissidents who don’t understand our noble ideals… We’ll show them all.</target>
       </trans-unit>
       <trans-unit id="601993" xml:space="preserve" approved="no">
         <source>私の人生がこれほど|価値あるものだったとは。|神よ、感謝します。</source>
