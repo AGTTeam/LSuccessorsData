@@ -2535,9 +2535,9 @@
         <source>タイトル</source>
         <target state="translated">Title</target>
       </trans-unit>
-      <trans-unit id="764988" xml:space="preserve">
+      <trans-unit id="764988" xml:space="preserve" approved="no">
         <source>共通メニュー画面</source>
-        <target/>
+        <target state="translated">Shared Menu Screen</target>
       </trans-unit>
       <trans-unit id="764636" xml:space="preserve" approved="no">
         <source>ゲームオーバー</source>
@@ -2567,9 +2567,9 @@
         <source>東京湾大黒ふ頭</source>
         <target state="translated">Daikoku Wharf</target>
       </trans-unit>
-      <trans-unit id="661072" xml:space="preserve">
+      <trans-unit id="661072" xml:space="preserve" approved="no">
         <source>対戦用</source>
-        <target/>
+        <target state="translated">For Battle</target>
       </trans-unit>
       <trans-unit id="662440" xml:space="preserve" approved="no">
         <source>ダーク１</source>
@@ -3803,9 +3803,9 @@
         <source>早業</source>
         <target state="translated">Trick</target>
       </trans-unit>
-      <trans-unit id="664988" xml:space="preserve">
+      <trans-unit id="664988" xml:space="preserve" approved="no">
         <source>スピード感</source>
-        <target/>
+        <target state="translated">Acceleration</target>
       </trans-unit>
       <trans-unit id="767952" xml:space="preserve" approved="no">
         <source>トラップ発動音（交通事故）</source>
@@ -3823,29 +3823,29 @@
         <source>ドアチャイム</source>
         <target state="translated">Door Chime</target>
       </trans-unit>
-      <trans-unit id="665856" xml:space="preserve">
+      <trans-unit id="665856" xml:space="preserve" approved="no">
         <source>携帯電源切れ</source>
-        <target/>
+        <target state="translated">Cell Phone Power-Off</target>
       </trans-unit>
-      <trans-unit id="664316" xml:space="preserve">
+      <trans-unit id="664316" xml:space="preserve" approved="no">
         <source>携帯着信音</source>
-        <target/>
+        <target state="translated">Cell Phone Ringtone</target>
       </trans-unit>
-      <trans-unit id="664568" xml:space="preserve">
+      <trans-unit id="664568" xml:space="preserve" approved="no">
         <source>携帯操作音</source>
-        <target/>
+        <target state="translated">Cell Phone Typing</target>
       </trans-unit>
-      <trans-unit id="665548" xml:space="preserve">
+      <trans-unit id="665548" xml:space="preserve" approved="no">
         <source>テレビ起動音</source>
-        <target/>
+        <target state="translated">Television Power-On</target>
       </trans-unit>
       <trans-unit id="766068" xml:space="preserve" approved="no">
         <source>パテーションが倒れる</source>
         <target state="translated">Glass Screen Topples</target>
       </trans-unit>
-      <trans-unit id="662320" xml:space="preserve">
+      <trans-unit id="662320" xml:space="preserve" approved="no">
         <source>車発進音</source>
-        <target/>
+        <target state="translated">Car Revving SFX</target>
       </trans-unit>
       <trans-unit id="763932" xml:space="preserve" approved="no">
         <source>白バイサイレン</source>
@@ -3875,13 +3875,13 @@
         <source>携帯電話のコール音</source>
         <target/>
       </trans-unit>
-      <trans-unit id="765600" xml:space="preserve">
+      <trans-unit id="765600" xml:space="preserve" approved="no">
         <source>サブマシンが発射音</source>
-        <target/>
+        <target state="translated">Submachine Gun SFX</target>
       </trans-unit>
-      <trans-unit id="666080" xml:space="preserve">
+      <trans-unit id="666080" xml:space="preserve" approved="no">
         <source>ガス弾発射音</source>
-        <target/>
+        <target state="translated">Gas Gun SFX</target>
       </trans-unit>
       <trans-unit id="661120" xml:space="preserve" approved="no">
         <source>鼓動音</source>
@@ -11195,9 +11195,9 @@
         <source>奴等に負けるなど…|こんな事は許されない！</source>
         <target state="translated">Losing… to those people?|I can’t let this happen!</target>
       </trans-unit>
-      <trans-unit id="577521" xml:space="preserve">
+      <trans-unit id="577521" xml:space="preserve" approved="no">
         <source>次は…次こそは|神の御心にかなう働きを|してみせます！</source>
-        <target/>
+        <target state="translated">Next time… Next time I’ll show you what God’s will really means!</target>
       </trans-unit>
       <trans-unit id="578361" xml:space="preserve" approved="no">
         <source>私は神の御心に従えば|それでいい。|それが私の役目だ。</source>
