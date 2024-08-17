@@ -1725,15 +1725,15 @@
       </trans-unit>
       <trans-unit id="775580" xml:space="preserve" approved="no">
         <source>||||||　　　推理マーカーコマンド</source>
-        <target state="translated">||||||Theory Maker Command</target>
+        <target state="translated">||||||Theory Marker Command</target>
       </trans-unit>
       <trans-unit id="832368" xml:space="preserve" approved="no">
         <source>\c04『推理マーカー』\c02コマンドは、|捜査員側が推理を組み立てる際に|マップ上に置くことができる&gt;&gt;捜査予想の為の|マーキングのコマンドです。</source>
-        <target state="translated">The \c04Theory Maker\c02 command allows the investigation team to place marks on the map that denote their current theories.</target>
+        <target state="translated">The \c04Theory Marker\c02 command allows the investigation team to place marks on the map that denote their current theories.</target>
       </trans-unit>
       <trans-unit id="837160" xml:space="preserve" approved="no">
         <source>捜査員側は、容疑者が潜伏して|いると予想される場所や、&gt;&gt;トラップが仕掛けられていると|予想される場所をタッチすると、|\c04マーカー\c02を置くことができます。</source>
-        <target state="translated">Investigators can tap on the locations they believe might contain a Kira member or a trap. This places a \c04mark\c02 on the location.</target>
+        <target state="translated">Investigators can tap on the locations they believe might contain a Kira member or a trap. This places a \c04marker\c02 on the location.</target>
       </trans-unit>
       <trans-unit id="796564" xml:space="preserve" approved="no">
         <source>ただし、使用するには|オプションで設定を『ＯＮ』に|する必要があります。</source>
@@ -5687,9 +5687,9 @@
         <source>諦めろ。おまえ達には|俺を捕まえるのは無理だ。</source>
         <target state="translated">Give it up already. It’s impossible for you people to catch me.</target>
       </trans-unit>
-      <trans-unit id="522161" xml:space="preserve">
+      <trans-unit id="522161" xml:space="preserve" approved="no">
         <source>こっちの動きがバレると|やっかいだな。</source>
-        <target/>
+        <target state="translated">It wouldn’t go great for us if our movements were discovered.</target>
       </trans-unit>
       <trans-unit id="511229" xml:space="preserve" approved="no">
         <source>ここは奴等の目玉を|つぶしとくか。</source>
@@ -5699,9 +5699,9 @@
         <source>よし！|これでいいだろう。</source>
         <target state="translated">Alright! This should be fine.</target>
       </trans-unit>
-      <trans-unit id="515801" xml:space="preserve">
+      <trans-unit id="515801" xml:space="preserve" approved="no">
         <source>ちっ…しくじったな。|俺とした事が…</source>
-        <target/>
+        <target state="translated">Shit… I messed up.|How could I have…</target>
       </trans-unit>
       <trans-unit id="565829" xml:space="preserve" approved="no">
         <source>フフ…おまえ達には|僕を見つける事さえ|できまい。</source>
@@ -5779,9 +5779,9 @@
         <source>俺を追い詰めたつもりか？|フフ…甘いな。</source>
         <target state="translated">Are they planning to corner me?|Heh… How naive.</target>
       </trans-unit>
-      <trans-unit id="538341" xml:space="preserve">
+      <trans-unit id="538341" xml:space="preserve" approved="no">
         <source>追手もうるさいし、|ここはあの手でいくか。</source>
-        <target/>
+        <target state="translated">Can these people stop chasing me already?|Maybe I should use that method right now…</target>
       </trans-unit>
       <trans-unit id="546433" xml:space="preserve" approved="no">
         <source>さてと、奴等に俺の|得意技でも見せてやるか。</source>
@@ -6075,21 +6075,21 @@
         <source>さて、どこに隠しカメラを|仕掛けたものですかな…</source>
         <target/>
       </trans-unit>
-      <trans-unit id="512597" xml:space="preserve">
+      <trans-unit id="512597" xml:space="preserve" approved="no">
         <source>隠しカメラを|増やしてみましょう。</source>
-        <target/>
+        <target state="translated">Let’s try placing a few more hidden cameras.</target>
       </trans-unit>
       <trans-unit id="554881" xml:space="preserve">
         <source>せっかくですから、|役に立ってほしいものです。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="496229" xml:space="preserve">
+      <trans-unit id="496229" xml:space="preserve" approved="no">
         <source>これでいいでしょう。</source>
-        <target/>
+        <target state="translated">This should do the trick.</target>
       </trans-unit>
-      <trans-unit id="582569" xml:space="preserve">
+      <trans-unit id="582569" xml:space="preserve" approved="no">
         <source>検問を増やしてみよう。|あるいは効果が|あるかもしれん。</source>
-        <target/>
+        <target state="translated">Let’s try placing a few more inspection points.|That ought to have some kind of effect.</target>
       </trans-unit>
       <trans-unit id="521441" xml:space="preserve">
         <source>さて、どこまで検問で|封鎖したものか…</source>
@@ -6231,9 +6231,9 @@
         <source>よし…これなら|今までより広範囲を|カバーできるはず。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="505972" xml:space="preserve">
+      <trans-unit id="505972" xml:space="preserve" approved="no">
         <source>通信エラー|タイトルに戻ります。</source>
-        <target/>
+        <target state="translated">Signal Error|Returning to title screen…</target>
       </trans-unit>
       <trans-unit id="626064" xml:space="preserve" approved="no">
         <source>データを読めませんでした。|電源をＯＦＦにして、|カードを差し込み直して|ください。</source>
@@ -6263,13 +6263,13 @@
         <source>ＣＰＵ側のパートナーを|選択してください。</source>
         <target state="translated">Please select a partner for the Computer's side.</target>
       </trans-unit>
-      <trans-unit id="503712" xml:space="preserve">
+      <trans-unit id="503712" xml:space="preserve" approved="no">
         <source>ホストがマップを選択中です。</source>
-        <target/>
+        <target state="translated">The host is choosing a map.</target>
       </trans-unit>
-      <trans-unit id="500512" xml:space="preserve">
+      <trans-unit id="500512" xml:space="preserve" approved="no">
         <source>ホストが勢力を選択中です。</source>
-        <target/>
+        <target state="translated">The host is choosing a power.#not sure if this is “special ability” or “difficulty level”</target>
       </trans-unit>
       <trans-unit id="505828" xml:space="preserve" approved="no">
         <source>ホストがリーダーを|選択中です。</source>
@@ -6291,37 +6291,37 @@
         <source>データをセーブせずに|タイトルに移動します。|よろしいですか？</source>
         <target state="translated">This will return you to the title screen without saving your game. Are you sure?</target>
       </trans-unit>
-      <trans-unit id="629336" xml:space="preserve">
+      <trans-unit id="629336" xml:space="preserve" approved="no">
         <source>推理マーカー機能をＯＮに|します。道路をタッチすると、|目印が配置されます。|よろしいですか？</source>
-        <target/>
+        <target state="translated">Turn on the Theory Marker ability?|This will allow you to place markers by touching a road on the map.</target>
       </trans-unit>
-      <trans-unit id="574664" xml:space="preserve">
+      <trans-unit id="574664" xml:space="preserve" approved="no">
         <source>推理マーカー機能を|ＯＦＦにします。|よろしいですか？</source>
-        <target/>
+        <target state="translated">Turn off the Theory Marker ability?</target>
       </trans-unit>
-      <trans-unit id="518960" xml:space="preserve">
+      <trans-unit id="518960" xml:space="preserve" approved="no">
         <source>タイトルに戻ります。|よろしいですか？</source>
-        <target/>
+        <target state="translated">Return to title screen?</target>
       </trans-unit>
-      <trans-unit id="525800" xml:space="preserve">
+      <trans-unit id="525800" xml:space="preserve" approved="no">
         <source>ステージクリアデータを|セーブしますか？</source>
-        <target/>
+        <target state="translated">Stage cleared; do you want to save?</target>
       </trans-unit>
-      <trans-unit id="597580" xml:space="preserve">
+      <trans-unit id="597580" xml:space="preserve" approved="no">
         <source>中断データをセーブして|タイトルに移動します。|よろしいですか？</source>
-        <target/>
+        <target state="translated">Save current data and move to title screen?</target>
       </trans-unit>
-      <trans-unit id="554400" xml:space="preserve">
+      <trans-unit id="554400" xml:space="preserve" approved="no">
         <source>全セーブデータを|削除します。|よろしいですか？</source>
-        <target/>
+        <target state="translated">Delete all saves?</target>
       </trans-unit>
-      <trans-unit id="496468" xml:space="preserve">
+      <trans-unit id="496468" xml:space="preserve" approved="no">
         <source>本当によろしいですか？</source>
-        <target/>
+        <target state="translated">Are you sure?</target>
       </trans-unit>
       <trans-unit id="558288" xml:space="preserve" approved="no">
         <source>データをセーブ中です。|電源を切らないで下さい。</source>
-        <target state="translated">Saving data. Do no turn off the power.</target>
+        <target state="translated">Saving data. Do not turn off the power.</target>
       </trans-unit>
       <trans-unit id="550272" xml:space="preserve" approved="no">
         <source>データを削除中です。|電源を切らないで下さい。</source>
@@ -6335,17 +6335,17 @@
         <source>削除が終了しました。</source>
         <target state="translated">Deletion complete.</target>
       </trans-unit>
-      <trans-unit id="624804" xml:space="preserve">
+      <trans-unit id="624804" xml:space="preserve" approved="no">
         <source>中断データがあります。|中断データは１回しか|ロードできませんが、|再開しますか？</source>
-        <target/>
+        <target state="translated">You have unsaved data from the middle of a stage. It can only be loaded once. Resume?</target>
       </trans-unit>
-      <trans-unit id="506116" xml:space="preserve">
+      <trans-unit id="506116" xml:space="preserve" approved="no">
         <source>中断データを|ロードしています。</source>
-        <target/>
+        <target state="translated">Loading data…</target>
       </trans-unit>
-      <trans-unit id="513440" xml:space="preserve">
+      <trans-unit id="513440" xml:space="preserve" approved="no">
         <source>中断データの|ロードが終了しました。</source>
-        <target/>
+        <target state="translated">Finished loading data.</target>
       </trans-unit>
       <trans-unit id="574720" xml:space="preserve" approved="no">
         <source>隠しステージ『神』が|ステージ選択に|追加されました。</source>
@@ -6373,7 +6373,7 @@
       </trans-unit>
       <trans-unit id="562448" xml:space="preserve" approved="no">
         <source>どちらの『勢力』の|チュートリアルを|受けますか？</source>
-        <target state="translated">Which 勢力 tutorial would you like to view?</target>
+        <target state="translated">Which special ability’s tutorial would you like to view?</target>
       </trans-unit>
       <trans-unit id="512960" xml:space="preserve" approved="no">
         <source>知りたい項目を|タッチしてください。</source>
@@ -6383,57 +6383,57 @@
         <source>絵が見たい画像のＮｏ．を|タッチしてください。また、|カテゴリー名をタッチすると、|カテゴリーが変更されます。</source>
         <target state="translated">Please tap the number of the picture you want to see. You can change the category by tapping the category name.</target>
       </trans-unit>
-      <trans-unit id="541200" xml:space="preserve">
+      <trans-unit id="541200" xml:space="preserve" approved="no">
         <source>ゲームの設定項目を|変更することができます。</source>
-        <target/>
+        <target state="translated">You can change the game settings.</target>
       </trans-unit>
-      <trans-unit id="602264" xml:space="preserve">
+      <trans-unit id="602264" xml:space="preserve" approved="no">
         <source>ゲームの設定項目変更と|ステージ設定の確認を|行うことができます。</source>
-        <target/>
+        <target state="translated">You can check the game settings and the stage settings.</target>
       </trans-unit>
-      <trans-unit id="558340" xml:space="preserve">
+      <trans-unit id="558340" xml:space="preserve" approved="no">
         <source>ＢＧＭと効果音の音量を|変更することができます。</source>
-        <target/>
+        <target state="translated">You can adjust the volume of the background music and sound effects.</target>
       </trans-unit>
-      <trans-unit id="525712" xml:space="preserve">
+      <trans-unit id="525712" xml:space="preserve" approved="no">
         <source>セーブデータを|削除することができます。</source>
-        <target/>
+        <target state="translated">You can delete a save.</target>
       </trans-unit>
-      <trans-unit id="549984" xml:space="preserve">
+      <trans-unit id="549984" xml:space="preserve" approved="no">
         <source>推理マーカーの設定を|変更することができます。</source>
-        <target/>
+        <target state="translated">You can toggle the Theory Marker ability.</target>
       </trans-unit>
-      <trans-unit id="597644" xml:space="preserve">
+      <trans-unit id="597644" xml:space="preserve" approved="no">
         <source>ゲームの進行状況を|セーブして、タイトルへ|戻ることができます。</source>
-        <target/>
+        <target state="translated">You can save a game while it’s in progress and return to the title screen.</target>
       </trans-unit>
-      <trans-unit id="588508" xml:space="preserve">
+      <trans-unit id="588508" xml:space="preserve" approved="no">
         <source>ゲームの進行をセーブせずに|タイトルへ戻ることが|できます。</source>
-        <target/>
+        <target state="translated">You can return to the title screen while the game is in progress, without saving.</target>
       </trans-unit>
-      <trans-unit id="504128" xml:space="preserve">
+      <trans-unit id="504128" xml:space="preserve" approved="no">
         <source>このステージの|勝利条件です。</source>
-        <target/>
+        <target state="translated">Current stage’s victory conditions:</target>
       </trans-unit>
-      <trans-unit id="550032" xml:space="preserve">
+      <trans-unit id="550032" xml:space="preserve" approved="no">
         <source>チェックポイントの|内容を知ることができます。</source>
-        <target/>
+        <target state="translated">You can read the information on each checkpoint.</target>
       </trans-unit>
       <trans-unit id="505864" xml:space="preserve" approved="no">
         <source>タイトルへ戻ることが|できます。</source>
         <target state="translated">Return to the title screen.</target>
       </trans-unit>
-      <trans-unit id="633192" xml:space="preserve">
+      <trans-unit id="633192" xml:space="preserve" approved="no">
         <source>『勢力』を選択してください。|ＬボタンまたはＲボタンを|押しながら決定すると、|全てランダムで決定されます。</source>
-        <target/>
+        <target state="translated">Please choose a special ability. If you hold down the L or R button, all decisions will be made at random.#again, not sure if this is actually special ability for 勢力??</target>
       </trans-unit>
-      <trans-unit id="621656" xml:space="preserve">
+      <trans-unit id="621656" xml:space="preserve" approved="no">
         <source>　　　おまけモード　　　　|　|　　Ｎｏ．を選んで、|　　タッチしてください。</source>
-        <target/>
+        <target state="translated">　　　Omake Mode|Please choose a number with the stylus.#we have a WHAT MODE</target>
       </trans-unit>
-      <trans-unit id="512920" xml:space="preserve">
+      <trans-unit id="512920" xml:space="preserve" approved="no">
         <source>ホストかゲストを|選択してください。</source>
-        <target/>
+        <target state="translated">Please select host or guest.</target>
       </trans-unit>
       <trans-unit id="513240" xml:space="preserve" approved="no">
         <source>ゲストが参加するのを|待っています。</source>
@@ -6461,7 +6461,7 @@
       </trans-unit>
       <trans-unit id="624384" xml:space="preserve" approved="no">
         <source>ＦＢＩ捜査員の捜査の手が|迫っています。|ＦＢＩ捜査員をリタイア|させてください。</source>
-        <target state="translated">An FBI agent is hot on your tail. Force him to give up the chase.</target>
+        <target state="translated">FBI agents are hot on your tail. Force them to give up the chase.</target>
       </trans-unit>
       <trans-unit id="619104" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　２６|特殊移動ポイント　　４０|トラップ設置数　　　０９</source>
@@ -6477,7 +6477,7 @@
       </trans-unit>
       <trans-unit id="627172" xml:space="preserve" approved="no">
         <source>第２のキラと接触を図ります。|捜査員を避けながらチェック|ポイントに向かってください。</source>
-        <target state="translated">Try to make contact with the 2nd Kira. Head toward the Checkpoint while avoiding the investigators.</target>
+        <target state="translated">Try to make contact with the 2nd Kira. Head toward the checkpoint while avoiding the investigators.</target>
       </trans-unit>
       <trans-unit id="619256" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　２６|特殊移動ポイント　　６０|トラップ設置数　　　１２</source>
@@ -6667,9 +6667,9 @@
         <source>キラを逮捕してください。|デスノートを押さえれば|勝利となります。</source>
         <target state="translated">Arrest Kira.|Seize the Death Note to secure your victory.</target>
       </trans-unit>
-      <trans-unit id="628692" xml:space="preserve">
+      <trans-unit id="628692" xml:space="preserve" approved="no">
         <source>途中、チェックポイント|から、犯罪者情報を|引き出し『犯罪者の裁き』|を行う必要があります。</source>
-        <target/>
+        <target state="translated">You’ll have to extract criminal data at the checkpoint on the way and execute the criminals.</target>
       </trans-unit>
       <trans-unit id="540816" xml:space="preserve" approved="no">
         <source>捜査員を過半数以上|リタイアさせてください。</source>
@@ -6691,9 +6691,9 @@
         <source>『メロ』は死神と接触し、|デスノートの情報を|手に入れてください。</source>
         <target state="translated">Mello, contact the Shinigami to get information on the Death Note.</target>
       </trans-unit>
-      <trans-unit id="577632" xml:space="preserve">
+      <trans-unit id="577632" xml:space="preserve" approved="no">
         <source>『総一郎』は死神と接触し、|仲間に引き入れてください。</source>
-        <target/>
+        <target state="translated">Soichiro, make contact with the Shinigami and try to earn their trust.</target>
       </trans-unit>
       <trans-unit id="540720" xml:space="preserve" approved="no">
         <source>『メロ』は高田を発見し、|拉致してください。</source>
@@ -6711,9 +6711,9 @@
         <source>デスノートを|全て回収してください。</source>
         <target state="translated">Retrieve all the Death Notes.</target>
       </trans-unit>
-      <trans-unit id="597452" xml:space="preserve">
+      <trans-unit id="597452" xml:space="preserve" approved="no">
         <source>端末から犯罪者情報を|引き出し、犯罪者の裁きを|行ってください。</source>
-        <target/>
+        <target state="translated">Extract criminal data from a terminal and use it to execute criminals.</target>
       </trans-unit>
       <trans-unit id="588328" xml:space="preserve" approved="no">
         <source>捜査員を２名リタイアさせて|ください。|（無名捜査員を除く）</source>
@@ -6791,65 +6791,65 @@
         <source>チェックポイントに到達して|捜査員の過半数を|リタイアさせてください。|（無名捜査員を除く）</source>
         <target state="translated">Arrive at the checkpoint and eliminate over half of the investigators (not including unnamed investigators).</target>
       </trans-unit>
-      <trans-unit id="493992" xml:space="preserve">
+      <trans-unit id="493992" xml:space="preserve" approved="no">
         <source>シブタクさん</source>
-        <target/>
+        <target state="translated">Mr. Shibutaku#idk if we should localize the “cool taku” pun</target>
       </trans-unit>
-      <trans-unit id="493428" xml:space="preserve">
+      <trans-unit id="493428" xml:space="preserve" approved="no">
         <source>月くん</source>
-        <target/>
+        <target state="translated">Light</target>
       </trans-unit>
-      <trans-unit id="493548" xml:space="preserve">
+      <trans-unit id="493548" xml:space="preserve" approved="no">
         <source>ミサさん</source>
-        <target/>
+        <target state="translated">Miss Misa</target>
       </trans-unit>
       <trans-unit id="493276" xml:space="preserve" approved="no">
         <source>ニア</source>
         <target state="translated">Near</target>
       </trans-unit>
-      <trans-unit id="493764" xml:space="preserve">
+      <trans-unit id="493764" xml:space="preserve" approved="no">
         <source>夜神さん</source>
-        <target/>
+        <target state="translated">Mr. Yagami</target>
       </trans-unit>
-      <trans-unit id="493632" xml:space="preserve">
+      <trans-unit id="493632" xml:space="preserve" approved="no">
         <source>松田さん</source>
-        <target/>
+        <target state="translated">Mr. Matsuda</target>
       </trans-unit>
-      <trans-unit id="493584" xml:space="preserve">
+      <trans-unit id="493584" xml:space="preserve" approved="no">
         <source>模木さん</source>
-        <target/>
+        <target state="translated">Mr. Mogi</target>
       </trans-unit>
-      <trans-unit id="493572" xml:space="preserve">
+      <trans-unit id="493572" xml:space="preserve" approved="no">
         <source>相沢さん</source>
-        <target/>
+        <target state="translated">Mr. Aizawa</target>
       </trans-unit>
-      <trans-unit id="493560" xml:space="preserve">
+      <trans-unit id="493560" xml:space="preserve" approved="no">
         <source>伊出さん</source>
-        <target/>
+        <target state="translated">Mr. Ide</target>
       </trans-unit>
       <trans-unit id="494056" xml:space="preserve" approved="no">
         <source>レスター指揮官</source>
         <target state="translated">Commander Rester</target>
       </trans-unit>
-      <trans-unit id="494024" xml:space="preserve">
+      <trans-unit id="494024" xml:space="preserve" approved="no">
         <source>ジェバンニさん</source>
-        <target/>
+        <target state="translated">Mr. Gevanni</target>
       </trans-unit>
-      <trans-unit id="493596" xml:space="preserve">
+      <trans-unit id="493596" xml:space="preserve" approved="no">
         <source>ハルさん</source>
-        <target/>
+        <target state="translated">Miss Halle</target>
       </trans-unit>
-      <trans-unit id="493716" xml:space="preserve">
+      <trans-unit id="493716" xml:space="preserve" approved="no">
         <source>レイさん</source>
-        <target/>
+        <target state="translated">Mr. Raye</target>
       </trans-unit>
-      <trans-unit id="493836" xml:space="preserve">
+      <trans-unit id="493836" xml:space="preserve" approved="no">
         <source>ナオミさん</source>
-        <target/>
+        <target state="translated">Miss Naomi</target>
       </trans-unit>
-      <trans-unit id="493620" xml:space="preserve">
+      <trans-unit id="493620" xml:space="preserve" approved="no">
         <source>大山さん</source>
-        <target/>
+        <target state="translated">Miss Ooyama</target>
       </trans-unit>
       <trans-unit id="493356" xml:space="preserve" approved="no">
         <source>護衛</source>
@@ -7051,25 +7051,25 @@
         <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;がリタイアしました。</source>
         <target state="translated">　&lt;name&gt; was eliminated in Group &lt;group&gt;, Area &lt;area&gt;.</target>
       </trans-unit>
-      <trans-unit id="549648" xml:space="preserve">
+      <trans-unit id="549648" xml:space="preserve" approved="no">
         <source>　捜査重点エリア外で|　&lt;name&gt;がリタイアしました。</source>
-        <target/>
+        <target state="translated">　&lt;name&gt; was eliminated outside the priority area for the investigation.</target>
       </trans-unit>
       <trans-unit id="557924" xml:space="preserve" approved="no">
         <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;が逮捕されました。</source>
         <target state="translated">　&lt;name&gt; was arrested in Group &lt;group&gt;, Area &lt;area&gt;.</target>
       </trans-unit>
-      <trans-unit id="541392" xml:space="preserve">
+      <trans-unit id="541392" xml:space="preserve" approved="no">
         <source>　捜査重点エリア外で|　&lt;name&gt;が逮捕されました。</source>
-        <target/>
+        <target state="translated">　&lt;name&gt; was arrested outside of the priority area for the investigation.</target>
       </trans-unit>
       <trans-unit id="549504" xml:space="preserve" approved="no">
         <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;を逮捕しました。</source>
         <target state="translated">　We arrested &lt;name&gt; in Group &lt;group&gt;, Area &lt;area&gt;.</target>
       </trans-unit>
-      <trans-unit id="533456" xml:space="preserve">
+      <trans-unit id="533456" xml:space="preserve" approved="no">
         <source>　捜査重点エリア外で|　&lt;name&gt;を逮捕しました。</source>
-        <target/>
+        <target state="translated">　We arrested &lt;name&gt; outside of the priority area for the investigation.</target>
       </trans-unit>
       <trans-unit id="519120" xml:space="preserve" approved="no">
         <source>　グループ&lt;group&gt;で|　&lt;name&gt;が目撃されました。</source>
@@ -7079,25 +7079,25 @@
         <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;を捉えました。</source>
         <target state="translated">　&lt;name&gt; was caught in Group &lt;group&gt;, Area &lt;area&gt;.</target>
       </trans-unit>
-      <trans-unit id="525756" xml:space="preserve">
+      <trans-unit id="525756" xml:space="preserve" approved="no">
         <source>　捜査重点エリア外で|　&lt;name&gt;を捉えました。</source>
-        <target/>
+        <target state="translated">　&lt;name&gt; was caught outside of the priority area for the investigation.</target>
       </trans-unit>
       <trans-unit id="557976" xml:space="preserve" approved="no">
         <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;が発見されました。</source>
         <target state="translated">　&lt;name&gt; was found in Group &lt;group&gt;, Area &lt;area&gt;.</target>
       </trans-unit>
-      <trans-unit id="540912" xml:space="preserve">
+      <trans-unit id="540912" xml:space="preserve" approved="no">
         <source>　捜査重点エリア外で|　&lt;name&gt;が発見されました。</source>
-        <target/>
+        <target state="translated">　&lt;name&gt; was found outside of the priority area for the investigation.</target>
       </trans-unit>
       <trans-unit id="549552" xml:space="preserve" approved="no">
         <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;が捕まりました。</source>
         <target state="translated">　&lt;name&gt; was captured in Group &lt;group&gt;, Area &lt;area&gt;.</target>
       </trans-unit>
-      <trans-unit id="533192" xml:space="preserve">
+      <trans-unit id="533192" xml:space="preserve" approved="no">
         <source>　捜査重点エリア外で|　&lt;name&gt;が捕まりました。</source>
-        <target/>
+        <target state="translated">　&lt;name&gt; was captured outside of the priority area for the investigation.</target>
       </trans-unit>
       <trans-unit id="509032" xml:space="preserve" approved="no">
         <source>グループ&lt;group&gt;で|&lt;name&gt;が目撃されました。</source>
@@ -7107,13 +7107,13 @@
         <source>カメラを選択してください。</source>
         <target state="translated">Choose a camera.</target>
       </trans-unit>
-      <trans-unit id="518880" xml:space="preserve">
+      <trans-unit id="518880" xml:space="preserve" approved="no">
         <source>どのエリアの目撃情報を|調査しますか？</source>
-        <target/>
+        <target state="translated">In which area do you want to investigate eyewitness information?</target>
       </trans-unit>
-      <trans-unit id="525404" xml:space="preserve">
+      <trans-unit id="525404" xml:space="preserve" approved="no">
         <source>目撃情報を調査します。|よろしいですか？</source>
-        <target/>
+        <target state="translated">Investigate eyewitness information?</target>
       </trans-unit>
       <trans-unit id="533236" xml:space="preserve" approved="no">
         <source>このカメラを解析します。|よろしいですか？</source>
@@ -7199,17 +7199,17 @@
         <source>どの検問を解除しますか？</source>
         <target state="translated">Which inspection point do you want to lift?</target>
       </trans-unit>
-      <trans-unit id="554112" xml:space="preserve">
+      <trans-unit id="554112" xml:space="preserve" approved="no">
         <source>推理マーカーを|全て消します。|よろしいですか？</source>
-        <target/>
+        <target state="translated">Clear all theory markers off the map?</target>
       </trans-unit>
-      <trans-unit id="506080" xml:space="preserve">
+      <trans-unit id="506080" xml:space="preserve" approved="no">
         <source>推理マーカーを|全て消しました。</source>
-        <target/>
+        <target state="translated">All theory markers have been cleared.</target>
       </trans-unit>
-      <trans-unit id="525888" xml:space="preserve">
+      <trans-unit id="525888" xml:space="preserve" approved="no">
         <source>推理マーカーを|設置・解除してください。</source>
-        <target/>
+        <target state="translated">Please choose whether you want to turn the Theory Marker ability on or off.</target>
       </trans-unit>
       <trans-unit id="533016" xml:space="preserve" approved="no">
         <source>目的地までの移動ラインを|引いてください。</source>
@@ -7223,17 +7223,17 @@
         <source>容疑者を確保！|しかしこの容疑者はノートを|持っていない！</source>
         <target state="translated">Suspect apprehended! But this suspect isn't carrying the notebook!</target>
       </trans-unit>
-      <trans-unit id="584128" xml:space="preserve">
+      <trans-unit id="584128" xml:space="preserve" approved="no">
         <source>容疑者を確保！|デスノートの所持を確認、|キラを逮捕した！</source>
-        <target/>
+        <target state="translated">Suspect apprehended!|This suspect is carrying the Death Note. We’ve caught Kira!</target>
       </trans-unit>
       <trans-unit id="513000" xml:space="preserve" approved="no">
         <source>捜査員に発見された！|計画は失敗だ！</source>
         <target state="translated">You were discovered by an investigator! Plan failed!</target>
       </trans-unit>
-      <trans-unit id="588268" xml:space="preserve">
+      <trans-unit id="588268" xml:space="preserve" approved="no">
         <source>キラメンバーを発見した！|計画通り、尾行をつけて|泳がせる！</source>
-        <target/>
+        <target state="translated">Discovered a Kira member!|As according to plan, we’ll tail the suspect and monitor in secret.</target>
       </trans-unit>
       <trans-unit id="518920" xml:space="preserve" approved="no">
         <source>キラメンバーを発見した！|計画通りだ！</source>
@@ -7273,15 +7273,15 @@
       </trans-unit>
       <trans-unit id="632872" xml:space="preserve" approved="no">
         <source>トラップを仕掛けたマスに、|捜査員が止まるか、通過|すれば、トラップが発動し、|捜査員がリタイアします。</source>
-        <target state="translated">If an investigator stops or passes through the location where a trap has been set, the trap will be activated, and the investigator will retire.</target>
+        <target state="translated">If an investigator stops or passes through the location where a trap has been set, the trap will be activated, and the investigator will be eliminated.</target>
       </trans-unit>
-      <trans-unit id="616292" xml:space="preserve">
+      <trans-unit id="616292" xml:space="preserve" approved="no">
         <source>キラを逮捕するには、|キラと同じマスに止まるか、|通過すれば逮捕できます。</source>
-        <target/>
+        <target state="translated">You can capture Kira by stopping on the same square that Kira is on, or by passing through that square.</target>
       </trans-unit>
-      <trans-unit id="632976" xml:space="preserve">
+      <trans-unit id="632976" xml:space="preserve" approved="no">
         <source>キラはマップ内に潜伏して|います。ターン冒頭にもたら|される目撃情報を元に、潜伏|場所を推理してください。</source>
-        <target/>
+        <target state="translated">Kira is lurking somewhere on the map. Use the eyewitness information from the start of each round to deduce where Kira is.</target>
       </trans-unit>
       <trans-unit id="500316" xml:space="preserve" approved="no">
         <source>　　　タイムオーバー　　　</source>
@@ -7291,13 +7291,13 @@
         <source>　　　ステージクリア　　　</source>
         <target state="translated">　　　STAGE CLEARED!　　　</target>
       </trans-unit>
-      <trans-unit id="500372" xml:space="preserve">
+      <trans-unit id="500372" xml:space="preserve" approved="no">
         <source>　　　　　決着　　　　　　</source>
-        <target/>
+        <target state="translated">　　　　　THE END　　　　　　#not sure on this one　　　　　　</target>
       </trans-unit>
-      <trans-unit id="584188" xml:space="preserve">
+      <trans-unit id="584188" xml:space="preserve" approved="no">
         <source>規定ターン経過のため|キラ側が逃亡に成功。|キラ側の勝利！</source>
-        <target/>
+        <target state="translated">The set number of turns is up, so Kira has escaped successfully.|Team Kira wins!</target>
       </trans-unit>
       <trans-unit id="562552" xml:space="preserve" approved="no">
         <source>勝利ポイント|キラ&lt;num&gt;Ｐ　捜査側&lt;num&gt;Ｐ|キラ側の勝利！</source>
@@ -7331,41 +7331,41 @@
         <source>特殊能力を使用します。|よろしいですか？</source>
         <target state="translated">Use special ability?</target>
       </trans-unit>
-      <trans-unit id="503968" xml:space="preserve">
+      <trans-unit id="503968" xml:space="preserve" approved="no">
         <source>実行します。|よろしいですか？</source>
-        <target/>
+        <target state="translated">Execute this command?</target>
       </trans-unit>
-      <trans-unit id="533544" xml:space="preserve">
+      <trans-unit id="533544" xml:space="preserve" approved="no">
         <source>検問を突破するキャラを|選択してください。</source>
-        <target/>
+        <target state="translated">Choose the character who will break through the inspection point.</target>
       </trans-unit>
       <trans-unit id="525844" xml:space="preserve" approved="no">
         <source>移動させるトラップを|選択してください。</source>
         <target state="translated">Choose the trap you want to move.</target>
       </trans-unit>
-      <trans-unit id="502336" xml:space="preserve">
+      <trans-unit id="502336" xml:space="preserve" approved="no">
         <source>移動先を|選択してください。</source>
-        <target/>
+        <target state="translated">Choose a destination.</target>
       </trans-unit>
-      <trans-unit id="549696" xml:space="preserve">
+      <trans-unit id="549696" xml:space="preserve" approved="no">
         <source>特殊能力を妨害するキャラを|選択してください。</source>
-        <target/>
+        <target state="translated">Choose the character whose special ability you want to interfere with.</target>
       </trans-unit>
-      <trans-unit id="508996" xml:space="preserve">
+      <trans-unit id="508996" xml:space="preserve" approved="no">
         <source>都市カメラの広域破壊を|行います。</source>
-        <target/>
+        <target state="translated">This will destroy a large range of city cameras.#not sure if this is the right tense</target>
       </trans-unit>
-      <trans-unit id="561980" xml:space="preserve">
+      <trans-unit id="561980" xml:space="preserve" approved="no">
         <source>このターンは|捜査員の情報網に|引っ掛かりません。</source>
-        <target/>
+        <target state="translated">Avoided being caught in the investigators’ information network for this round.</target>
       </trans-unit>
-      <trans-unit id="533060" xml:space="preserve">
+      <trans-unit id="533060" xml:space="preserve" approved="no">
         <source>行動不能にするキャラを|選択してください。</source>
-        <target/>
+        <target state="translated">Choose the character you want to immobilize.</target>
       </trans-unit>
-      <trans-unit id="558132" xml:space="preserve">
+      <trans-unit id="558132" xml:space="preserve" approved="no">
         <source>特殊移動ポイントを使わずに|特殊移動ができます。</source>
-        <target/>
+        <target state="translated">Gain the ability to perform Special Movement without using Special Movement Points.#not sure on tense for this one either</target>
       </trans-unit>
       <trans-unit id="533104" xml:space="preserve" approved="no">
         <source>このターンの移動ポイントが|増加しました。</source>
@@ -7391,9 +7391,9 @@
         <source>トラップの有無を確認します。</source>
         <target state="translated">Confirm whether a trap exists.</target>
       </trans-unit>
-      <trans-unit id="496516" xml:space="preserve">
+      <trans-unit id="496516" xml:space="preserve" approved="no">
         <source>松田『ガッツ』発動中。</source>
-        <target/>
+        <target state="translated">Activating Matsuda’s Resolve.</target>
       </trans-unit>
       <trans-unit id="565568" xml:space="preserve" approved="no">
         <source>１つめの隠しカメラ設置。|場所を選択してください。</source>
@@ -7411,9 +7411,9 @@
         <source>撮影記録のあるカメラを|ハイライトします。</source>
         <target state="translated">Highlight the cameras that have recorded footage.</target>
       </trans-unit>
-      <trans-unit id="519280" xml:space="preserve">
+      <trans-unit id="519280" xml:space="preserve" approved="no">
         <source>入れ替えるキャラを|選択してください。</source>
-        <target/>
+        <target state="translated">Choose a character to replace.</target>
       </trans-unit>
       <trans-unit id="506188" xml:space="preserve" approved="no">
         <source>エリア&lt;area&gt;に&lt;name&gt;が|潜伏しています。</source>
@@ -7423,9 +7423,9 @@
         <source>ヘリを呼び寄せる|ヘリポートを|選択してください。</source>
         <target state="translated">Choose the heliport you want to summon a helicopter to.</target>
       </trans-unit>
-      <trans-unit id="549792" xml:space="preserve">
+      <trans-unit id="549792" xml:space="preserve" approved="no">
         <source>特殊能力を適用する|キャラを選択してください。</source>
-        <target/>
+        <target state="translated">Choose a character to apply a special ability to.#??? not sure if “apply” is best here</target>
       </trans-unit>
       <trans-unit id="577408" xml:space="preserve" approved="no">
         <source>トラップに引っ掛かった際|裏路地を使用して回避します。</source>
@@ -7439,17 +7439,17 @@
         <source>範囲内のカメラを|全て修復しました。</source>
         <target state="translated">Repaired all cameras within range.</target>
       </trans-unit>
-      <trans-unit id="513480" xml:space="preserve">
+      <trans-unit id="513480" xml:space="preserve" approved="no">
         <source>規定エリア外に|&lt;name&gt;が潜伏しています。</source>
-        <target/>
+        <target state="translated">&lt;name&gt; is lurking somewhere outside the specified area.</target>
       </trans-unit>
       <trans-unit id="549744" xml:space="preserve" approved="no">
         <source>範囲内のカメラを修復します。|よろしいですか？</source>
         <target state="translated">Repair cameras within range?</target>
       </trans-unit>
-      <trans-unit id="505792" xml:space="preserve">
+      <trans-unit id="505792" xml:space="preserve" approved="no">
         <source>潜伏情報を|得られませんでした。</source>
-        <target/>
+        <target state="translated">Could not get information on suspect location(s).#idk how to deal with the plural here</target>
       </trans-unit>
       <trans-unit id="522321" xml:space="preserve" approved="no">
         <source>捜査員の移動は|タッチペンで行います。</source>
