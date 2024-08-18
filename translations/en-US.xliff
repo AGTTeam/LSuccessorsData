@@ -6793,7 +6793,7 @@
       </trans-unit>
       <trans-unit id="493992" xml:space="preserve" approved="no">
         <source>シブタクさん</source>
-        <target state="translated">Mr. Shibutaku#idk if we should localize the “cool taku” pun</target>
+        <target state="translated">Mr. Shibutaku</target>
       </trans-unit>
       <trans-unit id="493428" xml:space="preserve" approved="no">
         <source>月くん</source>
@@ -7293,7 +7293,7 @@
       </trans-unit>
       <trans-unit id="500372" xml:space="preserve" approved="no">
         <source>　　　　　決着　　　　　　</source>
-        <target state="translated">　　　　　THE END　　　　　　#not sure on this one　　　　　　</target>
+        <target state="translated">　　　　　THE END　　　　　　</target>
       </trans-unit>
       <trans-unit id="584188" xml:space="preserve" approved="no">
         <source>規定ターン経過のため|キラ側が逃亡に成功。|キラ側の勝利！</source>
