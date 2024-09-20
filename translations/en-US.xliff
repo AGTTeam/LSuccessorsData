@@ -1661,7 +1661,7 @@
       </trans-unit>
       <trans-unit id="834912" xml:space="preserve" approved="no">
         <source>僕らはデスノートさえ、|押さえられなければ、|勝利と言ってもいい。&gt;&gt;リュークは面倒かもしれないが、|いろんな人に憑くのも|退屈しのぎになるだろう。</source>
-        <target state="translated">As long as the Death Note is still with us, we can still win.&gt;&gt;Well, it might be annoying for Ryuk, but he keeps complaining he’s bored, so…&gt;&gt;Possessing different people seems like a good way to kill time to me.</target>
+        <target state="translated">As long as the Death Note is still with us, we can still win.&gt;&gt;Well, it might be annoying for Ryuk, but he keeps complaining he’s bored, so…&gt;&gt;Possessing different people seems like a good way to kill time to me.#light</target>
       </trans-unit>
       <trans-unit id="775132" xml:space="preserve" approved="no">
         <source>||||||　　　　カメラ修復コマンド</source>
@@ -7909,7 +7909,7 @@
       </trans-unit>
       <trans-unit id="538209" xml:space="preserve" approved="no">
         <source>先手必勝です。|気を抜かずにいきましょう。</source>
-        <target state="translated">Whoever strikes first wins.|Let’s go, but stay on your toes.</target>
+        <target state="translated">He who strikes first wins.|Let’s go, but stay on your toes.</target>
       </trans-unit>
       <trans-unit id="522801" xml:space="preserve" approved="no">
         <source>やはりキラだ。|予想以上にやりますね。</source>
@@ -8547,57 +8547,57 @@
         <source>…やはりＬは…すごい。</source>
         <target state="translated">…L really is… amazing.</target>
       </trans-unit>
-      <trans-unit id="623017" xml:space="preserve">
+      <trans-unit id="623017" xml:space="preserve" approved="no">
         <source>ここは地下鉄で移動しよう。|地上とは連絡できないが|すぐに回復するし大丈夫だ。</source>
-        <target/>
+        <target state="translated">I’ll get on the subway here.|I won’t be able to contact people on the surface, but the trip won’t take too long, so it should be fine.</target>
       </trans-unit>
-      <trans-unit id="586709" xml:space="preserve">
+      <trans-unit id="586709" xml:space="preserve" approved="no">
         <source>地下鉄を使うか…|行動は制限されるが|今は問題ないはずだ。</source>
-        <target/>
+        <target state="translated">I could use the subway…|My movements are restricted, but that shouldn’t be a problem right now.</target>
       </trans-unit>
-      <trans-unit id="591565" xml:space="preserve">
+      <trans-unit id="591565" xml:space="preserve" approved="no">
         <source>地下鉄での移動…|多少のリスクはあるが、|ここは覚悟の上だ。</source>
-        <target/>
+        <target state="translated">I could take the subway…|It’s risky, but I have the resolve I need.</target>
       </trans-unit>
-      <trans-unit id="609257" xml:space="preserve">
+      <trans-unit id="609257" xml:space="preserve" approved="no">
         <source>これなら目的地はすぐそこだ。|今は少しでも行動範囲は|広い方がいい。</source>
-        <target/>
+        <target state="translated">I can get to my destination faster this way.|Plus, it’s important to increase my range of movement.</target>
       </trans-unit>
-      <trans-unit id="584609" xml:space="preserve">
+      <trans-unit id="584609" xml:space="preserve" approved="no">
         <source>高速バスなら邪魔は入らない。|その間に次の策を考えよう。</source>
-        <target/>
+        <target state="translated">I should be able to get some peace and quiet by taking the express bus.|I’ll use it to think up my next plan.</target>
       </trans-unit>
-      <trans-unit id="600905" xml:space="preserve">
+      <trans-unit id="600905" xml:space="preserve" approved="no">
         <source>バスでは行動が制限される。|だが、ここは一気に|動いた方がいい。</source>
-        <target/>
+        <target state="translated">I can’t move as freely by taking the bus, but it’s probably best to clear some distance between myself and here right now.</target>
       </trans-unit>
-      <trans-unit id="624889" xml:space="preserve">
+      <trans-unit id="624889" xml:space="preserve" approved="no">
         <source>これで追手をかわせるだろう。|ただ、僕も身動きできない。|用心する必要があるな…</source>
-        <target/>
+        <target state="translated">This’ll help me avoid my pursuers for sure.|…But I won’t be able to move around freely, either.|I’ll have to be careful…</target>
       </trans-unit>
-      <trans-unit id="624973" xml:space="preserve">
+      <trans-unit id="624973" xml:space="preserve" approved="no">
         <source>水上バスなら追跡をかわせる。|問題は自由がきかない事…|いや、心配はないはずだ。</source>
-        <target/>
+        <target state="translated">The water-bus should help me shake off my pursuers.|The problem is, I won’t be able to move around freely…|No. There’s nothing to worry about.</target>
       </trans-unit>
-      <trans-unit id="555217" xml:space="preserve">
+      <trans-unit id="555217" xml:space="preserve" approved="no">
         <source>常に先手を取って動く。|それが勝つための道だ！</source>
-        <target/>
+        <target state="translated">Always strike first.|That’s the key to victory!</target>
       </trans-unit>
-      <trans-unit id="530245" xml:space="preserve">
+      <trans-unit id="530245" xml:space="preserve" approved="no">
         <source>これに勝る移動方法はない。|僕の勝ちだ。</source>
-        <target/>
+        <target state="translated">There’s no better way to move around than this.|This is my victory.</target>
       </trans-unit>
       <trans-unit id="588569" xml:space="preserve" approved="no">
         <source>フ…空を飛ぶのも悪くはない。|これが神の目線なんだからな。</source>
         <target state="translated">Heh… It's not so bad, flying in the sky.|This is what a God's perspective looks like, after all.</target>
       </trans-unit>
-      <trans-unit id="578137" xml:space="preserve">
+      <trans-unit id="578137" xml:space="preserve" approved="no">
         <source>ここでヘリを使うとは|奴等には予想もできない|だろう。</source>
-        <target/>
+        <target state="translated">Those people can’t possibly have expected me to use a helicopter, right?|They’ll never see me coming.</target>
       </trans-unit>
       <trans-unit id="545905" xml:space="preserve" approved="no">
         <source>い、いやだ捕まりたくない。|ち、ちくしょう…</source>
-        <target state="translated">I, I don’t want to be arrested.|D-damn it…</target>
+        <target state="translated">No, I don’t w-want to be arrested.|D-damn it…</target>
       </trans-unit>
       <trans-unit id="530069" xml:space="preserve" approved="no">
         <source>ば、ばかな…だ、誰か…|誰か何とかしろ！</source>
@@ -8625,7 +8625,7 @@
       </trans-unit>
       <trans-unit id="596365" xml:space="preserve" approved="no">
         <source>これはあくまで保険だ。|だが、役に立つ時が|来るかもしれない。</source>
-        <target state="translated">This is just a safety net, but it might come in handy.</target>
+        <target state="translated">This is just a safety net, but it might come in handy.#light</target>
       </trans-unit>
       <trans-unit id="569105" xml:space="preserve" approved="no">
         <source>フフフ…さあ追ってこい。|それこそ僕の思うツボだ！</source>
@@ -8647,9 +8647,9 @@
         <source>よし…|これで多少は動きやすくなる。</source>
         <target state="translated">Alright…|Now it should be easier to move around.</target>
       </trans-unit>
-      <trans-unit id="555313" xml:space="preserve">
+      <trans-unit id="555313" xml:space="preserve" approved="no">
         <source>まったく…こんなものに|手間を取らされるとは。</source>
-        <target/>
+        <target state="translated">Ugh… I can't believe that something like this would take so much time.</target>
       </trans-unit>
       <trans-unit id="605189" xml:space="preserve" approved="no">
         <source>破壊は好みじゃないが、|監視カメラの効果は|バカにできないからな。</source>
@@ -8659,21 +8659,21 @@
         <source>こんなものに頼るとは。|奴等、意外と焦っているのか。</source>
         <target state="translated">They're relying on this kind of thing?|They're surprisingly desperate.</target>
       </trans-unit>
-      <trans-unit id="591629" xml:space="preserve">
+      <trans-unit id="591629" xml:space="preserve" approved="no">
         <source>フフフ…隠しカメラとは、|やってくれたな。|だが甘いんだよ。</source>
-        <target/>
+        <target state="translated">Heheheh… Hidden cameras? Clever.|But a little too naive.</target>
       </trans-unit>
-      <trans-unit id="575169" xml:space="preserve">
+      <trans-unit id="575169" xml:space="preserve" approved="no">
         <source>奴等、こんな手を使うとは、|やはり何もわかってない。</source>
-        <target/>
+        <target state="translated">The fact that they’d use this kind of thing… proves that they really don’t understand anything at all.</target>
       </trans-unit>
       <trans-unit id="563021" xml:space="preserve" approved="no">
         <source>よし、とりあえずこれで|カメラをだませるだろう。</source>
         <target state="translated">Alright. This should fool the cameras for now.</target>
       </trans-unit>
-      <trans-unit id="527737" xml:space="preserve">
+      <trans-unit id="527737" xml:space="preserve" approved="no">
         <source>大丈夫だ。|これなら気づかれる事はない。</source>
-        <target/>
+        <target state="translated">It’s alright.|Now they won’t notice a thing.</target>
       </trans-unit>
       <trans-unit id="575225" xml:space="preserve" approved="no">
         <source>変装…子供だましだが、|捜査を混乱させる事はできる。</source>
@@ -8687,9 +8687,9 @@
         <source>うかつに動けば危なかった。|だが、運は僕にある！</source>
         <target state="translated">Moving that carelessly was dangerous.|But luck is still on my side!</target>
       </trans-unit>
-      <trans-unit id="552001" xml:space="preserve">
+      <trans-unit id="552001" xml:space="preserve" approved="no">
         <source>隠しカメラまで使うとは、|敵も本気という事だ。</source>
-        <target/>
+        <target state="translated">If they’re going so far as to use hidden cameras… That means the enemy is serious about this, too.</target>
       </trans-unit>
       <trans-unit id="527517" xml:space="preserve" approved="no">
         <source>僕がデスノートで|世の中を変えてやるよ。</source>
@@ -8703,9 +8703,9 @@
         <source>よし、いいだろう。|本当のキラの力、|僕が見せてやるよ。</source>
         <target state="translated">Alright. Let me show you what Kira is really capable of.</target>
       </trans-unit>
-      <trans-unit id="504033" xml:space="preserve">
+      <trans-unit id="504033" xml:space="preserve" approved="no">
         <source>よし、今のうちに行動開始だ。</source>
-        <target/>
+        <target state="translated">Alright. Now, let’s begin.</target>
       </trans-unit>
       <trans-unit id="600973" xml:space="preserve" approved="no">
         <source>これで多少は時間をかせげる。|今のうちに|次の策を考えるべきだ。</source>
@@ -8719,9 +8719,9 @@
         <source>奴は信用できない。|ノートを渡すのは無理だ。</source>
         <target state="translated">This person can’t be trusted.|There’s no point passing the Note to this guy.</target>
       </trans-unit>
-      <trans-unit id="609401" xml:space="preserve">
+      <trans-unit id="609401" xml:space="preserve" approved="no">
         <source>あいつにノートを任せたら|それこそめちゃくちゃだ。|絶対に渡せない。</source>
-        <target/>
+        <target state="translated">Entrusting the Note to that guy is the worst thing I could possibly do.|I absolutely can’t hand it over.</target>
       </trans-unit>
       <trans-unit id="601109" xml:space="preserve" approved="no">
         <source>こちらの計画を|ぶち壊しにしかねない奴に|ノートを任せられるか。</source>
@@ -8827,9 +8827,9 @@
         <source>えいっ…壊れちゃえ！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="564321" xml:space="preserve">
+      <trans-unit id="564321" xml:space="preserve" approved="no">
         <source>こんなものがあるから|ライトと会えないんじゃん！</source>
-        <target/>
+        <target state="translated">#misa</target>
       </trans-unit>
       <trans-unit id="517641" xml:space="preserve" approved="no">
         <source>ミサだって、|やる時はやるんだから。</source>
@@ -8907,57 +8907,57 @@
         <source>止めとこうよ。|計画が台無しじゃん。|絶対渡さない。</source>
         <target state="translated">Stop it already.|That would ruin the whole plan.|I'm never giving the Note to that person.</target>
       </trans-unit>
-      <trans-unit id="499505" xml:space="preserve">
+      <trans-unit id="499505" xml:space="preserve" approved="no">
         <source>ここから地下鉄に乗るか。</source>
-        <target/>
+        <target state="translated">Should I get on the subway from here?</target>
       </trans-unit>
-      <trans-unit id="587489" xml:space="preserve">
+      <trans-unit id="587489" xml:space="preserve" approved="no">
         <source>地下鉄に乗ってしまえば|警察に気づかれないかも|しれんな。</source>
-        <target/>
+        <target state="translated">If I get on the subway, the cops probably won’t be able to track me down…</target>
       </trans-unit>
-      <trans-unit id="548449" xml:space="preserve">
+      <trans-unit id="548449" xml:space="preserve" approved="no">
         <source>少し急いだ方がよさそうだ。|地下鉄を使うか…</source>
-        <target/>
+        <target state="translated">I’d better hurry. Maybe I’ll take the subway…</target>
       </trans-unit>
-      <trans-unit id="556849" xml:space="preserve">
+      <trans-unit id="556849" xml:space="preserve" approved="no">
         <source>バスなら少なくとも|途中で邪魔される事はない。</source>
-        <target/>
+        <target state="translated">At least if I take the bus, no one will interrupt me along the way.</target>
       </trans-unit>
-      <trans-unit id="579033" xml:space="preserve">
+      <trans-unit id="579033" xml:space="preserve" approved="no">
         <source>バスを使うか。|警察のしつこい追跡も|かわせるだろう。</source>
-        <target/>
+        <target state="translated">Should I take the bus?|That should shake off the cops. Obstinate bastards.</target>
       </trans-unit>
-      <trans-unit id="605937" xml:space="preserve">
+      <trans-unit id="605937" xml:space="preserve" approved="no">
         <source>何とか警察を出し抜かないと|まずいな。高速バスなら|うってつけだ。</source>
-        <target/>
+        <target state="translated">I have to evade the cops somehow, or else… The express bus? Perfect.</target>
       </trans-unit>
-      <trans-unit id="512201" xml:space="preserve">
+      <trans-unit id="512201" xml:space="preserve" approved="no">
         <source>これでしばらく|追手の心配はない。</source>
-        <target/>
+        <target state="translated">Now I can relax without thinking about the cops for a while.</target>
       </trans-unit>
-      <trans-unit id="563905" xml:space="preserve">
+      <trans-unit id="563905" xml:space="preserve" approved="no">
         <source>水上バスに乗ってしまえば|警察をかわせるだろう。</source>
-        <target/>
+        <target state="translated">I should be able to shake off the cops if I take the water-bus, right?</target>
       </trans-unit>
-      <trans-unit id="540145" xml:space="preserve">
+      <trans-unit id="540145" xml:space="preserve" approved="no">
         <source>水上バスならうまく|追手をまいて動けるな。</source>
-        <target/>
+        <target state="translated">I can escape from whoever’s after me by taking the water-bus.</target>
       </trans-unit>
-      <trans-unit id="563957" xml:space="preserve">
+      <trans-unit id="563957" xml:space="preserve" approved="no">
         <source>多少目立つが、ヘリなら|誰にも追いつかれないな。</source>
-        <target/>
+        <target state="translated">It’s going to be conspicuous, but if I take a helicopter, no one will be able to catch me.</target>
       </trans-unit>
-      <trans-unit id="609545" xml:space="preserve">
+      <trans-unit id="609545" xml:space="preserve" approved="no">
         <source>空を飛ぶのも悪くない。|警察さえウロチョロして|いなければ…だがな。</source>
-        <target/>
+        <target state="translated">Flying isn’t so bad. If only there weren’t any cops lurking around… Oh well.</target>
       </trans-unit>
-      <trans-unit id="569677" xml:space="preserve">
+      <trans-unit id="569677" xml:space="preserve" approved="no">
         <source>ヘリか…ちょうどいい。|空なら警察も手出しできん。</source>
-        <target/>
+        <target state="translated">The helicopter, huh… Why not?|Not like the cops can do anything while I’m in the air.</target>
       </trans-unit>
-      <trans-unit id="556897" xml:space="preserve">
+      <trans-unit id="556897" xml:space="preserve" approved="no">
         <source>くそっ…何だおまえ！|俺はキラなんかじゃない！</source>
-        <target/>
+        <target state="translated">Dammit… What are you doing?!|How could I be Kira?!</target>
       </trans-unit>
       <trans-unit id="532269" xml:space="preserve" approved="no">
         <source>ば、ばかな…！|べ…弁護士を呼んでくれ！</source>
@@ -8967,29 +8967,29 @@
         <source>な…何を勘違いしてるんだ。|私は善良な市民だぞ！</source>
         <target state="translated">This… This must be some kind of mistake. I'm a good citizen!</target>
       </trans-unit>
-      <trans-unit id="592269" xml:space="preserve">
+      <trans-unit id="592269" xml:space="preserve" approved="no">
         <source>仕方ない。とりあえず、|そっちにノートを渡す。|うまく使え。</source>
-        <target/>
+        <target state="translated">There’s no way ’round it.|I’ll pass the Note over there for now.|That guy had better use it well.</target>
       </trans-unit>
       <trans-unit id="579089" xml:space="preserve">
         <source>ノートの使い方は|わかってるんだろうな？|うまくやれ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="524561" xml:space="preserve">
+      <trans-unit id="524561" xml:space="preserve" approved="no">
         <source>これも作戦だ。|ノートはそっちで持て。</source>
-        <target/>
+        <target state="translated">This is all part of the strategy.|I’ll give the Note to that person.</target>
       </trans-unit>
       <trans-unit id="516361" xml:space="preserve" approved="no">
         <source>警察め、しつこいな…|消すしかない…</source>
         <target state="translated">Those cops are damned persistent…|I'll just have to erase them…</target>
       </trans-unit>
-      <trans-unit id="548497" xml:space="preserve">
+      <trans-unit id="548497" xml:space="preserve" approved="no">
         <source>奴等の動きを封じるには、|トラップが一番だ。</source>
-        <target/>
+        <target state="translated">The best way to box those people in is with traps.</target>
       </trans-unit>
-      <trans-unit id="583349" xml:space="preserve">
+      <trans-unit id="583349" xml:space="preserve" approved="no">
         <source>これでいい。|あとは奴等がワナにかかれば|それで解決だ。</source>
-        <target/>
+        <target state="translated">Alright, it’s set.|Now we just wait for ’em to step inside… that’ll be one more problem solved.</target>
       </trans-unit>
       <trans-unit id="518201" xml:space="preserve">
         <source>やった！|しつこく追ってくるからだ。</source>
@@ -9853,7 +9853,7 @@
       </trans-unit>
       <trans-unit id="617661" xml:space="preserve" approved="no">
         <source>都市カメラは捜査側の目だ。|「カメラ破壊」をすれば、|こちらが有利になる。</source>
-        <target state="translated">The city cameras act as the investigation team's eyes.|Destroying cameras will put you at an advantage.</target>
+        <target state="translated">The city cameras act as the investigation team's eyes.|Destroying cameras will put you at an advantage.#light</target>
       </trans-unit>
       <trans-unit id="622857" xml:space="preserve" approved="no">
         <source>都市カメラを破壊すれば、|捜査に大きな死角を作れる。|捜査妨害の有効な手段だ。</source>
