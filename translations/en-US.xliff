@@ -9439,37 +9439,37 @@
         <source>こちらの計画におとなしく|従う人間とは思えない。|やはりノートは渡せない。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="622057" xml:space="preserve">
+      <trans-unit id="622057" xml:space="preserve" approved="no">
         <source>ここからは地下鉄で移動だ。|地上と連絡は取れないが、|なに、かまう事はない。</source>
-        <target/>
+        <target state="translated">I’ll get on the subway from here.|I won’t be able to contact anyone on the surface, but that shouldn’t be a problem.</target>
       </trans-unit>
-      <trans-unit id="609689" xml:space="preserve">
+      <trans-unit id="609689" xml:space="preserve" approved="no">
         <source>ここは地下鉄を使うか…|一時的に仲間と連絡は|取れないが、仕方ない。</source>
-        <target/>
+        <target state="translated">Should I get on the subway now…?|I won’t be able to contact my companions for a while, but there’s no other way around it.</target>
       </trans-unit>
-      <trans-unit id="562137" xml:space="preserve">
+      <trans-unit id="562137" xml:space="preserve" approved="no">
         <source>地下鉄か…リスクはあるが、|それは問題じゃない。</source>
-        <target/>
+        <target state="translated">The subway, huh… It’s risky, but that’s not a problem.</target>
       </trans-unit>
-      <trans-unit id="564685" xml:space="preserve">
+      <trans-unit id="564685" xml:space="preserve" approved="no">
         <source>これなら誰にも邪魔されず|目的地に移動できるな。</source>
-        <target/>
+        <target state="translated">This way I can move to my destination without anyone getting in my way.</target>
       </trans-unit>
-      <trans-unit id="545857" xml:space="preserve">
+      <trans-unit id="545857" xml:space="preserve" approved="no">
         <source>バスなら移動の間、|しばらく邪魔は入らない。</source>
-        <target/>
+        <target state="translated">If I take the bus, no one will bother me while I’m on it.</target>
       </trans-unit>
-      <trans-unit id="580713" xml:space="preserve">
+      <trans-unit id="580713" xml:space="preserve" approved="no">
         <source>バス移動にはリスクもある。|だが、ここは一気に、動く！</source>
-        <target/>
+        <target state="translated">The express bus has its own risks… But I’ve made up my mind to get out of here!</target>
       </trans-unit>
-      <trans-unit id="622137" xml:space="preserve">
+      <trans-unit id="622137" xml:space="preserve" approved="no">
         <source>これで追ってはこれまい。|ただ、こちらも動けないか…|用心する必要があるな。</source>
-        <target/>
+        <target state="translated">This way, I won’t be followed.|But I won’t be able to move about either…|I’d better be careful.</target>
       </trans-unit>
-      <trans-unit id="618801" xml:space="preserve">
+      <trans-unit id="618801" xml:space="preserve" approved="no">
         <source>水上バスなら追跡をかわせる。|その間、逃げ場はないが…|いや、心配はない。</source>
-        <target/>
+        <target state="translated">I’ll shake them off by taking the water-bus.|But I won’t have an escape route while on the water…|No, it’s nothing to worry about.</target>
       </trans-unit>
       <trans-unit id="576009" xml:space="preserve" approved="no">
         <source>交通ルートをうまく使えば、|キラもニアも出し抜ける。</source>
