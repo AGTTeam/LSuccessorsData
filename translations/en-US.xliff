@@ -9675,29 +9675,29 @@
         <source>ちっ！　マズったか。|ちゃんと弁護士は|つけてくれるんだろうな？</source>
         <target state="translated">Tsk! Is the jig up?|Hey, you’ll get me a good lawyer, right?</target>
       </trans-unit>
-      <trans-unit id="588813" xml:space="preserve">
+      <trans-unit id="588813" xml:space="preserve" approved="no">
         <source>ここはとりあえず、|そっちにノートを渡す。|あとは任せるぜ。</source>
-        <target/>
+        <target state="translated">I’m passing the Death Note onto you for now.|I’ll leave the rest to ya.</target>
       </trans-unit>
-      <trans-unit id="576401" xml:space="preserve">
+      <trans-unit id="576401" xml:space="preserve" approved="no">
         <source>このノート、|うまく使っていかなきゃ損だ。|頼んだぞ。</source>
-        <target/>
+        <target state="translated">You’d better use this notebook well.|I’m counting on ya.</target>
       </trans-unit>
-      <trans-unit id="531257" xml:space="preserve">
+      <trans-unit id="531257" xml:space="preserve" approved="no">
         <source>これも作戦だ。|ノートはおまえが持てよ。</source>
-        <target/>
+        <target state="translated">This is part of the plan, too.|Here, you take the notebook.</target>
       </trans-unit>
-      <trans-unit id="550849" xml:space="preserve">
+      <trans-unit id="550849" xml:space="preserve" approved="no">
         <source>さあて、ワナにかかる|哀れな子羊は誰だろうな。</source>
-        <target/>
+        <target state="translated">Right, now which sad little lamb's fallen into a trap?</target>
       </trans-unit>
-      <trans-unit id="573489" xml:space="preserve">
+      <trans-unit id="573489" xml:space="preserve" approved="no">
         <source>１人でもワナに引っかかりゃ|奴等の動きも鈍るだろう。</source>
-        <target/>
+        <target state="translated">Just one person falling into this trap should slow them down a lot.</target>
       </trans-unit>
-      <trans-unit id="559433" xml:space="preserve">
+      <trans-unit id="559433" xml:space="preserve" approved="no">
         <source>さあ、こっちへ来い。|そうすりゃ楽にしてやるよ。</source>
-        <target/>
+        <target state="translated">C’mon, just step right over here.|It’ll be quick.</target>
       </trans-unit>
       <trans-unit id="533941" xml:space="preserve">
         <source>かわいそうに。|しつこく追ってくるからだ。</source>
@@ -9705,7 +9705,7 @@
       </trans-unit>
       <trans-unit id="550897" xml:space="preserve" approved="no">
         <source>哀れな子羊はあんたかい？|諦めな、バイバイだ。</source>
-        <target state="translated">What a pitiful little lamb you look.|Give it up. It's bye-bye now.</target>
+        <target state="translated">What a sad little lamb you look.|Give it up. It's bye-bye now.</target>
       </trans-unit>
       <trans-unit id="541873" xml:space="preserve">
         <source>邪魔するから、そうなるんだ。|仕方ないだろ。</source>
