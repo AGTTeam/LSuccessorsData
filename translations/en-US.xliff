@@ -9699,29 +9699,29 @@
         <source>さあ、こっちへ来い。|そうすりゃ楽にしてやるよ。</source>
         <target state="translated">C’mon, just step right over here.|It’ll be quick.</target>
       </trans-unit>
-      <trans-unit id="533941" xml:space="preserve">
+      <trans-unit id="533941" xml:space="preserve" approved="no">
         <source>かわいそうに。|しつこく追ってくるからだ。</source>
-        <target/>
+        <target state="translated">Poor guy.|If only they hadn’t been on my tail.</target>
       </trans-unit>
       <trans-unit id="550897" xml:space="preserve" approved="no">
         <source>哀れな子羊はあんたかい？|諦めな、バイバイだ。</source>
         <target state="translated">What a sad little lamb you look.|Give it up. It's bye-bye now.</target>
       </trans-unit>
-      <trans-unit id="541873" xml:space="preserve">
+      <trans-unit id="541873" xml:space="preserve" approved="no">
         <source>邪魔するから、そうなるんだ。|仕方ないだろ。</source>
-        <target/>
+        <target state="translated">You got in our way, so this is what you get.|Can’t be helped, yeah?</target>
       </trans-unit>
-      <trans-unit id="508205" xml:space="preserve">
+      <trans-unit id="508205" xml:space="preserve" approved="no">
         <source>これで少しは|動きやすくなるな。</source>
-        <target/>
+        <target state="translated">Now it should be a little easier to move around.</target>
       </trans-unit>
-      <trans-unit id="541921" xml:space="preserve">
+      <trans-unit id="541921" xml:space="preserve" approved="no">
         <source>これでいい。つまらん手間、|取らせやがって。</source>
-        <target/>
+        <target state="translated">Alright, we’re good. Ugh, setting that up was such a drag.</target>
       </trans-unit>
-      <trans-unit id="559485" xml:space="preserve">
+      <trans-unit id="559485" xml:space="preserve" approved="no">
         <source>目玉をつぶされりゃ、|奴等もしばらくは動けまい。</source>
-        <target/>
+        <target state="translated">If I smash their “eyes” in, those guys won’t be able to make their next move for a while…</target>
       </trans-unit>
       <trans-unit id="550945" xml:space="preserve">
         <source>とりあえず、しばらくは|おネンネしててくれよ。</source>
