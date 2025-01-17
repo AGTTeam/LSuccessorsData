@@ -3867,13 +3867,13 @@
         <source>ミサイル音</source>
         <target state="translated">Missile SFX</target>
       </trans-unit>
-      <trans-unit id="764156" xml:space="preserve">
+      <trans-unit id="764156" xml:space="preserve" approved="no">
         <source>通信の切れる音</source>
-        <target/>
+        <target state="translated">Call End SFX</target>
       </trans-unit>
-      <trans-unit id="765780" xml:space="preserve">
+      <trans-unit id="765780" xml:space="preserve" approved="no">
         <source>携帯電話のコール音</source>
-        <target/>
+        <target state="translated">Phone Call SFX</target>
       </trans-unit>
       <trans-unit id="765600" xml:space="preserve" approved="no">
         <source>サブマシンが発射音</source>
