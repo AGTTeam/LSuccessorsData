@@ -12637,39 +12637,39 @@
       </trans-unit>
       <trans-unit id="501025" xml:space="preserve" approved="no">
         <source>ここからは地下鉄で移動だ。</source>
-        <target state="translated">#mogi start</target>
+        <target state="translated">I’m going to take the subway.#mogi start</target>
       </trans-unit>
-      <trans-unit id="586289" xml:space="preserve">
+      <trans-unit id="586289" xml:space="preserve" approved="no">
         <source>地下鉄を使うか…|本部とは連絡できなくなるが|仕方ないな。</source>
-        <target/>
+        <target state="translated">The subway, huh… I won’t be able to contact HQ while underground, but that can’t be helped.</target>
       </trans-unit>
-      <trans-unit id="590029" xml:space="preserve">
+      <trans-unit id="590029" xml:space="preserve" approved="no">
         <source>地下鉄…出口近くに|トラップがある可能性を|警戒しなければ。</source>
-        <target/>
+        <target state="translated">I’d better be on guard for traps when I get off the subway.</target>
       </trans-unit>
-      <trans-unit id="544225" xml:space="preserve">
+      <trans-unit id="544225" xml:space="preserve" approved="no">
         <source>こちら模木。これから|高速バスで移動します。</source>
-        <target/>
+        <target state="translated">This is Mogi. I’m taking the express bus.</target>
       </trans-unit>
-      <trans-unit id="583829" xml:space="preserve">
+      <trans-unit id="583829" xml:space="preserve" approved="no">
         <source>これなら途中の邪魔はない。|一気に距離もかせげるだろう。</source>
-        <target/>
+        <target state="translated">I won't be intercepted while I'm on the bus. I should be able to cover a lot of ground, too.</target>
       </trans-unit>
-      <trans-unit id="614393" xml:space="preserve">
+      <trans-unit id="614393" xml:space="preserve" approved="no">
         <source>高速バスの移動はトラップに|出会うリスクもあるが、|利用しないわけにも…</source>
-        <target/>
+        <target state="translated">I might run into a trap after getting off the bus, but walking around isn’t any safer…#mm not sure</target>
       </trans-unit>
-      <trans-unit id="520721" xml:space="preserve">
+      <trans-unit id="520721" xml:space="preserve" approved="no">
         <source>水上バスなら、|かなり速く動けますね。</source>
-        <target/>
+        <target state="translated">I’ll be able to move pretty quickly using the water-bus.</target>
       </trans-unit>
-      <trans-unit id="611201" xml:space="preserve">
+      <trans-unit id="611201" xml:space="preserve" approved="no">
         <source>水上バスも到着地の近くの|トラップを警戒する必要が|あるのは同じだな。</source>
-        <target/>
+        <target state="translated">I’ll have to be on guard for traps near the water-bus stops, too.</target>
       </trans-unit>
-      <trans-unit id="544273" xml:space="preserve">
+      <trans-unit id="544273" xml:space="preserve" approved="no">
         <source>こちら模木。これから|水上バスで移動します。</source>
-        <target/>
+        <target state="translated">This is Mogi. I’m going to take the water-bus.</target>
       </trans-unit>
       <trans-unit id="590157" xml:space="preserve">
         <source>犯人の力を考えれば|ヘリを使った捜査も|やむを得ないだろう。</source>
@@ -15823,9 +15823,9 @@
         <source>敵は一体どんな奴なのか…|移動中に少し落ち着いて|考えてみよう。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="600225" xml:space="preserve">
+      <trans-unit id="600225" xml:space="preserve" approved="no">
         <source>これなら途中の邪魔はない。|問題はキラを捕捉できるか|どうかだ。</source>
-        <target/>
+        <target state="translated">I won't be intercepted while I'm on the bus. The question is whether it'll be enough to catch Kira…</target>
       </trans-unit>
       <trans-unit id="608825" xml:space="preserve">
         <source>水上バスなら、かなり速く|動ける。うまくキラを|捕捉できるといいが。</source>
