@@ -60,9 +60,9 @@
 ［=4
 ＼=4#reserved character, don't use
 ］=4
-＾=3#'
+＾=4
 ＿=4
-｀=3#odd
+｀=4
 ａ=6
 ｂ=6
 ｃ=6
