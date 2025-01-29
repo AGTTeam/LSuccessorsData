@@ -57,9 +57,9 @@
 Ｘ=6
 Ｙ=8
 Ｚ=6
-［=4
+［=2#‘ curly single opening quote
 ＼=4#reserved character, don't use
-］=4
+］=2#’ curly single closing quote
 ＾=2#'
 ＿=4
 ｀=4
