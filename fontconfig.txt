@@ -55,7 +55,7 @@
 Ｖ=6
 Ｗ=6
 Ｘ=6
-Ｙ=8
+Ｙ=6
 Ｚ=6
 ［=2#‘ curly single opening quote
 ＼=4#reserved character, don't use
