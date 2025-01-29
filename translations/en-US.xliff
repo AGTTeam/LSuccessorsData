@@ -7171,6 +7171,18 @@
         <source>どのキャラクターに|変装しますか？</source>
         <target state="translated">Who do you want to disguise yourself as?</target>
       </trans-unit>
+      <trans-unit id="508888" xml:space="preserve">
+        <source>&lt;name&gt;に変装します。|よろしいですか？</source>
+        <target state="translated">&lt;name&gt;'s appearance will act as your disguise. Proceed?</target>
+      </trans-unit>
+      <trans-unit id="499224" xml:space="preserve">
+        <source>&lt;name&gt;の変装を|見破りました。</source>
+        <target state="translated">&lt;name&gt;'s disguise was uncovered.</target>
+      </trans-unit>
+      <trans-unit id="501600" xml:space="preserve">
+        <source>&lt;name&gt;の変装が|見破られました。</source>
+        <target state="translated">&lt;name&gt;’s disguise was seen through.</target>
+      </trans-unit>
       <trans-unit id="622776" xml:space="preserve" approved="no">
         <source>トラップを設置します。|よろしいですか？|トラップ設置数|現設置数&lt;num&gt;／限設置数&lt;num&gt;</source>
         <target state="translated">Set trap?|Number of traps installed:|Current &lt;num&gt;／Limit &lt;num&gt;</target>
@@ -16975,25 +16987,13 @@
         <source>すくりぷとてすと|</source>
         <target state="translated">Script Test</target>
       </trans-unit>
-      <trans-unit id="498106" xml:space="preserve" approved="no">
-        <source>からのメッセージです。|</source>
-        <target state="translated">messaged you.|#find a way to add leading whitespace</target>
+      <trans-unit id="498104" xml:space="preserve" approved="no">
+        <source>&lt;name&gt;からのメッセージです。</source>
+        <target state="translated">&lt;name&gt; messaged you.</target>
       </trans-unit>
-      <trans-unit id="499226" xml:space="preserve" approved="no">
-        <source>の変装を|見破りました。|</source>
-        <target state="translated">'s disguise was uncovered.</target>
-      </trans-unit>
-      <trans-unit id="501602" xml:space="preserve" approved="no">
-        <source>の変装が|見破られました。|</source>
-        <target state="translated">’s disguise was seen through.</target>
-      </trans-unit>
-      <trans-unit id="508890" xml:space="preserve" approved="no">
-        <source>に変装します。|よろしいですか？|</source>
-        <target state="translated">'s appearance will act as your disguise. Proceed?</target>
-      </trans-unit>
-      <trans-unit id="541347" xml:space="preserve" approved="no">
-        <source>は|無事でしたか。|不幸中のさいわいです。|</source>
-        <target state="translated">'s alright?|That's a relief… At least one good thing has come out of this.</target>
+      <trans-unit id="541344" xml:space="preserve" approved="no">
+        <source>&lt;name&gt;は|無事でしたか。|不幸中のさいわいです。</source>
+        <target state="translated">&lt;name&gt;'s alright?|That's a relief… At least one good thing has come out of this.</target>
       </trans-unit>
       <trans-unit id="634268" xml:space="preserve" approved="no">
         <source>てすとてすと</source>
