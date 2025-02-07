@@ -14787,49 +14787,49 @@
         <source>くそっ…こんなバカな！</source>
         <target/>
       </trans-unit>
-      <trans-unit id="572929" xml:space="preserve">
+      <trans-unit id="572929" xml:space="preserve" approved="no">
         <source>全部キラが|勝手にやった事なんだ！|俺達は被害者だ！</source>
-        <target/>
+        <target state="translated">All of this is a trap set by Kira! We’re the victims here!</target>
       </trans-unit>
-      <trans-unit id="511697" xml:space="preserve">
+      <trans-unit id="511697" xml:space="preserve" approved="no">
         <source>違う…俺が…|俺が悪いんじゃない！</source>
-        <target/>
+        <target state="translated">You’re wrong… I’m…|I’m not a bad person!</target>
       </trans-unit>
-      <trans-unit id="572985" xml:space="preserve">
+      <trans-unit id="572985" xml:space="preserve" approved="no">
         <source>もう、俺は十分|ノートの番人したよな。|あとは頼む。</source>
-        <target/>
+        <target state="translated">I’ve guarded this notebook for long enough. It’s your turn now.</target>
       </trans-unit>
-      <trans-unit id="515881" xml:space="preserve">
+      <trans-unit id="515881" xml:space="preserve" approved="no">
         <source>ふぅ…やっとこのノートを|手放せる。</source>
-        <target/>
+        <target state="translated">Phew… I’m finally letting go of this notebook.</target>
       </trans-unit>
-      <trans-unit id="545473" xml:space="preserve">
+      <trans-unit id="545473" xml:space="preserve" approved="no">
         <source>頼む、ノートはおまえが|うまく使ってくれよ。</source>
-        <target/>
+        <target state="translated">I’m leaving the notebook to you. You’d better use it well.</target>
       </trans-unit>
-      <trans-unit id="578529" xml:space="preserve">
+      <trans-unit id="578529" xml:space="preserve" approved="no">
         <source>くそっ…|やっぱり、ノートを使う事に|なっちまったか…</source>
-        <target/>
+        <target state="translated">Damn it… So it’s really come down to this. I’ll have to use the notebook, huh…</target>
       </trans-unit>
-      <trans-unit id="507449" xml:space="preserve">
+      <trans-unit id="507449" xml:space="preserve" approved="no">
         <source>ノートを使う以外に|手はないか…</source>
-        <target/>
+        <target state="translated">I don’t have any choice but to use the notebook, huh…</target>
       </trans-unit>
-      <trans-unit id="523881" xml:space="preserve">
+      <trans-unit id="523881" xml:space="preserve" approved="no">
         <source>奴等から逃れるには|この手しかないか…</source>
-        <target/>
+        <target state="translated">This is the only way to escape them, isn’t it…?</target>
       </trans-unit>
-      <trans-unit id="499365" xml:space="preserve">
+      <trans-unit id="499365" xml:space="preserve" approved="no">
         <source>う…こんなに簡単に人が！</source>
-        <target/>
+        <target state="translated">Ugh… It’s this easy to take a life?!</target>
       </trans-unit>
-      <trans-unit id="531697" xml:space="preserve">
+      <trans-unit id="531697" xml:space="preserve" approved="no">
         <source>やっぱり、あまり使うのは|止めておこう。</source>
-        <target/>
+        <target state="translated">I guess I really should stop using it so much.</target>
       </trans-unit>
-      <trans-unit id="536405" xml:space="preserve">
+      <trans-unit id="536405" xml:space="preserve" approved="no">
         <source>し…仕方なかったんだ。|恨まないでくれよ。</source>
-        <target/>
+        <target state="translated">There… There was no other way.|Don’t hate me for this, alright?</target>
       </trans-unit>
       <trans-unit id="547441" xml:space="preserve">
         <source>こんなものに見張られちゃ、|動けないからな。</source>
