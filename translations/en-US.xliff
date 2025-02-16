@@ -9893,23 +9893,23 @@
       </trans-unit>
       <trans-unit id="615229" xml:space="preserve" approved="no">
         <source>コマンドを実行すると、|表示される範囲が、その|コマンドの有効範囲だよ。</source>
-        <target state="translated">The area displayed when you use a command is just that command's range of effect.</target>
+        <target state="translated">The area displayed when you use a command is that command's range of effect!</target>
       </trans-unit>
       <trans-unit id="628601" xml:space="preserve" approved="no">
         <source>捜査員をリタイアさせたり|メンバーが逮捕されると|勝利ポイントが増えたり|減ったりするよ。</source>
         <target state="translated">Victory Points go up when investigators are eliminated and go down when Kira members are arrested.</target>
       </trans-unit>
-      <trans-unit id="620397" xml:space="preserve">
+      <trans-unit id="620397" xml:space="preserve" approved="no">
         <source>途中で中断したくなったら|「オプション」から|「ゲーム中断」を|選択してね。</source>
-        <target/>
+        <target state="translated">If you want to quit halfway, just go to the Options Screen and hit “Quit Game”!</target>
       </trans-unit>
-      <trans-unit id="620473" xml:space="preserve">
+      <trans-unit id="620473" xml:space="preserve" approved="no">
         <source>チェックポイントが|指定されてる時は、|そこに着かないと計画が|進まないよ。</source>
-        <target/>
+        <target state="translated">If there’s a checkpoint, the plan won’t go ahead until you make it there.</target>
       </trans-unit>
-      <trans-unit id="595853" xml:space="preserve">
+      <trans-unit id="595853" xml:space="preserve" approved="no">
         <source>チェックポイントの中身は|「オプション画面」で|確認できるよ。</source>
-        <target/>
+        <target state="translated">You can check what the checkpoint says in the Options Screen!</target>
       </trans-unit>
       <trans-unit id="600293" xml:space="preserve" approved="no">
         <source>メンバーには特殊能力を|持ってる人もいるよ。|もちろんミサもね。</source>
