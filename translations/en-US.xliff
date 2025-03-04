@@ -3129,7 +3129,7 @@
       </trans-unit>
       <trans-unit id="665884" xml:space="preserve" approved="no">
         <source>…………</source>
-        <target state="translated">.....…</target>
+        <target state="translated">Testing test|Test</target>
       </trans-unit>
       <trans-unit id="783804" xml:space="preserve" approved="no">
         <source>一方、第２キラの言葉は|Ｌにもショックを与えていた。</source>
@@ -5637,7 +5637,7 @@
       </trans-unit>
       <trans-unit id="494041" xml:space="preserve" approved="no">
         <source>………………</source>
-        <target state="translated">………………</target>
+        <target state="translated">Testing test|Test</target>
       </trans-unit>
       <trans-unit id="590989" xml:space="preserve" approved="no">
         <source>どうやら敵を倒すには、|トラップの配置を|考え直すべきだな。</source>
@@ -6249,7 +6249,7 @@
       </trans-unit>
       <trans-unit id="540672" xml:space="preserve" approved="no">
         <source>プレイヤー側のリーダーを|選択してください。</source>
-        <target state="translated">Please select the leader for the Player's side.</target>
+        <target state="translated">Please select the leader for the Player's side. Testing longer text test test test test test</target>
       </trans-unit>
       <trans-unit id="549888" xml:space="preserve" approved="no">
         <source>プレイヤー側のパートナーを|選択してください。</source>
@@ -8021,7 +8021,7 @@
       </trans-unit>
       <trans-unit id="494217" xml:space="preserve" approved="no">
         <source>…………………</source>
-        <target state="translated">…………………</target>
+        <target state="translated">Testing test|Test</target>
       </trans-unit>
       <trans-unit id="498609" xml:space="preserve" approved="no">
         <source>やっぱりキラは月くんが…</source>
@@ -16984,7 +16984,7 @@
         <target state="translated">Gevanni</target>
       </trans-unit>
       <trans-unit id="494376" xml:space="preserve" approved="no">
-        <source>すくりぷとてすと|</source>
+        <source>すくりぷとてすと</source>
         <target state="translated">Script Test</target>
       </trans-unit>
       <trans-unit id="498104" xml:space="preserve" approved="no">
@@ -16999,52 +16999,52 @@
         <source>てすとてすと</source>
         <target state="translated">Test test</target>
       </trans-unit>
-      <trans-unit id="634284" xml:space="preserve">
-        <source>ああ|</source>
-        <target/>
+      <trans-unit id="634284" xml:space="preserve" approved="no">
+        <source>ああ</source>
+        <target state="translated">aa</target>
       </trans-unit>
-      <trans-unit id="634292" xml:space="preserve">
+      <trans-unit id="634292" xml:space="preserve" approved="no">
         <source>なし</source>
-        <target/>
+        <target state="translated">None</target>
       </trans-unit>
       <trans-unit id="634300" xml:space="preserve" approved="no">
-        <source>てすとてすと|</source>
-        <target state="translated">Test test|</target>
+        <source>てすとてすと</source>
+        <target state="translated">Test test</target>
       </trans-unit>
       <trans-unit id="635856" xml:space="preserve" approved="no">
-        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント６ヶ所到達及び|　　　　捜査員を全員リタイアで勝利。|Ｔ勝敗：規定ターン経過で勝利Ｐ決着。|</source>
+        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント６ヶ所到達及び|　　　　捜査員を全員リタイアで勝利。|Ｔ勝敗：規定ターン経過で勝利Ｐ決着。</source>
         <target state="translated">Investigators: Win by arresting Kira.|Kira: Win by reaching 6 checkpoints and|eliminating all investigators.|Tie: If turns run out, Victory Points determine the winner.</target>
       </trans-unit>
       <trans-unit id="636000" xml:space="preserve" approved="no">
-        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント２ヶ所到達及び|　　　　捜査員を全員リタイアで勝利。|Ｔ勝敗：規定ターン経過でキラ側勝利。|</source>
+        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント２ヶ所到達及び|　　　　捜査員を全員リタイアで勝利。|Ｔ勝敗：規定ターン経過でキラ側勝利。</source>
         <target state="translated">Investigators: Win by arresting Kira.|Kira: Win by reaching 2 checkpoints and|eliminating all investigators.|Tie: If turns run out, Kira wins.</target>
       </trans-unit>
       <trans-unit id="636144" xml:space="preserve" approved="no">
-        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント５ヶ所到達及び|　　　　捜査員を全員リタイアで勝利。|Ｔ勝敗：規定ターン経過で勝利Ｐ決着。|</source>
+        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント５ヶ所到達及び|　　　　捜査員を全員リタイアで勝利。|Ｔ勝敗：規定ターン経過で勝利Ｐ決着。</source>
         <target state="translated">Investigators: Win by arresting Kira.|Kira: Win by reaching 5 checkpoints and|eliminating all investigators.|Tie: If turns run out, Victory Points determine the winner.</target>
       </trans-unit>
       <trans-unit id="636288" xml:space="preserve" approved="no">
-        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント３ヶ所到達及び|　　　　捜査員を全員リタイアで勝利。|Ｔ勝敗：規定ターン経過で勝利Ｐ決着。|</source>
+        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント３ヶ所到達及び|　　　　捜査員を全員リタイアで勝利。|Ｔ勝敗：規定ターン経過で勝利Ｐ決着。</source>
         <target state="translated">Investigators: Win by arresting Kira.|Kira: Win by reaching 3 checkpoints and|eliminating all investigators.|Tie: If turns run out, Victory Points determine the winner.</target>
       </trans-unit>
       <trans-unit id="636432" xml:space="preserve" approved="no">
-        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント３ヶ所到達及び|　　　　捜査員を全員リタイアで勝利。|Ｔ勝敗：規定ターン経過でキラ側勝利。|</source>
+        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント３ヶ所到達及び|　　　　捜査員を全員リタイアで勝利。|Ｔ勝敗：規定ターン経過でキラ側勝利。</source>
         <target state="translated">Investigators: Win by arresting Kira.|Kira: Win by reaching 3 checkpoints and|eliminating all investigators.|Tie: If turns run out, Kira wins.</target>
       </trans-unit>
       <trans-unit id="636576" xml:space="preserve" approved="no">
-        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント４ヶ所到達及び|　　　　捜査員を全員リタイアで勝利。|Ｔ勝敗：規定ターン経過で勝利Ｐ決着。|</source>
+        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント４ヶ所到達及び|　　　　捜査員を全員リタイアで勝利。|Ｔ勝敗：規定ターン経過で勝利Ｐ決着。</source>
         <target state="translated">Investigators: Win by arresting Kira.|Kira: Win by reaching 4 checkpoints and|eliminating all investigators.|Tie: If turns run out, Victory Points determine the winner.</target>
       </trans-unit>
       <trans-unit id="636720" xml:space="preserve" approved="no">
-        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント５ヶ所到達及び|　　　　捜査員を過半数リタイアで勝利。|Ｔ勝敗：規定ターン経過で勝利Ｐ決着。|</source>
+        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント５ヶ所到達及び|　　　　捜査員を過半数リタイアで勝利。|Ｔ勝敗：規定ターン経過で勝利Ｐ決着。</source>
         <target state="translated">Investigators: Win by arresting Kira.|Kira: Win by reaching 5 checkpoints and|eliminating over half of the investigators.|Tie: If turns run out, Victory Points determine the winner.</target>
       </trans-unit>
       <trans-unit id="636864" xml:space="preserve" approved="no">
-        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント５ヶ所到達及び|　　　　捜査員を過半数リタイアで勝利。|Ｔ勝敗：規定ターン経過でキラ側勝利。|</source>
+        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント５ヶ所到達及び|　　　　捜査員を過半数リタイアで勝利。|Ｔ勝敗：規定ターン経過でキラ側勝利。</source>
         <target state="translated">Investigators: Win by arresting Kira.|Kira: Win by reaching 5 checkpoints and|eliminating over half of the investigators.|Tie: If turns run out, Kira wins.</target>
       </trans-unit>
       <trans-unit id="637008" xml:space="preserve" approved="no">
-        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント６ヶ所到達及び|　　　　捜査員を過半数リタイアで勝利。|Ｔ勝敗：規定ターン経過でキラ側勝利。|</source>
+        <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント６ヶ所到達及び|　　　　捜査員を過半数リタイアで勝利。|Ｔ勝敗：規定ターン経過でキラ側勝利。</source>
         <target state="translated">Investigators: Win by arresting Kira.|Kira: Win by reaching 6 checkpoints and|eliminating over half of the investigators.|Tie: If turns run out, Kira wins.</target>
       </trans-unit>
       <trans-unit id="657872" xml:space="preserve" approved="no">
