@@ -3129,7 +3129,7 @@
       </trans-unit>
       <trans-unit id="665884" xml:space="preserve" approved="no">
         <source>…………</source>
-        <target state="translated">Testing test|Test</target>
+        <target state="translated">.............</target>
       </trans-unit>
       <trans-unit id="783804" xml:space="preserve" approved="no">
         <source>一方、第２キラの言葉は|Ｌにもショックを与えていた。</source>
@@ -5637,7 +5637,7 @@
       </trans-unit>
       <trans-unit id="494041" xml:space="preserve" approved="no">
         <source>………………</source>
-        <target state="translated">Testing test|Test</target>
+        <target state="translated">...............</target>
       </trans-unit>
       <trans-unit id="590989" xml:space="preserve" approved="no">
         <source>どうやら敵を倒すには、|トラップの配置を|考え直すべきだな。</source>
@@ -6249,7 +6249,7 @@
       </trans-unit>
       <trans-unit id="540672" xml:space="preserve" approved="no">
         <source>プレイヤー側のリーダーを|選択してください。</source>
-        <target state="translated">Please select the leader for the Player's side. Testing longer text test test test test test</target>
+        <target state="translated">Please select the leader for the Player's side.</target>
       </trans-unit>
       <trans-unit id="549888" xml:space="preserve" approved="no">
         <source>プレイヤー側のパートナーを|選択してください。</source>
@@ -8021,7 +8021,7 @@
       </trans-unit>
       <trans-unit id="494217" xml:space="preserve" approved="no">
         <source>…………………</source>
-        <target state="translated">Testing test|Test</target>
+        <target state="translated">..................</target>
       </trans-unit>
       <trans-unit id="498609" xml:space="preserve" approved="no">
         <source>やっぱりキラは月くんが…</source>
