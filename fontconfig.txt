@@ -5,7 +5,7 @@
 ＄=6
 ％=8
 ＆=6
-´=2
+´=3
 （=4
 ）=4
 ＊=6
@@ -57,10 +57,10 @@
 Ｘ=6
 Ｙ=6
 Ｚ=6
-［=2#‘ curly single opening quote
+［=3#‘ curly single opening quote
 ＼=4#reserved character, don't use
-］=2#’ curly single closing quote
-＾=2#'
+］=3#’ curly single closing quote
+＾=3#'
 ＿=4
 ｀=4
 ａ=6
