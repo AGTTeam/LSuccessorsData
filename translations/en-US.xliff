@@ -5489,119 +5489,119 @@
       </trans-unit>
       <trans-unit id="597516" xml:space="preserve" approved="no">
         <source>指定したキャラが|そのターンだけ、検問を|突破することができる。</source>
-        <target state="translated">Allows a character of your choice to break through an Inspection Point (only lasts for this turn).</target>
+        <target state="translated">Allows a character of your choice to break through an Inspection Point (for that turn only).#Light leader ability 打開</target>
       </trans-unit>
       <trans-unit id="606888" xml:space="preserve" approved="no">
         <source>デスノートの使用回数を|減らさず、トラップを|設置することができる。</source>
-        <target state="translated">Sets a trap without increasing the number of times the Death Note has been used.</target>
+        <target state="translated">Sets a trap without increasing the number of times the Death Note has been used.#Misa leader ability 死神の肩入れ</target>
       </trans-unit>
       <trans-unit id="622376" xml:space="preserve" approved="no">
         <source>勝利ポイントを得た場合、|通常よりも多く、ポイントを|手に入れることができる。</source>
-        <target state="translated">Receive more Victory Points than usual when Victory Points are earned.</target>
+        <target state="translated">Receive more Victory Points than usual when Victory Points are earned.#Higuchi leader ability 強欲</target>
       </trans-unit>
       <trans-unit id="593164" xml:space="preserve" approved="no">
         <source>すでに設置されている|トラップの位置を|変更することができる。</source>
-        <target state="translated">Change the location of a trap that has already been placed.</target>
+        <target state="translated">Change the location of a trap that has already been placed.#Mikami leader ability 神の言葉</target>
       </trans-unit>
       <trans-unit id="580096" xml:space="preserve" approved="no">
         <source>ヘリを、指定する|ヘリポートに呼び寄せる|ことができる。</source>
-        <target state="translated">Calls a helicopter to a designated heliport.</target>
+        <target state="translated">Calls a helicopter to a designated heliport.#Takada leader ability 報道へリ</target>
       </trans-unit>
       <trans-unit id="572312" xml:space="preserve" approved="no">
         <source>指定した捜査員の特殊能力を|そのターン使えなくする。</source>
-        <target state="translated">Prevents an Investigator of your choice from using their Special Ability for that turn.</target>
+        <target state="translated">Prevents an Investigator of your choice from using their Special Ability for that turn.#Mello leader ability 妨害</target>
       </trans-unit>
       <trans-unit id="628232" xml:space="preserve" approved="no">
         <source>現在いるエリアのすべての|都市カメラを破壊する。|（１カメラにつき|　５０％の確率で破壊）</source>
-        <target state="translated">Destroys all cameras within your current area. (For each camera, there is a 50% chance of being destroyed).</target>
+        <target state="translated">Destroys all cameras within your current area. (Each camera has a 50% chance of being destroyed).#Matt leader ability ギャング</target>
       </trans-unit>
       <trans-unit id="584428" xml:space="preserve" approved="no">
         <source>そのターンは捜査側の|いかなる情報網にも|引っかからない。</source>
-        <target state="translated">Avoid all forms of detection by Investigators for that turn.</target>
+        <target state="translated">Avoid all forms of detection by Investigators for that turn.#Light support ability 潜伏</target>
       </trans-unit>
       <trans-unit id="593228" xml:space="preserve" approved="no">
         <source>指定した捜査員を|１ターンの間、|行動不能にすることができる。</source>
-        <target state="translated">Prevents an Investigator of your choice from moving for 1 turn.</target>
+        <target state="translated">Prevents an Investigator of your choice from moving for 1 turn.#Misa support ability 死神の目</target>
       </trans-unit>
       <trans-unit id="586648" xml:space="preserve" approved="no">
         <source>実行すると有効範囲内にある、|全ての隠しカメラを破壊する。</source>
-        <target state="translated">Destroys all hidden cameras within range when used.</target>
+        <target state="translated">Destroys all hidden cameras within range when used.#Higuchi support ability 暴走</target>
       </trans-unit>
       <trans-unit id="606956" xml:space="preserve" approved="no">
         <source>デスノートを所持して|いなくても、トラップを|仕掛けることが出来る。</source>
-        <target state="translated">Allows you to place traps even without possessing a Death Note.</target>
+        <target state="translated">Allows you to place traps even without possessing a Death Note.#Mikami support ability キラの代弁者</target>
       </trans-unit>
       <trans-unit id="588448" xml:space="preserve" approved="no">
         <source>特殊移動ポイントを|消費せずに、特殊移動する|ことができる。</source>
-        <target state="translated">Allows you to execute a Special Movement without using Special Movement Points.</target>
+        <target state="translated">Allows you to execute a Special Movement without using Special Movement Points.#Takada support ability 報道特権</target>
       </trans-unit>
       <trans-unit id="584488" xml:space="preserve" approved="no">
         <source>実行すると、その時点での|移動ポイントが|１．４倍になる。</source>
-        <target state="translated">Increases current Movement Points by 1.4x when used.</target>
+        <target state="translated">Increases current Movement Points by 1.4x when used.#Mello support ability 行動力</target>
       </trans-unit>
       <trans-unit id="519000" xml:space="preserve" approved="no">
         <source>使用したターン、|必ず変装に成功する。</source>
-        <target state="translated">Ensures that your disguise will be successful for 1 turn.</target>
+        <target state="translated">Ensures that your disguise will be successful for 1 turn.#Matt support ability 図</target>
       </trans-unit>
       <trans-unit id="574608" xml:space="preserve" approved="no">
         <source>指定した捜査員の|周辺にあるトラップを|全て排除する。</source>
-        <target state="translated">Destroys all traps surrounding an Investigator of your choice.</target>
+        <target state="translated">Destroys all traps surrounding an Investigator of your choice.#L leader ability 推理</target>
       </trans-unit>
       <trans-unit id="632664" xml:space="preserve" approved="no">
         <source>指定した捜査員が移動中に|トラップに掛かった場合、|裏路地使用回数を消費し、|トラップを無効化できる。</source>
-        <target state="translated">If an Investigator of your choice is caught in a trap while moving, the trap is nullified in exchange for reducing the number of times they can use a back alley.</target>
+        <target state="translated">If an Investigator of your choice is caught in a trap while moving, a back alley usage point will be used to nullify the trap.#Near leader ability 慎重</target>
       </trans-unit>
       <trans-unit id="541056" xml:space="preserve" approved="no">
         <source>指定した捜査員の|裏路地使用回数を回復する。</source>
-        <target state="translated">Restores the number of times an Investigator of your choice can use a back alley.</target>
+        <target state="translated">Restores the number of times an Investigator of your choice can use a back alley.#Light Investigator support ability 的確な指示</target>
       </trans-unit>
       <trans-unit id="593292" xml:space="preserve" approved="no">
         <source>コマンド有効範囲内に|トラップが有るか|確認することができる。</source>
-        <target state="translated">Checks whether there are any traps planted within the command's range.</target>
+        <target state="translated">Checks whether there are any traps planted within the command's range.#Light investigator support ability 駆け引き</target>
       </trans-unit>
       <trans-unit id="593356" xml:space="preserve" approved="no">
         <source>マップ上の好きな場所に、|隠しカメラを|設置することができる。</source>
-        <target state="translated">Allows you to place a hidden camera on the map in an area of your choosing.</target>
+        <target state="translated">Allows you to place a hidden camera on the map in an area of your choosing.#Watari support ability ネットワーク</target>
       </trans-unit>
       <trans-unit id="574552" xml:space="preserve" approved="no">
         <source>検問を、通常よりも|広い範囲で|設置することができる。</source>
-        <target state="translated">Allows you to set up an inspection point with a larger range than usual.</target>
+        <target state="translated">Allows you to set up an inspection point with a larger range than usual.#Soichiro support ability 陣頭指揮</target>
       </trans-unit>
       <trans-unit id="629816" xml:space="preserve" approved="no">
         <source>その能力を使用したターンで|トラップにかかった場合、|１度リタイアするが|次のターンに復帰する。</source>
-        <target state="translated">If the investigator is caught by a trap in the turn this ability is used, they will be temporarily KO'd and return in the next turn.</target>
+        <target state="translated">If the investigator is caught by a trap in the turn this ability is used, they will be temporarily KO'd and return in the next turn.#qc Matsuda support ability ガッツ There is no target so I assume it only works on him, please check</target>
       </trans-unit>
       <trans-unit id="533500" xml:space="preserve" approved="no">
         <source>任意のエリアの|目撃情報を得る事ができる。</source>
-        <target state="translated">Gathers eyewitness information from an area of your choice.</target>
+        <target state="translated">Gathers eyewitness information from an area of your choice.#Mogi support ability 地道な捜査</target>
       </trans-unit>
       <trans-unit id="624636" xml:space="preserve" approved="no">
         <source>隠しカメラ実行時、|コマンド実行範囲が|通常よりも広く、|２ヶ所同時に設置できる。</source>
-        <target state="translated">When using a hidden camera, the range is larger than usual and you can plant cameras in two places at once.</target>
+        <target state="translated">When using a hidden camera, the range is larger than usual and you can plant cameras in two places at once.#Aizawa support ability 疑い</target>
       </trans-unit>
       <trans-unit id="624720" xml:space="preserve" approved="no">
         <source>カメラ修復実行時、|コマンド実行範囲が|広く、範囲内の全ての|カメラを修復できる。</source>
-        <target state="translated">When repairing cameras, increases the range of the Camera Repair command and repairs all cameras within the area.</target>
+        <target state="translated">Increases the range of the Camera Repair command and repairs all cameras within the area.#Ide support ability バックアップ</target>
       </trans-unit>
       <trans-unit id="616368" xml:space="preserve" approved="no">
         <source>現在自分がいるエリア内の、|容疑者が撮影された|カメラを知ることができる。</source>
-        <target state="translated">Allows you to know which cameras in your current area have spotted a suspect.</target>
+        <target state="translated">Allows you to know which cameras in your current area have spotted a suspect.#Rester support ability 整実</target>
       </trans-unit>
       <trans-unit id="580152" xml:space="preserve" approved="no">
         <source>指定した捜査員と|自分の位置を|入れ替えることができる。</source>
-        <target state="translated">Allows you to swap positions with an Investigator of your choice.</target>
+        <target state="translated">Allows you to swap positions with an Investigator of your choice.#Gevanni support ability すり替え</target>
       </trans-unit>
       <trans-unit id="593420" xml:space="preserve" approved="no">
         <source>潜伏している容疑者が|どのエリアにいるか、|知ることができる。</source>
-        <target state="translated">Allows you to know which area a suspect is hiding within.</target>
+        <target state="translated">Allows you to know which area a suspect is hiding within.#Halle support ability 内通</target>
       </trans-unit>
       <trans-unit id="627612" xml:space="preserve" approved="no">
         <source>カメラ修復実行時、|コマンド実行範囲が|とても広く、範囲内の全ての|カメラを修復できる。</source>
-        <target state="translated">When using the Camera Repair command, it will have a larger range than usual and can repair all cameras in the area.</target>
+        <target state="translated">When using the Camera Repair command, it will have a larger range than usual and can repair all cameras in the area.#Raye support ability FBIの協力</target>
       </trans-unit>
       <trans-unit id="627700" xml:space="preserve" approved="no">
         <source>隠しカメラ実行時、|コマンド実行範囲が|とても広く、２ヶ所同時に|設置することができる。</source>
-        <target state="translated">When using a hidden camera, the range is very large and you can plant cameras in two places at once.</target>
+        <target state="translated">When using a hidden camera, the range is very large and you can plant cameras in two places at once.#Naomi support ability 疑惑の目</target>
       </trans-unit>
       <trans-unit id="562501" xml:space="preserve" approved="no">
         <source>ここは多少、無理してでも|検問を突破しなければ…</source>
@@ -6665,7 +6665,7 @@
       </trans-unit>
       <trans-unit id="602128" xml:space="preserve" approved="no">
         <source>キラを逮捕してください。|デスノートを押さえれば|勝利となります。</source>
-        <target state="translated">Arrest Kira.|Seize the Death Note to secure your victory.</target>
+        <target state="translated">Arrest Kira.|Seize the Death Note to secure|your victory.</target>
       </trans-unit>
       <trans-unit id="628692" xml:space="preserve" approved="no">
         <source>途中、チェックポイント|から、犯罪者情報を|引き出し『犯罪者の裁き』|を行う必要があります。</source>
