@@ -7475,93 +7475,93 @@
         <source>容疑者を逮捕したり、|捜査員がリタイアした場合、|勝利ポイントが増減します。</source>
         <target state="translated">Victory Points are gained and lost whenever a suspect is caught or an investigator is eliminated.</target>
       </trans-unit>
-      <trans-unit id="627261" xml:space="preserve">
+      <trans-unit id="627261" xml:space="preserve" approved="no">
         <source>戦いを中断したい場合は|「オプション」から|「ゲーム中断」を|選択すれば中断できます。</source>
-        <target/>
+        <target state="translated">If you need to take a snack break, go to the Options screen and press “Pause" to suspend the game.</target>
       </trans-unit>
-      <trans-unit id="604373" xml:space="preserve">
+      <trans-unit id="604373" xml:space="preserve" approved="no">
         <source>捜査員が潜伏している|容疑者と接触すれば、|逮捕する事ができます。</source>
-        <target/>
+        <target state="translated">If an investigators come into contact with a suspect, they can make an arrest.</target>
       </trans-unit>
-      <trans-unit id="628509" xml:space="preserve">
+      <trans-unit id="628509" xml:space="preserve" approved="no">
         <source>「目撃情報」を行うと|捜査員がいるエリアに|容疑者がいたかどうか、|確認する事ができます。</source>
-        <target/>
+        <target state="translated">You can gather information from eyewitnesses to learn whether a suspect has been spotted in the same area that the investigator is in.</target>
       </trans-unit>
-      <trans-unit id="626401" xml:space="preserve">
+      <trans-unit id="626401" xml:space="preserve" approved="no">
         <source>「カメラ解析」では、|指定したカメラに容疑者が|映っていたかどうかを|確認できます。</source>
-        <target/>
+        <target state="translated">You can analyse a camera to learn whether a suspect has passed by it.</target>
       </trans-unit>
-      <trans-unit id="629529" xml:space="preserve">
+      <trans-unit id="629529" xml:space="preserve" approved="no">
         <source>チェックポイント指定が|ある場合は、そこに到達|しないと話が進みません。|忘れないでください。</source>
-        <target/>
+        <target state="translated">If reaching checkpoints is required, you will not be able to proceed until this has been fulfiled. Keep that in mind.</target>
       </trans-unit>
-      <trans-unit id="595661" xml:space="preserve">
+      <trans-unit id="595661" xml:space="preserve" approved="no">
         <source>チェックポイントの内容は|「オプション画面」で確認|できます。</source>
-        <target/>
+        <target state="translated">You can find more information about checkpoints by visiting the Options screen.</target>
       </trans-unit>
-      <trans-unit id="538121" xml:space="preserve">
+      <trans-unit id="538121" xml:space="preserve" approved="no">
         <source>捜査員には、それぞれ|特殊能力があります。</source>
-        <target/>
+        <target state="translated">Every investigator has a unique special ability.</target>
       </trans-unit>
-      <trans-unit id="622457" xml:space="preserve">
+      <trans-unit id="622457" xml:space="preserve" approved="no">
         <source>特殊能力は|「ステータス画面」で|見る事ができます。|確認しておいてください。</source>
-        <target/>
+        <target state="translated">Information about special abilities can be found on the Status screen. Please make sure you read through it.</target>
       </trans-unit>
-      <trans-unit id="595725" xml:space="preserve">
+      <trans-unit id="595725" xml:space="preserve" approved="no">
         <source>「カメラ修復」では|破壊されたカメラを修復|する事ができます。</source>
-        <target/>
+        <target state="translated">You can use the “Camera Repair" command to fix broken cameras.</target>
       </trans-unit>
-      <trans-unit id="612281" xml:space="preserve">
+      <trans-unit id="612281" xml:space="preserve" approved="no">
         <source>破壊された都市カメラを|放っておくと、目撃情報を|十分に得られません。</source>
-        <target/>
+        <target state="translated">Failing to repair broken cameras will prevent you from acquiring crucial suspect location information.</target>
       </trans-unit>
-      <trans-unit id="600361" xml:space="preserve">
+      <trans-unit id="600361" xml:space="preserve" approved="no">
         <source>「検問設置」を行うと|容疑者はその道路を|通過できなくなります。</source>
-        <target/>
+        <target state="translated">Assembling inspection points will deter suspects from taking certain paths.</target>
       </trans-unit>
-      <trans-unit id="554689" xml:space="preserve">
+      <trans-unit id="554689" xml:space="preserve" approved="no">
         <source>同時に設置できる検問の|数には限りがあります。</source>
-        <target/>
+        <target state="translated">You can only set up a limited number of inspection points at any one time.</target>
       </trans-unit>
-      <trans-unit id="562813" xml:space="preserve">
+      <trans-unit id="562813" xml:space="preserve" approved="no">
         <source>「裏路地」は通常の移動に|追加して使用できます。</source>
-        <target/>
+        <target state="translated">Back alleys can be used in addition to normal movement.</target>
       </trans-unit>
-      <trans-unit id="626485" xml:space="preserve">
+      <trans-unit id="626485" xml:space="preserve" approved="no">
         <source>「裏路地」の使用中は、|キラのトラップを回避する|事ができます。|我々の切り札です。</source>
-        <target/>
+        <target state="translated">You can use back alleys to avoid the traps laid by Kira. It's our trump card.</target>
       </trans-unit>
-      <trans-unit id="600701" xml:space="preserve">
+      <trans-unit id="600701" xml:space="preserve" approved="no">
         <source>「隠しカメラ」は|好きな場所に設置して|情報を得る事ができます。</source>
-        <target/>
+        <target state="translated">You can set up hidden cameras anywhere you'd like to gather information.</target>
       </trans-unit>
-      <trans-unit id="546625" xml:space="preserve">
+      <trans-unit id="546625" xml:space="preserve" approved="no">
         <source>「隠しカメラ」は隠れて|容疑者を撮影します。</source>
-        <target/>
+        <target state="translated">Hidden cameras can film suspects in secret.</target>
       </trans-unit>
-      <trans-unit id="629913" xml:space="preserve">
+      <trans-unit id="629913" xml:space="preserve" approved="no">
         <source>「隠しカメラ」も万能では|ありません。|容疑者に気づかれる事も|あります。|気をつけてください。</source>
-        <target/>
+        <target state="translated">Hidden cameras are not the solution to everything. Be careful that the person you're trying to film does not realize what's going on.</target>
       </trans-unit>
-      <trans-unit id="634005" xml:space="preserve">
+      <trans-unit id="634005" xml:space="preserve" approved="no">
         <source>都市カメラには、|「グループ」と「エリア」|という単位があります。|同じグループは同色です。|それぞれにエリアが設定|されています。</source>
-        <target/>
+        <target state="translated">City cameras are divided into “groups" and “areas." Groups are classified by colors. Within a group, there may be several different areas.</target>
       </trans-unit>
-      <trans-unit id="626569" xml:space="preserve">
+      <trans-unit id="626569" xml:space="preserve" approved="no">
         <source>都市カメラは、各ターンの|最初に容疑者の情報を|報告してくれます。|とても重要です。</source>
-        <target/>
+        <target state="translated">City cameras report suspect information at the beginning of each turn. This is crucial to our work.</target>
       </trans-unit>
-      <trans-unit id="629245" xml:space="preserve">
+      <trans-unit id="629245" xml:space="preserve" approved="no">
         <source>そのエリアの過半数の|都市カメラが破壊されると、|監視網は機能しません。|注意してください。</source>
-        <target/>
+        <target state="translated">If the majority of the city cameras in an area are destroyed, the surveillance network there will shut down. Make sure to watch out for this.</target>
       </trans-unit>
       <trans-unit id="601177" xml:space="preserve" approved="no">
         <source>地下鉄に乗るには、駅で|「特殊移動ポイント」を|使ってください。</source>
-        <target state="translated">In order to move via the subway, please use Special Movement Points at the station.</target>
+        <target state="translated">In order to move via the subway, you must spend Special Movement Points at the station.</target>
       </trans-unit>
       <trans-unit id="531125" xml:space="preserve" approved="no">
         <source>地下鉄は隣の駅までしか|移動できません。</source>
-        <target state="translated">You can only use the subway to reach the neighboring station.</target>
+        <target state="translated">You can only use the subway to reach the neighboring stations.</target>
       </trans-unit>
       <trans-unit id="627965" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」には|限りがあります。|くれぐれもポイント不足に|注意してください。</source>
@@ -7569,31 +7569,31 @@
       </trans-unit>
       <trans-unit id="623977" xml:space="preserve" approved="no">
         <source>高速バスに乗るには、|バスターミナルで|「特殊移動ポイント」を|使ってください。</source>
-        <target state="translated">In order to move via express bus, use Special Movement Points at the bus terminal.</target>
+        <target state="translated">In order to move via express bus, you must spend Special Movement Points at the bus terminal.</target>
       </trans-unit>
-      <trans-unit id="569781" xml:space="preserve">
+      <trans-unit id="569781" xml:space="preserve" approved="no">
         <source>高速バスは隣のターミナル|までしか移動できません。</source>
-        <target/>
+        <target state="translated">You can only use the express bus to reach the neighboring terminals.</target>
       </trans-unit>
       <trans-unit id="626653" xml:space="preserve" approved="no">
         <source>水上バスに乗るには、|水上バスターミナルで|「特殊移動ポイント」を|使ってください。</source>
-        <target state="translated">In order to use the water-bus, go to the water-bus terminal and use a Special Movement Point.</target>
+        <target state="translated">In order to move via water-bus, you must spend Special Movement Points at the water-bus terminal.</target>
       </trans-unit>
-      <trans-unit id="630301" xml:space="preserve">
+      <trans-unit id="630301" xml:space="preserve" approved="no">
         <source>水上バスは自動運行で|ターンにより進行方向が|変わる事があります。|くれぐれも注意して|ください。</source>
-        <target/>
+        <target state="translated">Water buses operate automatically and may change direction between turns. Please keep this in mind.</target>
       </trans-unit>
-      <trans-unit id="613721" xml:space="preserve">
+      <trans-unit id="613721" xml:space="preserve" approved="no">
         <source>ヘリに乗るには、|ヘリポートで|「特殊移動ポイント」を|使ってください。</source>
-        <target/>
+        <target state="translated">In order to move via helicopter, you must spend Special Movement Points at the heliport.</target>
       </trans-unit>
-      <trans-unit id="601585" xml:space="preserve">
+      <trans-unit id="601585" xml:space="preserve" approved="no">
         <source>ヘリポートが空の場合、|移動は不可能です。|忘れないでください。</source>
-        <target/>
+        <target state="translated">If the heliport is empty, you will not be able to travel via helicopter. Try not to forget that.</target>
       </trans-unit>
-      <trans-unit id="578697" xml:space="preserve">
+      <trans-unit id="578697" xml:space="preserve" approved="no">
         <source>コマンドの有効範囲は|実行すると表示される|領域です。</source>
-        <target/>
+        <target state="translated">#Near</target>
       </trans-unit>
       <trans-unit id="620549" xml:space="preserve">
         <source>「目撃情報」を行うと|捜査員がいるエリアに|容疑者がいたのか確認|できます。</source>
@@ -8035,9 +8035,9 @@
         <source>キラは私が必ず倒します。</source>
         <target state="translated">I will be the one to bring Kira down. There’s no doubt.</target>
       </trans-unit>
-      <trans-unit id="510653" xml:space="preserve">
+      <trans-unit id="510653" xml:space="preserve" approved="no">
         <source>あとは時間の問題かも|しれません。</source>
-        <target/>
+        <target state="translated">It may just be a matter of time now.</target>
       </trans-unit>
       <trans-unit id="572537" xml:space="preserve" approved="no">
         <source>ちょっと甘いものが|足りません。|脳にいいんですよ。</source>
@@ -10125,7 +10125,7 @@
       </trans-unit>
       <trans-unit id="506837" xml:space="preserve" approved="no">
         <source>仲間の移動は|タッチペンを使う。</source>
-        <target state="translated">Use the stylus to move allies.#mikami</target>
+        <target state="translated">Use the stylus to move the faithful.#mikami</target>
       </trans-unit>
       <trans-unit id="618725" xml:space="preserve" approved="no">
         <source>捜査員をリタイアさせたり|メンバーが逮捕されると|勝利ポイントが増減する。</source>
@@ -10145,7 +10145,7 @@
       </trans-unit>
       <trans-unit id="606073" xml:space="preserve" approved="no">
         <source>特殊能力をうまく使えば|敵に効果的なダメージを|与えられるだろう。</source>
-        <target state="translated">If you use special abilities well, you will be able to bring down justice on your enemies more effectively.</target>
+        <target state="translated">If you use special abilities well, you will be able to bring down justice the blasphemers more effectively.</target>
       </trans-unit>
       <trans-unit id="615837" xml:space="preserve" approved="no">
         <source>「デスノートの所有権移動」|させれば、受け取った者が|新たなキラとなる。</source>
@@ -10157,7 +10157,7 @@
       </trans-unit>
       <trans-unit id="564789" xml:space="preserve" approved="no">
         <source>「変装」は見破られる|事もある。過信はできない。</source>
-        <target state="translated">Do not fool yourself into thinking disguises will go unnoticed forever.</target>
+        <target state="translated">Disguises are not absolute. Manage your expectations.</target>
       </trans-unit>
       <trans-unit id="606345" xml:space="preserve" approved="no">
         <source>トラップが発動すれば、|敵をリタイアさせられる。|我々の切り札だ。</source>
@@ -10321,7 +10321,7 @@
       </trans-unit>
       <trans-unit id="616217" xml:space="preserve" approved="no">
         <source>バスターミナルから|高速バスに乗るには|「特殊移動ポイント」を|使うのよ。</source>
-        <target state="translated">Taking the express bus from a express bus terminal requires you to spend Special Movement Points.</target>
+        <target state="translated">Taking the express bus from a terminal requires you to spend Special Movement Points.</target>
       </trans-unit>
       <trans-unit id="560317" xml:space="preserve" approved="no">
         <source>高速バスで移動できるのは|隣のターミナルまでよ。</source>
@@ -10329,7 +10329,7 @@
       </trans-unit>
       <trans-unit id="623737" xml:space="preserve" approved="no">
         <source>水上バスのターミナルから|水上バスに乗るには|「特殊移動ポイント」を|使うのよ。</source>
-        <target state="translated">Taking the water-bus from a water-bus terminal requires you to spend Special Movement Points.</target>
+        <target state="translated">Taking the water-bus from a terminal requires you to spend Special Movement Points.</target>
       </trans-unit>
       <trans-unit id="610913" xml:space="preserve" approved="no">
         <source>水上バスは自動運行だから|ターンによって進行方向が|変わる事があるの。</source>
@@ -10343,169 +10343,169 @@
         <source>ヘリがいないヘリポート|では移動はできないわ。</source>
         <target state="translated">This should be obvious, but you can't use a heliport if the helicopter is not there.</target>
       </trans-unit>
-      <trans-unit id="535745" xml:space="preserve">
+      <trans-unit id="535745" xml:space="preserve" approved="no">
         <source>メンバーはタッチペンで|移動させればいい。</source>
-        <target/>
+        <target state="translated">Move Kira members with the stylus.#Mello</target>
       </trans-unit>
-      <trans-unit id="576905" xml:space="preserve">
+      <trans-unit id="576905" xml:space="preserve" approved="no">
         <source>コマンドの有効範囲は|実行した時、表示される|範囲だ。</source>
-        <target/>
+        <target state="translated">When selecting a command, its range of effect will be shown.</target>
       </trans-unit>
-      <trans-unit id="594829" xml:space="preserve">
+      <trans-unit id="594829" xml:space="preserve" approved="no">
         <source>捜査員のリタイアや|メンバーの逮捕で|勝利ポイントが増減する。</source>
-        <target/>
+        <target state="translated">Victory Points will increase or decrease as members from either side are eliminated.</target>
       </trans-unit>
-      <trans-unit id="618953" xml:space="preserve">
+      <trans-unit id="618953" xml:space="preserve" approved="no">
         <source>勝負を中断したいなら|「オプション」から|「ゲーム中断」を|選択すればいい。</source>
-        <target/>
+        <target state="translated">To suspend a match without losing your progress, choose “Pause" from the Options screen.</target>
       </trans-unit>
-      <trans-unit id="611057" xml:space="preserve">
+      <trans-unit id="611057" xml:space="preserve" approved="no">
         <source>チェックポイント指定が|ある場合は、そこに到達|しないと話が進まない。</source>
-        <target/>
+        <target state="translated">If reaching checkpoints is a requirement, do whatever it takes to get there. Otherwise, you won't progress.</target>
       </trans-unit>
-      <trans-unit id="586229" xml:space="preserve">
+      <trans-unit id="586229" xml:space="preserve" approved="no">
         <source>チェックポイントは|「オプション画面」で|内容確認できる。</source>
-        <target/>
+        <target state="translated">You can check the details of a checkpoint in the Options screen.</target>
       </trans-unit>
-      <trans-unit id="628417" xml:space="preserve">
+      <trans-unit id="628417" xml:space="preserve" approved="no">
         <source>特殊能力はうまく使えば|勝負が有利になるが、|タイミングが難しい。|チャンスをうまく狙え。</source>
-        <target/>
+        <target state="translated">Using special abilities effectively is all about finding the right timing. Don't screw it up.</target>
       </trans-unit>
-      <trans-unit id="522881" xml:space="preserve">
+      <trans-unit id="522881" xml:space="preserve" approved="no">
         <source>メンバーは、それぞれ特殊|能力がある。</source>
-        <target/>
+        <target state="translated">Every Kira member has their own special ability.</target>
       </trans-unit>
-      <trans-unit id="630401" xml:space="preserve">
+      <trans-unit id="630401" xml:space="preserve" approved="no">
         <source>逮捕されそうな時、|「デスノートの所有権移動」|すると、キラって存在は|捜査網からすり抜けちまう。</source>
-        <target/>
+        <target state="translated">If backed into a corner, Kira can transfer ownership of the Death Note to make sure it doesn't fall into the investigator's hands.</target>
       </trans-unit>
-      <trans-unit id="567545" xml:space="preserve">
+      <trans-unit id="567545" xml:space="preserve" approved="no">
         <source>「変装」すればカメラに|映る姿を他人に変えられる。</source>
-        <target/>
+        <target state="translated">When wearing a disguise, you'll show up on camera as that other person.</target>
       </trans-unit>
-      <trans-unit id="528265" xml:space="preserve">
+      <trans-unit id="528265" xml:space="preserve" approved="no">
         <source>変装は失敗する事もある。|過信はするな。</source>
-        <target/>
+        <target state="translated">A disguise won't fool the investigators forever. Watch your back.</target>
       </trans-unit>
-      <trans-unit id="608177" xml:space="preserve">
+      <trans-unit id="608177" xml:space="preserve" approved="no">
         <source>トラップに引っかかった|捜査員は、かわいそうだが|そこでリタイアだ。</source>
-        <target/>
+        <target state="translated">If an investigator activates a trap, the poor sod will be out of the game.</target>
       </trans-unit>
-      <trans-unit id="625141" xml:space="preserve">
+      <trans-unit id="625141" xml:space="preserve" approved="no">
         <source>トラップは設置して|２ターンしか効かない。|捜査員の動きを推理して|設置するんだ。</source>
-        <target/>
+        <target state="translated">Traps are only effective for two turns once placed. Set them where you think the investigators will go.</target>
       </trans-unit>
-      <trans-unit id="574217" xml:space="preserve">
+      <trans-unit id="574217" xml:space="preserve" approved="no">
         <source>トラップは数に限りがある。|確実なタイミングを狙え。</source>
-        <target/>
+        <target state="translated">Traps are in short supply. Don't use them until the time is right.</target>
       </trans-unit>
-      <trans-unit id="627085" xml:space="preserve">
+      <trans-unit id="627085" xml:space="preserve" approved="no">
         <source>都市カメラの監視網は|やっかいな存在だ。|だが、「カメラ破壊」で|分断する事はできる。</source>
-        <target/>
+        <target state="translated">The city cameras are a pain, but at least there's a way to take them out.</target>
       </trans-unit>
-      <trans-unit id="625225" xml:space="preserve">
+      <trans-unit id="625225" xml:space="preserve" approved="no">
         <source>都市カメラを破壊すれば、|監視に死角ができる。|捜査側を混乱させるには|いい手だ。</source>
-        <target/>
+        <target state="translated">Destroying cameras creates blind spots. It's a good way to make the investigators sweat.</target>
       </trans-unit>
-      <trans-unit id="630801" xml:space="preserve">
+      <trans-unit id="630801" xml:space="preserve" approved="no">
         <source>都市カメラには、|「グループ」と「エリア」|がある。|同色は１グループで、|それぞれにエリアを持つ。</source>
-        <target/>
+        <target state="translated">The city cameras are split into “groups". Each group has a different color, and is made up of several “areas".</target>
       </trans-unit>
-      <trans-unit id="567909" xml:space="preserve">
+      <trans-unit id="567909" xml:space="preserve" approved="no">
         <source>カメラの情報は、捜査側|にターンの頭で報告される。</source>
-        <target/>
+        <target state="translated">The investigators receive information from the cameras at the start of their turn.</target>
       </trans-unit>
-      <trans-unit id="599001" xml:space="preserve">
+      <trans-unit id="599001" xml:space="preserve" approved="no">
         <source>そのエリアの過半数の|カメラを破壊すれば|監視機能がダウンする。</source>
-        <target/>
+        <target state="translated">Destroying more than half of the cameras in an area will shut down its surveillance network.</target>
       </trans-unit>
-      <trans-unit id="599069" xml:space="preserve">
+      <trans-unit id="599069" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」を|地下鉄の駅で使えば|地下鉄で移動できる。</source>
-        <target/>
+        <target state="translated">Using Special Movement Points at the subway station will let you go for a ride.</target>
       </trans-unit>
-      <trans-unit id="611417" xml:space="preserve">
+      <trans-unit id="611417" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」は|上限が決まっている。|ポイント不足に注意しろ。</source>
-        <target/>
+        <target state="translated">Special Movement Points are in short supply. Don't waste them.</target>
       </trans-unit>
-      <trans-unit id="611489" xml:space="preserve">
+      <trans-unit id="611489" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」を|バスターミナルで使えば|高速バスで移動できる。</source>
-        <target/>
+        <target state="translated">Using Special Movement Points at the express bus terminal will let you go for a ride.</target>
       </trans-unit>
-      <trans-unit id="609833" xml:space="preserve">
+      <trans-unit id="609833" xml:space="preserve" approved="no">
         <source>水上バスに乗るには|ターミナルで|「特殊移動ポイント」を|使えばいい。</source>
-        <target/>
+        <target state="translated">Using Special Movement Points at the water-bus terminal will let you go for a ride.</target>
       </trans-unit>
-      <trans-unit id="590285" xml:space="preserve">
+      <trans-unit id="590285" xml:space="preserve" approved="no">
         <source>水上バスの進行方向は|ターンにより違う事がある。|注意しろ。</source>
-        <target/>
+        <target state="translated">The water-bus can change direction each turn. Don't go the wrong way.</target>
       </trans-unit>
-      <trans-unit id="586349" xml:space="preserve">
+      <trans-unit id="586349" xml:space="preserve" approved="no">
         <source>空のヘリポートじゃ|当たり前だがヘリに|乗る事は不可能だ。</source>
-        <target/>
+        <target state="translated">Unless you're an idiot, it should be obvious that you can't board a helicopter if it's not at the heliport.</target>
       </trans-unit>
-      <trans-unit id="515161" xml:space="preserve">
+      <trans-unit id="515161" xml:space="preserve" approved="no">
         <source>仲間はタッチペンで|移動させられる。</source>
-        <target/>
+        <target state="translated">Move your party using the stylus.#matt - the wiki page says he likes games so I've tried to incorporate that</target>
       </trans-unit>
-      <trans-unit id="611561" xml:space="preserve">
+      <trans-unit id="611561" xml:space="preserve" approved="no">
         <source>コマンドを実行すると、|表示される範囲が、その|コマンドの有効範囲だ。</source>
-        <target/>
+        <target state="translated">Select a command to view its range of effect.</target>
       </trans-unit>
-      <trans-unit id="623817" xml:space="preserve">
+      <trans-unit id="623817" xml:space="preserve" approved="no">
         <source>途中で中断するなら|「オプション」から|「ゲーム中断」を|選択すれば中断できる。</source>
-        <target/>
+        <target state="translated">You can use the “Pause" button in the Options screen to pause the game. Who would have thought?</target>
       </trans-unit>
-      <trans-unit id="545089" xml:space="preserve">
+      <trans-unit id="545089" xml:space="preserve" approved="no">
         <source>メンバーは、それぞれ|特殊能力を持っている。</source>
-        <target/>
+        <target state="translated">Each member of the party has their own special ability.</target>
       </trans-unit>
-      <trans-unit id="595277" xml:space="preserve">
+      <trans-unit id="595277" xml:space="preserve" approved="no">
         <source>特殊能力は使う|タイミングが難しい。|チャンスを待たないとな。</source>
-        <target/>
+        <target state="translated">It's hard to know when to use a special ability. You just have to take your chances.</target>
       </trans-unit>
-      <trans-unit id="617205" xml:space="preserve">
+      <trans-unit id="617205" xml:space="preserve" approved="no">
         <source>「変装」すればカメラに|映る姿を他人に変えられる。|単純だが、うまい手だ。</source>
-        <target/>
+        <target state="translated">You can use disguises to trick the cameras. It's pretty useful.</target>
       </trans-unit>
-      <trans-unit id="521921" xml:space="preserve">
+      <trans-unit id="521921" xml:space="preserve" approved="no">
         <source>変装はバレる事もある。|油断は禁物だ。</source>
-        <target/>
+        <target state="translated">Even if you use a disguise, you can never be too careful.</target>
       </trans-unit>
       <trans-unit id="614545" xml:space="preserve" approved="no">
         <source>トラップは数に限りがある。|チャンスを待って、|確実なタイミングを狙え。</source>
         <target state="translated">There's a limit to the number of traps you can set. Wait for your chance and time it well.</target>
       </trans-unit>
-      <trans-unit id="603829" xml:space="preserve">
+      <trans-unit id="603829" xml:space="preserve" approved="no">
         <source>都市カメラは捜査側の目だ。|その目をつぶすのが|「カメラ破壊」だ。</source>
-        <target/>
+        <target state="translated">City cameras act as the eyes of the investigators. Destroying the cameras will blind them.</target>
       </trans-unit>
-      <trans-unit id="609905" xml:space="preserve">
+      <trans-unit id="609905" xml:space="preserve" approved="no">
         <source>都市カメラを破壊すれば|死角ができる。|監視を煙にまくには|いい手だ。</source>
-        <target/>
+        <target state="translated">Destroying cameras creates blind spots that let you move around undetected.</target>
       </trans-unit>
-      <trans-unit id="629061" xml:space="preserve">
+      <trans-unit id="629061" xml:space="preserve" approved="no">
         <source>都市カメラを破壊すれば、|捜査員が修復に動くだろう。|うまく利用すれば|おびき寄せられるな。</source>
-        <target/>
+        <target state="translated">Investigators will rush to fix broken cameras. That makes their movements easy to predict.</target>
       </trans-unit>
-      <trans-unit id="633637" xml:space="preserve">
+      <trans-unit id="633637" xml:space="preserve" approved="no">
         <source>都市カメラには、|「グループ」と「エリア」|があるんだ。|同じ色が同じグループ。|それぞれエリアが設定|されている。</source>
-        <target/>
+        <target state="translated">City cameras are split into “groups" and “areas". Each group has its own color, and covers different areas.</target>
       </trans-unit>
-      <trans-unit id="608753" xml:space="preserve">
+      <trans-unit id="608753" xml:space="preserve" approved="no">
         <source>カメラはターンの初めに|情報を報告するんだ。|捜査員はそれを見てる。</source>
-        <target/>
+        <target state="translated">The cameras feed information to the investigators at the start of each turn.</target>
       </trans-unit>
-      <trans-unit id="599545" xml:space="preserve">
+      <trans-unit id="599545" xml:space="preserve" approved="no">
         <source>都市カメラは、そのエリア|の過半数を破壊されれば|機能ダウンだ。</source>
-        <target/>
+        <target state="translated">You can wipe out the surveillance network of an area if you destroy 50% of the surrounding cameras.</target>
       </trans-unit>
-      <trans-unit id="611993" xml:space="preserve">
+      <trans-unit id="611993" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」は|上限が決まっている。|ポイント不足に要注意だ。</source>
-        <target/>
+        <target state="translated">Special Movement Points don't last forever. Keep an eye on them.</target>
       </trans-unit>
-      <trans-unit id="561877" xml:space="preserve">
+      <trans-unit id="561877" xml:space="preserve" approved="no">
         <source>水上バスの進行方向は|ターンにより違う事がある。</source>
-        <target/>
+        <target state="translated">The direction of the water-bus can change between turns.</target>
       </trans-unit>
       <trans-unit id="557425" xml:space="preserve">
         <source>その調子です。逮捕は、|まだしないでください。</source>
