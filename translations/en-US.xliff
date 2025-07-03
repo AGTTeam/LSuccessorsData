@@ -12327,121 +12327,121 @@
         <source>容疑者だ。間違いない！</source>
         <target state="translated">That's the suspect! There's no doubt about it.</target>
       </trans-unit>
-      <trans-unit id="510185" xml:space="preserve">
+      <trans-unit id="510185" xml:space="preserve" approved="no">
         <source>容疑者らしい人物は|発見できんか…</source>
-        <target/>
+        <target state="translated">I don't see anything suspicious…</target>
       </trans-unit>
-      <trans-unit id="514241" xml:space="preserve">
+      <trans-unit id="514241" xml:space="preserve" approved="no">
         <source>失敗だ。怪しい奴は|どこにもいない。</source>
-        <target/>
+        <target state="translated">This one's a bust. The suspects aren't here.</target>
       </trans-unit>
-      <trans-unit id="604033" xml:space="preserve">
+      <trans-unit id="604033" xml:space="preserve" approved="no">
         <source>容疑者は必ず、この街の|どこかにいるはずだ。|だが、それは一体……</source>
-        <target/>
+        <target state="translated">The suspect has to be somewhere in this city… but where exactly?</target>
       </trans-unit>
-      <trans-unit id="501377" xml:space="preserve">
+      <trans-unit id="501377" xml:space="preserve" approved="no">
         <source>映像を見てくれ、容疑者だ！</source>
-        <target/>
+        <target state="translated">Watch this back, there's our suspect!</target>
       </trans-unit>
-      <trans-unit id="574385" xml:space="preserve">
+      <trans-unit id="574385" xml:space="preserve" approved="no">
         <source>容疑者らしい人物を映像で|確認した。これを見てくれ。</source>
-        <target/>
+        <target state="translated">I've identified a suspect in this footage. Take a look.</target>
       </trans-unit>
-      <trans-unit id="527341" xml:space="preserve">
+      <trans-unit id="527341" xml:space="preserve" approved="no">
         <source>やったぞ！　成功だ。|容疑者が映ってる！</source>
-        <target/>
+        <target state="translated">Yes! We've got them. You can clearly see the suspect in this footage.</target>
       </trans-unit>
-      <trans-unit id="558497" xml:space="preserve">
+      <trans-unit id="558497" xml:space="preserve" approved="no">
         <source>ダメだったか…|この辺りには|いないというのか？</source>
-        <target/>
+        <target state="translated">Nothing... Does that mean the suspects aren't in this area?</target>
       </trans-unit>
-      <trans-unit id="568169" xml:space="preserve">
+      <trans-unit id="568169" xml:space="preserve" approved="no">
         <source>映像には手がかりはない。|しかし、きっとどこかに…</source>
-        <target/>
+        <target state="translated">The footage doesn't provide any leads. But, there must be something, somewhere…</target>
       </trans-unit>
-      <trans-unit id="571865" xml:space="preserve">
+      <trans-unit id="571865" xml:space="preserve" approved="no">
         <source>映像中にはどこにも|怪しい人物はいない。|…失敗だ。</source>
-        <target/>
+        <target state="translated">There's nothing suspicious in here at all.|...It's a complete failure.</target>
       </trans-unit>
-      <trans-unit id="554017" xml:space="preserve">
+      <trans-unit id="554017" xml:space="preserve" approved="no">
         <source>カメラの修復は完了した。|動作を確認してくれ。</source>
-        <target/>
+        <target state="translated">The camera has been repaired. Can you test it to make sure it's working?</target>
       </trans-unit>
-      <trans-unit id="537505" xml:space="preserve">
+      <trans-unit id="537505" xml:space="preserve" approved="no">
         <source>やっと修復できたな。|捜査を急がなければ…</source>
-        <target/>
+        <target state="translated">That's one job done. Now I need to get back to the investigation.</target>
       </trans-unit>
-      <trans-unit id="611849" xml:space="preserve">
+      <trans-unit id="611849" xml:space="preserve" approved="no">
         <source>容疑者は近くにいたはずだ。|しかし、それが陽動だった|可能性もあるな。</source>
-        <target/>
+        <target state="translated">A suspect must have been nearby. Unless this was just a diversion...</target>
       </trans-unit>
-      <trans-unit id="582149" xml:space="preserve">
+      <trans-unit id="582149" xml:space="preserve" approved="no">
         <source>周辺の道路を封鎖した。|あとは容疑者を|追い込むだけだ。</source>
-        <target/>
+        <target state="translated">I've sealed off the road. Now we just need to close in on the suspect.</target>
       </trans-unit>
-      <trans-unit id="599613" xml:space="preserve">
+      <trans-unit id="599613" xml:space="preserve" approved="no">
         <source>容疑者は検問には近づくまい。|捜査地域を絞るには|役立つはずだ。</source>
-        <target/>
+        <target state="translated">A smart criminal will steer well clear of a roadblock. That narrows our search area.</target>
       </trans-unit>
-      <trans-unit id="574441" xml:space="preserve">
+      <trans-unit id="574441" xml:space="preserve" approved="no">
         <source>この検問は、もはや無意味か。|解除するしかあるまい。</source>
-        <target/>
+        <target state="translated">Is this roadblock useless now? I guess I'd better dismantle it.</target>
       </trans-unit>
-      <trans-unit id="564945" xml:space="preserve">
+      <trans-unit id="564945" xml:space="preserve" approved="no">
         <source>検問はダメだったか。|だが、別の手はあるだろう。</source>
-        <target/>
+        <target state="translated">So the roadblock was a bust... But we're not out of options yet.</target>
       </trans-unit>
-      <trans-unit id="614773" xml:space="preserve">
+      <trans-unit id="614773" xml:space="preserve" approved="no">
         <source>夜神だ。この検問を解除する。|以後、この周辺にも捜査員の|注意が必要だ。</source>
-        <target/>
+        <target state="translated">This is Yagami. I'm lifting the roadblock, but we should still keep eyes on this area.</target>
       </trans-unit>
-      <trans-unit id="595405" xml:space="preserve">
+      <trans-unit id="595405" xml:space="preserve" approved="no">
         <source>隠しカメラとは…|日本警察のする事ではないが、|仕方あるまい。</source>
-        <target/>
+        <target state="translated">Hidden cameras aren't permitted in the police force, but I suppose I have no choice now.</target>
       </trans-unit>
-      <trans-unit id="611921" xml:space="preserve">
+      <trans-unit id="611921" xml:space="preserve" approved="no">
         <source>これが少しでも役に立つなら、|強引でもやるしかない。|責任は私が取る。</source>
-        <target/>
+        <target state="translated">If this can give us even a small lead, I'll do it. I take full responsibility.</target>
       </trans-unit>
-      <trans-unit id="590605" xml:space="preserve">
+      <trans-unit id="590605" xml:space="preserve" approved="no">
         <source>隠しカメラの効果は|私にも理解できる。|うまくいくといいが…</source>
-        <target/>
+        <target state="translated">I can understand the potential of a hidden camera. I just hope they work as intended…</target>
       </trans-unit>
-      <trans-unit id="558081" xml:space="preserve">
+      <trans-unit id="558081" xml:space="preserve" approved="no">
         <source>この方法なら|容疑者に気づかれず|動けるだろう。</source>
-        <target/>
+        <target state="translated">This way I can move without alerting the suspect.</target>
       </trans-unit>
-      <trans-unit id="519681" xml:space="preserve">
+      <trans-unit id="519681" xml:space="preserve" approved="no">
         <source>少しでも敵より|先回りできればいいが…</source>
-        <target/>
+        <target state="translated">Maybe this'll help me get ahead of the enemy.</target>
       </trans-unit>
-      <trans-unit id="495845" xml:space="preserve">
+      <trans-unit id="495845" xml:space="preserve" approved="no">
         <source>裏路地か…これなら…</source>
-        <target/>
+        <target state="translated">A back alley. If I take this…</target>
       </trans-unit>
-      <trans-unit id="495653" xml:space="preserve">
+      <trans-unit id="495653" xml:space="preserve" approved="no">
         <source>…近くに誰かいるな。</source>
-        <target/>
+        <target state="translated">...Someone's close.</target>
       </trans-unit>
-      <trans-unit id="506441" xml:space="preserve">
+      <trans-unit id="506441" xml:space="preserve" approved="no">
         <source>何か見落としを|しているような…</source>
-        <target/>
+        <target state="translated">I feel like I'm overlooking something…</target>
       </trans-unit>
-      <trans-unit id="522721" xml:space="preserve">
+      <trans-unit id="522721" xml:space="preserve" approved="no">
         <source>どうも誰かに|見られているような気が…</source>
-        <target/>
+        <target state="translated">I can't shake the feeling that someone’s watching me…</target>
       </trans-unit>
-      <trans-unit id="508241" xml:space="preserve">
+      <trans-unit id="508241" xml:space="preserve" approved="no">
         <source>夜神だ。|隠しカメラを回収した。</source>
-        <target/>
+        <target state="translated">This is Yagami. I've retrieved the hidden camera.</target>
       </trans-unit>
       <trans-unit id="495869" xml:space="preserve" approved="no">
         <source>カメラ回収完了した。</source>
         <target state="translated">I've finished retrieving this camera.</target>
       </trans-unit>
-      <trans-unit id="495629" xml:space="preserve">
+      <trans-unit id="495629" xml:space="preserve" approved="no">
         <source>カメラを回収したぞ。</source>
-        <target/>
+        <target state="translated">I've secured the camera.</target>
       </trans-unit>
       <trans-unit id="529101" xml:space="preserve" approved="no">
         <source>ここは地下鉄で|一気に移動といきますか。</source>
@@ -12493,7 +12493,7 @@
       </trans-unit>
       <trans-unit id="504801" xml:space="preserve" approved="no">
         <source>容疑者を確保！|やりましたよ！</source>
-        <target state="translated">Suspect apprehended|I did it!</target>
+        <target state="translated">Suspect apprehended!|I did it!</target>
       </trans-unit>
       <trans-unit id="546289" xml:space="preserve" approved="no">
         <source>こちら松田、容疑者を|捜査本部へ連行します。</source>
@@ -12509,7 +12509,7 @@
       </trans-unit>
       <trans-unit id="497825" xml:space="preserve" approved="no">
         <source>しまった！　やられた！</source>
-        <target state="translated">Shit! I've been had!</target>
+        <target state="translated">No! I've been had!</target>
       </trans-unit>
       <trans-unit id="499337" xml:space="preserve" approved="no">
         <source>わっ！　ト、トラップ！？</source>
@@ -12601,7 +12601,7 @@
       </trans-unit>
       <trans-unit id="595213" xml:space="preserve" approved="no">
         <source>隠しカメラって|何だか気は進まないな。|いや、やりますけどね。</source>
-        <target state="translated">I don't really like the idea of hidden cameras, for some reason.|But I'll set it up.</target>
+        <target state="translated">I don't really like the idea of hidden cameras.|But I'll set it up.</target>
       </trans-unit>
       <trans-unit id="544945" xml:space="preserve" approved="no">
         <source>これが役に立ってくれれば|いいんですけどね。</source>
@@ -12791,65 +12791,65 @@
         <source>検問でうまく敵を|誘導できればいいが…</source>
         <target state="translated">Hopefully, we can lure the enemy into this roadblock.</target>
       </trans-unit>
-      <trans-unit id="574273" xml:space="preserve">
+      <trans-unit id="574273" xml:space="preserve" approved="no">
         <source>仕方がない。これ以上、|検問を維持しても意味がない。</source>
-        <target/>
+        <target state="translated">Alright. I guess there's no point in maintaining this roadblock any longer.</target>
       </trans-unit>
-      <trans-unit id="567961" xml:space="preserve">
+      <trans-unit id="567961" xml:space="preserve" approved="no">
         <source>検問はムダか。もしかすると、|設置場所を変えたら…</source>
-        <target/>
+        <target state="translated">There's no point having this here any more. Maybe if we moved it somewhere else…</target>
       </trans-unit>
-      <trans-unit id="506477" xml:space="preserve">
+      <trans-unit id="506477" xml:space="preserve" approved="no">
         <source>こちら模木。|検問を解除します。</source>
-        <target/>
+        <target state="translated">This is Mogi. I'll take down the roadblock.</target>
       </trans-unit>
-      <trans-unit id="536625" xml:space="preserve">
+      <trans-unit id="536625" xml:space="preserve" approved="no">
         <source>隠しカメラか…|気は進まないが…仕方ない。</source>
-        <target/>
+        <target state="translated">A hidden camera? Can't say I'm too fond of the idea, but orders are orders.</target>
       </trans-unit>
-      <trans-unit id="501153" xml:space="preserve">
+      <trans-unit id="501153" xml:space="preserve" approved="no">
         <source>これが役に立ってくれれば…</source>
-        <target/>
+        <target state="translated">I hope this works…</target>
       </trans-unit>
-      <trans-unit id="553057" xml:space="preserve">
+      <trans-unit id="553057" xml:space="preserve" approved="no">
         <source>隠しカメラですか…|わかりました。手配します。</source>
-        <target/>
+        <target state="translated">A hidden camera?|Understood. I'll get it done.</target>
       </trans-unit>
-      <trans-unit id="568013" xml:space="preserve">
+      <trans-unit id="568013" xml:space="preserve" approved="no">
         <source>犯人達も、裏路地を使う事は|予想していないだろう。</source>
-        <target/>
+        <target state="translated">The suspects won't be able to anticipate my moves if I use a back alley.</target>
       </trans-unit>
-      <trans-unit id="544561" xml:space="preserve">
+      <trans-unit id="544561" xml:space="preserve" approved="no">
         <source>ここから行けば敵の裏を|かけるかもしれない。</source>
-        <target/>
+        <target state="translated">If I go this way, I might be able to outsmart the enemy.</target>
       </trans-unit>
-      <trans-unit id="611273" xml:space="preserve">
+      <trans-unit id="611273" xml:space="preserve" approved="no">
         <source>裏路地を使うとは、まるで|こちらが容疑者のようだが、|ここは仕方ない。</source>
-        <target/>
+        <target state="translated">Using back alleys might make me look suspicious, but they have their purpose.</target>
       </trans-unit>
-      <trans-unit id="502561" xml:space="preserve">
+      <trans-unit id="502561" xml:space="preserve" approved="no">
         <source>…近くに容疑者がいるのか？</source>
-        <target/>
+        <target state="translated">...Is someone else here?</target>
       </trans-unit>
-      <trans-unit id="516441" xml:space="preserve">
+      <trans-unit id="516441" xml:space="preserve" approved="no">
         <source>おかしい…|もしかするとトラップが…</source>
-        <target/>
+        <target state="translated">Something's not right. Could there be a trap...?</target>
       </trans-unit>
-      <trans-unit id="553105" xml:space="preserve">
+      <trans-unit id="553105" xml:space="preserve" approved="no">
         <source>まさか、こちらの動きを|見張られているのか…？</source>
-        <target/>
+        <target state="translated">...Strange. Is the enemy following our movements?</target>
       </trans-unit>
-      <trans-unit id="501409" xml:space="preserve">
+      <trans-unit id="501409" xml:space="preserve" approved="no">
         <source>隠しカメラは回収しました。</source>
-        <target/>
+        <target state="translated">Hidden camera recovered.</target>
       </trans-unit>
-      <trans-unit id="497405" xml:space="preserve">
+      <trans-unit id="497405" xml:space="preserve" approved="no">
         <source>カメラを回収しました。</source>
-        <target/>
+        <target state="translated">I've got the camera.</target>
       </trans-unit>
-      <trans-unit id="536669" xml:space="preserve">
+      <trans-unit id="536669" xml:space="preserve" approved="no">
         <source>カメラ回収しましたが、|いいんでしょうか？</source>
-        <target/>
+        <target state="translated">I've got the camera, is that everything here?</target>
       </trans-unit>
       <trans-unit id="516201" xml:space="preserve" approved="no">
         <source>相沢だ。|ここから地下鉄で移動する。</source>
@@ -12941,7 +12941,7 @@
       </trans-unit>
       <trans-unit id="603421" xml:space="preserve" approved="no">
         <source>奴等はこの街のどこかに|必ずいるはずだ。|だが、それはどこなんだ？</source>
-        <target state="translated">They have to be somewhere on this street. But where?#when proofreading check if "street" or "town"</target>
+        <target state="translated">They have to be somewhere around here. But where?</target>
       </trans-unit>
       <trans-unit id="528353" xml:space="preserve" approved="no">
         <source>映像を確認してくれ！|容疑者を発見した！</source>
