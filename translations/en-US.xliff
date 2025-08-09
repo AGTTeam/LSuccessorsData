@@ -5203,13 +5203,13 @@
         <source>２冊のノートのどちらが本物か、|手に入れてみなければ１００％の|確証はない…||そこでニアは、魅上の持つ２冊の|ノートを、両方ともすり替える策に|出たのだった。</source>
         <target state="translated">Which was the real notebook? There was no way to be 100% certain without having both on hand…||So Near proposed a strategy: replacing both of the notebooks with fakes.</target>
       </trans-unit>
-      <trans-unit id="843836" xml:space="preserve">
+      <trans-unit id="843836" xml:space="preserve" approved="no">
         <source>メロには、わかっていたんです。|私もメロもＬを超せない事を…&gt;&gt;私は行動力に欠け、|メロは冷静さに欠ける…&gt;&gt;つまり互いが互いの目標とする者を|超せないと…しかし…</source>
-        <target/>
+        <target state="translated">Mello knew that neither he nor I could surpass L...&gt;&gt;I lack initiative,|and Mello couldn't keep a cool head...&gt;&gt;In other words, we couldn't surpass the person we each wanted to... But…</target>
       </trans-unit>
-      <trans-unit id="801920" xml:space="preserve">
+      <trans-unit id="801920" xml:space="preserve" approved="no">
         <source>||||　　　２人ならＬに並べる、|||\T0060\t0002　　　２人ならＬを超せる。</source>
-        <target/>
+        <target state="translated">...the two of us together could stand shoulder to shoulder with L,|||\T0060\t0002...together, we could surpass him.</target>
       </trans-unit>
       <trans-unit id="785644" xml:space="preserve" approved="no">
         <source>…ふ\T0060\t0002…ふふ\T0030\t0000…ふははは！！</source>
@@ -5975,9 +5975,9 @@
         <source>キラは&lt;name&gt;ヶ所に痕跡を|残しました。|何か企んでますね。</source>
         <target state="translated">Kira has left traces in &lt;name&gt; location(s).|They may be planning something.</target>
       </trans-unit>
-      <trans-unit id="534205" xml:space="preserve">
+      <trans-unit id="534205" xml:space="preserve" approved="no">
         <source>何をやってるんでしょう。|バレバレですよ。</source>
-        <target/>
+        <target state="translated">What are they playing at? |They're being so obvious!</target>
       </trans-unit>
       <trans-unit id="534249" xml:space="preserve" approved="no">
         <source>このまま泳がせるのも|一興かもしれません。</source>
@@ -6011,9 +6011,9 @@
         <source>キラが痕跡を残したのは|&lt;name&gt;ヶ所。|そこに何かあります。</source>
         <target state="translated">Kira has left traces in &lt;name&gt; location(s).|There must be something there.</target>
       </trans-unit>
-      <trans-unit id="514001" xml:space="preserve">
+      <trans-unit id="514001" xml:space="preserve" approved="no">
         <source>ふーん、こんな簡単な手を|使うとは…</source>
-        <target/>
+        <target state="translated">Hmm, to think that they would use such simple methods…</target>
       </trans-unit>
       <trans-unit id="534821" xml:space="preserve" approved="no">
         <source>監視を続けてください。|見逃さないように。</source>
@@ -6187,17 +6187,17 @@
         <source>もしかすると|彼等の潜伏場所は…</source>
         <target state="translated">Could their hiding place really be…?</target>
       </trans-unit>
-      <trans-unit id="509753" xml:space="preserve">
+      <trans-unit id="509753" xml:space="preserve" approved="no">
         <source>裏の情報網なら|何かつかめるかも…</source>
-        <target/>
+        <target state="translated">The underground information network|might be able to come up with something…</target>
       </trans-unit>
       <trans-unit id="555025" xml:space="preserve" approved="no">
         <source>どうやら狙いが当たったわね。|敵は近くにいる！</source>
         <target state="translated">It seems we’ve hit our target.|The enemy is nearby!</target>
       </trans-unit>
-      <trans-unit id="600633" xml:space="preserve">
+      <trans-unit id="600633" xml:space="preserve" approved="no">
         <source>…この周辺にはいない…|なるほど、読み通りには|いかないものね。</source>
-        <target/>
+        <target state="translated">...there's no one around here, then...|I see, it doesn't turn out as we predicted.</target>
       </trans-unit>
       <trans-unit id="530817" xml:space="preserve" approved="no">
         <source>くそっ…キラめ！|派手にやってくれたな。</source>
@@ -7679,9 +7679,9 @@
         <source>勝負を中断する時は|「オプション」から|「ゲーム中断」を|選択するんだ。</source>
         <target state="translated">If you need to pause an operation, select “Pause" from the Options screen.</target>
       </trans-unit>
-      <trans-unit id="602469" xml:space="preserve">
+      <trans-unit id="602469" xml:space="preserve" approved="no">
         <source>捜査員が潜伏している|容疑者と接触すれば、|逮捕する事ができるぞ。</source>
-        <target/>
+        <target state="translated">If an investigator comes into contact with a hidden suspect, they can arrest them.</target>
       </trans-unit>
       <trans-unit id="627877" xml:space="preserve" approved="no">
         <source>「目撃情報」を行うと|捜査員がいるエリアに|容疑者がいたかどうか、|確認する事ができる。</source>
@@ -9147,9 +9147,9 @@
         <source>敵もこちらがヘリを使うとは|予想していないはずだ。</source>
         <target/>
       </trans-unit>
-      <trans-unit id="502721" xml:space="preserve">
+      <trans-unit id="502721" xml:space="preserve" approved="no">
         <source>わ、私は神の仰せの通りに…</source>
-        <target/>
+        <target state="translated">I-I did as my God willed…</target>
       </trans-unit>
       <trans-unit id="494337" xml:space="preserve" approved="no">
         <source>か、神…私は…</source>
