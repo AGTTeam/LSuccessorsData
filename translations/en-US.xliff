@@ -9103,49 +9103,49 @@
         <source>地下鉄は地上と連絡できない。|神の御心をよく考えて|行動しなければ…</source>
         <target state="translated">It's impossible to communicate to anyone above ground while on the subway.|I have to consider God's will carefully before making this move…#mikami start</target>
       </trans-unit>
-      <trans-unit id="593805" xml:space="preserve">
+      <trans-unit id="593805" xml:space="preserve" approved="no">
         <source>地下鉄に乗るか。|行動は制限されるが|敵をかわすには仕方ない。</source>
-        <target/>
+        <target state="translated">Should I take the subway? My movement will be restricted but if it means avoiding the enemy then I'll do it if I have to.</target>
       </trans-unit>
       <trans-unit id="585209" xml:space="preserve" approved="no">
         <source>地下鉄…|神の御心に従えるなら、|どんなリスクも覚悟の上…</source>
         <target state="translated">The subway…|I'm willing to take any risk if it is God's will…</target>
       </trans-unit>
-      <trans-unit id="616597" xml:space="preserve">
+      <trans-unit id="616597" xml:space="preserve" approved="no">
         <source>神に代わって少しでも広く|活動するには、より速い|交通手段を選ばなければ。</source>
-        <target/>
+        <target state="translated">I need to choose a faster mode of transport if I am going to act as God's representative and expand our operations at all.</target>
       </trans-unit>
-      <trans-unit id="597845" xml:space="preserve">
+      <trans-unit id="597845" xml:space="preserve" approved="no">
         <source>高速バスなら邪魔は入らない。|今のうちに次の手を|考えておくか。</source>
-        <target/>
+        <target state="translated">Using an express bus will give me time to think. I'll come up with my next move while I have the chance.</target>
       </trans-unit>
-      <trans-unit id="573601" xml:space="preserve">
+      <trans-unit id="573601" xml:space="preserve" approved="no">
         <source>バスでは行動が制限される。|だが、それは承知の上だ。</source>
-        <target/>
+        <target state="translated">Taking the bus will limit my options, but I'm fully aware of the risks.</target>
       </trans-unit>
-      <trans-unit id="587969" xml:space="preserve">
+      <trans-unit id="587969" xml:space="preserve" approved="no">
         <source>これで追手をかわせるだろう。|その間に今後の事を考えよう。</source>
-        <target/>
+        <target state="translated">I should be able to give my pursuers the slip this way. I'll use the time to consider my next move.</target>
       </trans-unit>
-      <trans-unit id="526417" xml:space="preserve">
+      <trans-unit id="526417" xml:space="preserve" approved="no">
         <source>水上バスなら|しばらくは追跡をかわせる。</source>
-        <target/>
+        <target state="translated">I should be able to throw the pursuers off my scent for a while if I take the water-bus.</target>
       </trans-unit>
-      <trans-unit id="610625" xml:space="preserve">
+      <trans-unit id="610625" xml:space="preserve" approved="no">
         <source>神の偉業を実現するために|私が果たすべき役目は…|冷静に考えなければ。</source>
-        <target/>
+        <target state="translated">What role must I fulfil so that God's great work can be realised...? I have to think about this with a level head.</target>
       </trans-unit>
-      <trans-unit id="580769" xml:space="preserve">
+      <trans-unit id="580769" xml:space="preserve" approved="no">
         <source>都市上空では|誰も私の邪魔はできない。|よい移動手段だ。</source>
-        <target/>
+        <target state="translated">No one can get in my way if I take to the skies. A good choice for transportation.</target>
       </trans-unit>
-      <trans-unit id="559641" xml:space="preserve">
+      <trans-unit id="559641" xml:space="preserve" approved="no">
         <source>ここはヘリを使おう。|神…私が見えるでしょうか。</source>
-        <target/>
+        <target state="translated">I'll use a helicopter. God...I wonder if you can see me.</target>
       </trans-unit>
-      <trans-unit id="566973" xml:space="preserve">
+      <trans-unit id="566973" xml:space="preserve" approved="no">
         <source>敵もこちらがヘリを使うとは|予想していないはずだ。</source>
-        <target/>
+        <target state="translated">The enemy can't have predicted that we would use helicopters too, I'm sure of it.</target>
       </trans-unit>
       <trans-unit id="502721" xml:space="preserve" approved="no">
         <source>わ、私は神の仰せの通りに…</source>
