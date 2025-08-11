@@ -9155,17 +9155,17 @@
         <source>か、神…私は…</source>
         <target state="translated">G-God… I…</target>
       </trans-unit>
-      <trans-unit id="573769" xml:space="preserve">
+      <trans-unit id="573769" xml:space="preserve" approved="no">
         <source>何故、私がこんな目に会う！|…ち、違う…あり得ない。</source>
-        <target/>
+        <target state="translated">How could this have happened to me? ...N-no...it's not possible!</target>
       </trans-unit>
       <trans-unit id="534381" xml:space="preserve" approved="no">
         <source>神の御心にかなうなら、|ノートを手放して…</source>
         <target state="translated">To fulfill God's will, I have to let go of the Note…</target>
       </trans-unit>
-      <trans-unit id="526461" xml:space="preserve">
+      <trans-unit id="526461" xml:space="preserve" approved="no">
         <source>ノートを慎重に扱う。|それも私の役目だ。</source>
-        <target/>
+        <target state="translated">I will handle the Note with care. That is also my duty.</target>
       </trans-unit>
       <trans-unit id="551185" xml:space="preserve" approved="no">
         <source>神、仰せの通りに。|ノートの所有権を移します。</source>
@@ -9175,13 +9175,13 @@
         <source>神に逆らう愚か者ども…|私が削除しなければ。</source>
         <target state="translated">These fools who defy God…|I have no choice but to delete them.</target>
       </trans-unit>
-      <trans-unit id="585389" xml:space="preserve">
+      <trans-unit id="585389" xml:space="preserve" approved="no">
         <source>私はキラの法として|選ばれた人間。|期待にこたえなければ…</source>
-        <target/>
+        <target state="translated">I have been chosen to act as Kira's law. I must live up to His expectations…</target>
       </trans-unit>
-      <trans-unit id="542305" xml:space="preserve">
+      <trans-unit id="542305" xml:space="preserve" approved="no">
         <source>フフ…おまえ達には|神の裁きこそふさわしい。</source>
-        <target/>
+        <target state="translated">Heheh… You people will be suitable for God's judgment.</target>
       </trans-unit>
       <trans-unit id="503777" xml:space="preserve" approved="no">
         <source>反逆者どもの末路は皆同じだ。</source>
@@ -9195,37 +9195,37 @@
         <source>キラの教えに従わぬ人間は、|私が削除する。</source>
         <target state="translated">I will delete all humans who stray from the teachings of Kira.</target>
       </trans-unit>
-      <trans-unit id="580829" xml:space="preserve">
+      <trans-unit id="580829" xml:space="preserve" approved="no">
         <source>よし…|こんなものに見張られては|十分な働きができない。</source>
-        <target/>
+        <target state="translated">There... I can't move around properly being watched like this.</target>
       </trans-unit>
-      <trans-unit id="589069" xml:space="preserve">
+      <trans-unit id="589069" xml:space="preserve" approved="no">
         <source>いまだにキラに逆らい、|こんなものを仕掛けるとは。|愚かな…</source>
-        <target/>
+        <target state="translated">Still they defy Kira and set up these pathetic things. How foolish…</target>
       </trans-unit>
       <trans-unit id="534513" xml:space="preserve" approved="no">
         <source>キラの障害になるものは|取り除かなければ。</source>
         <target state="translated">I must remove all obstacles in Kira's way.</target>
       </trans-unit>
-      <trans-unit id="559745" xml:space="preserve">
+      <trans-unit id="559745" xml:space="preserve" approved="no">
         <source>隠しカメラなど所詮、|愚かな悪あがきに過ぎない。</source>
-        <target/>
+        <target state="translated">These hidden cameras are nothing more than the enemy's foolish attempt to fight a losing battle.</target>
       </trans-unit>
-      <trans-unit id="526505" xml:space="preserve">
+      <trans-unit id="526505" xml:space="preserve" approved="no">
         <source>こんなものが役に立つと|思っていたのか。</source>
-        <target/>
+        <target state="translated">Did they really think this would be useful?</target>
       </trans-unit>
-      <trans-unit id="576569" xml:space="preserve">
+      <trans-unit id="576569" xml:space="preserve" approved="no">
         <source>うかつに動けば|危なかった…|だが、運はこちらにある！</source>
-        <target/>
+        <target state="translated">That was close, if I had put even one foot wrong... But luck is on my side!</target>
       </trans-unit>
-      <trans-unit id="602673" xml:space="preserve">
+      <trans-unit id="602673" xml:space="preserve" approved="no">
         <source>フフ…これでよし。|ほんの少しの間なら|カメラをごまかせるだろう。</source>
-        <target/>
+        <target state="translated">Heh, perfect. Now I'll be able to trick the cameras, if I'm quick.</target>
       </trans-unit>
-      <trans-unit id="526549" xml:space="preserve">
+      <trans-unit id="526549" xml:space="preserve" approved="no">
         <source>これで、短時間なら|気づかれる事はない。</source>
-        <target/>
+        <target state="translated">Now they won't notice me for a short time.</target>
       </trans-unit>
       <trans-unit id="567077" xml:space="preserve">
         <source>こんなものに頼るとは、|見えすいた手を使う奴等だ。</source>
