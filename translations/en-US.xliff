@@ -825,7 +825,7 @@
       </trans-unit>
       <trans-unit id="771876" xml:space="preserve" approved="no">
         <source>||||||　　　　ノートの切れ端</source>
-        <target state="translated">||||||Scraps of the Note</target>
+        <target state="translated">||||||Scraps of the Death Note</target>
       </trans-unit>
       <trans-unit id="799000" xml:space="preserve" approved="no">
         <source>\c04『ノートの切れ端』\c02は|キラ側の『トラップ』の|\c04残がい\c02です。</source>
@@ -893,11 +893,11 @@
       </trans-unit>
       <trans-unit id="771408" xml:space="preserve" approved="no">
         <source>||||||　　　　　リーダー画面</source>
-        <target state="translated">||||||Info Screen</target>
+        <target state="translated">||||||Top Screen</target>
       </trans-unit>
       <trans-unit id="862280" xml:space="preserve" approved="no">
         <source>\c04『リーダー画面』\c02とは、捜査員を|指揮するリーダーと、捜査状況を|表した画面を指します。&gt;&gt;そして、リーダー画面には|重要なものが２つあります。&gt;&gt;\c04『ターン数』\c02と|\c04『勝利ポイントゲージ』\c02です。</source>
-        <target state="translated">The \c04Info Screen\c02 will display the leader of the investigation, as well as the current state of the investigation.&gt;&gt;Furthermore, there are two important parts of the Info Screen:&gt;&gt;the \c04Turn Counter\c02 and the \c04Victory Point Gauge\c02.</target>
+        <target state="translated">The \c04Top Screen\c02 will display the leader of the investigation, as well as the current state of the investigation.&gt;&gt;Furthermore, there are two important parts of the Info Screen:&gt;&gt;the \c04Turn Counter\c02 and the \c04Victory Point Gauge\c02.</target>
       </trans-unit>
       <trans-unit id="882372" xml:space="preserve" approved="no">
         <source>||\c04『ターン数』\c02とは、上画面の左上|に表示されている数字のことで、|捜査の残り時間を表します。&gt;&gt;||\c04左側\c02が\c04『現在のターン』\c02|\c04右側\c02が\c04『最終ターン』\c02を|示しています。&gt;&gt;||全てのターンを使い切る前に、|キラを逮捕しなくてはなりません。&gt;&gt;\c04『勝利ポイントゲージ』\c02とは、|上画面の左側にあるゲージの|ことです。&gt;&gt;\c04『勝利ポイント』\c02とは現在の|捜査状況を示した物で、ゲージが|伸びていれば\c04『優勢』\c02を示します。&gt;&gt;捜査状況に応じてゲージは上下|しますので、捜査状況の目安|として確認してください。</source>
@@ -905,15 +905,15 @@
       </trans-unit>
       <trans-unit id="807272" xml:space="preserve" approved="no">
         <source>効率的な捜査にはリーダー画面の|情報を確認することが必須です。|忘れないでください。</source>
-        <target state="translated">For an efficient investigation, you will find it necessary to check the Info Screen frequently. Please don’t forget.</target>
+        <target state="translated">For an efficient investigation, you will find it necessary to check the Top Screen frequently. Please don’t forget.</target>
       </trans-unit>
       <trans-unit id="771356" xml:space="preserve" approved="no">
         <source>||||||　　　　　リーダー画面</source>
-        <target state="translated">||||||Info Screen</target>
+        <target state="translated">||||||Top Screen</target>
       </trans-unit>
       <trans-unit id="865476" xml:space="preserve" approved="no">
         <source>\c04『リーダー画面』\c02とは、|キラメンバーのリーダーである|キラと、現在の状況を表した&gt;&gt;情報画面を指している。|そして、リーダー画面には|重要なものが２つある。&gt;&gt;\c04『ターン数』\c02と|\c04『勝利ポイントゲージ』\c02だ。</source>
-        <target state="translated">The \c04Info Screen\c02 is available for Kira to view.&gt;&gt;It displays important information on the current situation.&gt;&gt;Specifically, it shows the \c04turn number\c02 and the \c04Victory Point Gauge\c02.</target>
+        <target state="translated">The \c04Top Screen\c02 displays important information on the current situation.&gt;&gt;Specifically, it shows the \c04turn number\c02 and the \c04Victory Point Gauge\c02.</target>
       </trans-unit>
       <trans-unit id="881816" xml:space="preserve" approved="no">
         <source>||\c04『ターン数』\c02とは、上画面の左上|に表示されている数字のことで、|計画の残り時間を表している。&gt;&gt;||\c04左側\c02が\c04『現在のターン』\c02|\c04右側\c02が\c04『最終ターン』\c02だ。&gt;&gt;||全てのターンを使い切る前に、|捜査員をリタイアさせなくては|ならない。&gt;&gt;\c04『勝利ポイントゲージ』\c02とは、|上画面の左側にあるゲージの|ことだ。&gt;&gt;\c04『勝利ポイント』\c02とは|計画の状況を示した物で、ゲージが|伸びていれば\c04『優勢』\c02を示す。&gt;&gt;計画の状況に応じてゲージは上下|するので、状況の目安として|確認するのがいいだろう。</source>
@@ -921,7 +921,7 @@
       </trans-unit>
       <trans-unit id="821372" xml:space="preserve" approved="no">
         <source>僕らの理想を達成するには|リーダー画面の情報を確認する|ことが重要なポイントとなる。&gt;&gt;決して忘れないことだ。</source>
-        <target state="translated">The Info Screen will be a vital tool to achieve our ideals.&gt;&gt;Keep that in mind.</target>
+        <target state="translated">The Top Screen will be a vital tool to achieve our ideals.&gt;&gt;Keep that in mind.</target>
       </trans-unit>
       <trans-unit id="798080" xml:space="preserve" approved="no">
         <source>||||||くそっ、キラめ…どこにいるんだ。||\T0045\t0000うっ！……</source>
@@ -949,7 +949,7 @@
       </trans-unit>
       <trans-unit id="776812" xml:space="preserve" approved="no">
         <source>||||||　　　ショートカットコマンド</source>
-        <target state="translated">||||||Shortcut Command</target>
+        <target state="translated">||||||Viewing Shortcuts</target>
       </trans-unit>
       <trans-unit id="820568" xml:space="preserve" approved="no">
         <source>\c04『ショートカットコマンド』\c02とは、|各種\c04『情報系』\c02のコマンドを|まとめて呼び出すコマンドです。</source>
@@ -965,7 +965,7 @@
       </trans-unit>
       <trans-unit id="776532" xml:space="preserve" approved="no">
         <source>||||||　　　ショートカットコマンド</source>
-        <target state="translated">||||||Shortcut Command</target>
+        <target state="translated">||||||Viewing Shortcuts</target>
       </trans-unit>
       <trans-unit id="819908" xml:space="preserve" approved="no">
         <source>\c04『ショートカットコマンド』\c02とは、|各種\c04『情報系』\c02のコマンドを|まとめて呼び出すコマンドだ。</source>
@@ -1705,7 +1705,7 @@
       </trans-unit>
       <trans-unit id="774424" xml:space="preserve" approved="no">
         <source>||||||　　　　トラップコマンド</source>
-        <target state="translated">||||||Trap Command</target>
+        <target state="translated">||||||Set Trap Command</target>
       </trans-unit>
       <trans-unit id="847816" xml:space="preserve" approved="no">
         <source>\c04『トラップ』\c02コマンドは、|\c04『デスノート』\c02を使い、|マップ上に罠を仕掛け、&gt;&gt;捜査員を\c04リタイア\c02させる|コマンドだ。&gt;&gt;僕らの切り札と言ってもいい。</source>
@@ -1745,7 +1745,7 @@
       </trans-unit>
       <trans-unit id="775356" xml:space="preserve" approved="no">
         <source>||||||　　　　ステータスコマンド</source>
-        <target state="translated">||||||Status Command</target>
+        <target state="translated">||||||Member Status Command</target>
       </trans-unit>
       <trans-unit id="817072" xml:space="preserve" approved="no">
         <source>\c04『ステータス』\c02コマンドでは、|\c04味方\c02と\c04敵\c02に関する情報を確認|することが出来る。</source>
@@ -1833,19 +1833,19 @@
       </trans-unit>
       <trans-unit id="787912" xml:space="preserve" approved="no">
         <source>その為、エリアに存在する|都市カメラの\c04『過半数』\c02を</source>
-        <target state="translated">If \c04more than half\c02 of the city cameras in an area are</target>
+        <target state="translated">If \c04more than half\c02 of the city cameras in an area are destroyed,</target>
       </trans-unit>
       <trans-unit id="806840" xml:space="preserve" approved="no">
         <source>破壊すると、捜査員はそのエリア|から\c04情報を得られなくなる\c02。|目を失うということだ。</source>
-        <target state="translated">destroyed, then the investigators will be \c04unable to get any information\c02 from that area. This makes the area a blind spot.</target>
+        <target state="translated">then the investigators will be \c04unable to get any information\c02 from that area. This makes the area a blind spot.</target>
       </trans-unit>
       <trans-unit id="815460" xml:space="preserve" approved="no">
         <source>都市カメラはメンバーにとって|邪魔者でしかない。&gt;&gt;機会があれば、積極的に|破壊するのもいいだろう。</source>
-        <target state="translated">City cameras aren’t anything but a nuisance to us Kira members.&gt;&gt;We’d better destroy as many as we can.</target>
+        <target state="translated">City cameras are nothing but a nuisance to us Kira members.&gt;&gt;We’d better destroy as many as we can.</target>
       </trans-unit>
       <trans-unit id="775188" xml:space="preserve" approved="no">
         <source>||||||　　　　ステータスコマンド</source>
-        <target state="translated">||||||Status Command</target>
+        <target state="translated">||||||Member Status Command</target>
       </trans-unit>
       <trans-unit id="821236" xml:space="preserve" approved="no">
         <source>\c04『ステータス』\c02コマンドでは、|\c04『味方』\c02と\c04『敵』\c02に関する情報を|確認することができます。</source>
@@ -2029,7 +2029,7 @@
       </trans-unit>
       <trans-unit id="773332" xml:space="preserve" approved="no">
         <source>||||||　　　　都市カメラの概念</source>
-        <target state="translated">||||||Camera Basics</target>
+        <target state="translated">||||||City Camera Basics</target>
       </trans-unit>
       <trans-unit id="878672" xml:space="preserve" approved="no">
         <source>\c04『都市カメラ』\c02とは、|各エリア内に設置された、|監視用カメラを指します。&gt;&gt;都市カメラは捜査上とても|重要な役割をしています。&gt;&gt;ターン冒頭にもたらされる|\c04『容疑者情報』\c02や\c04『目撃情報』\c02|\c04『カメラ解析』\c02といった&gt;&gt;捜査上重要なコマンドを実行|する上で、都市カメラは|不可欠な存在なのです。</source>
@@ -5585,7 +5585,7 @@
       </trans-unit>
       <trans-unit id="616368" xml:space="preserve" approved="no">
         <source>現在自分がいるエリア内の、|容疑者が撮影された|カメラを知ることができる。</source>
-        <target state="translated">Allows you to know which cameras in your current area have spotted a suspect.#Rester support ability 整実</target>
+        <target state="translated">Allows you to know which cameras in your current area have spotted a suspect.#Rester support ability 堅実</target>
       </trans-unit>
       <trans-unit id="580152" xml:space="preserve" approved="no">
         <source>指定した捜査員と|自分の位置を|入れ替えることができる。</source>
@@ -8203,13 +8203,13 @@
         <source>あと少しです。|作戦通りにお願いします。</source>
         <target state="translated">Just a little longer.|Please remember to follow the battle plan.</target>
       </trans-unit>
-      <trans-unit id="532797" xml:space="preserve">
+      <trans-unit id="532797" xml:space="preserve" approved="no">
         <source>これで決着を…と|いきたいところですね。</source>
-        <target/>
+        <target state="translated">This should settle things...or at least I hope so.</target>
       </trans-unit>
-      <trans-unit id="587789" xml:space="preserve">
+      <trans-unit id="587789" xml:space="preserve" approved="no">
         <source>うまくこちらの網に|かかってくれると|ありがたいんですが。</source>
-        <target/>
+        <target state="translated">I would be happy if everything went to plan and they got caught in our net, but...</target>
       </trans-unit>
       <trans-unit id="508421" xml:space="preserve" approved="no">
         <source>裏路地なら|危険はないでしょう。</source>
@@ -8227,9 +8227,9 @@
         <source>間に合いましたね。|さあ、次の策です。</source>
         <target state="translated">We made it.|Alright, onto the next strategy.</target>
       </trans-unit>
-      <trans-unit id="549169" xml:space="preserve">
+      <trans-unit id="549169" xml:space="preserve" approved="no">
         <source>どうやらこれで、今後の|メドがつきそうです。</source>
-        <target/>
+        <target state="translated">It seems that with this, we'll be able to predict their next move.</target>
       </trans-unit>
       <trans-unit id="512813" xml:space="preserve" approved="no">
         <source>作戦通りです。|回収してください。</source>
@@ -8299,9 +8299,9 @@
         <source>Ｌが唯一敗北した相手…|それがキラです。</source>
         <target state="translated">The only person who's ever beaten L…|…is Kira.</target>
       </trans-unit>
-      <trans-unit id="516761" xml:space="preserve">
+      <trans-unit id="516761" xml:space="preserve" approved="no">
         <source>容疑者を確認できたのか。|やったな。</source>
-        <target/>
+        <target state="translated">You confirmed a suspect? Nice job.</target>
       </trans-unit>
       <trans-unit id="517081" xml:space="preserve" approved="no">
         <source>なるほど、|敵の狙いが読めてきたな。</source>
@@ -8323,9 +8323,9 @@
         <source>こいつが奴等の仲間か。</source>
         <target state="translated">Is this one of their accomplices?</target>
       </trans-unit>
-      <trans-unit id="555361" xml:space="preserve">
+      <trans-unit id="555361" xml:space="preserve" approved="no">
         <source>これだけの情報があれば|もう、こっちのものだ。</source>
-        <target/>
+        <target state="translated">With all this information in our hands, this victory is ours.</target>
       </trans-unit>
       <trans-unit id="538869" xml:space="preserve" approved="no">
         <source>敵の狙いが見えてきたな。|こちらも急ごう。</source>
@@ -8531,9 +8531,9 @@
         <source>キラ…か…</source>
         <target state="translated">Is it you… Kira…?</target>
       </trans-unit>
-      <trans-unit id="517761" xml:space="preserve">
+      <trans-unit id="517761" xml:space="preserve" approved="no">
         <source>誰であろうと|必ず追い詰めてみせる！</source>
-        <target/>
+        <target state="translated">I don't care who they are, I'll catch them no matter what!</target>
       </trans-unit>
       <trans-unit id="494497" xml:space="preserve" approved="no">
         <source>僕は絶対に勝つ！</source>
@@ -10531,13 +10531,13 @@
         <source>…焦るな…ここは着実な|捜査妨害が一番だ。</source>
         <target state="translated">…I can't rush it… Right now, the best thing to do is throw sand in the investigation's gears.</target>
       </trans-unit>
-      <trans-unit id="526945" xml:space="preserve">
+      <trans-unit id="526945" xml:space="preserve" approved="no">
         <source>まずは目を奪う。|まだまだ、これからだ。</source>
-        <target/>
+        <target state="translated">We'll distract them for now. We're still in with a chance.</target>
       </trans-unit>
-      <trans-unit id="543073" xml:space="preserve">
+      <trans-unit id="543073" xml:space="preserve" approved="no">
         <source>フフフ…もう監視の目は|ほとんどなくなった。</source>
-        <target/>
+        <target state="translated">Heheheh... They barely have any eyes on us anymore.</target>
       </trans-unit>
       <trans-unit id="527033" xml:space="preserve" approved="no">
         <source>この調子で進めれば、|勝利は間違いない。</source>
@@ -10567,9 +10567,9 @@
         <source>フフ…|これで捜査は振り出しだ。</source>
         <target state="translated">Heh…|Now the investigation's back at square one.</target>
       </trans-unit>
-      <trans-unit id="520361" xml:space="preserve">
+      <trans-unit id="520361" xml:space="preserve" approved="no">
         <source>これなら、きっと|捜査網を突破できる。</source>
-        <target/>
+        <target state="translated">I'm sure I'll be able to break through the investigators' net with this.</target>
       </trans-unit>
       <trans-unit id="510545" xml:space="preserve" approved="no">
         <source>これが、新世界を作る|序章となる。</source>
@@ -10583,9 +10583,9 @@
         <source>勝負だ…愚か者ども…</source>
         <target state="translated">These fools don't stand a chance.</target>
       </trans-unit>
-      <trans-unit id="505345" xml:space="preserve">
+      <trans-unit id="505345" xml:space="preserve" approved="no">
         <source>まったく…|張り合いがないな。</source>
-        <target/>
+        <target state="translated">Good grief, do they even care?</target>
       </trans-unit>
       <trans-unit id="535349" xml:space="preserve" approved="no">
         <source>どうやら運は僕の味方を|しているようだな。</source>
@@ -10627,9 +10627,9 @@
         <source>なんて事だ…|バカが足を引っ張る。</source>
         <target state="translated">Oh, come on…|These idiots keep getting in my way.</target>
       </trans-unit>
-      <trans-unit id="499561" xml:space="preserve">
+      <trans-unit id="499561" xml:space="preserve" approved="no">
         <source>くそッ！　そんなバカな！</source>
-        <target/>
+        <target state="translated">Damn it! That's not possible!</target>
       </trans-unit>
       <trans-unit id="494121" xml:space="preserve" approved="no">
         <source>ムダな事を…</source>
@@ -10903,37 +10903,37 @@
         <source>こないだロケで使ったお店、|ステキだったな。|ライトと行きた～い！</source>
         <target state="translated">I really like this shop we've been filming in recently.|I wish I could be here with Light~!</target>
       </trans-unit>
-      <trans-unit id="589261" xml:space="preserve">
+      <trans-unit id="589261" xml:space="preserve" approved="no">
         <source>仕方ない。とりあえず、|そっちにノートを渡す。|うまく使え。</source>
-        <target/>
+        <target state="translated">There’s no way ’round it.|I’ll pass the Note over there for now.|That guy had better use it well.</target>
       </trans-unit>
-      <trans-unit id="498637" xml:space="preserve">
+      <trans-unit id="498637" xml:space="preserve" approved="no">
         <source>少しは動きやすくなるな。</source>
-        <target/>
+        <target state="translated">I can get around easier now.</target>
       </trans-unit>
-      <trans-unit id="607889" xml:space="preserve">
+      <trans-unit id="607889" xml:space="preserve" approved="no">
         <source>よし、このあたりは|監視の心配がなくなった。|もう、こっちのものだ。</source>
-        <target/>
+        <target state="translated">Nice, now we don't have to worry about being watched in this area. We've got this in the bag!</target>
       </trans-unit>
-      <trans-unit id="560161" xml:space="preserve">
+      <trans-unit id="560161" xml:space="preserve" approved="no">
         <source>くそっ…破壊するだけでも|意外と手間がかかるな。</source>
-        <target/>
+        <target state="translated">Damn... It takes longer than I thought to break these things.</target>
       </trans-unit>
-      <trans-unit id="496957" xml:space="preserve">
+      <trans-unit id="496957" xml:space="preserve" approved="no">
         <source>これで誰も気づくまい。</source>
-        <target/>
+        <target state="translated">No one will notice me now.</target>
       </trans-unit>
-      <trans-unit id="543265" xml:space="preserve">
+      <trans-unit id="543265" xml:space="preserve" approved="no">
         <source>奴等の動きを封じるには、|トラップが一番だ。</source>
-        <target/>
+        <target state="translated">The best way to box those people in is with traps.</target>
       </trans-unit>
-      <trans-unit id="535437" xml:space="preserve">
+      <trans-unit id="535437" xml:space="preserve" approved="no">
         <source>あとは奴等がワナに|かかるのを待つだけだ。</source>
-        <target/>
+        <target state="translated">Now all we have to do is wait for those idiots to get caught in our trap.</target>
       </trans-unit>
-      <trans-unit id="573937" xml:space="preserve">
+      <trans-unit id="573937" xml:space="preserve" approved="no">
         <source>ハハハ！　仕方ないだろ？|邪魔者は処分しなければな。</source>
-        <target/>
+        <target state="translated">Hahaha! It's not my fault! If there's trash, you clear it out.</target>
       </trans-unit>
       <trans-unit id="551953" xml:space="preserve">
         <source>いいぞ。警察はダメージを|食らったみたいだな。</source>
