@@ -13279,85 +13279,85 @@
         <source>ヘリか…かなり目立つな。|日本の警察とトラブルに|ならなければいいが。</source>
         <target state="translated">A helicopter, huh... That's pretty conspicuous. I hope it doesn't put us at odds with the Japanese police.</target>
       </trans-unit>
-      <trans-unit id="558913" xml:space="preserve">
+      <trans-unit id="558913" xml:space="preserve" approved="no">
         <source>これなら、|どんな交通手段より|速く移動できる。</source>
-        <target/>
+        <target state="translated">This'll let me get around faster than any other way.</target>
       </trans-unit>
-      <trans-unit id="592781" xml:space="preserve">
+      <trans-unit id="592781" xml:space="preserve" approved="no">
         <source>レスターだ。|ヘリで空中から敵を追跡する。|地上は任せたぞ。</source>
-        <target/>
+        <target state="translated">This is Rester. I'm following the enemy from above in a helicopter. I'm leaving the ground to you.</target>
       </trans-unit>
-      <trans-unit id="495101" xml:space="preserve">
+      <trans-unit id="495101" xml:space="preserve" approved="no">
         <source>容疑者を確保した！</source>
-        <target/>
+        <target state="translated">I've apprehended a suspect!</target>
       </trans-unit>
-      <trans-unit id="551521" xml:space="preserve">
+      <trans-unit id="551521" xml:space="preserve" approved="no">
         <source>レスターだ。容疑者を逮捕。|本部へ連行するか？</source>
-        <target/>
+        <target state="translated">This is Rester. I've arrested a suspect. Should I bring them to HQ?</target>
       </trans-unit>
-      <trans-unit id="497601" xml:space="preserve">
+      <trans-unit id="497601" xml:space="preserve" approved="no">
         <source>おまえはもう終わりだ。</source>
-        <target/>
+        <target state="translated">You're finished.</target>
       </trans-unit>
-      <trans-unit id="497041" xml:space="preserve">
+      <trans-unit id="497041" xml:space="preserve" approved="no">
         <source>そ、そんな…この私が！</source>
-        <target/>
+        <target state="translated">N-no! This can't be happening!</target>
       </trans-unit>
-      <trans-unit id="501057" xml:space="preserve">
+      <trans-unit id="501057" xml:space="preserve" approved="no">
         <source>しまった！　こんなはずは…</source>
-        <target/>
+        <target state="translated">Damn it! How did this happen…</target>
       </trans-unit>
-      <trans-unit id="499029" xml:space="preserve">
+      <trans-unit id="499029" xml:space="preserve" approved="no">
         <source>なにっ！　トラップか！？</source>
-        <target/>
+        <target state="translated">What! A trap?!</target>
       </trans-unit>
-      <trans-unit id="514841" xml:space="preserve">
+      <trans-unit id="514841" xml:space="preserve" approved="no">
         <source>容疑者をキャッチした！|予想通りだ！</source>
-        <target/>
+        <target state="translated">I've caught a suspect! Just as I thought!</target>
       </trans-unit>
-      <trans-unit id="502369" xml:space="preserve">
+      <trans-unit id="502369" xml:space="preserve" approved="no">
         <source>奴等のメンバーを発見した。</source>
-        <target/>
+        <target state="translated">I found a member of the enemy team.</target>
       </trans-unit>
-      <trans-unit id="497853" xml:space="preserve">
+      <trans-unit id="497853" xml:space="preserve" approved="no">
         <source>あれがキラの仲間だな。</source>
-        <target/>
+        <target state="translated">That's one of Kira's accomplices.</target>
       </trans-unit>
-      <trans-unit id="513561" xml:space="preserve">
+      <trans-unit id="513561" xml:space="preserve" approved="no">
         <source>だめだ。|怪しい人物は発見できない。</source>
-        <target/>
+        <target state="translated">It's no use. I can't find anyone suspicious.</target>
       </trans-unit>
-      <trans-unit id="533589" xml:space="preserve">
+      <trans-unit id="533589" xml:space="preserve" approved="no">
         <source>失敗だったな。|どうも後手に回ったようだ。</source>
-        <target/>
+        <target state="translated">No luck this time. Looks like we're on the back foot.</target>
       </trans-unit>
-      <trans-unit id="495005" xml:space="preserve">
+      <trans-unit id="495005" xml:space="preserve" approved="no">
         <source>奴等は一体どこに…</source>
-        <target/>
+        <target state="translated">Where the hell are they…</target>
       </trans-unit>
-      <trans-unit id="518761" xml:space="preserve">
+      <trans-unit id="518761" xml:space="preserve" approved="no">
         <source>容疑者を発見した。|映像を再生する。</source>
-        <target/>
+        <target state="translated">I've found a suspect. Replaying the footage now.</target>
       </trans-unit>
-      <trans-unit id="502817" xml:space="preserve">
+      <trans-unit id="502817" xml:space="preserve" approved="no">
         <source>見つけた！　映像を確認だ。</source>
-        <target/>
+        <target state="translated">I found one! Checking the footage now.</target>
       </trans-unit>
-      <trans-unit id="541489" xml:space="preserve">
+      <trans-unit id="541489" xml:space="preserve" approved="no">
         <source>キラの仲間がいたぞ！|奴等、こんな所で何を？</source>
-        <target/>
+        <target state="translated">One of Kira's accomplices! But what are they doing over here?</target>
       </trans-unit>
-      <trans-unit id="523361" xml:space="preserve">
+      <trans-unit id="523361" xml:space="preserve" approved="no">
         <source>ダメだった。|この辺りじゃないようだ。</source>
-        <target/>
+        <target state="translated">It's no good. It doesn't look like they're in this area.</target>
       </trans-unit>
-      <trans-unit id="503841" xml:space="preserve">
+      <trans-unit id="503841" xml:space="preserve" approved="no">
         <source>手がかりは何も発見できない。</source>
-        <target/>
+        <target state="translated">I can't find any clues.</target>
       </trans-unit>
-      <trans-unit id="501793" xml:space="preserve">
+      <trans-unit id="501793" xml:space="preserve" approved="no">
         <source>映像に怪しい人物はいない…</source>
-        <target/>
+        <target state="translated">There's no one suspicious in the footage…</target>
       </trans-unit>
       <trans-unit id="523441" xml:space="preserve" approved="no">
         <source>カメラを修復した。|敵の追跡に戻るぞ。</source>
