@@ -13363,85 +13363,85 @@
         <source>カメラを修復した。|敵の追跡に戻るぞ。</source>
         <target state="translated">I fixed the camera. Going back to tracking the enemy.</target>
       </trans-unit>
-      <trans-unit id="538473" xml:space="preserve">
+      <trans-unit id="538473" xml:space="preserve" approved="no">
         <source>奴等め…よけいな手間を|かけさせてくれる。</source>
-        <target/>
+        <target state="translated">Damn them... Wasting my time.</target>
       </trans-unit>
-      <trans-unit id="522361" xml:space="preserve">
+      <trans-unit id="522361" xml:space="preserve" approved="no">
         <source>奴等がこの近くに|いた事だけは確かだ。</source>
-        <target/>
+        <target state="translated">I'm certain that one of them was near here.</target>
       </trans-unit>
-      <trans-unit id="550465" xml:space="preserve">
+      <trans-unit id="550465" xml:space="preserve" approved="no">
         <source>検問を設置した。|これでキラ達は袋のネズミだ。</source>
-        <target/>
+        <target state="translated">I've set up a roadblock. Now Kira and their allies are cornered like rats.#or 'will have nowhere to run' but ngl i wanna keep the rats</target>
       </trans-unit>
-      <trans-unit id="571137" xml:space="preserve">
+      <trans-unit id="571137" xml:space="preserve" approved="no">
         <source>レスターだ。|検問設置を完了した。|捜査を続行する。</source>
-        <target/>
+        <target state="translated">This is Rester. I've finished setting up the roadblock. Continuing the investigation.</target>
       </trans-unit>
-      <trans-unit id="566609" xml:space="preserve">
+      <trans-unit id="566609" xml:space="preserve" approved="no">
         <source>行動を制限されれば、|敵はかなり不利になるだろう。</source>
-        <target/>
+        <target state="translated">If we can limit their movement, that'll put the enemy at a considerable disadvantage.</target>
       </trans-unit>
-      <trans-unit id="550561" xml:space="preserve">
+      <trans-unit id="550561" xml:space="preserve" approved="no">
         <source>これ以上の検問維持は|不可能だな。やむを得ん。</source>
-        <target/>
+        <target state="translated">We can't maintain this roadblock anymore. We've got no choice but to take it down.#check</target>
       </trans-unit>
-      <trans-unit id="571193" xml:space="preserve">
+      <trans-unit id="571193" xml:space="preserve" approved="no">
         <source>この検問はムダか。|だが、場所を変えれば|あるいは…</source>
-        <target/>
+        <target state="translated">This roadblock was no good. But if we try putting it somewhere else…</target>
       </trans-unit>
-      <trans-unit id="566713" xml:space="preserve">
+      <trans-unit id="566713" xml:space="preserve" approved="no">
         <source>検問はもう用済みだ。|別の手を打つしかないだろう。</source>
-        <target/>
+        <target state="translated">This roadblock is no longer useful. Time to try something else.</target>
       </trans-unit>
-      <trans-unit id="585869" xml:space="preserve">
+      <trans-unit id="585869" xml:space="preserve" approved="no">
         <source>隠しカメラを使うのか？|わかった。|さっそくやってみよう。</source>
-        <target/>
+        <target state="translated">Use a hidden camera? Understood. I'll set one up at once.</target>
       </trans-unit>
-      <trans-unit id="588749" xml:space="preserve">
+      <trans-unit id="588749" xml:space="preserve" approved="no">
         <source>これが役に立ってくれれば|我々が勝つチャンスは|あるはずだ。</source>
-        <target/>
+        <target state="translated">If this can give us a lead then we'll have a shot at victory.#check, is this about the cameras</target>
       </trans-unit>
-      <trans-unit id="565309" xml:space="preserve">
+      <trans-unit id="565309" xml:space="preserve" approved="no">
         <source>違法だが…|この方法は効果が大きい。|期待しよう。</source>
-        <target/>
+        <target state="translated">This is against the law, but... This method will get us results. I'll take a chance on it.</target>
       </trans-unit>
-      <trans-unit id="579481" xml:space="preserve">
+      <trans-unit id="579481" xml:space="preserve" approved="no">
         <source>いくらキラでも、裏路地には|油断しているかもしれない。</source>
-        <target/>
+        <target state="translated">They might well be Kira but even they might let their guard down in a back alley.</target>
       </trans-unit>
-      <trans-unit id="550753" xml:space="preserve">
+      <trans-unit id="550753" xml:space="preserve" approved="no">
         <source>敵の裏をかくには、|こんな方法も使わなくては。</source>
-        <target/>
+        <target state="translated">I'll have to use this to outsmart Kira.</target>
       </trans-unit>
-      <trans-unit id="583109" xml:space="preserve">
+      <trans-unit id="583109" xml:space="preserve" approved="no">
         <source>この道を抜ければ、|奴等より先回りできるかも|しれんな。</source>
-        <target/>
+        <target state="translated">If I can cut through here then I might be able to get ahead of them.</target>
       </trans-unit>
-      <trans-unit id="497321" xml:space="preserve">
+      <trans-unit id="497321" xml:space="preserve" approved="no">
         <source>近くに誰かがいそうだ。</source>
-        <target/>
+        <target state="translated">I think there's someone here.</target>
       </trans-unit>
-      <trans-unit id="519561" xml:space="preserve">
+      <trans-unit id="519561" xml:space="preserve" approved="no">
         <source>あれは…どこかで|見た事があるような…</source>
-        <target/>
+        <target state="translated">That... I feel like I've seen it somewhere before…</target>
       </trans-unit>
-      <trans-unit id="519601" xml:space="preserve">
+      <trans-unit id="519601" xml:space="preserve" approved="no">
         <source>もしかすると|我々の手が読まれたのか？</source>
-        <target/>
+        <target state="translated">Could they have worked out what we're planning?</target>
       </trans-unit>
       <trans-unit id="494933" xml:space="preserve" approved="no">
         <source>隠しカメラを回収。</source>
         <target state="translated">I'm retrieving a hidden camera.</target>
       </trans-unit>
-      <trans-unit id="508853" xml:space="preserve">
+      <trans-unit id="508853" xml:space="preserve" approved="no">
         <source>レスターだ。|カメラは回収した。</source>
-        <target/>
+        <target state="translated">This is Rester. I've retrieved the camera.</target>
       </trans-unit>
-      <trans-unit id="512165" xml:space="preserve">
+      <trans-unit id="512165" xml:space="preserve" approved="no">
         <source>回収したが、|あれでよかったのか？</source>
-        <target/>
+        <target state="translated">I've retrieved it, but is that for the best?#check</target>
       </trans-unit>
       <trans-unit id="550801" xml:space="preserve" approved="no">
         <source>今から地下鉄で敵を追います。|地上は頼みます。</source>
@@ -13767,9 +13767,9 @@
         <source>こちらハル。|検問を設置しました。|捜査を続行します。</source>
         <target state="translated">This is Halle. I have installed a roadblock. I'm going to continue investigating.</target>
       </trans-unit>
-      <trans-unit id="575617" xml:space="preserve">
+      <trans-unit id="575617" xml:space="preserve" approved="no">
         <source>検問を使った犯人誘導。|キラ達に通用すればいいけど。</source>
-        <target/>
+        <target state="translated">Controlling enemy movement via a roadblock. Hopefully Kira and their allies spread the news amongst themselves.#check</target>
       </trans-unit>
       <trans-unit id="547969" xml:space="preserve" approved="no">
         <source>これ以上の検問維持は|無意味…そういう事ね。</source>
