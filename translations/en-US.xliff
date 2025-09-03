@@ -641,7 +641,7 @@
       </trans-unit>
       <trans-unit id="772604" xml:space="preserve" approved="no">
         <source>||||||　　　　　勝利ポイント</source>
-        <target state="translated">||||||Victory Points</target>
+        <target state="translated">||||||&lt;&lt;Victory Points</target>
       </trans-unit>
       <trans-unit id="862044" xml:space="preserve" approved="no">
         <source>\c04『勝利ポイント』\c02とは、|捜査側とキラ側でどちらが|\c04優勢\c02か表したものです。&gt;&gt;シングルモードや対戦時の|一部のステージで、|\c04規定ターンを過ぎた場合\c02、&gt;&gt;勝利ポイントで\c04勝敗を決します\c02。</source>
@@ -653,7 +653,7 @@
       </trans-unit>
       <trans-unit id="772656" xml:space="preserve" approved="no">
         <source>||||||　　　　　勝利ポイント</source>
-        <target state="translated">||||||Victory Points</target>
+        <target state="translated">||||||&lt;&lt;Victory Points</target>
       </trans-unit>
       <trans-unit id="879712" xml:space="preserve" approved="no">
         <source>\c04『勝利ポイント』\c02は、|キラ側と捜査側でどちらが|\c04優勢\c02か表したものだ。&gt;&gt;シングルモードや対戦時の|一部のステージで、|規定ターンを過ぎた場合、&gt;&gt;\c04勝利ポイントで勝敗を決する\c02。|勝利ポイントは|以下の行動で増加する。&gt;&gt;\c04『規定ターン数を逃げ切る』|『捜査員をリタイアさせる』|『チェックポイントを訪れる』\c02</source>
@@ -665,7 +665,7 @@
       </trans-unit>
       <trans-unit id="770056" xml:space="preserve" approved="no">
         <source>||||||　　　　基本的な操作</source>
-        <target state="translated">||||||Basic Controls</target>
+        <target state="translated">||||||&lt;&lt;Basic Controls</target>
       </trans-unit>
       <trans-unit id="879016" xml:space="preserve" approved="no">
         <source>捜査員はキラを逮捕するために|\c04『移動』\c02そして\c04『コマンド』\c02を|使用することができます。&gt;&gt;\c04『移動』\c02とは文字通り、捜査員を|移動させることです。&gt;&gt;\c04『コマンド』\c02とは捜査員が様々な|捜査行動を取ることです。&gt;&gt;移動とコマンドは、|\c04『１ターン』\c02に\c04『１回』\c02ずつ|行うことができます。</source>
@@ -745,7 +745,7 @@
       </trans-unit>
       <trans-unit id="772448" xml:space="preserve" approved="no">
         <source>||||||　　　　　「キラ」とは</source>
-        <target state="translated">||||||Kira</target>
+        <target state="translated">||||||&lt;&lt;Kira</target>
       </trans-unit>
       <trans-unit id="855976" xml:space="preserve" approved="no">
         <source>\c04『キラ』\c02とは\c04『デスノート』\c02を|所持し、\c04『トラップ』\c02を|仕掛けられる者を指す。&gt;&gt;\c04デスノートを持つ者が、|キラと呼ばれるんだ。\c02&gt;&gt;キラは捜査員が狙う最重要人物。</source>
@@ -761,7 +761,7 @@
       </trans-unit>
       <trans-unit id="771668" xml:space="preserve" approved="no">
         <source>||||||　　　　　基本的な操作</source>
-        <target state="translated">||||||Basic Controls</target>
+        <target state="translated">||||||&lt;&lt;Basic Controls</target>
       </trans-unit>
       <trans-unit id="837336" xml:space="preserve" approved="no">
         <source>僕らは捜査員を\c04リタイア\c02させる|為に\c04『移動』\c02そして\c04『コマンド』\c02|を使用する。&gt;&gt;移動とは文字通り、メンバーを|移動させることだ。</source>
@@ -777,7 +777,7 @@
       </trans-unit>
       <trans-unit id="776364" xml:space="preserve" approved="no">
         <source>||||||　　　隠しカメラ回収コマンド</source>
-        <target state="translated">||||||Hidden Camera Retrieval Command</target>
+        <target state="translated">||||||&lt;&lt;Hidden Camera Retrieval Command</target>
       </trans-unit>
       <trans-unit id="822052" xml:space="preserve" approved="no">
         <source>\c04『隠しカメラ回収』\c02コマンドを|実行すると、&gt;&gt;設置した\c04『隠しカメラ』\c02を|回収することができます。</source>
@@ -793,7 +793,7 @@
       </trans-unit>
       <trans-unit id="773696" xml:space="preserve" approved="no">
         <source>||||||　　　　検問解除コマンド</source>
-        <target state="translated">||||||Roadblock Disassembly Command</target>
+        <target state="translated">||||||&lt;&lt;Roadblock Disassembly Command</target>
       </trans-unit>
       <trans-unit id="816452" xml:space="preserve" approved="no">
         <source>\c04『検問解除』\c02コマンドを|実行すると、&gt;&gt;設置した\c04『検問』\c02を|解除することができます。</source>
@@ -809,7 +809,7 @@
       </trans-unit>
       <trans-unit id="773800" xml:space="preserve" approved="no">
         <source>||||||　　　　特殊能力コマンド</source>
-        <target state="translated">||||||Special Ability Command</target>
+        <target state="translated">||||||&lt;&lt;Special Ability Command</target>
       </trans-unit>
       <trans-unit id="844212" xml:space="preserve" approved="no">
         <source>\c04『特殊能力』\c02コマンドは、|捜査員がそれぞれ持っている|\c04スキルを発揮する\c02コマンドです。&gt;&gt;特殊能力は捜査状況を劇的に|変化させるほどの効果を持ちます。</source>
@@ -825,7 +825,7 @@
       </trans-unit>
       <trans-unit id="771876" xml:space="preserve" approved="no">
         <source>||||||　　　　ノートの切れ端</source>
-        <target state="translated">||||||Scraps of the Death Note</target>
+        <target state="translated">||||||&lt;&lt;Scraps of the Death Note</target>
       </trans-unit>
       <trans-unit id="799000" xml:space="preserve" approved="no">
         <source>\c04『ノートの切れ端』\c02は|キラ側の『トラップ』の|\c04残がい\c02です。</source>
@@ -841,7 +841,7 @@
       </trans-unit>
       <trans-unit id="773488" xml:space="preserve" approved="no">
         <source>||||||　　　　目撃情報コマンド</source>
-        <target state="translated">||||||Eyewitness Information Command</target>
+        <target state="translated">||||||&lt;&lt;Eyewitness Information Command</target>
       </trans-unit>
       <trans-unit id="839632" xml:space="preserve" approved="no">
         <source>\c04『目撃情報』\c02コマンドは、|捜査員が\c04現在いるエリア\c02の|目撃情報を調査します。&gt;&gt;もし、そのエリアに|容疑者が潜伏していれば|容疑者の情報が入ります。</source>
@@ -877,7 +877,7 @@
       </trans-unit>
       <trans-unit id="773436" xml:space="preserve" approved="no">
         <source>||||||　　　ターン終了コマンド</source>
-        <target state="translated">||||||End Turn Command</target>
+        <target state="translated">||||||&lt;&lt;End Turn Command</target>
       </trans-unit>
       <trans-unit id="804332" xml:space="preserve" approved="no">
         <source>\c04『ターン終了』\c02コマンドは|捜査員側のターンを終了させる|コマンドです。</source>
@@ -893,7 +893,7 @@
       </trans-unit>
       <trans-unit id="771408" xml:space="preserve" approved="no">
         <source>||||||　　　　　リーダー画面</source>
-        <target state="translated">||||||Top Screen</target>
+        <target state="translated">||||||&lt;&lt;Top Screen</target>
       </trans-unit>
       <trans-unit id="862280" xml:space="preserve" approved="no">
         <source>\c04『リーダー画面』\c02とは、捜査員を|指揮するリーダーと、捜査状況を|表した画面を指します。&gt;&gt;そして、リーダー画面には|重要なものが２つあります。&gt;&gt;\c04『ターン数』\c02と|\c04『勝利ポイントゲージ』\c02です。</source>
@@ -909,7 +909,7 @@
       </trans-unit>
       <trans-unit id="771356" xml:space="preserve" approved="no">
         <source>||||||　　　　　リーダー画面</source>
-        <target state="translated">||||||Top Screen</target>
+        <target state="translated">||||||&lt;&lt;Top Screen</target>
       </trans-unit>
       <trans-unit id="865476" xml:space="preserve" approved="no">
         <source>\c04『リーダー画面』\c02とは、|キラメンバーのリーダーである|キラと、現在の状況を表した&gt;&gt;情報画面を指している。|そして、リーダー画面には|重要なものが２つある。&gt;&gt;\c04『ターン数』\c02と|\c04『勝利ポイントゲージ』\c02だ。</source>
@@ -949,7 +949,7 @@
       </trans-unit>
       <trans-unit id="776812" xml:space="preserve" approved="no">
         <source>||||||　　　ショートカットコマンド</source>
-        <target state="translated">||||||Viewing Shortcuts</target>
+        <target state="translated">||||||&lt;&lt;Viewing Shortcuts</target>
       </trans-unit>
       <trans-unit id="820568" xml:space="preserve" approved="no">
         <source>\c04『ショートカットコマンド』\c02とは、|各種\c04『情報系』\c02のコマンドを|まとめて呼び出すコマンドです。</source>
@@ -965,7 +965,7 @@
       </trans-unit>
       <trans-unit id="776532" xml:space="preserve" approved="no">
         <source>||||||　　　ショートカットコマンド</source>
-        <target state="translated">||||||Viewing Shortcuts</target>
+        <target state="translated">||||||&lt;&lt;Viewing Shortcuts</target>
       </trans-unit>
       <trans-unit id="819908" xml:space="preserve" approved="no">
         <source>\c04『ショートカットコマンド』\c02とは、|各種\c04『情報系』\c02のコマンドを|まとめて呼び出すコマンドだ。</source>
@@ -1541,7 +1541,7 @@
       </trans-unit>
       <trans-unit id="773176" xml:space="preserve" approved="no">
         <source>||||||　　　　チェックポイント</source>
-        <target state="translated">||||||Checkpoint</target>
+        <target state="translated">||||||&lt;&lt;Checkpoint</target>
       </trans-unit>
       <trans-unit id="857272" xml:space="preserve" approved="no">
         <source>\c04『チェックポイント』\c02とは、|\c04逃亡計画を成功させる\c02為に|目指さなくてはならない&gt;&gt;場所のことを指している。&gt;&gt;チェックポイントは、|ステージごとに、目指す場所や|目的が変化する。</source>
@@ -1557,7 +1557,7 @@
       </trans-unit>
       <trans-unit id="773852" xml:space="preserve" approved="no">
         <source>||||||　　　　チェックポイント</source>
-        <target state="translated">||||||Checkpoint</target>
+        <target state="translated">||||||&lt;&lt;Checkpoint</target>
       </trans-unit>
       <trans-unit id="844400" xml:space="preserve" approved="no">
         <source>\c04『チェックポイント』\c02とは、|\c04捜査上目指さなくてはいけない|場所\c02を指します。&gt;&gt;チェックポイントは、|ステージごとに、目指す場所や|目的が変化します。</source>
@@ -1573,7 +1573,7 @@
       </trans-unit>
       <trans-unit id="774580" xml:space="preserve" approved="no">
         <source>||||||　　　ターン終了コマンド</source>
-        <target state="translated">||||||End Turn Command</target>
+        <target state="translated">||||||&lt;&lt;End Turn Command</target>
       </trans-unit>
       <trans-unit id="802420" xml:space="preserve" approved="no">
         <source>\c04『ターン終了』\c02コマンドは|キラ側のターンを終了させる|コマンドだ。</source>
@@ -1621,7 +1621,7 @@
       </trans-unit>
       <trans-unit id="774164" xml:space="preserve" approved="no">
         <source>||||||　　　　特殊能力コマンド</source>
-        <target state="translated">||||||Special Ability Command</target>
+        <target state="translated">||||||&lt;&lt;Special Ability Command</target>
       </trans-unit>
       <trans-unit id="817196" xml:space="preserve" approved="no">
         <source>\c04『特殊能力』\c02コマンドは、|キラメンバーが各々持っている|\c04スキル\c02を発揮するコマンドだ。</source>
@@ -1645,7 +1645,7 @@
       </trans-unit>
       <trans-unit id="774372" xml:space="preserve" approved="no">
         <source>||||||　　　所有権移動コマンド</source>
-        <target state="translated">||||||Ownership Transfer Command</target>
+        <target state="translated">||||||&lt;&lt;Ownership Transfer Command</target>
       </trans-unit>
       <trans-unit id="832872" xml:space="preserve" approved="no">
         <source>\c04『所有権移動』\c02コマンドは、|\c04『デスノートの所有権』\c02を|移動させて、他のメンバーを&gt;&gt;新たな\c04『キラ』\c02にする|コマンドだ。</source>
@@ -1685,7 +1685,7 @@
       </trans-unit>
       <trans-unit id="773748" xml:space="preserve" approved="no">
         <source>||||||　　　　　裏路地コマンド</source>
-        <target state="translated">||||||Back Alley Command</target>
+        <target state="translated">||||||&lt;&lt;Back Alley Command</target>
       </trans-unit>
       <trans-unit id="819380" xml:space="preserve" approved="no">
         <source>\c04『裏路地』\c02コマンドは、キラ側が|仕掛けた『トラップ』を\c04回避|しながら移動する\c02コマンドです。</source>
@@ -1705,7 +1705,7 @@
       </trans-unit>
       <trans-unit id="774424" xml:space="preserve" approved="no">
         <source>||||||　　　　トラップコマンド</source>
-        <target state="translated">||||||Set Trap Command</target>
+        <target state="translated">||||||&lt;&lt;Set Trap Command</target>
       </trans-unit>
       <trans-unit id="847816" xml:space="preserve" approved="no">
         <source>\c04『トラップ』\c02コマンドは、|\c04『デスノート』\c02を使い、|マップ上に罠を仕掛け、&gt;&gt;捜査員を\c04リタイア\c02させる|コマンドだ。&gt;&gt;僕らの切り札と言ってもいい。</source>
@@ -1725,7 +1725,7 @@
       </trans-unit>
       <trans-unit id="775580" xml:space="preserve" approved="no">
         <source>||||||　　　推理マーカーコマンド</source>
-        <target state="translated">||||||Theory Marker Command</target>
+        <target state="translated">||||||&lt;&lt;Theory Marker Command</target>
       </trans-unit>
       <trans-unit id="832368" xml:space="preserve" approved="no">
         <source>\c04『推理マーカー』\c02コマンドは、|捜査員側が推理を組み立てる際に|マップ上に置くことができる&gt;&gt;捜査予想の為の|マーキングのコマンドです。</source>
@@ -1745,7 +1745,7 @@
       </trans-unit>
       <trans-unit id="775356" xml:space="preserve" approved="no">
         <source>||||||　　　　ステータスコマンド</source>
-        <target state="translated">||||||Member Status Command</target>
+        <target state="translated">||||||&lt;&lt;Member Status Command</target>
       </trans-unit>
       <trans-unit id="817072" xml:space="preserve" approved="no">
         <source>\c04『ステータス』\c02コマンドでは、|\c04味方\c02と\c04敵\c02に関する情報を確認|することが出来る。</source>
@@ -1765,7 +1765,7 @@
       </trans-unit>
       <trans-unit id="773956" xml:space="preserve" approved="no">
         <source>||||||　　　　　コマンドの使用</source>
-        <target state="translated">||||||Commands</target>
+        <target state="translated">||||||&lt;&lt;Commands</target>
       </trans-unit>
       <trans-unit id="829108" xml:space="preserve" approved="no">
         <source>\c04『コマンド』\c02とは、捜査員の|捜査行動を指します。&gt;&gt;コマンドを実行するには、|コマンドを実行する捜査員を|\c04タッチ\c02します。</source>
@@ -1785,7 +1785,7 @@
       </trans-unit>
       <trans-unit id="775020" xml:space="preserve" approved="no">
         <source>||||||　　　キラ側の情報コマンド</source>
-        <target state="translated">||||||Team Kira Info Command</target>
+        <target state="translated">||||||&lt;&lt;Team Kira Info Command</target>
       </trans-unit>
       <trans-unit id="811172" xml:space="preserve" approved="no">
         <source>\c04『キラ側の情報』\c02コマンドでは、|\c04キラ側全体\c02の情報を確認する|ことが出来る。</source>
@@ -1805,7 +1805,7 @@
       </trans-unit>
       <trans-unit id="773644" xml:space="preserve" approved="no">
         <source>||||||　　　　検問設置コマンド</source>
-        <target state="translated">||||||Roadblock Assembly Command</target>
+        <target state="translated">||||||&lt;&lt;Roadblock Assembly Command</target>
       </trans-unit>
       <trans-unit id="819248" xml:space="preserve" approved="no">
         <source>\c04『検問設置』\c02コマンドは、|道路を閉鎖して\c04容疑者がその道路|を通過できなくする\c02コマンドです。</source>
@@ -1825,7 +1825,7 @@
       </trans-unit>
       <trans-unit id="774216" xml:space="preserve" approved="no">
         <source>||||||　　　　都市カメラの概念</source>
-        <target state="translated">||||||City Camera Basics</target>
+        <target state="translated">||||||&lt;&lt;City Camera Basics</target>
       </trans-unit>
       <trans-unit id="866240" xml:space="preserve" approved="no">
         <source>\c04『都市カメラ』\c02とは、|各エリア内に設置された|監視用カメラを指している。&gt;&gt;都市カメラは捜査側にとって、|とても重要な役割をしているんだ。&gt;&gt;捜査側は都市カメラで得られる|情報を元にして、メンバーの|潜伏場所を探っている。</source>
@@ -1845,7 +1845,7 @@
       </trans-unit>
       <trans-unit id="775188" xml:space="preserve" approved="no">
         <source>||||||　　　　ステータスコマンド</source>
-        <target state="translated">||||||Member Status Command</target>
+        <target state="translated">||||||&lt;&lt;Member Status Command</target>
       </trans-unit>
       <trans-unit id="821236" xml:space="preserve" approved="no">
         <source>\c04『ステータス』\c02コマンドでは、|\c04『味方』\c02と\c04『敵』\c02に関する情報を|確認することができます。</source>
@@ -1865,7 +1865,7 @@
       </trans-unit>
       <trans-unit id="775244" xml:space="preserve" approved="no">
         <source>||||||　　　捜査側の情報コマンド</source>
-        <target state="translated">||||||Investigation Info Command</target>
+        <target state="translated">||||||&lt;&lt;Investigation Info Command</target>
       </trans-unit>
       <trans-unit id="811752" xml:space="preserve" approved="no">
         <source>\c04『捜査側の情報』\c02コマンドでは、|\c04捜査側全体\c02の情報を確認する|ことができます。</source>
@@ -1885,7 +1885,7 @@
       </trans-unit>
       <trans-unit id="775804" xml:space="preserve" approved="no">
         <source>||||||　　　　カメラ破壊コマンド</source>
-        <target state="translated">|||||Camera Destruction Command</target>
+        <target state="translated">|||||&lt;&lt;Camera Destruction Command</target>
       </trans-unit>
       <trans-unit id="809236" xml:space="preserve" approved="no">
         <source>\c04『カメラ破壊』\c02コマンドは、|マップ上の\c04『カメラ』\c02を破壊する|コマンドだ。</source>
@@ -1905,7 +1905,7 @@
       </trans-unit>
       <trans-unit id="775692" xml:space="preserve" approved="no">
         <source>||||||　　　　　……あった！</source>
-        <target state="translated">||||||…There it is!</target>
+        <target state="translated">||||||&lt;&lt;…There it is!</target>
       </trans-unit>
       <trans-unit id="798356" xml:space="preserve" approved="no">
         <source>月が記憶を失う前に隠した|デスノート。|それは以前の場所にそのままあった。</source>
@@ -1933,7 +1933,7 @@
       </trans-unit>
       <trans-unit id="770152" xml:space="preserve" approved="no">
         <source>||||||　　　　　容疑者情報</source>
-        <target state="translated">||||||Suspects</target>
+        <target state="translated">||||||&lt;&lt;Suspects</target>
       </trans-unit>
       <trans-unit id="854492" xml:space="preserve" approved="no">
         <source>捜査で重要なのは、容疑者の|情報です。&gt;&gt;\c04『容疑者情報』\c02は、毎ターンの|冒頭にもたらされます。&gt;&gt;容疑者が、我々の情報網に|引っかかると容疑者の目撃された|グループが報告されます。</source>
@@ -1957,7 +1957,7 @@
       </trans-unit>
       <trans-unit id="771772" xml:space="preserve" approved="no">
         <source>||||||　　　　　変装コマンド</source>
-        <target state="translated">||||||Disguise Command</target>
+        <target state="translated">||||||&lt;&lt;Disguise Command</target>
       </trans-unit>
       <trans-unit id="863488" xml:space="preserve" approved="no">
         <source>\c04『変装』\c02コマンドとは、|コマンドを実行したメンバーが、|他のキラメンバーに変装し、&gt;&gt;捜査情報を混乱させる|コマンドの事だ。&gt;&gt;変装を行えば、捜査員の|\c04情報網\c02には、\c04変装後の姿\c02で|報告されるんだ。</source>
@@ -1981,7 +1981,7 @@
       </trans-unit>
       <trans-unit id="771720" xml:space="preserve" approved="no">
         <source>||||||　　　　　行動アイコン</source>
-        <target state="translated">||||||Action Icon</target>
+        <target state="translated">||||||&lt;&lt;Action Icon</target>
       </trans-unit>
       <trans-unit id="875196" xml:space="preserve" approved="no">
         <source>\c04『行動アイコン』\c02とは、|捜査員の頭上に表示されている|\c04『矢印』\c02と\c04『指先』\c02のことだ。&gt;&gt;『矢印』は、\c04移動の実行\c02、|『指先』は、\c04コマンドの実行\c02を|表している。&gt;&gt;これは、各キラメンバーが|このターンにどのような行動を|取れるかを示すものになっている。</source>
@@ -2005,7 +2005,7 @@
       </trans-unit>
       <trans-unit id="771616" xml:space="preserve" approved="no">
         <source>||||||　　　　「捜査員」とは</source>
-        <target state="translated">||||||Investigators</target>
+        <target state="translated">||||||&lt;&lt;Investigators</target>
       </trans-unit>
       <trans-unit id="861808" xml:space="preserve" approved="no">
         <source>\c04『捜査員』\c02とは\c04『キラ』\c02を|逮捕すべく結成された組織員の|ことを指します。&gt;&gt;我々、日本捜査本部員もそうです。&gt;&gt;マップ上を潜伏しながら|逃亡を図るキラを追い詰め、|逮捕することが捜査員の目的です。</source>
@@ -2029,7 +2029,7 @@
       </trans-unit>
       <trans-unit id="773332" xml:space="preserve" approved="no">
         <source>||||||　　　　都市カメラの概念</source>
-        <target state="translated">||||||City Camera Basics</target>
+        <target state="translated">||||||&lt;&lt;City Camera Basics</target>
       </trans-unit>
       <trans-unit id="878672" xml:space="preserve" approved="no">
         <source>\c04『都市カメラ』\c02とは、|各エリア内に設置された、|監視用カメラを指します。&gt;&gt;都市カメラは捜査上とても|重要な役割をしています。&gt;&gt;ターン冒頭にもたらされる|\c04『容疑者情報』\c02や\c04『目撃情報』\c02|\c04『カメラ解析』\c02といった&gt;&gt;捜査上重要なコマンドを実行|する上で、都市カメラは|不可欠な存在なのです。</source>
@@ -2053,7 +2053,7 @@
       </trans-unit>
       <trans-unit id="771980" xml:space="preserve" approved="no">
         <source>||||||　　　　コマンドの使用</source>
-        <target state="translated">||||||Commands</target>
+        <target state="translated">||||||&lt;&lt;Commands</target>
       </trans-unit>
       <trans-unit id="829588" xml:space="preserve" approved="no">
         <source>\c04『コマンド』\c02とは、メンバーの|逃亡行動を指している。&gt;&gt;コマンドを実行するには、|コマンドを実行するメンバーを|タッチするんだ。</source>
@@ -2077,7 +2077,7 @@
       </trans-unit>
       <trans-unit id="770200" xml:space="preserve" approved="no">
         <source>||||||　　　　　容疑者情報</source>
-        <target state="translated">||||||Suspects</target>
+        <target state="translated">||||||&lt;&lt;Suspects</target>
       </trans-unit>
       <trans-unit id="846664" xml:space="preserve" approved="no">
         <source>捜査員は、メンバーの|目撃情報を元に追跡してくる。&gt;&gt;メンバーが捜査員の|\c04情報網\c02に引っかかると、&gt;&gt;捜査員には目撃されたグループが|報告されるという仕組みだ。</source>
@@ -2101,7 +2101,7 @@
       </trans-unit>
       <trans-unit id="773384" xml:space="preserve" approved="no">
         <source>||||||　　　　マップサイズ変更</source>
-        <target state="translated">||||||Zooming In and Out</target>
+        <target state="translated">||||||&lt;&lt;Zooming In and Out</target>
       </trans-unit>
       <trans-unit id="840172" xml:space="preserve" approved="no">
         <source>\c04『マップ』\c02は、必要に応じて|大きさを変更することができます。&gt;&gt;下画面の\c04『左上』\c02を|をタッチすれば、|\c04マップの倍率\c02を変更できます。</source>
@@ -2125,7 +2125,7 @@
       </trans-unit>
       <trans-unit id="771512" xml:space="preserve" approved="no">
         <source>||||||　　　　　行動アイコン</source>
-        <target state="translated">||||||Action Icon</target>
+        <target state="translated">||||||&lt;&lt;Action Icon</target>
       </trans-unit>
       <trans-unit id="857056" xml:space="preserve" approved="no">
         <source>\c04『行動アイコン』\c02とは、|捜査員の頭上に表示されている|\c04『矢印』\c02と\c04『指先』\c02のことです。&gt;&gt;『矢印』は、\c04移動の実行\c02、|『指先』は、\c04コマンドの実行\c02、|を表しています。</source>
@@ -2149,7 +2149,7 @@
       </trans-unit>
       <trans-unit id="776308" xml:space="preserve" approved="no">
         <source>||||||　　　隠しカメラ設置コマンド</source>
-        <target state="translated">||||||Hidden Camera Setup Command</target>
+        <target state="translated">||||||&lt;&lt;Hidden Camera Setup Command</target>
       </trans-unit>
       <trans-unit id="821100" xml:space="preserve" approved="no">
         <source>\c04『隠しカメラ設置』\c02コマンドは、|キラ側が\c04目視することのできない\c02|カメラを設置するコマンドです。</source>
@@ -2173,7 +2173,7 @@
       </trans-unit>
       <trans-unit id="773540" xml:space="preserve" approved="no">
         <source>||||||　　　　マップサイズ変更</source>
-        <target state="translated">||||||Zooming In and Out</target>
+        <target state="translated">||||||&lt;&lt;Zooming In and Out</target>
       </trans-unit>
       <trans-unit id="841984" xml:space="preserve" approved="no">
         <source>\c04『マップ』\c02は、必要に応じて|大きさを変更することが出来る。&gt;&gt;下画面の\c04『左上』\c02を、|タッチすれば、マップの倍率を|変更することが出来るハズだ。</source>
@@ -2221,7 +2221,7 @@
       </trans-unit>
       <trans-unit id="770920" xml:space="preserve" approved="no">
         <source>||||||　　　　　移動の仕方</source>
-        <target state="translated">||||||Movement</target>
+        <target state="translated">||||||&lt;&lt;Movement</target>
       </trans-unit>
       <trans-unit id="876112" xml:space="preserve" approved="no">
         <source>捜査員は、キラを追い詰め、|逮捕することが目的です。&gt;&gt;その為に、捜査の基本を|学びましょう。&gt;&gt;捜査の基本は足です。|容疑者の情報を得るのも、|逮捕するのも、&gt;&gt;捜査員を\c04『移動』\c02させなくては|始まりません。&gt;&gt;では、捜査員の移動のさせ方を|教えますから、|しっかり覚えてください。</source>
@@ -2245,7 +2245,7 @@
       </trans-unit>
       <trans-unit id="770296" xml:space="preserve" approved="no">
         <source>||||||　　　　　移動の仕方</source>
-        <target state="translated">||||||Movement</target>
+        <target state="translated">||||||&lt;&lt;Movement</target>
       </trans-unit>
       <trans-unit id="863244" xml:space="preserve" approved="no">
         <source>キラメンバーは、捜査員から|逃亡しながら、逆に捜査員を|リタイアさせることが目的となる。&gt;&gt;その為に、まずは逃亡の基本|である\c04『移動方法』\c02を覚えるんだ。&gt;&gt;当たり前だが、逃亡するには、|移動しなくてはならない。</source>
@@ -2301,11 +2301,11 @@
       </trans-unit>
       <trans-unit id="770728" xml:space="preserve" approved="no">
         <source>||||||　　　　　レイ＝ペンバー</source>
-        <target state="translated">||||||Raye Penber</target>
+        <target state="translated">||||||&lt;&lt;Raye Penber</target>
       </trans-unit>
       <trans-unit id="769336" xml:space="preserve" approved="no">
         <source>||||||　　　　　　南空ナオミ</source>
-        <target state="translated">||||||Naomi Misora</target>
+        <target state="translated">||||||&lt;&lt;Naomi Misora</target>
       </trans-unit>
       <trans-unit id="849788" xml:space="preserve" approved="no">
         <source>レイ、ナオミという有能な捜査官を|失ったことはＦＢＩにとっても、|日本の捜査本部にも大きなダメージ|となった。||ＦＢＩは捜査官に犠牲者が|出ることを恐れ、キラ捜査の中止を|Ｌに宣言。</source>
@@ -2365,7 +2365,7 @@
       </trans-unit>
       <trans-unit id="777372" xml:space="preserve" approved="no">
         <source>||||||　　　　うわあああっ！？</source>
-        <target state="translated">||||||UWAHHHHHHH?!</target>
+        <target state="translated">||||||&lt;&lt;UWAHHHHHHH?!</target>
       </trans-unit>
       <trans-unit id="768656" xml:space="preserve" approved="no">
         <source>どうした、ジャック？</source>
@@ -2461,7 +2461,7 @@
       </trans-unit>
       <trans-unit id="774908" xml:space="preserve" approved="no">
         <source>||||||　　　　カメラ解析コマンド</source>
-        <target state="translated">||||||Camera Analysis Command</target>
+        <target state="translated">||||||&lt;&lt;Camera Analysis Command</target>
       </trans-unit>
       <trans-unit id="811404" xml:space="preserve" approved="no">
         <source>\c04『カメラ解析』\c02コマンドは、|個々の都市カメラの撮影記録を|チェックするコマンドです。</source>
@@ -2617,7 +2617,7 @@
       </trans-unit>
       <trans-unit id="770344" xml:space="preserve" approved="no">
         <source>||||||　　　　　　特殊移動</source>
-        <target state="translated">||||||Special Movement</target>
+        <target state="translated">||||||&lt;&lt;Special Movement</target>
       </trans-unit>
       <trans-unit id="849388" xml:space="preserve" approved="no">
         <source>マップ上には、通常の移動|よりも優れた移動の方法が|存在する。&gt;&gt;\c04『地下鉄』『水上バス』|『高速バス』『ヘリ』\c02など&gt;&gt;これらの移動方法を|\c04『特殊移動』\c02と呼ぶ。</source>
@@ -2689,7 +2689,7 @@
       </trans-unit>
       <trans-unit id="770632" xml:space="preserve" approved="no">
         <source>||||||　　　　　　特殊移動</source>
-        <target state="translated">||||||Special Movement</target>
+        <target state="translated">||||||&lt;&lt;Special Movement</target>
       </trans-unit>
       <trans-unit id="850992" xml:space="preserve" approved="no">
         <source>マップ上には、通常の移動|よりも優れた移動の方法が|あります。&gt;&gt;\c04『地下鉄』『水上バス』|『高速バス』『ヘリ』\c02など&gt;&gt;これらの移動方法を|\c04『特殊移動』\c02と呼びます。</source>
@@ -2941,7 +2941,7 @@
       </trans-unit>
       <trans-unit id="775524" xml:space="preserve" approved="no">
         <source>||||||　　　　……勝った……</source>
-        <target state="translated">||||||…I’ve won…</target>
+        <target state="translated">||||||&lt;&lt;…I’ve won…</target>
       </trans-unit>
       <trans-unit id="765816" xml:space="preserve" approved="no">
         <source>うっ……！</source>
@@ -2961,7 +2961,7 @@
       </trans-unit>
       <trans-unit id="777204" xml:space="preserve" approved="no">
         <source>||||||　　　　　\S12……計画通り。</source>
-        <target state="translated">||||||\S12... All according to plan.</target>
+        <target state="translated">||||||&lt;&lt;\S12... All according to plan.</target>
       </trans-unit>
       <trans-unit id="798264" xml:space="preserve" approved="no">
         <source>すべての記憶を蘇らせた今、|月は自分の理想の世界への野望を|新たに燃やす。</source>
@@ -3009,7 +3009,7 @@
       </trans-unit>
       <trans-unit id="778680" xml:space="preserve" approved="no">
         <source>||||||　　　大統領、取引をしよう。</source>
-        <target state="translated">||||||Mr. President, I want to make a deal.</target>
+        <target state="translated">||||||&lt;&lt;Mr. President, I want to make a deal.</target>
       </trans-unit>
       <trans-unit id="770248" xml:space="preserve" approved="no">
         <source>『ど……どうしろと……』</source>
@@ -3077,7 +3077,7 @@
       </trans-unit>
       <trans-unit id="776980" xml:space="preserve" approved="no">
         <source>||||||　　　　　私はキラです。</source>
-        <target state="translated">||||||　　　　　 I am Kira.</target>
+        <target state="translated">||||||&lt;&lt;I am Kira.</target>
       </trans-unit>
       <trans-unit id="877060" xml:space="preserve" approved="no">
         <source>自らキラと名乗る者から、|突然、さくらテレビに送られてきた|ビデオテープ。||そこには、キラであることの|証明である予告犯行と、|警察とＬが自分に降伏することを|要求するメッセージが収められて|いたのである。||このテープはさくらテレビによって|放送され、世間は新たなキラの動向|に騒然となったが……</source>
@@ -3365,7 +3365,7 @@
       </trans-unit>
       <trans-unit id="778320" xml:space="preserve" approved="no">
         <source>||||||　　デスノートのすり替えだ。</source>
-        <target state="translated">||||||Swap the Death Note with a fake.</target>
+        <target state="translated">||||||&lt;&lt;Swap the Death Note with a fake.</target>
       </trans-unit>
       <trans-unit id="793716" xml:space="preserve" approved="no">
         <source>読めているんだよ、ニア…|この戦い…\T0060\t0002僕の勝ちだ！</source>
@@ -3461,7 +3461,7 @@
       </trans-unit>
       <trans-unit id="775972" xml:space="preserve" approved="no">
         <source>||||||　　　　　　\S12キラです。</source>
-        <target state="translated">||||||\S12This is Kira.</target>
+        <target state="translated">||||||&lt;&lt;\S12This is Kira.</target>
       </trans-unit>
       <trans-unit id="764860" xml:space="preserve" approved="no">
         <source>キラ！？</source>
@@ -3493,7 +3493,7 @@
       </trans-unit>
       <trans-unit id="771112" xml:space="preserve" approved="no">
         <source>||||||　　　　　　３日後。</source>
-        <target state="translated">||||||Three days later…</target>
+        <target state="translated">||||||&lt;&lt;Three days later…</target>
       </trans-unit>
       <trans-unit id="809572" xml:space="preserve" approved="no">
         <source>キラからの連絡通り、|デスノートが捜査本部に届けられた。||しかも、死神リュークが|直接運んで…</source>
@@ -4105,7 +4105,7 @@
       </trans-unit>
       <trans-unit id="775748" xml:space="preserve" approved="no">
         <source>||||||　　　Ｌ　ｉｓ　ｄｅａｄ．</source>
-        <target state="translated">||||||　　　 L is dead.</target>
+        <target state="translated">||||||&lt;&lt;L is dead.</target>
       </trans-unit>
       <trans-unit id="796828" xml:space="preserve" approved="no">
         <source>とある養護施設の一室で|責任者ロジャーは２人の少年に|ある事実を伝えた…</source>
@@ -4153,7 +4153,7 @@
       </trans-unit>
       <trans-unit id="770536" xml:space="preserve" approved="no">
         <source>||||||　　　　　　数年後。</source>
-        <target state="translated">||||||Several years later</target>
+        <target state="translated">||||||&lt;&lt;Several years later</target>
       </trans-unit>
       <trans-unit id="867264" xml:space="preserve" approved="no">
         <source>夜神月、警察庁に入庁。|情報通信局情報管理課に配属。||そして数年前から、Ｌの後を継いで|世界中の情報を追跡する、|キラ捜査班の実質的リーダー。||もちろんそれは表向きのことであり、|裏ではキラとして着々と|新世界創世への準備を進めていた。</source>
@@ -4213,7 +4213,7 @@
       </trans-unit>
       <trans-unit id="779492" xml:space="preserve" approved="no">
         <source>||||||　　『二代目Ｌ、はじめまして』</source>
-        <target state="translated">||||||Nice to meet you, L number two.</target>
+        <target state="translated">||||||&lt;&lt;Nice to meet you, L number two.</target>
       </trans-unit>
       <trans-unit id="786076" xml:space="preserve" approved="no">
         <source>！……二代目？|どういうことですか？　あなたは？</source>
@@ -4249,7 +4249,7 @@
       </trans-unit>
       <trans-unit id="776756" xml:space="preserve" approved="no">
         <source>||||||　　　\S12この世は腐ってる…</source>
-        <target state="translated">||||||This world is rotten.</target>
+        <target state="translated">||||||&lt;&lt;This world is rotten.</target>
       </trans-unit>
       <trans-unit id="827540" xml:space="preserve" approved="no">
         <source>高校生・夜神　月は腐敗した世界と|退屈な日常にうんざりしていた。\T0030||\t0002そんなある日、彼は偶然、|１冊の奇妙なノートを手に入れる。</source>
@@ -4273,7 +4273,7 @@
       </trans-unit>
       <trans-unit id="776252" xml:space="preserve" approved="no">
         <source>||||||　　　気に入ってるようだな。</source>
-        <target state="translated">||||||You've taken quite a liking to it.</target>
+        <target state="translated">||||||&lt;&lt;You've taken quite a liking to it.</target>
       </trans-unit>
       <trans-unit id="767736" xml:space="preserve" approved="no">
         <source>う……うわっ！？</source>
@@ -4473,11 +4473,11 @@
       </trans-unit>
       <trans-unit id="781028" xml:space="preserve" approved="no">
         <source>||||||　（まだ……終わっていない……）</source>
-        <target state="translated">||||||(…This isn't over yet…)</target>
+        <target state="translated">||||||&lt;&lt;(…This isn't over yet…)</target>
       </trans-unit>
       <trans-unit id="775468" xml:space="preserve" approved="no">
         <source>||||||　　　うぐあぁあぁあ！！</source>
-        <target state="translated">||||||AHHHHHHHHHHH!</target>
+        <target state="translated">||||||&lt;&lt;AHHHHHHHHHHH!</target>
       </trans-unit>
       <trans-unit id="768216" xml:space="preserve" approved="no">
         <source>！　月くん……！？</source>
@@ -4501,7 +4501,7 @@
       </trans-unit>
       <trans-unit id="774796" xml:space="preserve" approved="no">
         <source>||||||　　　　……勝った……</source>
-        <target state="translated">||||||…I've won…</target>
+        <target state="translated">||||||&lt;&lt;…I've won…</target>
       </trans-unit>
       <trans-unit id="873428" xml:space="preserve" approved="no">
         <source>アメリカがキラに屈した……|衝撃の記者会見の後、世界は一気に|キラ肯定へ傾いていった。||いまだ反キラを叫ぶ勢力もあったが、|その声は弱く、キラを妄信する人々|に圧倒されつつあった。||合衆国政府は次いで対キラ特務機関|ＳＰＫの解散を発表。|ニア達は非合法組織に転落した…</source>
@@ -4517,7 +4517,7 @@
       </trans-unit>
       <trans-unit id="777960" xml:space="preserve" approved="no">
         <source>||||||　　　キラは二代目Ｌです。</source>
-        <target state="translated">||||||Kira is L number two.</target>
+        <target state="translated">||||||&lt;&lt;Kira is L number two.</target>
       </trans-unit>
       <trans-unit id="800012" xml:space="preserve" approved="no">
         <source>可能性は７％くらいですが、|そう考えると全てのつじつまが|合います。</source>
@@ -4557,7 +4557,7 @@
       </trans-unit>
       <trans-unit id="795948" xml:space="preserve" approved="no">
         <source>||||||　……削除……\T0045\t0000削除……\T0045\t0000削除……</source>
-        <target state="translated">||||||　…Delete…\T0045\t0000 Delete…\T0045\t0000 Delete…</target>
+        <target state="translated">||||||&lt;&lt;…Delete…\T0045\t0000 Delete…\T0045\t0000 Delete…</target>
       </trans-unit>
       <trans-unit id="868032" xml:space="preserve" approved="no">
         <source>キラの新世界創世は、最終段階に|入ろうとしていた。||Ｌとして|捜査本部をあざむき続ける月には、|自分のかわりにキラの裁きを行なう|補佐役が必要になっていた。||この役目はミサでは手に余る……||月は１人のキラ崇拝者に|新たにノートを授けた。</source>
@@ -4665,7 +4665,7 @@
       </trans-unit>
       <trans-unit id="772240" xml:space="preserve" approved="no">
         <source>||||||　　　　　　数日後……</source>
-        <target state="translated">||||||　　　　　　A few days later…</target>
+        <target state="translated">||||||&lt;&lt;A few days later…</target>
       </trans-unit>
       <trans-unit id="795156" xml:space="preserve" approved="no">
         <source>また犯罪者が…どういう事だ！？&gt;&gt;またキラが動き出したのか！？</source>
@@ -4745,7 +4745,7 @@
       </trans-unit>
       <trans-unit id="790444" xml:space="preserve" approved="no">
         <source>||||||　　　　Ａｌｌ　ｄａｔａ|　　　　ｄｅｌｅｔｉｏｎ</source>
-        <target state="translated">||||||All data deletion</target>
+        <target state="translated">||||||&lt;&lt;All data deletion</target>
       </trans-unit>
       <trans-unit id="777316" xml:space="preserve" approved="no">
         <source>……データ消去……どういう事だ？</source>
@@ -4797,7 +4797,7 @@
       </trans-unit>
       <trans-unit id="781220" xml:space="preserve" approved="no">
         <source>||||||　　僕は、新世界の神になる……！</source>
-        <target state="translated">||||||I will become the god of the new world…!</target>
+        <target state="translated">||||||&lt;&lt;I will become the god of the new world…!</target>
       </trans-unit>
       <trans-unit id="777540" xml:space="preserve" approved="no">
         <source>フフフ…\t0030　\t0002僕の勝ちだ。</source>
@@ -5045,7 +5045,7 @@
       </trans-unit>
       <trans-unit id="802020" xml:space="preserve" approved="no">
         <source>||||||　クククッ|\T0060\t0002　…やっぱ人間て\T0045\t0002面白ーーっ！！</source>
-        <target state="translated">||||||Kukuku|\T0060\t0002… I knew it. The human world \T0045\t0002sure is fun!</target>
+        <target state="translated">||||||&lt;&lt;Kukuku|&lt;&lt;\T0060\t0002… I knew it. The human world \T0045\t0002sure is fun!</target>
       </trans-unit>
       <trans-unit id="783396" xml:space="preserve" approved="no">
         <source>残るは直接対決です。|皆さん、いいですね？</source>
@@ -5289,11 +5289,11 @@
       </trans-unit>
       <trans-unit id="784420" xml:space="preserve" approved="no">
         <source>||||||　　　さよならだ、\T0045\t0002夜神月。</source>
-        <target state="translated">||||||This is goodbye, \T0045\t0002Light Yagami.</target>
+        <target state="translated">||||||&lt;&lt;This is goodbye, \T0045\t0002Light Yagami.</target>
       </trans-unit>
       <trans-unit id="784492" xml:space="preserve" approved="no">
         <source>||||||　　　ち…\T0060\t0002ちくしょう………</source>
-        <target state="translated">||||||D…\T0060\t0002Damn it…</target>
+        <target state="translated">||||||&lt;&lt;D…\T0060\t0002Damn it…</target>
       </trans-unit>
       <trans-unit id="865984" xml:space="preserve" approved="no">
         <source>キラ＝夜神月が消えて一年。||世界はすでにキラが現れる前の|退屈で堕落した日常に戻り、|重大犯罪も増加していった。||\T0060\t0002この日常に安心する者。||\T0060\t0002キラの裁きの再開を願う者。||\T0060\t0002人々の思いはそれぞれだった。</source>
