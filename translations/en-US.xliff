@@ -17047,6 +17047,10 @@
         <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント６ヶ所到達及び|　　　　捜査員を過半数リタイアで勝利。|Ｔ勝敗：規定ターン経過でキラ側勝利。</source>
         <target state="translated">Investigators: Win by arresting Kira.|Kira: Win by reaching 6 checkpoints and|eliminating over half of the investigators.|Tie: If turns run out, Kira wins.</target>
       </trans-unit>
+      <trans-unit id="637200" xml:space="preserve">
+        <source>情報はありません</source>
+        <target/>
+      </trans-unit>
       <trans-unit id="657872" xml:space="preserve" approved="no">
         <source>竜崎</source>
         <target state="translated">Ryuzaki</target>
