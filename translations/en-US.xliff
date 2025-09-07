@@ -7309,7 +7309,7 @@
       </trans-unit>
       <trans-unit id="584188" xml:space="preserve" approved="no">
         <source>規定ターン経過のため|キラ側が逃亡に成功。|キラ側の勝利！</source>
-        <target state="translated">The set number of turns is up, so Kira has escaped successfully.|Team Kira wins!</target>
+        <target state="translated">The set number of turns is up,|so Kira has escaped successfully.|Team Kira wins!</target>
       </trans-unit>
       <trans-unit id="562552" xml:space="preserve" approved="no">
         <source>勝利ポイント|キラ&lt;num&gt;Ｐ　捜査側&lt;num&gt;Ｐ|キラ側の勝利！</source>
