@@ -61,7 +61,7 @@
 ＼=4#reserved character, don't use
 ］=3#’ curly single closing quote
 ＾=3#'
-＿=4
+＿=0#reserved character, don't use
 ｀=4
 ａ=6
 ｂ=6

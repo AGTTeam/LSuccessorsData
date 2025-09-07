@@ -6909,19 +6909,19 @@
       </trans-unit>
       <trans-unit id="592908" xml:space="preserve" approved="no">
         <source>地下鉄を使って移動します。|特殊移動ポイント|消費Ｐ&lt;num&gt;／現Ｐ&lt;num&gt;</source>
-        <target state="translated">Move via subway.|Special Movement Points|Required P &lt;num&gt;/ Current P &lt;num&gt;</target>
+        <target state="translated">Move via subway.|Special Movement Points|Required P &lt;num&gt; / Current P &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="597260" xml:space="preserve" approved="no">
         <source>高速バスを使って移動します。|特殊移動ポイント|消費Ｐ&lt;num&gt;／現Ｐ&lt;num&gt;</source>
-        <target state="translated">Move via express bus.|Special Movement Points|Required P &lt;num&gt;/ Current P &lt;num&gt;</target>
+        <target state="translated">Move via express bus.|Special Movement Points|Required P &lt;num&gt; / Current P &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="597324" xml:space="preserve" approved="no">
         <source>水上バスを使って移動します。|特殊移動ポイント|消費Ｐ&lt;num&gt;／現Ｐ&lt;num&gt;</source>
-        <target state="translated">Move via water-bus.|Special Movement Points|Required P &lt;num&gt;/ Current P &lt;num&gt;</target>
+        <target state="translated">Move via water-bus.|Special Movement Points|Required P &lt;num&gt; / Current P &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="588208" xml:space="preserve" approved="no">
         <source>ヘリを使って移動します。|特殊移動ポイント|消費Ｐ&lt;num&gt;／現Ｐ&lt;num&gt;</source>
-        <target state="translated">Move via helicopter.|Special Movement Points|Required P &lt;num&gt;/ Current P &lt;num&gt;</target>
+        <target state="translated">Move via helicopter.|Special Movement Points|Required P &lt;num&gt; / Current P &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="500260" xml:space="preserve" approved="no">
         <source>移動先を選択してください。</source>
@@ -7133,7 +7133,7 @@
       </trans-unit>
       <trans-unit id="625896" xml:space="preserve" approved="no">
         <source>隠しカメラを設置します。|よろしいですか？|隠しカメラ設置数|現設置数&lt;num&gt;／限設置数&lt;num&gt;</source>
-        <target state="translated">Set a hidden camera?|You have currently set &lt;num&gt; cameras of the &lt;num&gt; available.</target>
+        <target state="translated">Set a hidden camera?|You have currently set &lt;num&gt;|cameras of the &lt;num&gt; available.</target>
       </trans-unit>
       <trans-unit id="500568" xml:space="preserve" approved="no">
         <source>隠しカメラを発見しました。</source>
@@ -7185,7 +7185,7 @@
       </trans-unit>
       <trans-unit id="622776" xml:space="preserve" approved="no">
         <source>トラップを設置します。|よろしいですか？|トラップ設置数|現設置数&lt;num&gt;／限設置数&lt;num&gt;</source>
-        <target state="translated">Set trap?|Number of traps installed:|Current &lt;num&gt;／Limit &lt;num&gt;</target>
+        <target state="translated">Set trap?|Number of traps installed:|Current &lt;num&gt; / Limit &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="494396" xml:space="preserve" approved="no">
         <source>『&lt;name&gt;』リタイア！</source>
@@ -7201,7 +7201,7 @@
       </trans-unit>
       <trans-unit id="611776" xml:space="preserve" approved="no">
         <source>検問を設置します。|よろしいですか？|検問設置数|現設置数&lt;num&gt;／限設置数&lt;num&gt;</source>
-        <target state="translated">Setting up an roadblock.|Are you sure?|Number of roadblocks |Current &lt;num&gt;／ Maximum &lt;num&gt;</target>
+        <target state="translated">Setting up a roadblock.|Are you sure?|Number of roadblocks|Current &lt;num&gt; / Maximum &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="513040" xml:space="preserve" approved="no">
         <source>検問を解除します。|よろしいですか？</source>
