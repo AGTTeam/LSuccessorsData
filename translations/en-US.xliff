@@ -5973,11 +5973,11 @@
       </trans-unit>
       <trans-unit id="576457" xml:space="preserve" approved="no">
         <source>キラは&lt;name&gt;ヶ所に痕跡を|残しました。|何か企んでますね。</source>
-        <target state="translated">Kira has left traces in &lt;name&gt; location(s).|They may be planning something.</target>
+        <target state="translated">Kira has left traces in &lt;name&gt; location(s). They may be planning something.</target>
       </trans-unit>
       <trans-unit id="534205" xml:space="preserve" approved="no">
         <source>何をやってるんでしょう。|バレバレですよ。</source>
-        <target state="translated">What are they playing at? |They're being so obvious!</target>
+        <target state="translated">What are they playing at?|They're being so obvious!</target>
       </trans-unit>
       <trans-unit id="534249" xml:space="preserve" approved="no">
         <source>このまま泳がせるのも|一興かもしれません。</source>
@@ -7041,63 +7041,63 @@
       </trans-unit>
       <trans-unit id="549456" xml:space="preserve" approved="no">
         <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;が目撃されました</source>
-        <target state="translated">　&lt;name&gt; was spotted in Group &lt;group&gt;, Area &lt;area&gt;.</target>
+        <target state="translated">&lt;name&gt; was spotted in|　Group &lt;group&gt;, Area &lt;area&gt;.</target>
       </trans-unit>
       <trans-unit id="541152" xml:space="preserve" approved="no">
         <source>　&lt;name&gt;にデスノートの|　所有権を移動しました。</source>
-        <target state="translated">　The ownership of the Death Note was transferred to &lt;name&gt;.</target>
+        <target state="translated">The ownership of the Death Note|　was transferred to &lt;name&gt;.</target>
       </trans-unit>
       <trans-unit id="565620" xml:space="preserve" approved="no">
         <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;がリタイアしました。</source>
-        <target state="translated">　&lt;name&gt; was eliminated in Group &lt;group&gt;, Area &lt;area&gt;.</target>
+        <target state="translated">&lt;name&gt; was eliminated in|　Group &lt;group&gt;, Area &lt;area&gt;.</target>
       </trans-unit>
       <trans-unit id="549648" xml:space="preserve" approved="no">
         <source>　捜査重点エリア外で|　&lt;name&gt;がリタイアしました。</source>
-        <target state="translated">　&lt;name&gt; was eliminated outside the priority area for the investigation.</target>
+        <target state="translated">&lt;name&gt; was eliminated outside of the|　priority area for the investigation.</target>
       </trans-unit>
       <trans-unit id="557924" xml:space="preserve" approved="no">
         <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;が逮捕されました。</source>
-        <target state="translated">　&lt;name&gt; was arrested in Group &lt;group&gt;, Area &lt;area&gt;.</target>
+        <target state="translated">&lt;name&gt; was arrested in|　Group &lt;group&gt;, Area &lt;area&gt;.</target>
       </trans-unit>
       <trans-unit id="541392" xml:space="preserve" approved="no">
         <source>　捜査重点エリア外で|　&lt;name&gt;が逮捕されました。</source>
-        <target state="translated">　&lt;name&gt; was arrested outside of the priority area for the investigation.</target>
+        <target state="translated">&lt;name&gt; was arrested outside of the|　priority area for the investigation.</target>
       </trans-unit>
       <trans-unit id="549504" xml:space="preserve" approved="no">
         <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;を逮捕しました。</source>
-        <target state="translated">　We arrested &lt;name&gt; in Group &lt;group&gt;, Area &lt;area&gt;.</target>
+        <target state="translated">We arrested &lt;name&gt; in|　Group &lt;group&gt;, Area &lt;area&gt;.</target>
       </trans-unit>
       <trans-unit id="533456" xml:space="preserve" approved="no">
         <source>　捜査重点エリア外で|　&lt;name&gt;を逮捕しました。</source>
-        <target state="translated">　We arrested &lt;name&gt; outside of the priority area for the investigation.</target>
+        <target state="translated">We arrested &lt;name&gt; outside of the|　priority area for the investigation.</target>
       </trans-unit>
       <trans-unit id="519120" xml:space="preserve" approved="no">
         <source>　グループ&lt;group&gt;で|　&lt;name&gt;が目撃されました。</source>
-        <target state="translated">　&lt;name&gt; was spotted in Group &lt;group&gt;.</target>
+        <target state="translated">&lt;name&gt; was spotted in|　Group &lt;group&gt;.</target>
       </trans-unit>
       <trans-unit id="540864" xml:space="preserve" approved="no">
         <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;を捉えました。</source>
-        <target state="translated">　&lt;name&gt; was caught in Group &lt;group&gt;, Area &lt;area&gt;.</target>
+        <target state="translated">&lt;name&gt; was caught in|　Group &lt;group&gt;, Area &lt;area&gt;.</target>
       </trans-unit>
       <trans-unit id="525756" xml:space="preserve" approved="no">
         <source>　捜査重点エリア外で|　&lt;name&gt;を捉えました。</source>
-        <target state="translated">　&lt;name&gt; was caught outside of the priority area for the investigation.</target>
+        <target state="translated">&lt;name&gt; was caught outside of the|　priority area for the investigation.</target>
       </trans-unit>
       <trans-unit id="557976" xml:space="preserve" approved="no">
         <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;が発見されました。</source>
-        <target state="translated">　&lt;name&gt; was found in Group &lt;group&gt;, Area &lt;area&gt;.</target>
+        <target state="translated">&lt;name&gt; was found in|　Group &lt;group&gt;, Area &lt;area&gt;.</target>
       </trans-unit>
       <trans-unit id="540912" xml:space="preserve" approved="no">
         <source>　捜査重点エリア外で|　&lt;name&gt;が発見されました。</source>
-        <target state="translated">　&lt;name&gt; was found outside of the priority area for the investigation.</target>
+        <target state="translated">&lt;name&gt; was found outside of the|　priority area for the investigation.</target>
       </trans-unit>
       <trans-unit id="549552" xml:space="preserve" approved="no">
         <source>　グループ&lt;group&gt;　エリア&lt;area&gt;で|　&lt;name&gt;が捕まりました。</source>
-        <target state="translated">　&lt;name&gt; was captured in Group &lt;group&gt;, Area &lt;area&gt;.</target>
+        <target state="translated">&lt;name&gt; was captured in|　Group &lt;group&gt;, Area &lt;area&gt;.</target>
       </trans-unit>
       <trans-unit id="533192" xml:space="preserve" approved="no">
         <source>　捜査重点エリア外で|　&lt;name&gt;が捕まりました。</source>
-        <target state="translated">　&lt;name&gt; was captured outside of the priority area for the investigation.</target>
+        <target state="translated">&lt;name&gt; was captured outside of the|　priority area for the investigation.</target>
       </trans-unit>
       <trans-unit id="509032" xml:space="preserve" approved="no">
         <source>グループ&lt;group&gt;で|&lt;name&gt;が目撃されました。</source>
@@ -8869,7 +8869,7 @@
       </trans-unit>
       <trans-unit id="606141" xml:space="preserve" approved="no">
         <source>これならミサって|気づかれないし、変装って、|ちょっと楽しいかも。</source>
-        <target state="translated">This way they won’t know I’m Misa.|Disguises are kind of fun. I'd know!</target>
+        <target state="translated">This way they won’t know I’m Misa. Disguises are kind of fun. I'd know!</target>
       </trans-unit>
       <trans-unit id="564373" xml:space="preserve" approved="no">
         <source>やだっ、隠しカメラ！|警察ってストーカーみたい…</source>
