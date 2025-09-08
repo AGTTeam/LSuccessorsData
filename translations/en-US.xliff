@@ -793,15 +793,15 @@
       </trans-unit>
       <trans-unit id="773696" xml:space="preserve" approved="no">
         <source>||||||　　　　検問解除コマンド</source>
-        <target state="translated">||||||&lt;&lt;Roadblock Disassembly Command</target>
+        <target state="translated">||||||&lt;&lt;Roadblock Removal Command</target>
       </trans-unit>
       <trans-unit id="816452" xml:space="preserve" approved="no">
         <source>\c04『検問解除』\c02コマンドを|実行すると、&gt;&gt;設置した\c04『検問』\c02を|解除することができます。</source>
-        <target state="translated">The \c04Roadblock Disassembly\c02 command, when executed, will remove one of the \c04roadblocks\c02.</target>
+        <target state="translated">The \c04Roadblock Removal\c02 command allows you to lift a \c04roadblock\c02.</target>
       </trans-unit>
       <trans-unit id="823016" xml:space="preserve" approved="no">
         <source>一度に設置できる\c04検問の数には|限りがあります\c02ので、&gt;&gt;状況に応じて検問を解除して、|再度設置してください。</source>
-        <target state="translated">There is a limit to the \c04number of roadblocks\c02 that can be set up at the same time,&gt;&gt;so as the situation changes, make sure to disassemble roadblocks so you can set them up elsewhere.</target>
+        <target state="translated">There is a limit to the \c04number of roadblocks\c02 that can be set up at the same time,&gt;&gt;so as the situation changes, make sure to remove roadblocks so you can set them up elsewhere.</target>
       </trans-unit>
       <trans-unit id="811520" xml:space="preserve" approved="no">
         <source>どの検問が必要で、|どの検問が必要ないか、&gt;&gt;容疑者の潜伏場所を推理して、|決定してください。</source>
@@ -949,15 +949,15 @@
       </trans-unit>
       <trans-unit id="776812" xml:space="preserve" approved="no">
         <source>||||||　　　ショートカットコマンド</source>
-        <target state="translated">||||||&lt;&lt;Viewing Shortcuts</target>
+        <target state="translated">||||||&lt;&lt;Info Command Shortcut</target>
       </trans-unit>
       <trans-unit id="820568" xml:space="preserve" approved="no">
         <source>\c04『ショートカットコマンド』\c02とは、|各種\c04『情報系』\c02のコマンドを|まとめて呼び出すコマンドです。</source>
-        <target state="translated">The \c04Shortcut Command\c02 summarizes and displays all the current information from our\c04information networks\c02.</target>
+        <target state="translated">You can quickly navigate to the \c04Information\c02 commands menu using a \c04shorcut\c02.</target>
       </trans-unit>
       <trans-unit id="841432" xml:space="preserve" approved="no">
         <source>\c04『コマンド』\c02を呼び出すには、|下画面の\c04『右上』\c02をタッチするか、|\c04『Ｒボタン』\c02を押してください。&gt;&gt;捜査に役立つ情報に素早く|アクセスできます。</source>
-        <target state="translated">To execute this command, tap the \c04upper right corner\c02 of the bottom screen, or press the \c04R button\c02.&gt;&gt;It allows you to quickly access information that is useful to the investigation.</target>
+        <target state="translated">To do this, tap the \c04upper right corner\c02 of the bottom screen, or press the \c04R button\c02.&gt;&gt;You can access information that is useful to the investigation easily.</target>
       </trans-unit>
       <trans-unit id="780900" xml:space="preserve" approved="no">
         <source>上手に利用して、捜査効率を|上げましょう。</source>
@@ -965,15 +965,15 @@
       </trans-unit>
       <trans-unit id="776532" xml:space="preserve" approved="no">
         <source>||||||　　　ショートカットコマンド</source>
-        <target state="translated">||||||&lt;&lt;Viewing Shortcuts</target>
+        <target state="translated">||||||&lt;&lt;Info Command Shortcut</target>
       </trans-unit>
       <trans-unit id="819908" xml:space="preserve" approved="no">
         <source>\c04『ショートカットコマンド』\c02とは、|各種\c04『情報系』\c02のコマンドを|まとめて呼び出すコマンドだ。</source>
-        <target state="translated">The \c04Shortcut Command\c02 summarizes and shows all the current information from our\c04information networks\c02.</target>
+        <target state="translated">You can quickly navigate to the \c04Information\c02 commands menu using a \c04shorcut\c02.</target>
       </trans-unit>
       <trans-unit id="838920" xml:space="preserve" approved="no">
         <source>\c04『コマンド』\c02を呼び出すには、|下画面の\c04『右上』\c02をタッチするか、|\c04『Ｒボタン』\c02を押せばいい。&gt;&gt;計画に役立つ情報に素早く|アクセスできる。</source>
-        <target state="translated">To execute this command, tap the \c04upper right corner\c02 of the bottom screen, or press the \c04R button\c02.&gt;&gt;It’ll let you quickly access information that’s useful for the plan.</target>
+        <target state="translated">To do this, tap the \c04upper right corner\c02 of the bottom screen, or press the \c04R button\c02.&gt;&gt;It’ll let you quickly access information that’s useful for the plan.</target>
       </trans-unit>
       <trans-unit id="784144" xml:space="preserve" approved="no">
         <source>計画を成功させるために、|うまく活用するんだ。</source>
@@ -1745,23 +1745,23 @@
       </trans-unit>
       <trans-unit id="775356" xml:space="preserve" approved="no">
         <source>||||||　　　　ステータスコマンド</source>
-        <target state="translated">||||||&lt;&lt;Member Status Command</target>
+        <target state="translated">||||||&lt;&lt;Member Profiles Command</target>
       </trans-unit>
       <trans-unit id="817072" xml:space="preserve" approved="no">
         <source>\c04『ステータス』\c02コマンドでは、|\c04味方\c02と\c04敵\c02に関する情報を確認|することが出来る。</source>
-        <target state="translated">By using the \c04Status\c02 command, you can check information about your \c04allies\c02 and \c04enemies\c02.</target>
+        <target state="translated">By using the \c04Profiles\c02 command, you can check information about your \c04allies\c02 and \c04enemies\c02.</target>
       </trans-unit>
       <trans-unit id="814724" xml:space="preserve" approved="no">
         <source>ステータスを確認するには、|メンバーをタッチして&gt;&gt;\c04『情報』→『ステータス』\c02の|順でタッチする。</source>
-        <target state="translated">To check a Kira member's status, tap on them and select \c04Information→Status\c02.</target>
+        <target state="translated">To check a Kira member's profile, tap on them and select \c04Information→Profile\c02.</target>
       </trans-unit>
       <trans-unit id="838744" xml:space="preserve" approved="no">
         <source>ステータス画面には、|メンバーの特殊能力に|関する情報など、&gt;&gt;メンバー\c04個別の情報\c02が載っている。|メンバーの能力を把握すれば|僕らの勝利に役立つだろう。</source>
-        <target state="translated">The status screen will show information about that member's \c04personal information\c02, including any special abilities. Having a good grasp on each member's skills will be useful for our victory.</target>
+        <target state="translated">The profile screen will show information about that member's \c04personal information\c02, including any special abilities. Having a good grasp on each member's skills will be useful for our victory.</target>
       </trans-unit>
       <trans-unit id="809908" xml:space="preserve" approved="no">
         <source>また、ステータスは、コマンド|実行回数としてカウントされない。|何度でも情報を確認出来る。</source>
-        <target state="translated">Using the Status command doesn't use up Command Points. You can check the information as many times as you want.</target>
+        <target state="translated">Using the Profiles command doesn't use up Command Points. You can check the information as many times as you want.</target>
       </trans-unit>
       <trans-unit id="773956" xml:space="preserve" approved="no">
         <source>||||||　　　　　コマンドの使用</source>
@@ -1845,23 +1845,23 @@
       </trans-unit>
       <trans-unit id="775188" xml:space="preserve" approved="no">
         <source>||||||　　　　ステータスコマンド</source>
-        <target state="translated">||||||&lt;&lt;Member Status Command</target>
+        <target state="translated">||||||&lt;&lt;Member Profiles Command</target>
       </trans-unit>
       <trans-unit id="821236" xml:space="preserve" approved="no">
         <source>\c04『ステータス』\c02コマンドでは、|\c04『味方』\c02と\c04『敵』\c02に関する情報を|確認することができます。</source>
-        <target state="translated">By using the \c04Status\c02 command, you can check information about your \c04allies\c02 and \c04enemies\c02.</target>
+        <target state="translated">By using the \c04Profiles\c02 command, you can check information about your \c04allies\c02 and \c04enemies\c02.</target>
       </trans-unit>
       <trans-unit id="812804" xml:space="preserve" approved="no">
         <source>ステータスを確認するには、|捜査員をタッチして|\c04『情報』→『ステータス』\c02の|順でタッチします。</source>
-        <target state="translated">To check an investigator's status, tap on them and select \c04Information→Status\c02.</target>
+        <target state="translated">To check an investigator's profile, tap on them and select \c04Information→Profile\c02.</target>
       </trans-unit>
       <trans-unit id="839992" xml:space="preserve" approved="no">
         <source>ステータス画面には、|捜査員の特殊能力に|関する情報など、&gt;&gt;\c04捜査員個別\c02の情報が|載っています。&gt;&gt;捜査員の能力を把握すれば|捜査に大きく役立つでしょう。</source>
-        <target state="translated">The status screen will show information about that investigator's \c04personal information\c02, including any special abilities. Having a good grasp on each investigator's skills will be of great use to the investigation.</target>
+        <target state="translated">The profile screen will show information about that investigator's \c04personal information\c02, including any special abilities. Having a good grasp on each investigator's skills will be of great use to the investigation.</target>
       </trans-unit>
       <trans-unit id="811636" xml:space="preserve" approved="no">
         <source>また、ステータスは、コマンド|実行回数としてカウントされません。|何度でも情報を確認できます。</source>
-        <target state="translated">Using the Status command does not require Command Points. You can check the information as many times as you want.</target>
+        <target state="translated">Using the Profiles command does not require Command Points. You can check the information as many times as you want.</target>
       </trans-unit>
       <trans-unit id="775244" xml:space="preserve" approved="no">
         <source>||||||　　　捜査側の情報コマンド</source>
@@ -2721,7 +2721,7 @@
       </trans-unit>
       <trans-unit id="837864" xml:space="preserve" approved="no">
         <source>また、特殊移動ポイントは|\c04ステータス画面\c02から|確認することができます。&gt;&gt;残りのポイントを確認して|使い所をよく考えてから|指示を出してください。</source>
-        <target state="translated">You can check the remaining number of Special Movement Points from the \c04Status Screen\c02. &gt;&gt;Think carefully about how to use these points before giving an order.</target>
+        <target state="translated">You can check the remaining number of Special Movement Points from the \c04Profile Screen\c02. &gt;&gt;Think carefully about how to use these points before giving an order.</target>
       </trans-unit>
       <trans-unit id="777036" xml:space="preserve" approved="no">
         <source>やりましたね。|我々の勝ちです。</source>
@@ -6009,7 +6009,7 @@
       </trans-unit>
       <trans-unit id="576737" xml:space="preserve" approved="no">
         <source>キラが痕跡を残したのは|&lt;name&gt;ヶ所。|そこに何かあります。</source>
-        <target state="translated">Kira has left traces in &lt;name&gt; location(s).|There must be something there.</target>
+        <target state="translated">Kira has left traces in &lt;name&gt; location(s). There must be something there.</target>
       </trans-unit>
       <trans-unit id="514001" xml:space="preserve" approved="no">
         <source>ふーん、こんな簡単な手を|使うとは…</source>
@@ -6221,7 +6221,7 @@
       </trans-unit>
       <trans-unit id="612425" xml:space="preserve" approved="no">
         <source>隠しカメラの設置ですね。|しかし、いつもと同じ数では|足りないのでは？</source>
-        <target state="translated">Setting up hidden cameras, yes?|But is the usual number not sufficient?#i may be reading the jpn wrong, not sure</target>
+        <target state="translated">Setting up hidden cameras, yes?|We might need more than usual.</target>
       </trans-unit>
       <trans-unit id="534689" xml:space="preserve" approved="no">
         <source>設置完了。少し多めに|手配しておきました。</source>
@@ -7133,7 +7133,7 @@
       </trans-unit>
       <trans-unit id="625896" xml:space="preserve" approved="no">
         <source>隠しカメラを設置します。|よろしいですか？|隠しカメラ設置数|現設置数&lt;num&gt;／限設置数&lt;num&gt;</source>
-        <target state="translated">Set a hidden camera?|You have currently set|&lt;num&gt; cameras of the &lt;num&gt; available.</target>
+        <target state="translated">Place hidden camera?|You have currently set|&lt;num&gt; of the &lt;num&gt; available.</target>
       </trans-unit>
       <trans-unit id="500568" xml:space="preserve" approved="no">
         <source>隠しカメラを発見しました。</source>
@@ -7209,7 +7209,7 @@
       </trans-unit>
       <trans-unit id="498188" xml:space="preserve" approved="no">
         <source>どの検問を解除しますか？</source>
-        <target state="translated">Which roadblock do you want to lift?</target>
+        <target state="translated">Which roadblock do you want to remove?</target>
       </trans-unit>
       <trans-unit id="554112" xml:space="preserve" approved="no">
         <source>推理マーカーを|全て消します。|よろしいですか？</source>
@@ -7505,7 +7505,7 @@
       </trans-unit>
       <trans-unit id="622457" xml:space="preserve" approved="no">
         <source>特殊能力は|「ステータス画面」で|見る事ができます。|確認しておいてください。</source>
-        <target state="translated">Information about special abilities can be found on the Status screen. Please make sure you read through it.</target>
+        <target state="translated">Information about special abilities can be found on the Profile screen. Please make sure you read through it.</target>
       </trans-unit>
       <trans-unit id="595725" xml:space="preserve" approved="no">
         <source>「カメラ修復」では|破壊されたカメラを修復|する事ができます。</source>
@@ -7609,7 +7609,7 @@
       </trans-unit>
       <trans-unit id="613793" xml:space="preserve" approved="no">
         <source>特殊能力の確認は|「ステータス画面」から|できます。|把握してください。</source>
-        <target state="translated">You can review Special Abilities from the Status screen.</target>
+        <target state="translated">You can review Special Abilities from the Profile screen.</target>
       </trans-unit>
       <trans-unit id="605869" xml:space="preserve" approved="no">
         <source>都市カメラは破壊されても|「カメラ修復」で修復|する事ができます。</source>
@@ -7705,7 +7705,7 @@
       </trans-unit>
       <trans-unit id="606685" xml:space="preserve" approved="no">
         <source>特殊能力は|「ステータス画面」で|確認できる。|確認しておいてくれ。</source>
-        <target state="translated">You can review a special ability's effects in the Status screen. Be sure not to overlook this.</target>
+        <target state="translated">You can review a special ability's effects in the Profile screen. Be sure not to overlook this.</target>
       </trans-unit>
       <trans-unit id="598049" xml:space="preserve" approved="no">
         <source>都市カメラが破壊されても|「カメラ修復」で|修復する事が可能だ。</source>
@@ -7889,7 +7889,7 @@
       </trans-unit>
       <trans-unit id="582269" xml:space="preserve" approved="no">
         <source>やってくれますね。|しかし、&lt;name&gt;が|しぶとくて助かります。</source>
-        <target state="translated">So we've been had. It's fortunate|&lt;name&gt; is so resilient.</target>
+        <target state="translated">So we've been had. It's lucky|&lt;name&gt; is so resilient.</target>
       </trans-unit>
       <trans-unit id="525449" xml:space="preserve" approved="no">
         <source>…&lt;name&gt;が|無事なだけで|良しとしましょう。</source>
@@ -7897,7 +7897,7 @@
       </trans-unit>
       <trans-unit id="558393" xml:space="preserve" approved="no">
         <source>やられましたか…|ですが、&lt;name&gt;が|無事でよかった。</source>
-        <target state="translated">Have we been had…? But, I'm|glad &lt;name&gt; is unhurt.</target>
+        <target state="translated">Have we been had…? But, I'm glad &lt;name&gt; is unhurt.</target>
       </trans-unit>
       <trans-unit id="514761" xml:space="preserve" approved="no">
         <source>なんでしょう、|イヤな予感がします。</source>
@@ -15327,105 +15327,105 @@
         <source>これに乗れば邪魔は入らねえ。</source>
         <target state="translated">No one will get in my way if I take this.</target>
       </trans-unit>
-      <trans-unit id="576121" xml:space="preserve">
+      <trans-unit id="576121" xml:space="preserve" approved="no">
         <source>こっちは今からバスを使うぞ。|そっちもうまくやれよ。</source>
-        <target/>
+        <target state="translated">I'm about to take the bus. You do your part too.</target>
       </trans-unit>
-      <trans-unit id="525161" xml:space="preserve">
+      <trans-unit id="525161" xml:space="preserve" approved="no">
         <source>これでしばらく|追手の事は心配ねえな。</source>
-        <target/>
+        <target state="translated">Now I don't have to worry about anyone being on my tail for a while.</target>
       </trans-unit>
-      <trans-unit id="570977" xml:space="preserve">
+      <trans-unit id="570977" xml:space="preserve" approved="no">
         <source>水上バスなら追手をまける。|後の事は着いてからだ。</source>
-        <target/>
+        <target state="translated">I can throw them off my scent if I take the water-bus. The rest can wait 'til I get off the boat.</target>
       </trans-unit>
-      <trans-unit id="512669" xml:space="preserve">
+      <trans-unit id="512669" xml:space="preserve" approved="no">
         <source>これから|水上バスってのに乗るぞ。</source>
-        <target/>
+        <target state="translated">I'm about to get on the water-bus.</target>
       </trans-unit>
-      <trans-unit id="516521" xml:space="preserve">
+      <trans-unit id="516521" xml:space="preserve" approved="no">
         <source>こいつはいい。|誰も追いつけねえや。</source>
-        <target/>
+        <target state="translated">This'll do. No one's gonna follow me on this.</target>
       </trans-unit>
-      <trans-unit id="501825" xml:space="preserve">
+      <trans-unit id="501825" xml:space="preserve" approved="no">
         <source>ヘリで飛ぶのも悪くないな。</source>
-        <target/>
+        <target state="translated">Huh, flying around in a helicopter isn't a bad idea.</target>
       </trans-unit>
-      <trans-unit id="540497" xml:space="preserve">
+      <trans-unit id="540497" xml:space="preserve" approved="no">
         <source>なるほど。ヘリなら奴等を|出し抜けそうだ。</source>
-        <target/>
+        <target state="translated">I get it. I can beat them to the punch if I take a helicopter.</target>
       </trans-unit>
-      <trans-unit id="498749" xml:space="preserve">
+      <trans-unit id="498749" xml:space="preserve" approved="no">
         <source>ばかな…こんなはずじゃ…</source>
-        <target/>
+        <target state="translated">Bullshit... This can't be happening...#too strong?</target>
       </trans-unit>
-      <trans-unit id="505121" xml:space="preserve">
+      <trans-unit id="505121" xml:space="preserve" approved="no">
         <source>ばかめ！|背中がガラ空きだぜ！</source>
-        <target/>
+        <target state="translated">Moron! Your back is wide open!</target>
       </trans-unit>
-      <trans-unit id="495941" xml:space="preserve">
+      <trans-unit id="495941" xml:space="preserve" approved="no">
         <source>甘いんだよ、諦めな。</source>
-        <target/>
+        <target state="translated">Heh, nice try. Give it up.</target>
       </trans-unit>
       <trans-unit id="509645" xml:space="preserve" approved="no">
         <source>残念だったな。|ゲームオーバーだ。</source>
         <target state="translated">It's a shame, isn't it? Game over.</target>
       </trans-unit>
-      <trans-unit id="525241" xml:space="preserve">
+      <trans-unit id="525241" xml:space="preserve" approved="no">
         <source>ケッ！　つまらねえ|小細工しやがって。</source>
-        <target/>
+        <target state="translated">Damn cops, using this stupid shit.#check</target>
       </trans-unit>
-      <trans-unit id="525281" xml:space="preserve">
+      <trans-unit id="525281" xml:space="preserve" approved="no">
         <source>監視できなきゃ、|奴等も動けやしねえ。</source>
-        <target/>
+        <target state="translated">They'll be spinning their wheels without their surveillance.#too far?</target>
       </trans-unit>
-      <trans-unit id="518521" xml:space="preserve">
+      <trans-unit id="518521" xml:space="preserve" approved="no">
         <source>これでもう、|何の心配もいらねえな。</source>
-        <target/>
+        <target state="translated">Now I've got nothing to worry about anymore.</target>
       </trans-unit>
-      <trans-unit id="518801" xml:space="preserve">
+      <trans-unit id="518801" xml:space="preserve" approved="no">
         <source>ぶっ壊すだけでも、|面倒なもんだな。</source>
-        <target/>
+        <target state="translated">Even just breaking the things is a damn nuisance.</target>
       </trans-unit>
-      <trans-unit id="520841" xml:space="preserve">
+      <trans-unit id="520841" xml:space="preserve" approved="no">
         <source>ケッ！　つまらねえ|小細工しやがって。</source>
-        <target/>
+        <target state="translated">Damn cops, using this stupid shit.#check</target>
       </trans-unit>
-      <trans-unit id="540541" xml:space="preserve">
+      <trans-unit id="540541" xml:space="preserve" approved="no">
         <source>一時しのぎだが、|奴等には見破れっこない。</source>
-        <target/>
+        <target state="translated">It's only a temporary fix but they'll never see through it.</target>
       </trans-unit>
-      <trans-unit id="540585" xml:space="preserve">
+      <trans-unit id="540585" xml:space="preserve" approved="no">
         <source>とりあえず奴等に|見つかる事はねえだろう。</source>
-        <target/>
+        <target state="translated">I probably won't get found out for now.</target>
       </trans-unit>
-      <trans-unit id="527561" xml:space="preserve">
+      <trans-unit id="527561" xml:space="preserve" approved="no">
         <source>追手もうるさいし、|この手でまいてやる。</source>
-        <target/>
+        <target state="translated">Those guys on my tail are annoying as hell, so I'll use this to get around them.</target>
       </trans-unit>
-      <trans-unit id="579369" xml:space="preserve">
+      <trans-unit id="579369" xml:space="preserve" approved="no">
         <source>隠しカメラか。|こっちの動きがバレると|やっかいだな。</source>
-        <target/>
+        <target state="translated">A hidden camera, huh. It'd be a pain if they found out what we were up to.</target>
       </trans-unit>
-      <trans-unit id="565153" xml:space="preserve">
+      <trans-unit id="565153" xml:space="preserve" approved="no">
         <source>カメラか。こういうのは|つぶしといた方がいいな。</source>
-        <target/>
+        <target state="translated">A camera, huh. These things are better off as scrap.</target>
       </trans-unit>
-      <trans-unit id="566349" xml:space="preserve">
+      <trans-unit id="566349" xml:space="preserve" approved="no">
         <source>いつから奴等、|こんなもん仕掛けて|やがったんだ？</source>
-        <target/>
+        <target state="translated">When the hell did they set these things up?</target>
       </trans-unit>
-      <trans-unit id="532885" xml:space="preserve">
+      <trans-unit id="532885" xml:space="preserve" approved="no">
         <source>目をつぶされちゃ|奴等もお手上げだろう。</source>
-        <target/>
+        <target state="translated">They'll be out of options with their eyes all smashed up.#ehh</target>
       </trans-unit>
-      <trans-unit id="565205" xml:space="preserve">
+      <trans-unit id="565205" xml:space="preserve" approved="no">
         <source>ざまあみろ。|この辺りは完全に|ブラックアウトだ。</source>
-        <target/>
+        <target state="translated">Take that! This area is in a total blackout.</target>
       </trans-unit>
-      <trans-unit id="573265" xml:space="preserve">
+      <trans-unit id="573265" xml:space="preserve" approved="no">
         <source>奴等はこれで動けねえ。|これで勝負はこっちのもんだ。</source>
-        <target/>
+        <target state="translated">Now they won't be able to move. We've as good as won.#check</target>
       </trans-unit>
       <trans-unit id="533897" xml:space="preserve">
         <source>ちょっとやばそうなんで|地下鉄に乗ります。</source>
@@ -16909,7 +16909,7 @@
       </trans-unit>
       <trans-unit id="657824" xml:space="preserve" approved="no">
         <source>捜査員</source>
-        <target state="translated">Investigator</target>
+        <target state="translated">Agent</target>
       </trans-unit>
       <trans-unit id="657584" xml:space="preserve" approved="no">
         <source>シドウ</source>
