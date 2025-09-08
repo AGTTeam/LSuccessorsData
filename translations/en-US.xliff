@@ -7889,15 +7889,15 @@
       </trans-unit>
       <trans-unit id="582269" xml:space="preserve" approved="no">
         <source>やってくれますね。|しかし、&lt;name&gt;が|しぶとくて助かります。</source>
-        <target state="translated">So we've been had. It's fortunate|&lt;name&gt; is so tenacious.</target>
+        <target state="translated">So we've been had. It's fortunate|&lt;name&gt; is so resilient.</target>
       </trans-unit>
       <trans-unit id="525449" xml:space="preserve" approved="no">
         <source>…&lt;name&gt;が|無事なだけで|良しとしましょう。</source>
-        <target state="translated">…Let’s just be happy that &lt;name&gt; is safe.</target>
+        <target state="translated">…Let’s just be happy that|&lt;name&gt; wasn't hurt.</target>
       </trans-unit>
       <trans-unit id="558393" xml:space="preserve" approved="no">
         <source>やられましたか…|ですが、&lt;name&gt;が|無事でよかった。</source>
-        <target state="translated">Have we been had…? Though, I'm glad &lt;name&gt; is unhurt.</target>
+        <target state="translated">Have we been had…? But, I'm|glad &lt;name&gt; is unhurt.</target>
       </trans-unit>
       <trans-unit id="514761" xml:space="preserve" approved="no">
         <source>なんでしょう、|イヤな予感がします。</source>
@@ -8157,7 +8157,7 @@
       </trans-unit>
       <trans-unit id="573097" xml:space="preserve" approved="no">
         <source>やられました。|ですが&lt;name&gt;が|無事なら、まだいけます。</source>
-        <target state="translated">We’ve been had.|But as long as &lt;name&gt; is alright, we can still win this battle.</target>
+        <target state="translated">We’ve been had. But as long as &lt;name&gt;|is safe now, we can still carry on.</target>
       </trans-unit>
       <trans-unit id="518441" xml:space="preserve" approved="no">
         <source>なんでしょう、|イヤな予感がします。</source>
@@ -8401,7 +8401,7 @@
       </trans-unit>
       <trans-unit id="578305" xml:space="preserve" approved="no">
         <source>くそっ…やってくれるな。|でも、&lt;name&gt;が|無事でよかった。</source>
-        <target state="translated">Dammit… They got us.|But I’m glad &lt;name&gt; is safe.</target>
+        <target state="translated">Dammit… They got us. But I’m glad &lt;name&gt; wasn't hurt.</target>
       </trans-unit>
       <trans-unit id="518841" xml:space="preserve" approved="no">
         <source>してやられた。|&lt;name&gt;は|大丈夫なのか…？</source>
@@ -16993,7 +16993,7 @@
       </trans-unit>
       <trans-unit id="541344" xml:space="preserve" approved="no">
         <source>&lt;name&gt;は|無事でしたか。|不幸中のさいわいです。</source>
-        <target state="translated">&lt;name&gt;'s alright?|That's a relief… At least one good thing has come out of this.</target>
+        <target state="translated">&lt;name&gt;'s alright?|That's a relief…|Things could have been much worse.</target>
       </trans-unit>
       <trans-unit id="634268" xml:space="preserve" approved="no">
         <source>てすとてすと</source>
@@ -17047,9 +17047,9 @@
         <source>捜査員：キラを逮捕で勝利。|キラ　：チェックポイント６ヶ所到達及び|　　　　捜査員を過半数リタイアで勝利。|Ｔ勝敗：規定ターン経過でキラ側勝利。</source>
         <target state="translated">Investigators: Win by arresting Kira.|Kira: Win by reaching 6 checkpoints and|eliminating over half of the investigators.|Tie: If turns run out, Kira wins.</target>
       </trans-unit>
-      <trans-unit id="637200" xml:space="preserve">
+      <trans-unit id="637200" xml:space="preserve" approved="no">
         <source>情報はありません</source>
-        <target/>
+        <target state="translated">No information.</target>
       </trans-unit>
       <trans-unit id="657872" xml:space="preserve" approved="no">
         <source>竜崎</source>
