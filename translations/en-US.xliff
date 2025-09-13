@@ -1565,7 +1565,7 @@
       </trans-unit>
       <trans-unit id="804020" xml:space="preserve" approved="no">
         <source>そのステージでの|チェックポイントに関する内容は|\c04『オプション』\c02で確認できます</source>
-        <target state="translated">You can read about the checkpoint for the current stage in \c04Options\c02.</target>
+        <target state="translated">You can read about the checkpoints for the current stage in \c04Options\c02.</target>
       </trans-unit>
       <trans-unit id="785788" xml:space="preserve" approved="no">
         <source>捜査方針を立てる時に、|参考にするといいでしょう。</source>
@@ -6477,7 +6477,7 @@
       </trans-unit>
       <trans-unit id="627172" xml:space="preserve" approved="no">
         <source>第２のキラと接触を図ります。|捜査員を避けながらチェック|ポイントに向かってください。</source>
-        <target state="translated">Try to make contact with the 2nd Kira. Head toward the checkpoint while avoiding the investigators.</target>
+        <target state="translated">Try to make contact with the 2nd Kira. Head toward the checkpoints while avoiding the investigators.</target>
       </trans-unit>
       <trans-unit id="619256" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　２６|特殊移動ポイント　　６０|トラップ設置数　　　１２</source>
@@ -6525,7 +6525,7 @@
       </trans-unit>
       <trans-unit id="633300" xml:space="preserve" approved="no">
         <source>ノートを回収する為に『月』|はチェックポイントに向かっ|てください。回収後、捜査員|をリタイアさせてください。</source>
-        <target state="translated">Light, head towards the checkpoint to retrieve the Death Note. Once you have the Note, eliminate the investigators.</target>
+        <target state="translated">Light, head towards the checkpoints to retrieve the Death Note. Once you have the Note, eliminate the investigators.</target>
       </trans-unit>
       <trans-unit id="584308" xml:space="preserve" approved="no">
         <source>Ｌは疑いを強め、キラ側の|人間を確保しようとして|います。</source>
@@ -6545,7 +6545,7 @@
       </trans-unit>
       <trans-unit id="602060" xml:space="preserve" approved="no">
         <source>『総一郎』は粧裕救出の為、|チェックポイントに|向かってください。</source>
-        <target state="translated">Soichiro, head towards the checkpoint in order to rescue Sayu.</target>
+        <target state="translated">Soichiro, head towards the checkpoints in order to rescue Sayu.</target>
       </trans-unit>
       <trans-unit id="593036" xml:space="preserve" approved="no">
         <source>途中、潜んでいるギャングに|発見されるとリタイアと|なります。</source>
@@ -6565,7 +6565,7 @@
       </trans-unit>
       <trans-unit id="630200" xml:space="preserve" approved="no">
         <source>死神と接触するとトラップ|が使用可能になります。|『メロ』はチェックポイント|に向かってください。</source>
-        <target state="translated">Contacting a Shinigami will give you the ability to set traps. Mello, head towards the checkpoint.</target>
+        <target state="translated">Contacting a Shinigami will give you the ability to set traps. Mello, head towards the checkpoints.</target>
       </trans-unit>
       <trans-unit id="583648" xml:space="preserve" approved="no">
         <source>その後、突入してきた|特殊部隊をリタイアさせて|ください。</source>
@@ -6589,7 +6589,7 @@
       </trans-unit>
       <trans-unit id="609976" xml:space="preserve" approved="no">
         <source>死神と接触する為に『総一郎』|はチェックポイントに|向かってください。</source>
-        <target state="translated">Soichiro, head to the checkpoint in order to make contact with the Shinigami.</target>
+        <target state="translated">Soichiro, head to the checkpoints in order to make contact with the Shinigami.</target>
       </trans-unit>
       <trans-unit id="631936" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　４５|特殊移動ポイント　１００|隠しカメラ設置数　　０６|検問設置数　　　　　０６</source>
@@ -6609,7 +6609,7 @@
       </trans-unit>
       <trans-unit id="632248" xml:space="preserve" approved="no">
         <source>高田には護衛がついています。|『メロ』は護衛に捕まらない|ようにチェックポイントに|向かってください。</source>
-        <target state="translated">Takada is surrounded by bodyguards.|Mello, head towards the checkpoint without being caught by a guard.</target>
+        <target state="translated">Takada is surrounded by bodyguards. Mello, head towards the checkpoints without being caught by a guard.</target>
       </trans-unit>
       <trans-unit id="619940" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　３８|特殊移動ポイント　１００|トラップ設置数　　　００</source>
@@ -6629,7 +6629,7 @@
       </trans-unit>
       <trans-unit id="610048" xml:space="preserve" approved="no">
         <source>また、チェックポイントに|向かい、ノートをすり替える|必要があります。</source>
-        <target state="translated">Also, head towards the checkpoint to carry out the notebook swap.</target>
+        <target state="translated">Also, head towards the checkpoints to carry out the notebook swap.</target>
       </trans-unit>
       <trans-unit id="632352" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　４５|特殊移動ポイント　１２０|隠しカメラ設置数　　０７|検問設置数　　　　　０７</source>
@@ -6649,7 +6649,7 @@
       </trans-unit>
       <trans-unit id="606820" xml:space="preserve" approved="no">
         <source>また、チェックポイントに|向かい、ノートを回収する|必要があります。</source>
-        <target state="translated">Also, head towards the checkpoint to retrieve the Note.</target>
+        <target state="translated">Also, head towards the checkpoints to retrieve the Note.</target>
       </trans-unit>
       <trans-unit id="620168" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　４５|特殊移動ポイント　１２０|トラップ設置数　　　１６</source>
@@ -6669,7 +6669,7 @@
       </trans-unit>
       <trans-unit id="628692" xml:space="preserve" approved="no">
         <source>途中、チェックポイント|から、犯罪者情報を|引き出し『犯罪者の裁き』|を行う必要があります。</source>
-        <target state="translated">You’ll have to extract criminal data at the checkpoint on the way and execute the criminals.</target>
+        <target state="translated">You’ll have to extract criminal data at the checkpoints on the way and execute the criminals.</target>
       </trans-unit>
       <trans-unit id="540816" xml:space="preserve" approved="no">
         <source>捜査員を過半数以上|リタイアさせてください。</source>
@@ -6721,7 +6721,7 @@
       </trans-unit>
       <trans-unit id="628140" xml:space="preserve" approved="no">
         <source>捜査員を３人リタイアさせて、|チェックポイントに向かって|ください。|（無名捜査員を除く）</source>
-        <target state="translated">Eliminate three investigators (not including unnamed investigators), and head towards the checkpoint.</target>
+        <target state="translated">Eliminate three investigators (not including unnamed investigators), and head towards the checkpoints.</target>
       </trans-unit>
       <trans-unit id="525668" xml:space="preserve" approved="no">
         <source>『ヨツバ幹部』を|３人確保してください。</source>
@@ -6729,11 +6729,11 @@
       </trans-unit>
       <trans-unit id="628784" xml:space="preserve" approved="no">
         <source>『火口』は松田を捜す為に|チェックポイントを目指して|います。|『火口』を逮捕してください。</source>
-        <target state="translated">Higuchi is heading towards the checkpoint to look for Matsuda. Arrest Higuchi.</target>
+        <target state="translated">Higuchi is heading towards the checkpoints to look for Matsuda. Arrest Higuchi.</target>
       </trans-unit>
       <trans-unit id="622936" xml:space="preserve" approved="no">
         <source>『月』は『デスノート』を|回収する為に、|チェックポイントを目指して|ください。</source>
-        <target state="translated">Light, head towards the checkpoint to recover the Death Note.</target>
+        <target state="translated">Light, head towards the checkpoints to recover the Death Note.</target>
       </trans-unit>
       <trans-unit id="588388" xml:space="preserve" approved="no">
         <source>捜査員を３人リタイアさせて|ください。|（無名捜査員を除く）</source>
@@ -6741,7 +6741,7 @@
       </trans-unit>
       <trans-unit id="621576" xml:space="preserve" approved="no">
         <source>『総一郎』は『粧裕』を|救出する為に、|チェックポイントに|向かってください。</source>
-        <target state="translated">Soichiro, head towards the checkpoint to rescue Sayu.</target>
+        <target state="translated">Soichiro, head towards the checkpoints to rescue Sayu.</target>
       </trans-unit>
       <trans-unit id="503456" xml:space="preserve" approved="no">
         <source>『メロ』を確保してください。</source>
@@ -6749,7 +6749,7 @@
       </trans-unit>
       <trans-unit id="625980" xml:space="preserve" approved="no">
         <source>『メロ』は『デスノート』の|情報を得る為に、|チェックポイントに向かって|ください。</source>
-        <target state="translated">Mello, head towards the checkpoint to gain information on the Death Note.</target>
+        <target state="translated">Mello, head towards the checkpoints to gain information on the Death Note.</target>
       </trans-unit>
       <trans-unit id="549840" xml:space="preserve" approved="no">
         <source>『特殊部隊員』を|４人リタイアさせてください。</source>
@@ -6757,19 +6757,19 @@
       </trans-unit>
       <trans-unit id="626908" xml:space="preserve" approved="no">
         <source>『総一郎』は『デスノート』|を無効化する為に、|チェックポイントに向かって|ください。</source>
-        <target state="translated">Soichiro, head towards the checkpoint to render the Death Note ineffective.</target>
+        <target state="translated">Soichiro, head towards the checkpoints to render the Death Note ineffective.</target>
       </trans-unit>
       <trans-unit id="617812" xml:space="preserve" approved="no">
         <source>『メロ』は『高田』を|拉致する為に、|チェックポイントに向かって|ください。</source>
-        <target state="translated">Mello, head towards the checkpoint to kidnap Takada.</target>
+        <target state="translated">Mello, head towards the checkpoints to kidnap Takada.</target>
       </trans-unit>
       <trans-unit id="624552" xml:space="preserve" approved="no">
         <source>『メロ』は『高田』を連れて|逃走する為に、|チェックポイントに向かって|ください。</source>
-        <target state="translated">Mello, head towards the checkpoint to escape with Takada in tow.</target>
+        <target state="translated">Mello, head towards the checkpoints to escape with Takada in tow.</target>
       </trans-unit>
       <trans-unit id="613504" xml:space="preserve" approved="no">
         <source>『デスノート』をすり替える|為に、チェックポイントに|向かってください。</source>
-        <target state="translated">Head towards the checkpoint to replace the Death Note.</target>
+        <target state="translated">Head towards the checkpoints to replace the Death Note.</target>
       </trans-unit>
       <trans-unit id="502912" xml:space="preserve" approved="no">
         <source>『キラ』を確保してください。</source>
@@ -6777,7 +6777,7 @@
       </trans-unit>
       <trans-unit id="610120" xml:space="preserve" approved="no">
         <source>『デスノート』を回収する|為に、チェックポイントに|向かってください。</source>
-        <target state="translated">Head towards the checkpoint to retrieve the Death Note.</target>
+        <target state="translated">Head towards the checkpoints to retrieve the Death Note.</target>
       </trans-unit>
       <trans-unit id="593100" xml:space="preserve" approved="no">
         <source>捜査員を、|全員リタイアさせてください。|（無名捜査員を除く）</source>
@@ -7245,7 +7245,7 @@
       </trans-unit>
       <trans-unit id="588268" xml:space="preserve" approved="no">
         <source>キラメンバーを発見した！|計画通り、尾行をつけて|泳がせる！</source>
-        <target state="translated">Discovered a Kira member!|As according to plan, we’ll tail the suspect and monitor in secret.</target>
+        <target state="translated">Discovered a Kira member!|As according to plan, we’ll tail the|suspect and monitor in secret.</target>
       </trans-unit>
       <trans-unit id="518920" xml:space="preserve" approved="no">
         <source>キラメンバーを発見した！|計画通りだ！</source>
@@ -7697,7 +7697,7 @@
       </trans-unit>
       <trans-unit id="621097" xml:space="preserve" approved="no">
         <source>チェックポイントの内容は|「オプション画面」で確認|できる。忘れないでくれ。</source>
-        <target state="translated">You can check the information about the checkpoint in the Options Screen. Be sure not to forget that.</target>
+        <target state="translated">You can check the information about the checkpoints in the Options Screen. Be sure not to forget that.</target>
       </trans-unit>
       <trans-unit id="534645" xml:space="preserve" approved="no">
         <source>捜査員には、それぞれ|特殊能力があるんだ。</source>
@@ -9821,7 +9821,7 @@
       </trans-unit>
       <trans-unit id="614849" xml:space="preserve" approved="no">
         <source>チェックポイントの内容は|「オプション画面」で|確認できる。忘れるなよ。</source>
-        <target state="translated">You can check the information about the checkpoint in the Options Screen. Don't forget that.</target>
+        <target state="translated">You can check the information about the checkpoints in the Options Screen. Don't forget that.</target>
       </trans-unit>
       <trans-unit id="529937" xml:space="preserve" approved="no">
         <source>メンバーには、|それぞれ特殊能力がある。</source>
@@ -9909,7 +9909,7 @@
       </trans-unit>
       <trans-unit id="595853" xml:space="preserve" approved="no">
         <source>チェックポイントの中身は|「オプション画面」で|確認できるよ。</source>
-        <target state="translated">You can check what the checkpoint says in the Options Screen!</target>
+        <target state="translated">You can check what the checkpoints do in the Options Screen!</target>
       </trans-unit>
       <trans-unit id="600293" xml:space="preserve" approved="no">
         <source>メンバーには特殊能力を|持ってる人もいるよ。|もちろんミサもね。</source>
@@ -15923,69 +15923,69 @@
         <source>どうしました。|こんな所で何を？</source>
         <target state="translated">Are you alright? What are you doing here?</target>
       </trans-unit>
-      <trans-unit id="537285" xml:space="preserve">
+      <trans-unit id="537285" xml:space="preserve" approved="no">
         <source>こんな所にいたのか。|どうしたというんだ？</source>
-        <target/>
+        <target state="translated">So this is where you were. What's up?#check</target>
       </trans-unit>
-      <trans-unit id="554449" xml:space="preserve">
+      <trans-unit id="554449" xml:space="preserve" approved="no">
         <source>Ｌが呼んでいるそうだ。|一度本部に戻ってくれ。</source>
-        <target/>
+        <target state="translated">Sounds like L is calling for you. Go back to HQ for now.</target>
       </trans-unit>
-      <trans-unit id="577745" xml:space="preserve">
+      <trans-unit id="577745" xml:space="preserve" approved="no">
         <source>偶然だな、|こんな場所で会うとは。|何をしているんだ？</source>
-        <target/>
+        <target state="translated">What a coincidence, us meeting somewhere like this. What are you up to?</target>
       </trans-unit>
-      <trans-unit id="511589" xml:space="preserve">
+      <trans-unit id="511589" xml:space="preserve" approved="no">
         <source>どうしてここに？|何かあったのか？</source>
-        <target/>
+        <target state="translated">What are you doing here? Did something happen?</target>
       </trans-unit>
-      <trans-unit id="544129" xml:space="preserve">
+      <trans-unit id="544129" xml:space="preserve" approved="no">
         <source>Ｌが呼んでいるらしい。|一度、本部に戻ろう。</source>
-        <target/>
+        <target state="translated">L is calling for you. Let's go back to HQ for now.</target>
       </trans-unit>
-      <trans-unit id="546193" xml:space="preserve">
+      <trans-unit id="546193" xml:space="preserve" approved="no">
         <source>いい所で会ったな。|Ｌが呼んでいるらしいぞ。</source>
-        <target/>
+        <target state="translated">Lucky I bumped into you. I hear L is calling for you.#ish</target>
       </trans-unit>
-      <trans-unit id="516241" xml:space="preserve">
+      <trans-unit id="516241" xml:space="preserve" approved="no">
         <source>あれ？　こんな所で|何してるんだい。</source>
-        <target/>
+        <target state="translated">Huh? What are doing here?</target>
       </trans-unit>
-      <trans-unit id="546241" xml:space="preserve">
+      <trans-unit id="546241" xml:space="preserve" approved="no">
         <source>Ｌが呼んでるってさ。|とにかく本部に戻ろう。</source>
-        <target/>
+        <target state="translated">L's calling for you, apparently. Anyway, let's go back to HQ.</target>
       </trans-unit>
-      <trans-unit id="504577" xml:space="preserve">
+      <trans-unit id="504577" xml:space="preserve" approved="no">
         <source>し、しまった…|待ち伏せか！？</source>
-        <target/>
+        <target state="translated">S-shit... An ambush!?</target>
       </trans-unit>
-      <trans-unit id="511877" xml:space="preserve">
+      <trans-unit id="511877" xml:space="preserve" approved="no">
         <source>ばかな…|こちらがやられるとはっ！</source>
-        <target/>
+        <target state="translated">Impossible... I wasn't supposed to lose!#ish</target>
       </trans-unit>
-      <trans-unit id="499897" xml:space="preserve">
+      <trans-unit id="499897" xml:space="preserve" approved="no">
         <source>何だと！？　こんな所で！</source>
-        <target/>
+        <target state="translated">What!? Not here!</target>
       </trans-unit>
-      <trans-unit id="500121" xml:space="preserve">
+      <trans-unit id="500121" xml:space="preserve" approved="no">
         <source>くそっ、待ち伏せだと！？</source>
-        <target/>
+        <target state="translated">Damn it, an ambush!?</target>
       </trans-unit>
-      <trans-unit id="499281" xml:space="preserve">
+      <trans-unit id="499281" xml:space="preserve" approved="no">
         <source>なにっ！　待ち伏せか！？</source>
-        <target/>
+        <target state="translated">What? An ambush!?</target>
       </trans-unit>
-      <trans-unit id="498217" xml:space="preserve">
+      <trans-unit id="498217" xml:space="preserve" approved="no">
         <source>そ、そんな…こんな所で…</source>
-        <target/>
+        <target state="translated">N-no... Not like this…</target>
       </trans-unit>
-      <trans-unit id="501473" xml:space="preserve">
+      <trans-unit id="501473" xml:space="preserve" approved="no">
         <source>うわっ！　ま、待ち伏せだ！</source>
-        <target/>
+        <target state="translated">Argh! I-it's an ambush!</target>
       </trans-unit>
-      <trans-unit id="502657" xml:space="preserve">
+      <trans-unit id="502657" xml:space="preserve" approved="no">
         <source>待ち伏せだと！？　ばかな！</source>
-        <target/>
+        <target state="translated">An ambush!? Impossible!</target>
       </trans-unit>
       <trans-unit id="596173" xml:space="preserve" approved="no">
         <source>こちらジョー。敵を捜索中。|これより地下鉄に乗って|移動する。</source>
@@ -15995,61 +15995,61 @@
         <source>聞こえるか？|こちらは地下鉄を使う。|地上の捜索は頼む。</source>
         <target state="translated">Can you hear me? I'm about to get on the subway. I'll leave the aboveground search to you.</target>
       </trans-unit>
-      <trans-unit id="591373" xml:space="preserve">
+      <trans-unit id="591373" xml:space="preserve" approved="no">
         <source>高速バスか。|捜索範囲は広い方がいい。|好都合な移動手段だ。</source>
-        <target/>
+        <target state="translated">An express bus, huh. The wider the investigation reaches the better. It's a convenient way to get around.</target>
       </trans-unit>
       <trans-unit id="600769" xml:space="preserve" approved="no">
         <source>こちらジョー。|これより高速バスで移動する。|フォローを頼むぞ。</source>
         <target state="translated">This is Joe. I'm about to move via the express bus. Back me up.</target>
       </trans-unit>
-      <trans-unit id="618193" xml:space="preserve">
+      <trans-unit id="618193" xml:space="preserve" approved="no">
         <source>これよりバス移動を開始する。|トラップには十分に|警戒している。問題ない。</source>
-        <target/>
+        <target state="translated">I'm about to move via bus. I'm on the lookout for traps. They won't be a problem.</target>
       </trans-unit>
-      <trans-unit id="605121" xml:space="preserve">
+      <trans-unit id="605121" xml:space="preserve" approved="no">
         <source>こいつは便利だ。|我々の計算通りなら、|敵より先回りできるだろう。</source>
-        <target/>
+        <target state="translated">This is convenient. If all goes according to plan, we can get ahead of the enemy.</target>
       </trans-unit>
       <trans-unit id="591437" xml:space="preserve" approved="no">
         <source>こちらジョー。|水上バスで移動を開始する。|地上は任せたぞ。</source>
         <target state="translated">This is Joe. I'm about to move via water-bus. I'm leaving the ground to you.</target>
       </trans-unit>
-      <trans-unit id="618269" xml:space="preserve">
+      <trans-unit id="618269" xml:space="preserve" approved="no">
         <source>これより水上バスで追跡する。|トラップには十分に|警戒している。問題ない。</source>
-        <target/>
+        <target state="translated">I'm about to give chase on the water-bus. I'm on the lookout for traps. They won't be a problem.</target>
       </trans-unit>
-      <trans-unit id="609185" xml:space="preserve">
+      <trans-unit id="609185" xml:space="preserve" approved="no">
         <source>これよりヘリで移動する。|計算通りなら敵の頭を|押さえられるだろう。</source>
-        <target/>
+        <target state="translated">I'm about to take a helicopter. If it all goes to plan, we might be able to pin down the enemy leader.</target>
       </trans-unit>
-      <trans-unit id="547537" xml:space="preserve">
+      <trans-unit id="547537" xml:space="preserve" approved="no">
         <source>敵の頭を押さえにかかる。|ヘリで移動するぞ。</source>
-        <target/>
+        <target state="translated">Commencing chase of the enemy leader. I'm taking a helicopter.#ish</target>
       </trans-unit>
-      <trans-unit id="538693" xml:space="preserve">
+      <trans-unit id="538693" xml:space="preserve" approved="no">
         <source>都市にいる限り|これ以上の移動手段はない。</source>
-        <target/>
+        <target state="translated">As long as we're in the city, there's no better way to get around than this.</target>
       </trans-unit>
       <trans-unit id="505153" xml:space="preserve" approved="no">
         <source>こちらジョー。|敵は拘束した。</source>
         <target state="translated">This is Joe.|I’ve restrained the enemy.</target>
       </trans-unit>
-      <trans-unit id="555169" xml:space="preserve">
+      <trans-unit id="555169" xml:space="preserve" approved="no">
         <source>犯罪者などやはり素人だな。|おまえを拘束する。</source>
-        <target/>
+        <target state="translated">Criminals really are all amateurs, huh. I'm capturing you.#ish</target>
       </trans-unit>
-      <trans-unit id="546769" xml:space="preserve">
+      <trans-unit id="546769" xml:space="preserve" approved="no">
         <source>おとなしくしていろ。|私は警察ほど甘くない。</source>
-        <target/>
+        <target state="translated">Hands in the air! I'm not as soft as the cops.</target>
       </trans-unit>
-      <trans-unit id="494073" xml:space="preserve">
+      <trans-unit id="494073" xml:space="preserve" approved="no">
         <source>ば、ばかな！</source>
-        <target/>
+        <target state="translated">N-no!</target>
       </trans-unit>
-      <trans-unit id="495197" xml:space="preserve">
+      <trans-unit id="495197" xml:space="preserve" approved="no">
         <source>なにっ！　まさか…</source>
-        <target/>
+        <target state="translated">What?! It can't be…</target>
       </trans-unit>
       <trans-unit id="517161" xml:space="preserve">
         <source>敵をキャッチした！|想定した通りだ！</source>
