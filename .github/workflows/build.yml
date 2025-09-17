@@ -2,8 +2,8 @@ name: Build
 
 on:
   workflow_dispatch:
-  #schedule:
-  #  - cron: "0 2 * * *"
+  schedule:
+    - cron: "0 2 * * *"
 
 jobs:
   check_date:
@@ -79,3 +79,4 @@ jobs:
           username: "AGTTBot"
           avatar-url: "https://avatars.githubusercontent.com/u/123242276?v=4"
           filename: "LSuccessorsData/patch.xdelta"
+
