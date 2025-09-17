@@ -4249,7 +4249,7 @@
       </trans-unit>
       <trans-unit id="776756" xml:space="preserve" approved="no">
         <source>||||||　　　\S12この世は腐ってる…</source>
-        <target state="translated">||||||&lt;&lt;This world is rotten.</target>
+        <target state="translated">||||||&lt;&lt;\T0002This world is rotten.</target>
       </trans-unit>
       <trans-unit id="827540" xml:space="preserve" approved="no">
         <source>高校生・夜神　月は腐敗した世界と|退屈な日常にうんざりしていた。\T0030||\t0002そんなある日、彼は偶然、|１冊の奇妙なノートを手に入れる。</source>
@@ -5317,7 +5317,7 @@
       </trans-unit>
       <trans-unit id="538385" xml:space="preserve" approved="no">
         <source>まずいですね。|トラップの可能性ありです。</source>
-        <target state="translated">Well, this is bad.|There is the possibility of a trap here.</target>
+        <target state="translated">This is bad.|There is the possibility of a trap being nearby.</target>
       </trans-unit>
       <trans-unit id="503681" xml:space="preserve" approved="no">
         <source>やはり！|私の推理通りです。</source>
@@ -6073,11 +6073,11 @@
       </trans-unit>
       <trans-unit id="562865" xml:space="preserve" approved="no">
         <source>さて、どこに隠しカメラを|仕掛けたものですかな…</source>
-        <target state="translated">Now where did they set up those hidden cameras…?</target>
+        <target state="translated">Now where did I put that hidden camera…?#Watari special ability 1</target>
       </trans-unit>
       <trans-unit id="512597" xml:space="preserve" approved="no">
         <source>隠しカメラを|増やしてみましょう。</source>
-        <target state="translated">Let’s try placing a few more hidden cameras.</target>
+        <target state="translated">Let’s try placing a hidden camera.#Watari special ability 2</target>
       </trans-unit>
       <trans-unit id="554881" xml:space="preserve" approved="no">
         <source>せっかくですから、|役に立ってほしいものです。</source>
@@ -7133,7 +7133,7 @@
       </trans-unit>
       <trans-unit id="625896" xml:space="preserve" approved="no">
         <source>隠しカメラを設置します。|よろしいですか？|隠しカメラ設置数|現設置数&lt;num&gt;／限設置数&lt;num&gt;</source>
-        <target state="translated">Place hidden camera?|You have currently set|&lt;num&gt; of the &lt;num&gt; available.</target>
+        <target state="translated">Place hidden camera?|Current &lt;num&gt; / Limit &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="500568" xml:space="preserve" approved="no">
         <source>隠しカメラを発見しました。</source>
@@ -9813,7 +9813,7 @@
       </trans-unit>
       <trans-unit id="617357" xml:space="preserve" approved="no">
         <source>捜査員をリタイアさせるか|メンバーが逮捕されると|勝利ポイントが増減する。</source>
-        <target state="translated">Victory Points will increase when investigators are eliminated and decrease when Kira members are arrested.</target>
+        <target state="translated">Victory Points increase when investigators are eliminated and decrease when Kira members are arrested.</target>
       </trans-unit>
       <trans-unit id="630501" xml:space="preserve" approved="no">
         <source>チェックポイント指定の|ある作戦では、チェック|ポイントに到達しなければ|話は進まない。注意しろ。</source>
@@ -9821,7 +9821,7 @@
       </trans-unit>
       <trans-unit id="614849" xml:space="preserve" approved="no">
         <source>チェックポイントの内容は|「オプション画面」で|確認できる。忘れるなよ。</source>
-        <target state="translated">You can check the information about the checkpoints in the Options Screen. Don't forget that.</target>
+        <target state="translated">You can find information about checkpoints in the Options Screen.|Don't forget that.</target>
       </trans-unit>
       <trans-unit id="529937" xml:space="preserve" approved="no">
         <source>メンバーには、|それぞれ特殊能力がある。</source>
@@ -9829,15 +9829,15 @@
       </trans-unit>
       <trans-unit id="617433" xml:space="preserve" approved="no">
         <source>特殊能力をうまく使えば|敵を叩くのも難しくない。|使いどころを考えるんだ。</source>
-        <target state="translated">Use your special abilities well, and hitting your enemy is simple.|You just have to know where to strike.</target>
+        <target state="translated">Use your special abilities well, and beating enemies is simple.|You just have to know when to strike.</target>
       </trans-unit>
       <trans-unit id="630601" xml:space="preserve" approved="no">
         <source>「デスノートの所有権移動」|させれば、受け取った者が|新たなキラとなる。|捜査員は混乱するはずだ。</source>
-        <target state="translated">Transferring ownership of the Death Note makes the recipient the new Kira.|That should throw the investigators off the trail.</target>
+        <target state="translated">Transferring ownership of the Death Note makes the recipient the new Kira.||That should throw the investigators off our trail.</target>
       </trans-unit>
       <trans-unit id="630105" xml:space="preserve" approved="no">
         <source>万一、追い詰めらても|「デスノートの所有権移動」|すれば捜査網をくぐり抜け|られるかもしれない。</source>
-        <target state="translated">Even if you've been cornered, there may still be a way out.|Transferring ownership of the Death Note might give you a way out.</target>
+        <target state="translated">Even if you've been trapped, there may still be a way out.|Transferring ownership of the Death Note might give you a way out.</target>
       </trans-unit>
       <trans-unit id="617509" xml:space="preserve" approved="no">
         <source>「変装」は都市カメラに|映る自分の姿を変えられる。|単純だが有効な手段だ。</source>
