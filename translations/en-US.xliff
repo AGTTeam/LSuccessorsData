@@ -1901,7 +1901,7 @@
       </trans-unit>
       <trans-unit id="803520" xml:space="preserve" approved="no">
         <source>\c04キラ以外\c02のメンバーが|カメラ破壊を中心に行動するのも|有効な策だろう。</source>
-        <target state="translated">One strategy you could try is getting members of Team Kira who \c04aren’t Kira themselves\c02 to focus on destroying cameras.</target>
+        <target state="translated">One viable strategy is having members of Team Kira who \c04aren’t Kira themselves\c02 focus on destroying cameras.</target>
       </trans-unit>
       <trans-unit id="775692" xml:space="preserve" approved="no">
         <source>||||||　　　　　……あった！</source>
@@ -2089,7 +2089,7 @@
       </trans-unit>
       <trans-unit id="834740" xml:space="preserve" approved="no">
         <source>もし、『グループレッド』で|目撃されたという情報が|捜査員に入れば&gt;&gt;『グループレッド』の|いずれかの\c04『エリア』\c02に捜査員を|送り込んでくるハズだ。</source>
-        <target state="translated">Investigators will be sent to whatever group the member was witnessed in.&gt;&gt;A sighting in the red group, and investigators will be sent to the \c04areas \c02within that group.</target>
+        <target state="translated">Investigators will be sent to whatever group the member was witnessed in.&gt;&gt;If there is a sighting in the red group, investigators will be sent to the \c04areas \c02within that group.</target>
       </trans-unit>
       <trans-unit id="805060" xml:space="preserve" approved="no">
         <source>マップには多くのエリアが存在し、|僕らメンバーは常にカメラで|監視されている。</source>
@@ -2265,7 +2265,7 @@
       </trans-unit>
       <trans-unit id="853036" xml:space="preserve" approved="no">
         <source>キラメンバーは|移動ポイントがある限り、|何度でも移動することが出来る。&gt;&gt;\c04移動→トラップ→離脱\c02、|のような動きは、|メンバーにとって基本中の基本だ。&gt;&gt;覚えておいて損はない。</source>
-        <target state="translated">Kira members can move as much as needed as long as they have enough Move Points remaining.&gt;&gt;\c04Move, trap, escape \c02is the most rudimentary action for Kira members.&gt;&gt;You'd do well to remember it.</target>
+        <target state="translated">Kira members can move as much as needed as long as they have enough Move Points remaining.&gt;&gt;\c04Move, trap, then escape \c02is the most rudimentary action for Kira members.&gt;&gt;You'd do well to remember it.</target>
       </trans-unit>
       <trans-unit id="838040" xml:space="preserve" approved="no">
         <source>Ｌを挑発するかのように|月はキラとして犯罪者を裁き続ける。|一方、Ｌもキラの行動から|ひとつの推測を下す。\T0030||\t0002警察の情報が\T0030\t0002漏れている……</source>
@@ -2621,7 +2621,7 @@
       </trans-unit>
       <trans-unit id="849388" xml:space="preserve" approved="no">
         <source>マップ上には、通常の移動|よりも優れた移動の方法が|存在する。&gt;&gt;\c04『地下鉄』『水上バス』|『高速バス』『ヘリ』\c02など&gt;&gt;これらの移動方法を|\c04『特殊移動』\c02と呼ぶ。</source>
-        <target state="translated">On the map, there are ways to move around that are superior to just walking down a street. &gt;&gt;These methods are referred to as \c04Special Movement\c02, and include \c04the subway, water-buses, express buses, and helicopters\c02.</target>
+        <target state="translated">On the map, there are ways to move around that are superior to just walking down a street. &gt;&gt;These \c04Special Movements\c02 include \c04the subway, water-buses, express buses, and helicopters\c02.</target>
       </trans-unit>
       <trans-unit id="800864" xml:space="preserve" approved="no">
         <source>特殊移動を行うには、|特殊移動の\c04『ターミナル』\c02に|移動する必要がある。</source>
@@ -2641,7 +2641,7 @@
       </trans-unit>
       <trans-unit id="847048" xml:space="preserve" approved="no">
         <source>たが、注意点が１つある。|特殊移動には\c04『特殊移動ポイント』\c02|が必要となる。&gt;&gt;序盤から特殊移動を多用すると|いざというときにポイントが|不足するかもしれない。</source>
-        <target state="translated">But there’s one more thing you should know.|Special Movement requires \c04Special Movement Points\c02.&gt;&gt;If you overuse Special Movement from the start of a match, you might find yourself short on points when you really need them.</target>
+        <target state="translated">But there’s one more thing you should know. Special Movement requires \c04Special Movement Points\c02.&gt;&gt;If you overuse Special Movement early on, you might end up short on points when you really need them.</target>
       </trans-unit>
       <trans-unit id="832704" xml:space="preserve" approved="no">
         <source>また、特殊移動ポイントは|\c04ステータス画面\c02から|確認することが出来る。&gt;&gt;残りのポイントを確認して|使い所をよく考えてから|行動するんだ。</source>
@@ -2693,7 +2693,7 @@
       </trans-unit>
       <trans-unit id="850992" xml:space="preserve" approved="no">
         <source>マップ上には、通常の移動|よりも優れた移動の方法が|あります。&gt;&gt;\c04『地下鉄』『水上バス』|『高速バス』『ヘリ』\c02など&gt;&gt;これらの移動方法を|\c04『特殊移動』\c02と呼びます。</source>
-        <target state="translated">On the map, there are ways to move around that are superior to your regular means of movement. &gt;&gt;These methods are referred to as \c04Special Movement\c02, and include the subway, water-buses, express buses, and helicopters.</target>
+        <target state="translated">On the map, there are ways to move around that are superior to your regular means of movement. &gt;&gt;These \c04Special Movements\c02 include the subway, water-buses, express buses, and helicopters.</target>
       </trans-unit>
       <trans-unit id="800480" xml:space="preserve" approved="no">
         <source>特殊移動を行うには、|特殊移動の\c04ターミナル\c02に|移動する必要があります。</source>
