@@ -1649,11 +1649,11 @@
       </trans-unit>
       <trans-unit id="832872" xml:space="preserve" approved="no">
         <source>\c04『所有権移動』\c02コマンドは、|\c04『デスノートの所有権』\c02を|移動させて、他のメンバーを&gt;&gt;新たな\c04『キラ』\c02にする|コマンドだ。</source>
-        <target state="translated">The \c04Ownership Transfer\c02 command lets you transfer \c04ownership of the Death Note\c02 onto a different member of Team Kira.&gt;&gt;This member will then \c04become Kira\c02.</target>
+        <target state="translated">The \c04Ownership Transfer\c02 command lets you change \c04ownership of the Death Note\c02 to a different member of Team Kira.&gt;&gt;This member will then \c04become Kira\c02.</target>
       </trans-unit>
       <trans-unit id="842904" xml:space="preserve" approved="no">
         <source>所有権移動には、幾つかの|使用法があるが、|最も分かりやすい使用方法は&gt;&gt;キラが追い詰められた時に、|所有権移動を行って、キラを|捜査網から逃すという使い方だ。</source>
-        <target state="translated">There are several ways to use ownership transfer to your advantage, but the most obvious one is this:&gt;&gt;When the current Kira has been backed into a corner, transferring ownership will allow Kira to escape the investigators.</target>
+        <target state="translated">There are several ways to use ownership transfer to your advantage. Here's the most obvious one:&gt;&gt;When the current Kira has been cornered, transferring ownership will allow Kira to escape the investigators.</target>
       </trans-unit>
       <trans-unit id="868812" xml:space="preserve" approved="no">
         <source>ただし、所有権移動は|\c04『１ステージ』\c02で\c04『１回』\c02しか|実行出来ない。&gt;&gt;例外として、|キラとメンバーが|\c04『隣接』\c02して\c04『所有権移動』\c02を&gt;&gt;行った場合は、移動回数と|してカウントしない。何度でも|移動することが出来る。</source>
@@ -1721,7 +1721,7 @@
       </trans-unit>
       <trans-unit id="793296" xml:space="preserve" approved="no">
         <source>以上だ。|決して、忘れるんじゃないぞ。|よく覚えておくんだ。</source>
-        <target state="translated">That’s all.|You’d better not forget that, alright?|Remember it well.</target>
+        <target state="translated">That’s all. You’d better not forget that, alright? Remember it well.</target>
       </trans-unit>
       <trans-unit id="775580" xml:space="preserve" approved="no">
         <source>||||||　　　推理マーカーコマンド</source>
@@ -1761,7 +1761,7 @@
       </trans-unit>
       <trans-unit id="809908" xml:space="preserve" approved="no">
         <source>また、ステータスは、コマンド|実行回数としてカウントされない。|何度でも情報を確認出来る。</source>
-        <target state="translated">Using the Profiles command doesn't use up Command Points. You can check the information as many times as you want.</target>
+        <target state="translated">Using the Profiles command doesn't use up Command Points. You can check the information as often as you want.</target>
       </trans-unit>
       <trans-unit id="773956" xml:space="preserve" approved="no">
         <source>||||||　　　　　コマンドの使用</source>
@@ -1961,7 +1961,7 @@
       </trans-unit>
       <trans-unit id="863488" xml:space="preserve" approved="no">
         <source>\c04『変装』\c02コマンドとは、|コマンドを実行したメンバーが、|他のキラメンバーに変装し、&gt;&gt;捜査情報を混乱させる|コマンドの事だ。&gt;&gt;変装を行えば、捜査員の|\c04情報網\c02には、\c04変装後の姿\c02で|報告されるんだ。</source>
-        <target state="translated">The \c04Disguise\c02 command allows a member of Team Kira to disguise themselves as another member of Team Kira.&gt;&gt;This will confuse the investigators.&gt;&gt;After disguising yourself successfully, the investigators’ information network won’t be able to differentiate between you and the person you’re disguised as.</target>
+        <target state="translated">The \c04Disguise\c02 command allows a member of Team Kira to disguise themselves as another member of Team Kira.&gt;&gt;This will confuse the investigators.&gt;&gt;Disguise yourself successfully, and the investigators’ information network will treat you as the person you’re disguised as.</target>
       </trans-unit>
       <trans-unit id="874300" xml:space="preserve" approved="no">
         <source>つまり『グループレッド』に月が、|『グループブルー』にミサが潜伏。&gt;&gt;この場合、ミサが月に変装すると、|捜査員は&gt;&gt;『グループレッド』に月。|『グループブルー』に月。|という、情報を受け取る。&gt;&gt;まるで、\c04月が二つのグループ|を行き来しているように\c02|見せかける事が出来る。</source>
@@ -1969,7 +1969,7 @@
       </trans-unit>
       <trans-unit id="805996" xml:space="preserve" approved="no">
         <source>その他にも、変装は状況次第で、|様々な利用方法がある。|よく考えて使用するんだ。</source>
-        <target state="translated">Of course, there are plenty of other ways to use disguises, depending on the situation at hand. Just think it through first.</target>
+        <target state="translated">There are various other ways to use disguises, too, depending on the situation. Just think it through first.</target>
       </trans-unit>
       <trans-unit id="821508" xml:space="preserve" approved="no">
         <source>ただし、変装は必ず成功する|ものではない。&gt;&gt;時として、捜査側のリーダーに|\c04見破られてしまう\c02事もある。</source>
