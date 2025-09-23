@@ -1629,11 +1629,11 @@
       </trans-unit>
       <trans-unit id="830388" xml:space="preserve" approved="no">
         <source>特殊能力は状況を劇的に|変化させるほどの効果を持つ。&gt;&gt;ただし\c04『使用回数』\c02に\c04『制限』\c02が|あるということを忘れないでくれ。</source>
-        <target state="translated">Special abilities have the power to completely shake up the situation.&gt;&gt;However, there is a \c04limit\c02 to the number of times the Special Ability command can be used. Don’t forget that, alright?</target>
+        <target state="translated">Special abilities have the power to completely shake up the situation.&gt;&gt;However, don't forget that there is a \c04limit\c02 to the number of times the Special Ability command can be used.</target>
       </trans-unit>
       <trans-unit id="822460" xml:space="preserve" approved="no">
         <source>また、特殊能力を持たない|メンバーや、常時能力を&gt;&gt;発揮しているメンバーも|コマンドを実行することが|出来ない。</source>
-        <target state="translated">Also, characters who don’t have a special ability or who have used their ability too often \c04won’t be able to execute this command\c02.</target>
+        <target state="translated">Also, characters without a special ability or those with passive skills \c04won’t be able to execute this command\c02.</target>
       </trans-unit>
       <trans-unit id="800104" xml:space="preserve" approved="no">
         <source>特殊能力は、僕らキラメンバー|だけではなく、捜査員側も|持っている。</source>
@@ -1641,7 +1641,7 @@
       </trans-unit>
       <trans-unit id="801728" xml:space="preserve" approved="no">
         <source>捜査員の特殊能力を把握しておく|ことも重要だ。|きっと勝利に繋がるだろう。</source>
-        <target state="translated">It’s also important to have a good understanding of the investigators’ special abilities.|It’ll definitely help us secure our victory.</target>
+        <target state="translated">It’s also important to have a good understanding of the investigators’ special abilities.&gt;&gt;It’ll definitely help us secure our victory.</target>
       </trans-unit>
       <trans-unit id="774372" xml:space="preserve" approved="no">
         <source>||||||　　　所有権移動コマンド</source>
@@ -2177,7 +2177,7 @@
       </trans-unit>
       <trans-unit id="841984" xml:space="preserve" approved="no">
         <source>\c04『マップ』\c02は、必要に応じて|大きさを変更することが出来る。&gt;&gt;下画面の\c04『左上』\c02を、|タッチすれば、マップの倍率を|変更することが出来るハズだ。</source>
-        <target state="translated">You might want to change the size of the \c04map\c02 depending on the situation.&gt;&gt;Touch the upper left corner of the lower screen to change the map’s \c04magnification\c02. You should be able to zoom in or out then.</target>
+        <target state="translated">You might want to change the size of the \c04map\c02 depending on the situation.&gt;&gt;Touch the upper left corner of the lower screen to change the map’s \c04magnification\c02.</target>
       </trans-unit>
       <trans-unit id="806308" xml:space="preserve" approved="no">
         <source>\c04『最大望遠』\c02のマップでは、|メンバーを操作出来ないが、|逃亡範囲を広く見渡せる。</source>
@@ -2193,7 +2193,7 @@
       </trans-unit>
       <trans-unit id="835256" xml:space="preserve" approved="no">
         <source>初めのうちは、\c04『最小望遠』\c02で|慣れてきたら\c04『標準望遠』\c02で|逃亡計画を立てるのがいいだろう。&gt;&gt;状況に応じて|うまく使い分けるといい。</source>
-        <target state="translated">You might want to try \c04fully zooming in\c02 first, to understand the different actions one can take on the map, then returning to \c04standard magnification\c02 to carry out your escape plan.&gt;&gt;Just remember to adjust the magnification level as you adapt to the changing situation.</target>
+        <target state="translated">Try \c04fully zooming in\c02 first and then, once you've familiarised yourself, return to \c04standard magnification\c02 to carry out your escape plan.&gt;&gt;Just remember to adjust the magnification level as you adapt to the changing situation.</target>
       </trans-unit>
       <trans-unit id="782920" xml:space="preserve" approved="no">
         <source>ははっ！\t0030|\t0002どうだ。マヌケども！</source>
