@@ -657,7 +657,7 @@
       </trans-unit>
       <trans-unit id="879712" xml:space="preserve" approved="no">
         <source>\c04『勝利ポイント』\c02は、|キラ側と捜査側でどちらが|\c04優勢\c02か表したものだ。&gt;&gt;シングルモードや対戦時の|一部のステージで、|規定ターンを過ぎた場合、&gt;&gt;\c04勝利ポイントで勝敗を決する\c02。|勝利ポイントは|以下の行動で増加する。&gt;&gt;\c04『規定ターン数を逃げ切る』|『捜査員をリタイアさせる』|『チェックポイントを訪れる』\c02</source>
-        <target state="translated">\c04Victory Points\c02 show who currently \c04has the advantage\c02, Team Kira or the investigators.&gt;&gt;In some stages of both single-player mode and versus mode, \c04when there are no turns left\c02,&gt;&gt;the number of Victory Points \c04decides who wins\c02.|The following actions will increase Victory Points. &gt;&gt;\c04Escaping within the set number or turns|Eliminating an investigator|Visiting a checkpoint\c02</target>
+        <target state="translated">\c04Victory Points\c02 show who currently \c04has the advantage\c02, Team Kira or the investigators.&gt;&gt;In some stages of both single-player mode and versus mode, \c04when there are no turns left\c02,&gt;&gt;the number of Victory Points \c04decides who wins\c02. The following actions will increase Victory Points: &gt;&gt;\c04Escaping within the set number of turns, eliminating an investigator, or visiting a checkpoint\c02.</target>
       </trans-unit>
       <trans-unit id="839096" xml:space="preserve" approved="no">
         <source>もし、『勝利ポイント』が|同点の場合は、僕ら|\c04キラ側の『勝利』\c02となる。&gt;&gt;僕らの勝利を確実にするためには、|必要なコトだ。|心に留めておくといい。</source>
@@ -1585,7 +1585,7 @@
       </trans-unit>
       <trans-unit id="812448" xml:space="preserve" approved="no">
         <source>\c04『ＳＴＡＲＴボタン』\c02や|下画面の\c04『右下』\c02をタッチしても、|同様のコマンドを実行出来る。</source>
-        <target state="translated">You can also execute the End Turn command by touching the \c04START button\c02 or|the \c04bottom right\c02 of the lower screen.</target>
+        <target state="translated">You can also execute the End Turn command by touching the \c04START button\c02 or the \c04bottom right\c02 of the lower screen.</target>
       </trans-unit>
       <trans-unit id="663088" xml:space="preserve" approved="no">
         <source>ニア普通</source>
