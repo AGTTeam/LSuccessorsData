@@ -7493,7 +7493,7 @@
       </trans-unit>
       <trans-unit id="629529" xml:space="preserve" approved="no">
         <source>チェックポイント指定が|ある場合は、そこに到達|しないと話が進みません。|忘れないでください。</source>
-        <target state="translated">If reaching checkpoints is required, you will not be able to proceed until this has been fulfiled. Keep that in mind.</target>
+        <target state="translated">If reaching checkpoints is required, you will not be able to proceed until this has been fulfilled. Keep that in mind.</target>
       </trans-unit>
       <trans-unit id="595661" xml:space="preserve" approved="no">
         <source>チェックポイントの内容は|「オプション画面」で確認|できます。</source>
@@ -7745,7 +7745,7 @@
       </trans-unit>
       <trans-unit id="634137" xml:space="preserve" approved="no">
         <source>都市カメラには、|「グループ」と「エリア」|という単位がある。|１つのグループは同一色で|表され、それぞれに|エリアが設定されている。</source>
-        <target state="translated">City cameras are organized into Groups and Areas.|Each Group is displayed in a single colour,|and Areas are set up within each Group.</target>
+        <target state="translated">City cameras are organized into Groups and Areas.|Each Group is displayed in a single color,|and Areas are set up within each Group.</target>
       </trans-unit>
       <trans-unit id="603285" xml:space="preserve" approved="no">
         <source>カメラはターンの最初に|情報を報告してるんだ。|これは頼りになる。</source>
@@ -9817,11 +9817,11 @@
       </trans-unit>
       <trans-unit id="630501" xml:space="preserve" approved="no">
         <source>チェックポイント指定の|ある作戦では、チェック|ポイントに到達しなければ|話は進まない。注意しろ。</source>
-        <target state="translated">In operations with designated checkpoints, the story won't continue unless you reach the checkpoint. Be careful.</target>
+        <target state="translated">In operations with designated checkpoints,|the story won't continue unless you reach all of them.</target>
       </trans-unit>
       <trans-unit id="614849" xml:space="preserve" approved="no">
         <source>チェックポイントの内容は|「オプション画面」で|確認できる。忘れるなよ。</source>
-        <target state="translated">You can find information about checkpoints in the Options Screen.|Don't forget that.</target>
+        <target state="translated">You can find information about checkpoints in the Options Screen. Don't forget that.</target>
       </trans-unit>
       <trans-unit id="529937" xml:space="preserve" approved="no">
         <source>メンバーには、|それぞれ特殊能力がある。</source>
@@ -9837,11 +9837,11 @@
       </trans-unit>
       <trans-unit id="630105" xml:space="preserve" approved="no">
         <source>万一、追い詰めらても|「デスノートの所有権移動」|すれば捜査網をくぐり抜け|られるかもしれない。</source>
-        <target state="translated">Even if you've been trapped, there may still be a way out.|Transferring ownership of the Death Note might give you a way out.</target>
+        <target state="translated">Even if you've been trapped, transferring ownership of the Death Note can give you a way out.</target>
       </trans-unit>
       <trans-unit id="617509" xml:space="preserve" approved="no">
         <source>「変装」は都市カメラに|映る自分の姿を変えられる。|単純だが有効な手段だ。</source>
-        <target state="translated">You can use a disguise to change how you look in city camera footage.|It's a simple method, but effective.</target>
+        <target state="translated">You canuse  disguises to change how you look in|city camera footage. It's a simple method, but effective.</target>
       </trans-unit>
       <trans-unit id="599681" xml:space="preserve" approved="no">
         <source>「変装」は絶対じゃない。|見破られる事もあるから|過信は禁物だ。</source>
@@ -9849,7 +9849,7 @@
       </trans-unit>
       <trans-unit id="615001" xml:space="preserve" approved="no">
         <source>「変装」は一時的なものだ。|ずっとそのままの姿で|いられるわけじゃない。</source>
-        <target state="translated">Disguises are temporary.|The appearance they give you won't stay forever.</target>
+        <target state="translated">Disguises are temporary.||The appearance they give you won't stay forever.</target>
       </trans-unit>
       <trans-unit id="568325" xml:space="preserve" approved="no">
         <source>トラップに引っかかった|捜査員はそこでリタイアだ。</source>
@@ -9857,11 +9857,11 @@
       </trans-unit>
       <trans-unit id="625477" xml:space="preserve" approved="no">
         <source>トラップの有効期限は、|設置後２ターンだ。|捜査員の動きを推理して|設置するんだ。</source>
-        <target state="translated">After they've been set up, traps are effective for two turns.|Use the investigators' movements to deduce the best spot for a trap.</target>
+        <target state="translated">After they've been set, traps are effective for two turns.|Use the investigators' movements to deduce the best spot for a trap.</target>
       </trans-unit>
       <trans-unit id="599817" xml:space="preserve" approved="no">
         <source>トラップは数に限りがある。|チャンスを待って、うまく|使うんだ。</source>
-        <target state="translated">You can only set a limited number of traps.|Wait for a good opportunity to use them wisely.</target>
+        <target state="translated">You can only set a limited number of traps.|Wait for a good opportunity to use them.</target>
       </trans-unit>
       <trans-unit id="617661" xml:space="preserve" approved="no">
         <source>都市カメラは捜査側の目だ。|「カメラ破壊」をすれば、|こちらが有利になる。</source>
@@ -9869,7 +9869,7 @@
       </trans-unit>
       <trans-unit id="622857" xml:space="preserve" approved="no">
         <source>都市カメラを破壊すれば、|捜査に大きな死角を作れる。|捜査妨害の有効な手段だ。</source>
-        <target state="translated">By destroying city cameras, you can create a blind spot for the investigation. It is an effective way to hinder the police.</target>
+        <target state="translated">By destroying city cameras, you can create blind spots.|It is an effective way to hinder the police.</target>
       </trans-unit>
       <trans-unit id="604305" xml:space="preserve" approved="no">
         <source>都市カメラを破壊すれば、|捜査員をおびき寄せる事も|できるだろう。</source>
@@ -9877,15 +9877,15 @@
       </trans-unit>
       <trans-unit id="633877" xml:space="preserve" approved="no">
         <source>カメラには、|「グループ」と「エリア」|という単位がある。|１つのグループは同一色で|表され、それぞれに|エリアが設定されている。</source>
-        <target state="translated">Cameras are split into units of “groups" and “areas." One group of cameras is represented with a single color, and each group is divided into multiple areas.</target>
+        <target state="translated">Cameras are split into units of “groups" and “areas."|One group of cameras is represented with a single color, and each group is divided into multiple areas.</target>
       </trans-unit>
       <trans-unit id="626317" xml:space="preserve" approved="no">
         <source>カメラはターンの最初に|情報を報告してるんだ。|捜査員はその情報を|頼りにしている。</source>
-        <target state="translated">The cameras will report information based on the situation at the start of each turn. The investigators will rely on this information.</target>
+        <target state="translated">The cameras will report information based on the situation at the start of each turn.|The investigators rely on this information.</target>
       </trans-unit>
       <trans-unit id="600089" xml:space="preserve" approved="no">
         <source>エリアにあるカメラの|過半数を破壊すれば|監視機能はダウンする。</source>
-        <target state="translated">If more than half of the cameras in an area have been destroyed, the surveillance system in that area will break down.</target>
+        <target state="translated">Destroy more than half of the city cameras in one area,|and the surveillance system in that area will break down.</target>
       </trans-unit>
       <trans-unit id="537373" xml:space="preserve" approved="no">
         <source>仲間の移動はタッチペンを|使えばいいのよ。</source>
@@ -9893,7 +9893,7 @@
       </trans-unit>
       <trans-unit id="615229" xml:space="preserve" approved="no">
         <source>コマンドを実行すると、|表示される範囲が、その|コマンドの有効範囲だよ。</source>
-        <target state="translated">The area displayed when you use a command is that command's range of effect!</target>
+        <target state="translated">The area displayed when you select a command is that command's range of effect!</target>
       </trans-unit>
       <trans-unit id="628601" xml:space="preserve" approved="no">
         <source>捜査員をリタイアさせたり|メンバーが逮捕されると|勝利ポイントが増えたり|減ったりするよ。</source>
@@ -9909,11 +9909,11 @@
       </trans-unit>
       <trans-unit id="595853" xml:space="preserve" approved="no">
         <source>チェックポイントの中身は|「オプション画面」で|確認できるよ。</source>
-        <target state="translated">You can check what the checkpoints do in the Options Screen!</target>
+        <target state="translated">You can check what the checkpoints do in the|Options Screen!</target>
       </trans-unit>
       <trans-unit id="600293" xml:space="preserve" approved="no">
         <source>メンバーには特殊能力を|持ってる人もいるよ。|もちろんミサもね。</source>
-        <target state="translated">Some of our team members have special abilities.|Like me, Misa!</target>
+        <target state="translated">Some of our team members have special abilities.|That includes me too!</target>
       </trans-unit>
       <trans-unit id="582449" xml:space="preserve" approved="no">
         <source>特殊能力は便利だけど、|使うタイミングを|よく考えてね。</source>
@@ -9921,19 +9921,19 @@
       </trans-unit>
       <trans-unit id="604781" xml:space="preserve" approved="no">
         <source>「デスノートの所有権移動」|すると、受け取った人が|キラになるよ。</source>
-        <target state="translated">If you transfer ownership of the Death Note, the person who gets it becomes the new Kira.</target>
+        <target state="translated">If you transfer ownership of the Death Note,|the person who gets it becomes the new Kira.</target>
       </trans-unit>
       <trans-unit id="633525" xml:space="preserve" approved="no">
         <source>追い詰められて危ない時、|「デスノートの所有権移動」|しちゃえば、キラだけは|捕まらないよ。|捜査員は迷うよね。</source>
-        <target state="translated">If Kira is in danger of being arrested, they can transfer ownership of the Death Note to throw the investigators off.</target>
+        <target state="translated">If Kira is in danger of being arrested,|they can transfer ownership of the Death Note|to throw the investigators off.</target>
       </trans-unit>
       <trans-unit id="609041" xml:space="preserve" approved="no">
         <source>「変装」すれば自分の姿を|変えられるから、カメラを|だませるかもね。</source>
-        <target state="translated">You can use a disguise to change your appearance, and even to trick the cameras.</target>
+        <target state="translated">You can use a disguise to change your appearance,|and even to trick the cameras.</target>
       </trans-unit>
       <trans-unit id="574945" xml:space="preserve" approved="no">
         <source>変装は、たまにバレちゃう|事もあるから気をつけてね。</source>
-        <target state="translated">Occasionally people will see through your disguise, so be careful!</target>
+        <target state="translated">Occasionally people will see through your disguise,|so be careful!</target>
       </trans-unit>
       <trans-unit id="554977" xml:space="preserve" approved="no">
         <source>トラップが発動すれば、|捜査員はリタイアだよ。</source>
@@ -9941,11 +9941,11 @@
       </trans-unit>
       <trans-unit id="618117" xml:space="preserve" approved="no">
         <source>トラップは、設置してから|２ターンしか効かないの。|ムダにしないようにね。</source>
-        <target state="translated">Traps only last for two turns once they've been set. Try not to waste them.</target>
+        <target state="translated">Traps only last for two turns once they've been set.|Try not to waste them.</target>
       </trans-unit>
       <trans-unit id="615381" xml:space="preserve" approved="no">
         <source>トラップは一度に|あまり多く設置できないよ。|チャンスを待って使ってね。</source>
-        <target state="translated">You can't set a load of traps at once. You need to wait for the right moment to use them.</target>
+        <target state="translated">You can't set a load of traps at once.|You need to wait for the right moment to use them.</target>
       </trans-unit>
       <trans-unit id="629153" xml:space="preserve" approved="no">
         <source>都市カメラは、捜査側の|大切な情報網なんだって。|「カメラ破壊」でそれを|壊す事もできるよ。</source>
@@ -9961,11 +9961,11 @@
       </trans-unit>
       <trans-unit id="633753" xml:space="preserve" approved="no">
         <source>都市カメラには、|「グループ」と「エリア」|があるんだって。|同じ色が同じグループね。|それぞれエリアが設定|されているよ。</source>
-        <target state="translated">The City Cameras are divided into “groups", which each have their own colour and different “areas".</target>
+        <target state="translated">The City Cameras are divided into “groups",|which each have their own color and different “areas."</target>
       </trans-unit>
       <trans-unit id="621737" xml:space="preserve" approved="no">
         <source>カメラはターンの初めに|情報を報告するんだって。|捜査員はそれを見てるのね。</source>
-        <target state="translated">The cameras provide information at the start of every turn. The investigators watch them like hawks.</target>
+        <target state="translated">The cameras send out info at the start of every turn.|The investigators watch them like hawks.</target>
       </trans-unit>
       <trans-unit id="612497" xml:space="preserve" approved="no">
         <source>都市カメラは、そのエリア|のカメラを過半数を壊せば|使えなくなるのよ。</source>
@@ -9973,15 +9973,15 @@
       </trans-unit>
       <trans-unit id="596301" xml:space="preserve" approved="no">
         <source>地下鉄の駅からは|「特殊移動ポイント」を|使って移動できるよ。</source>
-        <target state="translated">If you're at a subway station, you can use Special Movement Points to move.</target>
+        <target state="translated">At a subway station, using Special Movement Points will let you board the subway.</target>
       </trans-unit>
       <trans-unit id="555265" xml:space="preserve" approved="no">
         <source>地下鉄は隣の駅までしか|移動できないんだって。</source>
-        <target state="translated">The subway can only move you to adjacent subway stations.</target>
+        <target state="translated">The subway can only move you to nearby subway stations.</target>
       </trans-unit>
       <trans-unit id="623897" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」には|限りがあるんだよ。|ポイント不足に|ならないようにね。</source>
-        <target state="translated">There's a limit to the Special Movement Points you have, so don't run out!</target>
+        <target state="translated">There's a limit to the Special Movement Points you have,|so don't run out!</target>
       </trans-unit>
       <trans-unit id="618421" xml:space="preserve" approved="no">
         <source>高速バスのターミナルで|「特殊移動ポイント」を|使えば高速バスに乗れるよ。</source>
@@ -9989,7 +9989,7 @@
       </trans-unit>
       <trans-unit id="555409" xml:space="preserve" approved="no">
         <source>高速バスは隣ターミナル|までしか移動できない。</source>
-        <target state="translated">Express buses can only move to adjacent bus terminals.</target>
+        <target state="translated">Express buses can only move to nearby bus terminals.</target>
       </trans-unit>
       <trans-unit id="618497" xml:space="preserve" approved="no">
         <source>水上バスのターミナルで|「特殊移動ポイント」を|使えば水上バスに乗れるよ。</source>
@@ -9997,7 +9997,7 @@
       </trans-unit>
       <trans-unit id="612569" xml:space="preserve" approved="no">
         <source>水上バスはターンごとに、|進む方向が変わるから、|ご利用は計画的にね。</source>
-        <target state="translated">The water-bus's direction changes every turn, so you should plan ahead if you want to use it.</target>
+        <target state="translated">The water-bus's direction changes every turn, |so you should plan ahead if you want to use it.</target>
       </trans-unit>
       <trans-unit id="605257" xml:space="preserve" approved="no">
         <source>ヘリポートでは|「特殊移動ポイント」を|使ってヘリに乗れちゃうよ。</source>
@@ -10005,7 +10005,7 @@
       </trans-unit>
       <trans-unit id="613649" xml:space="preserve" approved="no">
         <source>ヘリがいない時は|ヘリポートに行っても|移動できないから|気をつけてね。</source>
-        <target state="translated">If there's no helicopter at the heliport at the moment, you won't be able to move, so be careful!</target>
+        <target state="translated">If there's no helicopter at the heliport you go to,|you won't be able to move, so be careful!</target>
       </trans-unit>
       <trans-unit id="512057" xml:space="preserve" approved="no">
         <source>人はタッチペンで|移動させられる。</source>
@@ -10013,15 +10013,15 @@
       </trans-unit>
       <trans-unit id="602333" xml:space="preserve" approved="no">
         <source>コマンドには|有効範囲がある。|実行して表示される|範囲がそうだ。</source>
-        <target state="translated">Every command has a range. That range is shown when you go to use a command.</target>
+        <target state="translated">Every command has a range.||That range is shown when you go to use a command.</target>
       </trans-unit>
       <trans-unit id="615457" xml:space="preserve" approved="no">
         <source>捜査員をリタイアさせるか|誰かが逮捕されると、|勝利ポイントが増減する。</source>
-        <target state="translated">Victory Points will increase when investigators are eliminated and decrease when people are arrested.</target>
+        <target state="translated">Victory Points increase when investigators are eliminated and will decrease if some fools get arrested.</target>
       </trans-unit>
       <trans-unit id="605393" xml:space="preserve" approved="no">
         <source>途中で中断したいなら|「オプション」から|「ゲーム中断」を選択だ。</source>
-        <target state="translated">If you want to stop a round midway through, choose “Pause" from the Options Screen.</target>
+        <target state="translated">If you want to stop a round midway through,|choose “Pause" from the Options Screen.</target>
       </trans-unit>
       <trans-unit id="625561" xml:space="preserve" approved="no">
         <source>チェックポイントの|指定がある時は、|とにかくそこをめざせ。|でないと話にならん。</source>
@@ -10029,27 +10029,27 @@
       </trans-unit>
       <trans-unit id="587129" xml:space="preserve" approved="no">
         <source>チェックポイントの内容は|「オプション画面」で|確認しろ。</source>
-        <target state="translated">You can check a checkpoint's purpose in the Options Screen.</target>
+        <target state="translated">You can find checkpoint info in the Options Screen.</target>
       </trans-unit>
       <trans-unit id="627349" xml:space="preserve" approved="no">
         <source>チェックポイントの指定が|ある場合チェックポイント|に到達しないと物語は|進行しない。</source>
-        <target state="translated">If there are checkpoints you need to reach and you're ignoring them, you'll never get anywhere.</target>
+        <target state="translated">Ignoring checkpoints that you're supposed to reach|will get you nowhere fast.</target>
       </trans-unit>
       <trans-unit id="575393" xml:space="preserve" approved="no">
         <source>特殊能力は使うタイミング|が難しいんだ。よく考えろ。</source>
-        <target state="translated">Knowing when to activate a Special Ability is critical. Use your brain.</target>
+        <target state="translated">Knowing when to activate a Special Ability is critical.|Use your brain.</target>
       </trans-unit>
       <trans-unit id="618649" xml:space="preserve" approved="no">
         <source>「デスノートの所有権移動」|すれば、受け取った奴が|その時からキラになる。</source>
-        <target state="translated">When you transfer ownership of the Death Note, the person who gets it becomes the new Kira.</target>
+        <target state="translated">When you transfer ownership of the Death Note,|the person who gets it becomes the new Kira.</target>
       </trans-unit>
       <trans-unit id="630701" xml:space="preserve" approved="no">
         <source>逮捕されそうになっても|「デスノートの所有権移動」|すれば、キラだけは|捜査の網をすり抜けられる。</source>
-        <target state="translated">If you think Kira's gonna be arrested, transfer ownership of the Death Note. That way, Kira can still avoid capture.</target>
+        <target state="translated">If you think Kira's gonna be arrested,|transfer ownership of the Death Note.|That way, Kira can still avoid capture.</target>
       </trans-unit>
       <trans-unit id="605597" xml:space="preserve" approved="no">
         <source>「変装」で姿を変えれば|そのエリアの都市カメラに|映るのは別人だ。</source>
-        <target state="translated">If you wear a disguise, the city camera's will think you're a different person.</target>
+        <target state="translated">If you wear a disguise, the city cameras will think you're a different person.</target>
       </trans-unit>
       <trans-unit id="520401" xml:space="preserve" approved="no">
         <source>変装はバレる事もある。|過信はするな。</source>
@@ -10065,7 +10065,7 @@
       </trans-unit>
       <trans-unit id="587309" xml:space="preserve" approved="no">
         <source>トラップは設置数が|限られている。|チャンスを待って使え。</source>
-        <target state="translated">You can only set a limited number of traps. Better wait for the right moment.</target>
+        <target state="translated">You can only set a limited number of traps.|Better wait for the right moment.</target>
       </trans-unit>
       <trans-unit id="612641" xml:space="preserve" approved="no">
         <source>都市カメラは捜査側の目だ。|それも「カメラ破壊」で|つぶす事ができる。</source>
@@ -10077,11 +10077,11 @@
       </trans-unit>
       <trans-unit id="624057" xml:space="preserve" approved="no">
         <source>破壊されたカメラを|捜査員が修理しに来る事も|ある。|トラップを使うチャンスだ。</source>
-        <target state="translated">Investigators may come to repair broken cameras. That's your chance to use traps.</target>
+        <target state="translated">Investigators may come to repair broken cameras.|That's your chance to use traps.</target>
       </trans-unit>
       <trans-unit id="630901" xml:space="preserve" approved="no">
         <source>都市カメラには、|「グループ」と「エリア」|があり、グループ内に|それぞれエリアが設定|されている。</source>
-        <target state="translated">City cameras are split into “groups". Each group has its own set of “areas".</target>
+        <target state="translated">City cameras are split into “groups."|Each group has its own set of “areas."</target>
       </trans-unit>
       <trans-unit id="592077" xml:space="preserve" approved="no">
         <source>都市カメラは、毎ターンの|初めに捜査員に情報を|報告してる。</source>
@@ -10089,7 +10089,7 @@
       </trans-unit>
       <trans-unit id="596941" xml:space="preserve" approved="no">
         <source>そのエリアの過半数の|都市カメラを破壊すれば|機能しなくなる。</source>
-        <target state="translated">If more than half of the city cameras in an area are destroyed, the surveillance system in that area will stop functioning.</target>
+        <target state="translated">If more than half of the cameras in an area are down, the surveillance system in that area will stop working.</target>
       </trans-unit>
       <trans-unit id="597005" xml:space="preserve" approved="no">
         <source>駅から地下鉄に乗るには|「特殊移動ポイント」を|消費するんだ。</source>
@@ -10097,7 +10097,7 @@
       </trans-unit>
       <trans-unit id="548209" xml:space="preserve" approved="no">
         <source>地下鉄で一度に移動|できるのは隣の駅までだ。</source>
-        <target state="translated">The subway can only take you to nearby stations.</target>
+        <target state="translated">The subway can only take you to adjacent stations.</target>
       </trans-unit>
       <trans-unit id="548305" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」は|上限が決まっている。</source>
@@ -10105,15 +10105,15 @@
       </trans-unit>
       <trans-unit id="613865" xml:space="preserve" approved="no">
         <source>ターミナルで|高速バスに乗るには|「特殊移動ポイント」を|消費するんだ。</source>
-        <target state="translated">Taking the express bus consumes Special Movement Points.</target>
+        <target state="translated">Taking the express bus uses Special Movement Points.</target>
       </trans-unit>
       <trans-unit id="625645" xml:space="preserve" approved="no">
         <source>水上バスのターミナルで|水上バスに乗るには|「特殊移動ポイント」を|消費するんだ。</source>
-        <target state="translated">Taking the water-bus consumes Special Movement Points.</target>
+        <target state="translated">Taking the water-bus uses Special Movement Points.</target>
       </trans-unit>
       <trans-unit id="592205" xml:space="preserve" approved="no">
         <source>水上バスは自動運行だ。|利用する時は進行方向に|気をつけろ。</source>
-        <target state="translated">The water-bus operates automatically. Make sure to check what direction its heading before you set off.</target>
+        <target state="translated">The water-bus operates automatically.|Check what direction its heading before you set off.</target>
       </trans-unit>
       <trans-unit id="602401" xml:space="preserve" approved="no">
         <source>ヘリに乗るには|ヘリポートで|「特殊移動ポイント」を|使えばいい。</source>
@@ -10137,7 +10137,7 @@
       </trans-unit>
       <trans-unit id="628053" xml:space="preserve" approved="no">
         <source>チェックポイント指定の|ある作戦では、チェック|ポイントに到達しなければ|話は進まない。</source>
-        <target state="translated">In missions involving checkpoints, you will not be able to advance until all necessary checkpoints have been reached.</target>
+        <target state="translated">In missions involving checkpoints,|you will not be able to advance until all required checkpoints have been reached.</target>
       </trans-unit>
       <trans-unit id="592397" xml:space="preserve" approved="no">
         <source>チェックポイントの内容は|「オプション画面」で|確認できる。</source>
@@ -10145,15 +10145,15 @@
       </trans-unit>
       <trans-unit id="606073" xml:space="preserve" approved="no">
         <source>特殊能力をうまく使えば|敵に効果的なダメージを|与えられるだろう。</source>
-        <target state="translated">If you use special abilities well, you will be able to bring down justice the blasphemers more effectively.</target>
+        <target state="translated">If you use special abilities well, you will be able to bring down justice on the blasphemers more effectively.</target>
       </trans-unit>
       <trans-unit id="615837" xml:space="preserve" approved="no">
         <source>「デスノートの所有権移動」|させれば、受け取った者が|新たなキラとなる。</source>
-        <target state="translated">When transferring ownership of the Death Note, the recipient becomes the new Kira.</target>
+        <target state="translated">When transferring ownership of the Death Note,|the recipient becomes the new Kira.</target>
       </trans-unit>
       <trans-unit id="632769" xml:space="preserve" approved="no">
         <source>万一、逃れられない時でも|「デスノートの所有権移動」|すれば、キラの力は無事だ。|敵も混乱するだろう。</source>
-        <target state="translated">Even if you become trapped, if you transfer ownership of the Death Note, Kira's powers will be safe. It will also serve to confuse the enemy.</target>
+        <target state="translated">Even if you become trapped,|if you transfer ownership of the Death Note, Kira's powers will be safe.|It will also serve to confuse the enemy.</target>
       </trans-unit>
       <trans-unit id="564789" xml:space="preserve" approved="no">
         <source>「変装」は見破られる|事もある。過信はできない。</source>
@@ -10169,7 +10169,7 @@
       </trans-unit>
       <trans-unit id="612929" xml:space="preserve" approved="no">
         <source>トラップは数に限りがある。|確実なチャンスを待って、|使用するべきだ。</source>
-        <target state="translated">You can only set a limited number of traps. Wait for the right moment to execute God's plan.</target>
+        <target state="translated">You can only set a limited number of traps.|Wait for the right moment to execute God's plan.</target>
       </trans-unit>
       <trans-unit id="540409" xml:space="preserve" approved="no">
         <source>カメラを破壊すれば|監視網に死角ができる。</source>
@@ -10177,7 +10177,7 @@
       </trans-unit>
       <trans-unit id="615913" xml:space="preserve" approved="no">
         <source>「カメラ破壊」は捜査員を|おびき寄せるエサにもなる。|うまく使うべきだ。</source>
-        <target state="translated">Broken cameras can be used as bait to entrap investigators.</target>
+        <target state="translated">Broken cameras can be used as bait to trap investigators.</target>
       </trans-unit>
       <trans-unit id="565049" xml:space="preserve" approved="no">
         <source>カメラはターンの最初に|捜査員に情報を報告する。</source>
@@ -10185,11 +10185,11 @@
       </trans-unit>
       <trans-unit id="597197" xml:space="preserve" approved="no">
         <source>そのエリアのカメラの|過半数を破壊すれば|監視機能は使えない。</source>
-        <target state="translated">If the majority of the cameras in an area are destroyed, the surveillance network for that area will shut down.</target>
+        <target state="translated">If the majority of the cameras in an area are destroyed,|the surveillance network for that area will shut down.</target>
       </trans-unit>
       <trans-unit id="613217" xml:space="preserve" approved="no">
         <source>地下鉄の駅に行けば|「特殊移動ポイント」を|消費して地下鉄移動できる。</source>
-        <target state="translated">To travel on the subway, you must go to a subway station and spend the specified amount of Special Movement Points.</target>
+        <target state="translated">To travel on the subway, you must go to a subway station and spend Special Movement Points.</target>
       </trans-unit>
       <trans-unit id="524721" xml:space="preserve" approved="no">
         <source>地下鉄は隣の駅までしか|移動できない。</source>
@@ -10197,11 +10197,11 @@
       </trans-unit>
       <trans-unit id="615989" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」は|無限じゃない。|ポイントの不足には|注意が必要だ。</source>
-        <target state="translated">Special Movement Points are not infinite. Be careful not to run out.</target>
+        <target state="translated">Special Movement Points are not infinite.|Be careful not to run out.</target>
       </trans-unit>
       <trans-unit id="623417" xml:space="preserve" approved="no">
         <source>バスターミナルに行くと|「特殊移動ポイント」を|消費して高速バスで移動|できる。</source>
-        <target state="translated">To travel on the express bus, you must go to an express bus terminal and spend the specified amount of Special Movement Points.</target>
+        <target state="translated">To travel on the express bus, you must go to an express bus terminal and spend Special Movement Points.</target>
       </trans-unit>
       <trans-unit id="559173" xml:space="preserve" approved="no">
         <source>高速バスは隣のターミナル|までしか移動できない。</source>
@@ -10209,7 +10209,7 @@
       </trans-unit>
       <trans-unit id="623497" xml:space="preserve" approved="no">
         <source>水上バスターミナルでは|「特殊移動ポイント」を|消費して水上バスで移動|できる。</source>
-        <target state="translated">To travel on the water-bus, you must go to a water-bus terminal and spend the specified amount of Special Movement Points.</target>
+        <target state="translated">To travel on the water-bus, you must go to a water-bus terminal and spend Special Movement Points.</target>
       </trans-unit>
       <trans-unit id="616521" xml:space="preserve" approved="no">
         <source>水上バスはターンにより|進行方向が変わる事がある。|計画的に利用すべきだ。</source>
@@ -10217,7 +10217,7 @@
       </trans-unit>
       <trans-unit id="610193" xml:space="preserve" approved="no">
         <source>ヘリポートに行くと|「特殊移動ポイント」を|消費してヘリ移動ができる。</source>
-        <target state="translated">To travel on a helicopter, you must go to a heliport and spend the specified amount of Special Movement Points.</target>
+        <target state="translated">To travel on a helicopter, you must go to a heliport and spend Special Movement Points.</target>
       </trans-unit>
       <trans-unit id="576289" xml:space="preserve" approved="no">
         <source>ヘリがヘリポートに|いなければ当然、移動は|不可能だ。</source>
@@ -10225,23 +10225,23 @@
       </trans-unit>
       <trans-unit id="524201" xml:space="preserve" approved="no">
         <source>仲間の移動には|タッチペンを使うのよ。</source>
-        <target state="translated">Moving your allies can be accomplished by using the stylus.#takada</target>
+        <target state="translated">Moving your allies can be achieved by using the stylus.#takada</target>
       </trans-unit>
       <trans-unit id="623577" xml:space="preserve" approved="no">
         <source>コマンドを実行すると、|領域が表示されるの。|これはそのコマンドの|有効範囲よ。</source>
-        <target state="translated">When you execute a command, an area will be displayed. That area is the effective range of the command.</target>
+        <target state="translated">When you execute a command, an area will be displayed.|That area is the effective range of the command.</target>
       </trans-unit>
       <trans-unit id="621017" xml:space="preserve" approved="no">
         <source>捜査員をリタイアさせたり|メンバーが逮捕されると|勝利ポイントが増減するの。</source>
-        <target state="translated">Your Victory Points will increase or decrease based on various factors such as characters from either side being eliminated.</target>
+        <target state="translated">Victory Points will increase or decrease based on various factors such as characters from either side being retired.</target>
       </trans-unit>
       <trans-unit id="627789" xml:space="preserve" approved="no">
         <source>途中で中断したくなったら|「オプション」から|「ゲーム中断」を|選択すれば中断できるわ。</source>
-        <target state="translated">If you wish to suspend the game midway, visit the Options Screen and select “Pause".</target>
+        <target state="translated">If you wish to suspend the game midway,|visit the Options Screen and select “Pause."</target>
       </trans-unit>
       <trans-unit id="588877" xml:space="preserve" approved="no">
         <source>チェックポイント到達は|計画を進めるために|必要なものなの。</source>
-        <target state="translated">Reaching checkpoints is necessary to move Kira's plan forward.</target>
+        <target state="translated">Reaching checkpoints is key to moving Kira's plan forward.</target>
       </trans-unit>
       <trans-unit id="589005" xml:space="preserve" approved="no">
         <source>チェックポイント内容は|「オプション画面」で|確認できるわ。</source>
@@ -10257,15 +10257,15 @@
       </trans-unit>
       <trans-unit id="614165" xml:space="preserve" approved="no">
         <source>「デスノートの所有権移動」|すると、受け取った人が|新たなキラになるわ。</source>
-        <target state="translated">When ownership of the Death Note is transferred, the new owner becomes Kira.</target>
+        <target state="translated">When ownership of the Death Note is transferred,|the new owner becomes Kira.</target>
       </trans-unit>
       <trans-unit id="626997" xml:space="preserve" approved="no">
         <source>「デスノートの所有権移動」|させれば、キラは交代して|しまう。|捜査は混乱するはずよ。</source>
-        <target state="translated">Transferring ownership of the Death Note changes who the current Kira is. It can completely throw off the investigators.</target>
+        <target state="translated">Transferring ownership of the Death Note changes who the current Kira is.||It can completely throw off the investigators.</target>
       </trans-unit>
       <trans-unit id="616749" xml:space="preserve" approved="no">
         <source>「変装」は都市カメラに|映る自分の姿を変えられる|単純でも効果的な方法よ。</source>
-        <target state="translated">Disguises are a simple but effective way to fool the city's cameras.</target>
+        <target state="translated">Disguises are an effective way to fool the city's cameras.</target>
       </trans-unit>
       <trans-unit id="597913" xml:space="preserve" approved="no">
         <source>変装が失敗して捜査員に|見破られる事もあるわ。|油断しないでね。</source>
@@ -10273,19 +10273,19 @@
       </trans-unit>
       <trans-unit id="607385" xml:space="preserve" approved="no">
         <source>トラップは捜査員が|引っかかると発動して|捜査員をリタイアさせるわ。</source>
-        <target state="translated">If an investigator gets caught in a trap, that trap will activate, causing them to be eliminated.</target>
+        <target state="translated">If an investigator steps onto a trap, that trap will activate, causing them to be eliminated.</target>
       </trans-unit>
       <trans-unit id="616141" xml:space="preserve" approved="no">
         <source>トラップの効果は設置後|２ターンまでよ。|ムダにしないように|気をつけて。</source>
-        <target state="translated">Traps will be effective for two turns from when they are placed. Be careful not to waste them.</target>
+        <target state="translated">Traps will be effective for two turns from when they are set. Be careful not to waste them.</target>
       </trans-unit>
       <trans-unit id="607601" xml:space="preserve" approved="no">
         <source>トラップは設置できる数に|限りがあるわ。|使うならチャンスを待って。</source>
-        <target state="translated">There is a limit to the number of traps you can set. You should wait for the right opportunity to use them.</target>
+        <target state="translated">There is a limit to the number of traps you can set.|You should wait for the right opportunity to use them.</target>
       </trans-unit>
       <trans-unit id="607673" xml:space="preserve" approved="no">
         <source>都市カメラは監視の目よ。|でも、「カメラ破壊」で|壊す事ができるわ。</source>
-        <target state="translated">The city cameras are ever-surveying eyes. Fortunately, you can use the destroy camera command to get rid of them.</target>
+        <target state="translated">The city cameras are ever-surveying eyes. Fortunately, you can use the Camera Destruction command to get rid of them.</target>
       </trans-unit>
       <trans-unit id="585569" xml:space="preserve" approved="no">
         <source>都市カメラを破壊すれば、|監視網に大きな死角を|作れるわ。</source>
@@ -10293,15 +10293,15 @@
       </trans-unit>
       <trans-unit id="630009" xml:space="preserve" approved="no">
         <source>破壊されたカメラの修復に|捜査員が動く事もあるわ。|それを利用すれば、おびき|寄せる事も可能よ。</source>
-        <target state="translated">Investigators may be dispatched to repair destroyed cameras. You can utilize this to lure them into a trap.</target>
+        <target state="translated">Investigators may be sent out to repair broken cameras.|You can utilize this to lure them into a trap.</target>
       </trans-unit>
       <trans-unit id="629433" xml:space="preserve" approved="no">
         <source>都市カメラは「グループ」|ごとに同一色で表示され、|それぞれに「エリア」が|設定されているわ。</source>
-        <target state="translated">City cameras are separated into colored “groups". Each group also has its own “areas".</target>
+        <target state="translated">City cameras are separated into colored “groups."|Each group also has its own “areas".</target>
       </trans-unit>
       <trans-unit id="623657" xml:space="preserve" approved="no">
         <source>都市カメラは、ターンの|開始時に捜査員へ、|情報を報告するように|なっているの。</source>
-        <target state="translated">At the start of each turn, the investigators receive a report detailing the footage captured by their city cameras.</target>
+        <target state="translated">At the start of each turn, the investigators receive a report detailing the footage captured by their cameras.</target>
       </trans-unit>
       <trans-unit id="603081" xml:space="preserve" approved="no">
         <source>都市カメラは、エリア内の|過半数を破壊されると|機能しなくなるわ。</source>
@@ -10317,7 +10317,7 @@
       </trans-unit>
       <trans-unit id="598253" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」は|限られているから、不足|しないようにね。</source>
-        <target state="translated">Special Movement Points are limited, so be mindful to ensure that you don't run out.</target>
+        <target state="translated">Special Movement Points are limited,|so be mindful to ensure that you don't run out.</target>
       </trans-unit>
       <trans-unit id="616217" xml:space="preserve" approved="no">
         <source>バスターミナルから|高速バスに乗るには|「特殊移動ポイント」を|使うのよ。</source>
@@ -10341,7 +10341,7 @@
       </trans-unit>
       <trans-unit id="552289" xml:space="preserve" approved="no">
         <source>ヘリがいないヘリポート|では移動はできないわ。</source>
-        <target state="translated">This should be obvious, but you can't use a heliport if the helicopter is not there.</target>
+        <target state="translated">This should be obvious, but you can't use a heliport|if the helicopter is not there.</target>
       </trans-unit>
       <trans-unit id="535745" xml:space="preserve" approved="no">
         <source>メンバーはタッチペンで|移動させればいい。</source>
@@ -10357,19 +10357,19 @@
       </trans-unit>
       <trans-unit id="618953" xml:space="preserve" approved="no">
         <source>勝負を中断したいなら|「オプション」から|「ゲーム中断」を|選択すればいい。</source>
-        <target state="translated">To suspend a match without losing your progress, choose “Pause" from the Options screen.</target>
+        <target state="translated">To suspend a match without losing your progress,|choose “Pause" from the Options screen.</target>
       </trans-unit>
       <trans-unit id="611057" xml:space="preserve" approved="no">
         <source>チェックポイント指定が|ある場合は、そこに到達|しないと話が進まない。</source>
-        <target state="translated">If reaching checkpoints is a requirement, do whatever it takes to get there. Otherwise, you won't progress.</target>
+        <target state="translated">If reaching checkpoints is a requirement,|do whatever it takes to get there.|Otherwise, you won't progress.</target>
       </trans-unit>
       <trans-unit id="586229" xml:space="preserve" approved="no">
         <source>チェックポイントは|「オプション画面」で|内容確認できる。</source>
-        <target state="translated">You can check the details of a checkpoint in the Options screen.</target>
+        <target state="translated">You can view checkpoint details in the Options screen.</target>
       </trans-unit>
       <trans-unit id="628417" xml:space="preserve" approved="no">
         <source>特殊能力はうまく使えば|勝負が有利になるが、|タイミングが難しい。|チャンスをうまく狙え。</source>
-        <target state="translated">Using special abilities effectively is all about finding the right timing. Don't screw it up.</target>
+        <target state="translated">Using special abilities well is all about finding the right timing. Don't screw it up.</target>
       </trans-unit>
       <trans-unit id="522881" xml:space="preserve" approved="no">
         <source>メンバーは、それぞれ特殊|能力がある。</source>
@@ -10377,7 +10377,7 @@
       </trans-unit>
       <trans-unit id="630401" xml:space="preserve" approved="no">
         <source>逮捕されそうな時、|「デスノートの所有権移動」|すると、キラって存在は|捜査網からすり抜けちまう。</source>
-        <target state="translated">If backed into a corner, Kira can transfer ownership of the Death Note to make sure it doesn't fall into the investigator's hands.</target>
+        <target state="translated">If backed into a corner, Kira can transfer ownership of the Death Note to keep it from falling into the enemies' hands.</target>
       </trans-unit>
       <trans-unit id="567545" xml:space="preserve" approved="no">
         <source>「変装」すればカメラに|映る姿を他人に変えられる。</source>
@@ -10385,19 +10385,19 @@
       </trans-unit>
       <trans-unit id="528265" xml:space="preserve" approved="no">
         <source>変装は失敗する事もある。|過信はするな。</source>
-        <target state="translated">A disguise won't fool the investigators forever. Watch your back.</target>
+        <target state="translated">A disguise won't fool the investigators forever.|Watch your back.</target>
       </trans-unit>
       <trans-unit id="608177" xml:space="preserve" approved="no">
         <source>トラップに引っかかった|捜査員は、かわいそうだが|そこでリタイアだ。</source>
-        <target state="translated">If an investigator activates a trap, the poor sod will be out of the game.</target>
+        <target state="translated">If an investigator activates a trap,|the poor sod will be out of the game.</target>
       </trans-unit>
       <trans-unit id="625141" xml:space="preserve" approved="no">
         <source>トラップは設置して|２ターンしか効かない。|捜査員の動きを推理して|設置するんだ。</source>
-        <target state="translated">Traps are only effective for two turns once placed. Set them where you think the investigators will go.</target>
+        <target state="translated">Traps are only effective for two turns once placed.|Set them where you think the investigators will go.</target>
       </trans-unit>
       <trans-unit id="574217" xml:space="preserve" approved="no">
         <source>トラップは数に限りがある。|確実なタイミングを狙え。</source>
-        <target state="translated">Traps are in short supply. Don't use them until the time is right.</target>
+        <target state="translated">Traps are in short supply.||Don't use them until the time is right.</target>
       </trans-unit>
       <trans-unit id="627085" xml:space="preserve" approved="no">
         <source>都市カメラの監視網は|やっかいな存在だ。|だが、「カメラ破壊」で|分断する事はできる。</source>
@@ -10405,11 +10405,11 @@
       </trans-unit>
       <trans-unit id="625225" xml:space="preserve" approved="no">
         <source>都市カメラを破壊すれば、|監視に死角ができる。|捜査側を混乱させるには|いい手だ。</source>
-        <target state="translated">Destroying cameras creates blind spots. It's a good way to make the investigators sweat.</target>
+        <target state="translated">Destroying cameras creates blind spots.|It's a good way to make the investigators sweat.</target>
       </trans-unit>
       <trans-unit id="630801" xml:space="preserve" approved="no">
         <source>都市カメラには、|「グループ」と「エリア」|がある。|同色は１グループで、|それぞれにエリアを持つ。</source>
-        <target state="translated">The city cameras are split into “groups". Each group has a different color, and is made up of several “areas".</target>
+        <target state="translated">The city cameras are split into “groups."|Each group has a different color,|and is made up of several “areas".</target>
       </trans-unit>
       <trans-unit id="567909" xml:space="preserve" approved="no">
         <source>カメラの情報は、捜査側|にターンの頭で報告される。</source>
@@ -10425,7 +10425,7 @@
       </trans-unit>
       <trans-unit id="611417" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」は|上限が決まっている。|ポイント不足に注意しろ。</source>
-        <target state="translated">Special Movement Points are in short supply. Don't waste them.</target>
+        <target state="translated">Special Movement Points are in short supply.|Don't waste them.</target>
       </trans-unit>
       <trans-unit id="611489" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」を|バスターミナルで使えば|高速バスで移動できる。</source>
@@ -10437,7 +10437,7 @@
       </trans-unit>
       <trans-unit id="590285" xml:space="preserve" approved="no">
         <source>水上バスの進行方向は|ターンにより違う事がある。|注意しろ。</source>
-        <target state="translated">The water-bus can change direction each turn. Don't go the wrong way.</target>
+        <target state="translated">The water-bus can change direction each turn.|Don't go the wrong way.</target>
       </trans-unit>
       <trans-unit id="586349" xml:space="preserve" approved="no">
         <source>空のヘリポートじゃ|当たり前だがヘリに|乗る事は不可能だ。</source>
@@ -10461,11 +10461,11 @@
       </trans-unit>
       <trans-unit id="595277" xml:space="preserve" approved="no">
         <source>特殊能力は使う|タイミングが難しい。|チャンスを待たないとな。</source>
-        <target state="translated">It's hard to know when to use a special ability. You just have to take your chances.</target>
+        <target state="translated">It's hard to know when to use a special ability.|You just have to take your chances.</target>
       </trans-unit>
       <trans-unit id="617205" xml:space="preserve" approved="no">
         <source>「変装」すればカメラに|映る姿を他人に変えられる。|単純だが、うまい手だ。</source>
-        <target state="translated">You can use disguises to trick the cameras. It's pretty useful.</target>
+        <target state="translated">You can use disguises to trick the cameras. It's kinda handy.</target>
       </trans-unit>
       <trans-unit id="521921" xml:space="preserve" approved="no">
         <source>変装はバレる事もある。|油断は禁物だ。</source>
@@ -10473,7 +10473,7 @@
       </trans-unit>
       <trans-unit id="614545" xml:space="preserve" approved="no">
         <source>トラップは数に限りがある。|チャンスを待って、|確実なタイミングを狙え。</source>
-        <target state="translated">There's a limit to the number of traps you can set. Wait for your chance and time it well.</target>
+        <target state="translated">There's a limit to the number of traps you can set.|Wait for your chance and time it well.</target>
       </trans-unit>
       <trans-unit id="603829" xml:space="preserve" approved="no">
         <source>都市カメラは捜査側の目だ。|その目をつぶすのが|「カメラ破壊」だ。</source>
@@ -10485,11 +10485,11 @@
       </trans-unit>
       <trans-unit id="629061" xml:space="preserve" approved="no">
         <source>都市カメラを破壊すれば、|捜査員が修復に動くだろう。|うまく利用すれば|おびき寄せられるな。</source>
-        <target state="translated">Investigators will rush to fix broken cameras. That makes their movements easy to predict.</target>
+        <target state="translated">Investigators will rush to fix broken cameras.|That makes their movements easy to predict.</target>
       </trans-unit>
       <trans-unit id="633637" xml:space="preserve" approved="no">
         <source>都市カメラには、|「グループ」と「エリア」|があるんだ。|同じ色が同じグループ。|それぞれエリアが設定|されている。</source>
-        <target state="translated">City cameras are split into “groups" and “areas". Each group has its own color, and covers different areas.</target>
+        <target state="translated">City cameras are split into “groups" and “areas."|Each group has its own color, and covers different areas.</target>
       </trans-unit>
       <trans-unit id="608753" xml:space="preserve" approved="no">
         <source>カメラはターンの初めに|情報を報告するんだ。|捜査員はそれを見てる。</source>
@@ -10501,15 +10501,15 @@
       </trans-unit>
       <trans-unit id="611993" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」は|上限が決まっている。|ポイント不足に要注意だ。</source>
-        <target state="translated">Special Movement Points don't last forever. Keep an eye on them.</target>
+        <target state="translated">Special Movement Points don't last forever.|Keep an eye on them.</target>
       </trans-unit>
       <trans-unit id="561877" xml:space="preserve" approved="no">
         <source>水上バスの進行方向は|ターンにより違う事がある。</source>
-        <target state="translated">The direction of the water-bus can change between turns.</target>
+        <target state="translated">The  water-bus can change direction between turns.</target>
       </trans-unit>
       <trans-unit id="557425" xml:space="preserve" approved="no">
         <source>その調子です。逮捕は、|まだしないでください。</source>
-        <target state="translated">So far, so good. I'm not willing to let myself be taken into custody just yet.#Light start?</target>
+        <target state="translated">I'm not willing to let myself be taken into custody right now.#Light start?</target>
       </trans-unit>
       <trans-unit id="496373" xml:space="preserve" approved="no">
         <source>最後に勝つのは僕だ。</source>
@@ -14713,7 +14713,7 @@
       </trans-unit>
       <trans-unit id="575337" xml:space="preserve" approved="no">
         <source>私だと気づかれなければいい。|難しく考える事はない。</source>
-        <target state="translated">As long as they don't realise it's me, then that's fine. I don't need to think too hard about it.</target>
+        <target state="translated">As long as they don't realize it's me, then that's fine. I don't need to think too hard about it.</target>
       </trans-unit>
       <trans-unit id="502209" xml:space="preserve" approved="no">
         <source>これならバレないだろうな。</source>
@@ -14849,7 +14849,7 @@
       </trans-unit>
       <trans-unit id="536009" xml:space="preserve" approved="no">
         <source>要するに俺だと|気づかれなければいいんだ。</source>
-        <target state="translated">In short, as long as they don't realise it's me, I'm fine.</target>
+        <target state="translated">In short, as long as they don't realize it's me, I'm fine.</target>
       </trans-unit>
       <trans-unit id="556129" xml:space="preserve" approved="no">
         <source>これでどうだろう。|俺だとは誰も思わないよな。</source>
@@ -15121,7 +15121,7 @@
       </trans-unit>
       <trans-unit id="505601" xml:space="preserve" approved="no">
         <source>これで私だとは|気づかれまい。</source>
-        <target state="translated">Now they shouldn't realise who I relly am.</target>
+        <target state="translated">Now they shouldn't realize who I really am.</target>
       </trans-unit>
       <trans-unit id="511805" xml:space="preserve" approved="no">
         <source>こんな事まで|するハメになるとは…</source>
