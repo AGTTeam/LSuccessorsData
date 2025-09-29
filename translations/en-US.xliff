@@ -669,7 +669,7 @@
       </trans-unit>
       <trans-unit id="879016" xml:space="preserve" approved="no">
         <source>捜査員はキラを逮捕するために|\c04『移動』\c02そして\c04『コマンド』\c02を|使用することができます。&gt;&gt;\c04『移動』\c02とは文字通り、捜査員を|移動させることです。&gt;&gt;\c04『コマンド』\c02とは捜査員が様々な|捜査行動を取ることです。&gt;&gt;移動とコマンドは、|\c04『１ターン』\c02に\c04『１回』\c02ずつ|行うことができます。</source>
-        <target state="translated">In the investigators’ quest to catch Kira, they will use \c04Movement\c02 and \c04Commands\c02.&gt;&gt;\c04Movement\c02, as the word suggests, moves the investigators around the map.&gt;&gt;\c04Commands\c02refer to the various investigative actions an investigator can take.&gt;&gt;In the span of \c04one turn\c02, an investigator can take \c04one Movement action\c02 and \c04one Command action\c02.</target>
+        <target state="translated">In the investigators’ quest to catch Kira, they will use \c04Movement\c02 and \c04Commands\c02.&gt;&gt;\c04Movement\c02, as the word suggests, moves the investigators around the map.&gt;&gt;\c04Commands\c02 refer to the various investigative actions an investigator can take.&gt;&gt;In the span of \c04one turn\c02, an investigator can take \c04one Movement action\c02 and \c04one Command action\c02.</target>
       </trans-unit>
       <trans-unit id="818852" xml:space="preserve" approved="no">
         <source>捜査は時間との勝負です。|効率的な捜査を行えるように、&gt;&gt;捜査とコマンドの特徴を|よく覚えておいてください。</source>
@@ -853,7 +853,7 @@
       </trans-unit>
       <trans-unit id="853868" xml:space="preserve" approved="no">
         <source>まずは、容疑者が目撃された|グループのエリアに対して&gt;&gt;目撃情報を実行することが|捜査のセオリーとなります。&gt;&gt;エリアを絞り込むだけで|確実に捜査は進行します。|地道な捜査も重要ですよ。</source>
-        <target state="translated">The principle of investigation, generally, is to first look for eyewitness information&gt;&gt;in the areas within a group that a suspect has already been spotted in.&gt;&gt;You can advance the case simply by narrowing down the areas in which a suspect could be.|It’s important to conduct a thorough investigation too, of course.</target>
+        <target state="translated">The principle of investigation, generally, is to first look for eyewitness information&gt;&gt;in the areas within a group that a suspect has already been spotted in.&gt;&gt;You can advance the case simply by narrowing down the areas in which a suspect could be.&gt;&gt;It’s important to conduct a thorough investigation too, of course.</target>
       </trans-unit>
       <trans-unit id="801248" xml:space="preserve" approved="no">
         <source>ノートブルー……|第２のキラが暗に指定してきたのは、|ここにちがいない。</source>
@@ -901,11 +901,11 @@
       </trans-unit>
       <trans-unit id="882372" xml:space="preserve" approved="no">
         <source>||\c04『ターン数』\c02とは、上画面の左上|に表示されている数字のことで、|捜査の残り時間を表します。&gt;&gt;||\c04左側\c02が\c04『現在のターン』\c02|\c04右側\c02が\c04『最終ターン』\c02を|示しています。&gt;&gt;||全てのターンを使い切る前に、|キラを逮捕しなくてはなりません。&gt;&gt;\c04『勝利ポイントゲージ』\c02とは、|上画面の左側にあるゲージの|ことです。&gt;&gt;\c04『勝利ポイント』\c02とは現在の|捜査状況を示した物で、ゲージが|伸びていれば\c04『優勢』\c02を示します。&gt;&gt;捜査状況に応じてゲージは上下|しますので、捜査状況の目安|として確認してください。</source>
-        <target state="translated">||The \c04Turn Counter\c02 is displayed on the upper left corner of the upper screen. It indicates how much time the investigators have left.&gt;&gt;||The number on the \c04left\c02 is \c04current turn\c02, while the number on the \c04right\c02 is the \c04total number of turns\c02 in this round.&gt;&gt;||The investigators must catch Kira before there are no more turns left.&gt;&gt;The \c04Victory Point Gauge\c02 is the gauge shown on the left side of the upper screen.&gt;&gt;The number of \c04Victory Points\c02 reflects the current state of the investigation. If the gauge increases, then the investigators are at an \c04advantage\c02.&gt;&gt;The gauge will fluctuate as the investigation continues, so please keep an eye on it.</target>
+        <target state="translated">||The \c04Turn Counter\c02 is displayed on the upper left corner of the upper screen. It indicates how much time the investigators have left.&gt;&gt;||The number on the \c04left\c02 is the \c04current turn\c02, while the number on the \c04right\c02 is the \c04total number of turns\c02 in this round.&gt;&gt;||The investigators must catch Kira before there are no more turns left.&gt;&gt;The \c04Victory Point Gauge\c02 is the gauge shown on the left side of the upper screen.&gt;&gt;The number of \c04Victory Points\c02 reflects the current state of the investigation. If the gauge increases, then the investigators are at an \c04advantage\c02.&gt;&gt;The gauge will fluctuate as the investigation continues, so please keep an eye on it.</target>
       </trans-unit>
       <trans-unit id="807272" xml:space="preserve" approved="no">
         <source>効率的な捜査にはリーダー画面の|情報を確認することが必須です。|忘れないでください。</source>
-        <target state="translated">For an efficient investigation, you will find it necessary to check the Top Screen frequently. Please don’t forget.</target>
+        <target state="translated">For an efficient investigation, it is essential to check the Top Screen frequently. Please don’t forget.</target>
       </trans-unit>
       <trans-unit id="771356" xml:space="preserve" approved="no">
         <source>||||||　　　　　リーダー画面</source>
@@ -1937,7 +1937,7 @@
       </trans-unit>
       <trans-unit id="854492" xml:space="preserve" approved="no">
         <source>捜査で重要なのは、容疑者の|情報です。&gt;&gt;\c04『容疑者情報』\c02は、毎ターンの|冒頭にもたらされます。&gt;&gt;容疑者が、我々の情報網に|引っかかると容疑者の目撃された|グループが報告されます。</source>
-        <target state="translated">Having information about the suspects is vital to the investigation.&gt;&gt;\c04Suspect Information\c02 will appear at the beginning of each turn.&gt;&gt;When a suspect is tangled in our information network, this screen will report the group in which they were spotted.</target>
+        <target state="translated">Having information about the suspects is vital to the investigation.&gt;&gt;\c04Suspect Information\c02 will appear at the beginning of each turn.&gt;&gt;When a suspect is tangled in our information network,&gt;&gt;this screen will report the group in which they were spotted.</target>
       </trans-unit>
       <trans-unit id="877692" xml:space="preserve" approved="no">
         <source>マップ上には、|\c04『グループ』\c02と\c04『エリア』\c02|という概念があります。&gt;&gt;各グループは\c04『レッド』|『ブルー』『グリーン』\c02に|分けられています。&gt;&gt;マップ上で、\c04各色\c02で塗られた|部分がそれにあたります。&gt;&gt;そして、この\c04グループ内\c02に|\c04エリア\c02という区分けが、|されています。</source>
@@ -1949,11 +1949,11 @@
       </trans-unit>
       <trans-unit id="854704" xml:space="preserve" approved="no">
         <source>容疑者の情報は、捜査を行う上で、|大変重要な要素です。&gt;&gt;情報を推理すれば、容疑者の|潜伏する場所をある程度、|絞ることができます。&gt;&gt;あとは、捜査員を実際に|現場へ送り込めばいいのです。</source>
-        <target state="translated">Suspect Information is an extremely important factor in conducting an investigation.&gt;&gt;By basing your deductions on this information, you should be able to narrow down the range in which the suspect could be.&gt;&gt;Then all that’s left will be to send an investigator over to the scene.</target>
+        <target state="translated">Suspect Information is an extremely important factor in conducting an investigation.&gt;&gt;By basing your deductions on this information,&gt;&gt;you should be able to narrow down the range in which the suspect could be hiding.&gt;&gt;Then all that’s left will be to send an investigator over to the scene.</target>
       </trans-unit>
       <trans-unit id="876428" xml:space="preserve" approved="no">
         <source>また、\c04『容疑者情報』\c02は|\c04『捜査側の履歴』\c02コマンドで|確認することができます。&gt;&gt;\c04『情報』→『捜査側の履歴』\c02の順で|タッチしてください。&gt;&gt;容疑者の情報は、捜査を行う上で、|大変重要な要素です。&gt;&gt;マップをよく見て情報を|解析してください。|あなたの推理力が問われます。</source>
-        <target state="translated">Also, \c04Suspect Information\c02 can be checked anytime with the \c04Investigation History\c02 command.&gt;&gt;To do this, tap \c04Info → Investigation History\c02.&gt;&gt;Again, suspect information is extremely important to the case.&gt;&gt;Study the map carefully to analyze the information you have. We’ll need your deductive powers at their strongest.</target>
+        <target state="translated">Also, \c04Suspect Information\c02 can be checked anytime with the \c04Investigation History\c02 command.&gt;&gt;To do this, tap \c04Info → Investigation History\c02.&gt;&gt;Again, suspect information is extremely important to the case. Study the map carefully to analyze the information you have.&gt;&gt;We’ll need your deductive powers at their strongest.</target>
       </trans-unit>
       <trans-unit id="771772" xml:space="preserve" approved="no">
         <source>||||||　　　　　変装コマンド</source>
@@ -2009,7 +2009,7 @@
       </trans-unit>
       <trans-unit id="861808" xml:space="preserve" approved="no">
         <source>\c04『捜査員』\c02とは\c04『キラ』\c02を|逮捕すべく結成された組織員の|ことを指します。&gt;&gt;我々、日本捜査本部員もそうです。&gt;&gt;マップ上を潜伏しながら|逃亡を図るキラを追い詰め、|逮捕することが捜査員の目的です。</source>
-        <target state="translated">\c04Investigators\c02 refer to anyone within an organization working to capture \c04Kira\c02.&gt;&gt;Naturally, this includes us, the members of the Japanese Task Force.&gt;&gt;The goal of the investigators is to chase down Kira, wherever they may be lurking on the map, and arrest them.</target>
+        <target state="translated">\c04Investigators\c02 refer to anyone within an organization working to capture \c04Kira\c02.&gt;&gt;Naturally, this includes us, the members of the Japanese Task Force.&gt;&gt;The investigators' goal is to chase down Kira, wherever they may be lurking on the map, and arrest them.</target>
       </trans-unit>
       <trans-unit id="820040" xml:space="preserve" approved="no">
         <source>潜伏しているキラと\c04『同じマス』\c02|に止まるか、\c04『通過』\c02すれば、|キラを\c04逮捕\c02することができます。</source>
@@ -2033,7 +2033,7 @@
       </trans-unit>
       <trans-unit id="878672" xml:space="preserve" approved="no">
         <source>\c04『都市カメラ』\c02とは、|各エリア内に設置された、|監視用カメラを指します。&gt;&gt;都市カメラは捜査上とても|重要な役割をしています。&gt;&gt;ターン冒頭にもたらされる|\c04『容疑者情報』\c02や\c04『目撃情報』\c02|\c04『カメラ解析』\c02といった&gt;&gt;捜査上重要なコマンドを実行|する上で、都市カメラは|不可欠な存在なのです。</source>
-        <target state="translated">\c04City cameras\c02 refer to the surveillance cameras set up within each area.&gt;&gt;These cameras are extremely important for the investigation.&gt;&gt;The \c04Eyewitness Information\c02, \c04Suspect Information\c02, and \c04Footage Analysis\c02 commands all rely upon the operation of city cameras.</target>
+        <target state="translated">\c04City cameras\c02 refer to the surveillance cameras set up within each area.&gt;&gt;These cameras are extremely important for the investigation.&gt;&gt;The \c04Eyewitness Information\c02, \c04Suspect Information\c02, and \c04Footage Analysis\c02 commands all rely on their operation.</target>
       </trans-unit>
       <trans-unit id="790124" xml:space="preserve" approved="no">
         <source>エリアに存在する、|都市カメラの\c04過半数\c02が|破壊されると</source>
@@ -2045,11 +2045,11 @@
       </trans-unit>
       <trans-unit id="830712" xml:space="preserve" approved="no">
         <source>これら都市カメラは|捜査員の目といえる存在です。&gt;&gt;破壊された場合は、早急に|\c04『都市カメラ修復』\c02コマンド|で修復する方が得策です。</source>
-        <target state="translated">These city cameras act as us investigators' eyes.&gt;&gt;In the event they are destroyed, it's a good idea to use the \c04Camera Repair\c02 command to repair them as quickly as possible.</target>
+        <target state="translated">These city cameras act as eyes for us investigators.&gt;&gt;Should they be destroyed, it's a good idea to use the \c04Camera Repair\c02 command to repair them as soon as possible.</target>
       </trans-unit>
       <trans-unit id="839272" xml:space="preserve" approved="no">
         <source>そして、カメラが破壊された|ということは、容疑者が近い|という証拠でもあります。&gt;&gt;破壊されたカメラから容疑者の|足取りを追うというのも|１つの手段ですね。</source>
-        <target state="translated">On the other hand, a broken camera is also evidence that the suspect is nearby.&gt;&gt;Tracing a suspect's movements from the cameras they destroy is another viable plan of action.</target>
+        <target state="translated">On the other hand, a broken camera is also evidence that the suspect is nearby.&gt;&gt;Tracing a suspect's movements from the cameras they destroy them is another viable plan of action.</target>
       </trans-unit>
       <trans-unit id="771980" xml:space="preserve" approved="no">
         <source>||||||　　　　コマンドの使用</source>
@@ -2225,7 +2225,7 @@
       </trans-unit>
       <trans-unit id="876112" xml:space="preserve" approved="no">
         <source>捜査員は、キラを追い詰め、|逮捕することが目的です。&gt;&gt;その為に、捜査の基本を|学びましょう。&gt;&gt;捜査の基本は足です。|容疑者の情報を得るのも、|逮捕するのも、&gt;&gt;捜査員を\c04『移動』\c02させなくては|始まりません。&gt;&gt;では、捜査員の移動のさせ方を|教えますから、|しっかり覚えてください。</source>
-        <target state="translated">The goal of the investigators is to chase and capture Kira.&gt;&gt;To do this, let's go over the basics of investigating.&gt;&gt;An investigation starts on foot. Without \c04moving\c02 the investigators, you won't be able to get information on or capture the suspects.&gt;&gt;The following instructions will tell you how to move investigators. Read them carefully.</target>
+        <target state="translated">The goal of the investigators is to chase and capture Kira.&gt;&gt;To do this, let's go over the basics of investigating.&gt;&gt;An investigation starts on foot. Without \c04moving\c02 the investigators,&gt;&gt; you won't be able to get information on or capture the suspects.&gt;&gt;The following instructions will tell you how to move investigators. Read them carefully.</target>
       </trans-unit>
       <trans-unit id="863732" xml:space="preserve" approved="no">
         <source>捜査員を移動させるには|\c04タッチペン\c02を使用します。&gt;&gt;タッチペンを使って、|捜査員を\c04タッチ\c02します。&gt;&gt;タッチしたまま、道沿いに|タッチペンを\c04スライド\c02させれば&gt;&gt;捜査員の\c04移動ルート\c02が引かれ|ていきます。</source>
@@ -2241,7 +2241,7 @@
       </trans-unit>
       <trans-unit id="875804" xml:space="preserve" approved="no">
         <source>捜査員は\c04『１ターン』\c02に\c04『１回』\c02|だけ、\c04移動ポイント分\c02、|移動することができます。&gt;&gt;ただし、キラ側は|移動ポイントがある限り、|\c04何度でも移動できます。\c02&gt;&gt;このことを、|よく覚えておかないと|容疑者を取り逃がします。&gt;&gt;注意して捜査方針を|立ててください。</source>
-        <target state="translated">In the span of \c04one turn\c02, the investigators \c04can only move once\c02, given that they have enough \c04Movement Points\c02.&gt;&gt;However, the Kira members \c04can move as many times as they want\c02 within a turn, as long as they have enough Movement Points. Remember this difference so you don't let a suspect slip away.&gt;&gt;Please be careful when planning your investigation.</target>
+        <target state="translated">In the span of \c04one turn\c02, the investigators \c04can only move once\c02,&gt;&gt;given that they have enough \c04Movement Points\c02.&gt;&gt;However, the Kira members \c04can move as many times as they want\c02 within a turn,&gt;&gt;as long as they have enough Movement Points. Remember this difference so you don't let a suspect slip away.&gt;&gt;Please be careful when planning your investigation.</target>
       </trans-unit>
       <trans-unit id="770296" xml:space="preserve" approved="no">
         <source>||||||　　　　　移動の仕方</source>
@@ -2717,7 +2717,7 @@
       </trans-unit>
       <trans-unit id="835600" xml:space="preserve" approved="no">
         <source>ただし、特殊移動には|\c04『特殊移動ポイント』\c02が必要です。&gt;&gt;序盤から特殊移動を多用すると|いざというときにポイントが|不足するかもしれません。</source>
-        <target state="translated">However, Special Movement requires \c04Special Movement Points\c02. If you overuse Special Movement from the very start of a match, you may find yourself short on points when you really need them.</target>
+        <target state="translated">However, Special Movement requires \c04Special Movement Points\c02.&gt;&gt;If you overuse Special Movement from the very start of a match, you may find yourself short on points when you really need them.</target>
       </trans-unit>
       <trans-unit id="837864" xml:space="preserve" approved="no">
         <source>また、特殊移動ポイントは|\c04ステータス画面\c02から|確認することができます。&gt;&gt;残りのポイントを確認して|使い所をよく考えてから|指示を出してください。</source>
