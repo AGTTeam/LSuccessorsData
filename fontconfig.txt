@@ -2,7 +2,7 @@
 ！=2
 ゛=6
 ＃=8
-＄=4#ï
+＄=4,ï
 ％=8
 ＆=6
 ´=3
@@ -57,10 +57,10 @@
 Ｘ=6
 Ｙ=6
 Ｚ=6
-［=3#‘ curly single opening quote
+［=3,‘# curly single opening quote
 ＼=4#reserved character, don't use
-］=3#’ curly single closing quote
-＾=3#'
+］=3,’# curly single closing quote
+＾=3,'
 ＿=0#reserved character, don't use
 ｀=4
 ａ=6
@@ -89,7 +89,7 @@
 ｘ=6
 ｙ=6
 ｚ=6
-｛=6#“
+｛=6,“
 ｜=8
-｝=6#”
+｝=6,”
 ～=6
