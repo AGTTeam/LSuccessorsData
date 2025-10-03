@@ -789,7 +789,7 @@
       </trans-unit>
       <trans-unit id="814004" xml:space="preserve" approved="no">
         <source>どのカメラが必要で、|どのカメラが必要ないか、&gt;&gt;容疑者の潜伏場所を推理して、|決定してください。</source>
-        <target state="translated">Use information about where the suspects may be lurking to determine which cameras are necessary and which are not.</target>
+        <target state="translated">Use information about where the suspects may be lurking to determine which cameras are necessary.</target>
       </trans-unit>
       <trans-unit id="773696" xml:space="preserve" approved="no">
         <source>||||||　　　　検問解除コマンド</source>
@@ -805,7 +805,7 @@
       </trans-unit>
       <trans-unit id="811520" xml:space="preserve" approved="no">
         <source>どの検問が必要で、|どの検問が必要ないか、&gt;&gt;容疑者の潜伏場所を推理して、|決定してください。</source>
-        <target state="translated">Use information about where the suspects may be lurking to determine which roadblocks are necessary and which are not.</target>
+        <target state="translated">Use information about where the suspects may be lurking to determine which roadblocks are necessary.</target>
       </trans-unit>
       <trans-unit id="773800" xml:space="preserve" approved="no">
         <source>||||||　　　　特殊能力コマンド</source>
@@ -817,11 +817,11 @@
       </trans-unit>
       <trans-unit id="864972" xml:space="preserve" approved="no">
         <source>ただし、\c04『使用回数』\c02に\c04『制限』\c02|がありますので、注意して|使用してください。&gt;&gt;また、特殊能力を持たない|キャラクターや、常時能力を|発揮しているキャラクターは&gt;&gt;\c04コマンドを実行することが|できません\c02。</source>
-        <target state="translated">However, there is a \c04limit\c02 to the number of times the Special Ability command can be used, so please wield it carefully.&gt;&gt;Furthermore, characters who do not have a special ability or who have used their ability too often \c04will not be able to execute this command\c02.</target>
+        <target state="translated">However, there is a \c04limit\c02 to how many times the Special Ability command can be used, so please use it carefully.&gt;&gt;Furthermore, characters without a special ability or those who have passive abilities \c04will not be able to execute this command\c02.</target>
       </trans-unit>
       <trans-unit id="835772" xml:space="preserve" approved="no">
         <source>特殊能力は、我々捜査員側だけ|ではなく、キラメンバーも|持っています。&gt;&gt;キラメンバーの特殊能力も|覚えておけば、勝利の確率は|ぐんと上がるでしょう。</source>
-        <target state="translated">The Kira members also have special abilities, not just the investigators.&gt;&gt;If you remember the special abilities of each Kira member well, the probability of our victory should increase significantly.</target>
+        <target state="translated">The Kira members also have special abilities, not just the investigators.&gt;&gt;If you learn the special abilities of each Kira member well,&gt;&gt;the probability of our victory should increase significantly.</target>
       </trans-unit>
       <trans-unit id="771876" xml:space="preserve" approved="no">
         <source>||||||　　　　ノートの切れ端</source>
@@ -1665,7 +1665,7 @@
       </trans-unit>
       <trans-unit id="775132" xml:space="preserve" approved="no">
         <source>||||||　　　　カメラ修復コマンド</source>
-        <target state="translated">||||||Camera Repair Command</target>
+        <target state="translated">||||||&lt;&lt;Camera Repair Command</target>
       </trans-unit>
       <trans-unit id="805164" xml:space="preserve" approved="no">
         <source>\c04『カメラ修復』\c02コマンドは|破壊された都市カメラを修復する|コマンドです。</source>
@@ -1681,7 +1681,7 @@
       </trans-unit>
       <trans-unit id="832032" xml:space="preserve" approved="no">
         <source>都市カメラの情報が無いと、|容疑者の足取りを追うのが、|非常に困難となります。&gt;&gt;我々捜査員にとって、情報は|宝と言っても過言ではないですから。</source>
-        <target state="translated">In the event that we can’t glean information from city cameras, it will become extremely difficult to trace our suspect’s movements.&gt;&gt;I’m not exaggerating when I say that such pieces of information are like gems to us investigators.</target>
+        <target state="translated">In the event that we can’t glean information from city cameras, &gt;&gt;it will become extremely difficult to trace our suspect’s movements.&gt;&gt;I’m not exaggerating when I say that such pieces of information are like gems to us investigators.</target>
       </trans-unit>
       <trans-unit id="773748" xml:space="preserve" approved="no">
         <source>||||||　　　　　裏路地コマンド</source>
@@ -1761,7 +1761,7 @@
       </trans-unit>
       <trans-unit id="809908" xml:space="preserve" approved="no">
         <source>また、ステータスは、コマンド|実行回数としてカウントされない。|何度でも情報を確認出来る。</source>
-        <target state="translated">Using the Profiles command doesn't use up Command Points. You can check the information as often as you want.</target>
+        <target state="translated">Using the Profiles command doesn't use up Command Points.&gt;&gt;You can check the information as often as you want.</target>
       </trans-unit>
       <trans-unit id="773956" xml:space="preserve" approved="no">
         <source>||||||　　　　　コマンドの使用</source>
@@ -1809,7 +1809,7 @@
       </trans-unit>
       <trans-unit id="819248" xml:space="preserve" approved="no">
         <source>\c04『検問設置』\c02コマンドは、|道路を閉鎖して\c04容疑者がその道路|を通過できなくする\c02コマンドです。</source>
-        <target state="translated">The \c04Roadblock Assembly\c02 command blocks a given street so that suspects will not be able to move along that street.</target>
+        <target state="translated">The \c04Roadblock Assembly\c02 command blocks a given street so that suspects cannot move along it.</target>
       </trans-unit>
       <trans-unit id="793884" xml:space="preserve" approved="no">
         <source>検問をうまく活用すれば、|確実に容疑者を追い詰めることが|できます。</source>
@@ -1881,7 +1881,7 @@
       </trans-unit>
       <trans-unit id="797804" xml:space="preserve" approved="no">
         <source>また、捜査側の情報は、|コマンド実行回数としてカウント|されません。</source>
-        <target state="translated">Also, the Investigation Status command doesn’t require Command Points. You can use it as many times as you want.</target>
+        <target state="translated">Also, the Investigation Status command doesn’t require Command Points.&gt;&gt;You can use it as many times as you want.</target>
       </trans-unit>
       <trans-unit id="775804" xml:space="preserve" approved="no">
         <source>||||||　　　　カメラ破壊コマンド</source>
@@ -2049,7 +2049,7 @@
       </trans-unit>
       <trans-unit id="839272" xml:space="preserve" approved="no">
         <source>そして、カメラが破壊された|ということは、容疑者が近い|という証拠でもあります。&gt;&gt;破壊されたカメラから容疑者の|足取りを追うというのも|１つの手段ですね。</source>
-        <target state="translated">On the other hand, a broken camera is also evidence that the suspect is nearby.&gt;&gt;Tracing a suspect's movements from the cameras they destroy them is another viable plan of action.</target>
+        <target state="translated">On the other hand, a broken camera is also evidence that the suspect is nearby.&gt;&gt;Tracing a suspect's movements from the cameras as they destroy them is another viable plan of action.</target>
       </trans-unit>
       <trans-unit id="771980" xml:space="preserve" approved="no">
         <source>||||||　　　　コマンドの使用</source>
@@ -2145,7 +2145,7 @@
       </trans-unit>
       <trans-unit id="862760" xml:space="preserve" approved="no">
         <source>行動アイコンを見れば、|捜査員の状態を一目で把握する|ことができるというわけです。&gt;&gt;重大な局面で、|行動を起こせる捜査員がいない。&gt;&gt;そんなことが起こらないように|捜査員の状況を把握しながら|捜査を進めてください。</source>
-        <target state="translated">By looking at the action icons, you can understand the current state of the investigation in a single glance.&gt;&gt;Imagine if we reached a critical breakthrough in this case and none of our investigators could act.&gt;&gt;In order to avoid this sort of situation, remember to check in frequently on which investigators can carry out which actions as the investigation continues.</target>
+        <target state="translated">By looking at the action icons, you can understand the current state of the investigation in a single glance.&gt;&gt;Imagine if we reached a critical breakthrough in this case and none of our investigators could act.&gt;&gt;To avoid this, keep a close eye on the investigators as the investigation continues.</target>
       </trans-unit>
       <trans-unit id="776308" xml:space="preserve" approved="no">
         <source>||||||　　　隠しカメラ設置コマンド</source>
