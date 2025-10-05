@@ -649,7 +649,7 @@
       </trans-unit>
       <trans-unit id="872028" xml:space="preserve" approved="no">
         <source>\c04『勝利ポイント』\c02は|以下の行動で増加します。&gt;&gt;\c04『容疑者を逮捕する』|『ノートの切れ端を回収する』\c02&gt;&gt;もし、『勝利ポイント』が同点の|場合、\c04キラ側の『勝利』\c02となって|しまいます。&gt;&gt;必勝を期すために、|地道な捜査を行いましょう。</source>
-        <target state="translated">The following actions will increase \c04Victory Points:\c02.&gt;&gt;\c04Capturing a suspect|Recovering scraps of the Note\c02&gt;&gt;In the event that Victory Points are tied, it will result in \c04Team Kira’s victory\c02. &gt;&gt;Investigate persistently to ensure our own victory.</target>
+        <target state="translated">The following actions will increase \c04Victory Points:\c02&gt;&gt;\c04Capturing a suspect|Recovering scraps of the Note\c02&gt;&gt;In the event that Victory Points are tied, it will result in \c04Team Kira’s victory\c02. &gt;&gt;Investigate persistently to ensure our own victory.</target>
       </trans-unit>
       <trans-unit id="772656" xml:space="preserve" approved="no">
         <source>||||||　　　　　勝利ポイント</source>
@@ -889,7 +889,7 @@
       </trans-unit>
       <trans-unit id="813044" xml:space="preserve" approved="no">
         <source>\c04『ＳＴＡＲＴボタン』\c02や|下画面の\c04『右下』\c02をタッチしても、|同様のコマンドを実行できます。</source>
-        <target state="translated">This command can be executed by pressing the \c04Start Button\c02 or by tapping the button in the\c04Bottom Right\c02 of the screen.</target>
+        <target state="translated">This command can be executed by pressing the \c04Start Button\c02 or by tapping the button in the \c04bottom right\c02 of the screen.</target>
       </trans-unit>
       <trans-unit id="771408" xml:space="preserve" approved="no">
         <source>||||||　　　　　リーダー画面</source>
@@ -1729,7 +1729,7 @@
       </trans-unit>
       <trans-unit id="832368" xml:space="preserve" approved="no">
         <source>\c04『推理マーカー』\c02コマンドは、|捜査員側が推理を組み立てる際に|マップ上に置くことができる&gt;&gt;捜査予想の為の|マーキングのコマンドです。</source>
-        <target state="translated">The \c04Theory Marker\c02 command allows the investigation team to place marks on the map that denote their current theories.</target>
+        <target state="translated">The \c04Theory Marker\c02 command allows the investigation team to mark their current theories on the map.</target>
       </trans-unit>
       <trans-unit id="837160" xml:space="preserve" approved="no">
         <source>捜査員側は、容疑者が潜伏して|いると予想される場所や、&gt;&gt;トラップが仕掛けられていると|予想される場所をタッチすると、|\c04マーカー\c02を置くことができます。</source>
@@ -1741,7 +1741,7 @@
       </trans-unit>
       <trans-unit id="804228" xml:space="preserve" approved="no">
         <source>これらを活用して、|自分の捜査地図を作り上げれば|スムーズに捜査が進むでしょう。</source>
-        <target state="translated">By using this command well, you’ll essentially be able to create your own investigation map, which should help the case proceed much more smoothly.</target>
+        <target state="translated">By using this command well, you’ll essentially be able to create your own investigation map,&gt;&gt;which should help the case proceed much more smoothly.</target>
       </trans-unit>
       <trans-unit id="775356" xml:space="preserve" approved="no">
         <source>||||||　　　　ステータスコマンド</source>
@@ -2105,7 +2105,7 @@
       </trans-unit>
       <trans-unit id="840172" xml:space="preserve" approved="no">
         <source>\c04『マップ』\c02は、必要に応じて|大きさを変更することができます。&gt;&gt;下画面の\c04『左上』\c02を|をタッチすれば、|\c04マップの倍率\c02を変更できます。</source>
-        <target state="translated">You may want to change the size of the \c04map\c02 depending on the situation.&gt;&gt;Touch the upper left corner of the lower screen to change the map’s \c04magnification\c02 and therefore zoom in or out.</target>
+        <target state="translated">You may want to change the size of the \c04map\c02 depending on the situation.&gt;&gt;Touch the upper left corner of the lower screen to change the map’s \c04magnification\c02 and zoom in or out.</target>
       </trans-unit>
       <trans-unit id="809348" xml:space="preserve" approved="no">
         <source>\c04『最大望遠』\c02のマップでは、|捜査員を操作できませんが、|捜査範囲を見渡すことができます。</source>
@@ -2121,7 +2121,7 @@
       </trans-unit>
       <trans-unit id="831368" xml:space="preserve" approved="no">
         <source>最初のうちは\c04『最小望遠』\c02で|慣れてきたら\c04『標準望遠』\c02で|捜査するのがいいでしょう。&gt;&gt;状況に応じて|うまく使い分けてください。</source>
-        <target state="translated">You may want to try \c04fully zooming in\c02 first, to understand the different actions one can take on the map, then returning to \c04standard magnification\c02 to carry out your investigation.&gt;&gt;You can adjust the magnification level as you adapt to the changing situation.</target>
+        <target state="translated">You may want to try \c04fully zooming in\c02 first, to understand the different actions one can take on the map,&gt;&gt;then returning to \c04standard magnification\c02 to carry out your investigation.&gt;&gt;You can adjust the magnification level as you adapt to the changing situation.</target>
       </trans-unit>
       <trans-unit id="771512" xml:space="preserve" approved="no">
         <source>||||||　　　　　行動アイコン</source>
