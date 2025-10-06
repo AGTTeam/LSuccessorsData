@@ -941,11 +941,11 @@
       </trans-unit>
       <trans-unit id="825288" xml:space="preserve" approved="no">
         <source>レイ＝ペンバーは月の仕掛けた|トラップに倒れた。||その情報はいち早くＦＢＩと|日本の捜査本部にもたらされる。||むろん、Ｌにも…</source>
-        <target state="translated">Raye Penber had fallen into Light's trap.||Information of his death was sent immediately to the FBI and the Japanese investigate headquarters.||And, of course, to L.</target>
+        <target state="translated">Raye Penber had fallen into Light's trap.||Information of his death was sent immediately to the FBI and the Japanese investigation headquarters.||And, of course, to L.</target>
       </trans-unit>
       <trans-unit id="805580" xml:space="preserve" approved="no">
         <source>犯罪者ではなくＦＢＩの動向を|よく見ておくべきだったのか\t0030…|\t0000キラめ！</source>
-        <target state="translated">It's no longer just criminals. He killed FBI agents.\t0030…|\t0000Damn you, Kira!</target>
+        <target state="translated">It's no longer just criminals. He's killing FBI agents.\t0030…|\t0000Damn you, Kira!</target>
       </trans-unit>
       <trans-unit id="776812" xml:space="preserve" approved="no">
         <source>||||||　　　ショートカットコマンド</source>
@@ -2281,7 +2281,7 @@
       </trans-unit>
       <trans-unit id="812924" xml:space="preserve" approved="no">
         <source>リューク。||\T0030\t0002月にしか見えないこの気まぐれな|死神は、月を尾行する者の姿を|見破っていた。</source>
-        <target state="translated">Ryuk.||\T0030\t0002 The fickle Shinigami, visible only to Light, noticed someone tailing Light.</target>
+        <target state="translated">Ryuk.||\T0030\t0002The fickle Shinigami, visible only to Light, noticed someone tailing Light.</target>
       </trans-unit>
       <trans-unit id="784636" xml:space="preserve" approved="no">
         <source>僕に尾行がついている……？|確かか、リューク？</source>
@@ -4253,7 +4253,7 @@
       </trans-unit>
       <trans-unit id="827540" xml:space="preserve" approved="no">
         <source>高校生・夜神　月は腐敗した世界と|退屈な日常にうんざりしていた。\T0030||\t0002そんなある日、彼は偶然、|１冊の奇妙なノートを手に入れる。</source>
-        <target state="translated">A high schooler, Light Yagami, had grown tired of the corruption in the world and the tedium of everyday life.\T0030||\t0002Then one day he happened upon a strange notebook.</target>
+        <target state="translated">A high schooler, Light Yagami, had grown tired of the corruption in the world and the tedium of everyday life.\T0030||\t0002Then one day, he happened upon a strange notebook.</target>
       </trans-unit>
       <trans-unit id="835944" xml:space="preserve" approved="no">
         <source>デスノート……？\T0030|\t0002『このノートに名前を書かれた|人間は……』&gt;&gt;ははは……ったく|病んでるな。なんで皆こういう|くだらないのが好きかな。</source>
@@ -4289,7 +4289,7 @@
       </trans-unit>
       <trans-unit id="870940" xml:space="preserve" approved="no">
         <source>……ふ……ふふ……\T0030|\t0002ありがとう、リューク。|いいものをくれたよ。&gt;&gt;僕は、このノートで|世界を変えてやる。&gt;&gt;腐った人間を片っ端から排除し、|僕が認めた善良な人間だけの|世界を創る…&gt;&gt;そして、僕は…\T0030|\t0000新世界の神になる！</source>
-        <target state="translated">Hmhmhm...\T0030|\t0002I should be thanking you, Ryuk.&gt;&gt;With this notebook, I am going to change the world.&gt;&gt;I will eliminate all the rotten humans leaving only those I judge to be good people.&gt;&gt;Then I...\T0030\t0000 will become the god of this new world!</target>
+        <target state="translated">Heh...heheh....\T0030|\t0002I should be thanking you, Ryuk.&gt;&gt;With this notebook, I am going to change the world.&gt;&gt;I will eliminate all the rotten humans leaving only those I judge to be good people.&gt;&gt;Then I...\T0030\t0000 will become the god of this new world!</target>
       </trans-unit>
       <trans-unit id="780708" xml:space="preserve" approved="no">
         <source>（やっぱり……\T0030\t0000人間て面白！）</source>
@@ -4357,7 +4357,7 @@
       </trans-unit>
       <trans-unit id="804124" xml:space="preserve" approved="no">
         <source>『し……信じられない|…キラ、おまえは直接手を出さずに|こんな事ができるのか』</source>
-        <target state="translated">“I had to test this just in case, but I... I never thought it would really happen. Kira, it seems you can kill people without having to be there in person."</target>
+        <target state="translated">“I had to test this just in case, but I... I never thought it would really happen.&gt;&gt;Kira, it seems you can kill people without having to be there in person."</target>
       </trans-unit>
       <trans-unit id="765340" xml:space="preserve" approved="no">
         <source>何っ！？</source>
