@@ -3073,7 +3073,7 @@
       </trans-unit>
       <trans-unit id="879360" xml:space="preserve" approved="no">
         <source>ＦＢＩ捜査官の追求を退けた月。|だが、これで決着がついたとは、|どちらの側も考えてはいなかった。|\T0030\t0002むしろ、この戦いはいよいよ|激しさを増していくであろうという|予感を、両者とも胸に宿していたの|である。|しかし……|\T0045\t0002|そんなふたりの思惑をよそに、|事態はまったく思いもかけない|新たな展開を見せようとしていた。</source>
-        <target state="translated">Light had evaded pursuit by the FBI agents, but neither side believed that this would put an end to things. \T0030\t0002Deep within their hearts, they felt that their battle would only grow more fierce from here. However... \T0045\t0002|despite their speculations, the situation took a completely unexpected turn.</target>
+        <target state="translated">Light had evaded pursuit by the FBI agents, but neither side believed that this would put an end to things. \T0030\t0002Deep within their hearts, they felt that their battle would only grow more fierce from here. However... \T0045\t0002|Despite their speculations, the situation took a completely unexpected turn.</target>
       </trans-unit>
       <trans-unit id="776980" xml:space="preserve" approved="no">
         <source>||||||　　　　　私はキラです。</source>
@@ -3081,7 +3081,7 @@
       </trans-unit>
       <trans-unit id="877060" xml:space="preserve" approved="no">
         <source>自らキラと名乗る者から、|突然、さくらテレビに送られてきた|ビデオテープ。||そこには、キラであることの|証明である予告犯行と、|警察とＬが自分に降伏することを|要求するメッセージが収められて|いたのである。||このテープはさくらテレビによって|放送され、世間は新たなキラの動向|に騒然となったが……</source>
-        <target state="translated">A videotape was suddenly sent to Sakura TV from someone claiming to be Kira.||The tape included proof that the sender was Kira in the form of a murder prediction, as well as a message demanding both the police and L to surrender to them.||Sakura TV broadcast the tape, and the world was thrown into confusion by this new Kira's arrival…</target>
+        <target state="translated">A videotape was suddenly sent to Sakura TV from someone claiming to be Kira.||The tape included proof that the sender was Kira in the form of a murder prediction, as well as a message demanding that both the police and L to surrender to them.||Sakura TV broadcast the tape, and the world was thrown into confusion by this new Kira's arrival…</target>
       </trans-unit>
       <trans-unit id="842168" xml:space="preserve" approved="no">
         <source>このキラは、|キラの偽者の可能性が|高い。&gt;&gt;いや、第２のキラと|言うべきでしょう。|確率は７０％以上です。&gt;&gt;大体やり方が気にいらない…|…キラらしくない……</source>
@@ -3105,11 +3105,11 @@
       </trans-unit>
       <trans-unit id="863000" xml:space="preserve" approved="no">
         <source>捜査本部は、Ｌの計略により、|第２のキラへの返信を作成した。|本物のキラから第２のキラへ…|…という形の偽造メッセージである。||さくらテレビでこれが放映されるや、|第２のキラはＬの策略とも知らず、|すぐさま返事を送ってきた。</source>
-        <target state="translated">As part of L's plan, the Investigation Unit created a message for the 2nd Kira... a fake message, pretending to be from the real Kira. As soon as it was broadcast on Sakura TV, the 2nd Kira responded immediately, unaware that they were playing into L's hands.</target>
+        <target state="translated">As part of L's plan, the Investigation Unit created a message for the second Kira... a fake message, pretending to be from the real Kira. As soon as it was broadcast on Sakura TV, the 2nd Kira responded immediately, unaware that they were playing into L's hands.</target>
       </trans-unit>
       <trans-unit id="836984" xml:space="preserve" approved="no">
         <source>『キラさん、|お返事ありがとうございます。|私はキラさんに会いたい』&gt;&gt;『キラさんは目を持ってないと|思いますが、私はキラさんを|殺したりはしません』</source>
-        <target state="translated">Kira, thank you for your response. I want to meet you. I don't think you have the eyes, but I won't try to kill you.</target>
+        <target state="translated">Kira, thank you for responding. I want to meet you. I don't think you have the eyes, but I won't try to kill you.</target>
       </trans-unit>
       <trans-unit id="792792" xml:space="preserve" approved="no">
         <source>ば……バカかこいつ……！|世間に流れるビデオに目の事を……</source>
@@ -3121,7 +3121,7 @@
       </trans-unit>
       <trans-unit id="824424" xml:space="preserve" approved="no">
         <source>『何か警察の人にはわからずに会う|いい方法を考えてください』&gt;&gt;『会った時は、お互いの死神を|見せあえば確認できます』</source>
-        <target state="translated">Please think of a way for us to meet without the police knowing. When we meet, we can confirm who we are by showing our Shinigami.</target>
+        <target state="translated">Please think of a way for us to meet without the police knowing.&gt;&gt;When we meet, we can confirm who we are by showing each other our Shinigami.</target>
       </trans-unit>
       <trans-unit id="786292" xml:space="preserve" approved="no">
         <source>「ダメだ、こいつ……|早くなんとかしないと……！</source>
@@ -3141,11 +3141,11 @@
       </trans-unit>
       <trans-unit id="840712" xml:space="preserve" approved="no">
         <source>第２のキラの予想のつかない|立ち回りに、月とＬは困惑の|極地に立たされる。||ふたりの思惑や焦燥を知らぬかの|ように、第２のキラはさらなる|メッセージを送ってきた。</source>
-        <target state="translated">The 2nd Kira's unexpected behavior left both Light and L dumbfounded. Oblivious to their thoughts and frustrations, the 2nd Kira sent yet another message.</target>
+        <target state="translated">The Second Kira's unexpected behavior left both Light and L dumbfounded. Oblivious to their thoughts and frustrations, the 2nd Kira sent yet another message.</target>
       </trans-unit>
       <trans-unit id="854916" xml:space="preserve" approved="no">
         <source>それは、一見ただの日記の一片。||第２のキラは、これをテレビで|流すように要求する。|どういう意図か測りかね、困惑する|捜査陣。||しかし、これを目にした月は、|そこに隠されたメッセージを見抜く。</source>
-        <target state="translated">At first glance, it just seemed like an entry in someone's diary. The Investigation Unit was left speechless. Why would the 2nd Kira go to the trouble of broadcasting something like that on TV? However, Light was able to deduce the message hidden within the diary entry.</target>
+        <target state="translated">At first glance, it just seemed like an entry in someone's diary. The Investigation Unit was left speechless. Why would the Second Kira go to the trouble of broadcasting something like that on TV? However, Light was able to deduce the message hidden within the diary entry.</target>
       </trans-unit>
       <trans-unit id="789964" xml:space="preserve" approved="no">
         <source>『２２日、友人と青山で待ち合わせ。|ノートを見せ合う』</source>
@@ -3153,7 +3153,7 @@
       </trans-unit>
       <trans-unit id="785932" xml:space="preserve" approved="no">
         <source>ノートという言葉はキラである|月にしか伝わらないはずだ。</source>
-        <target state="translated">Only Light could recognize the significance of the word 'notebook'.</target>
+        <target state="translated">Only Light could recognize the significance of the word ‘notebook’.</target>
       </trans-unit>
       <trans-unit id="814124" xml:space="preserve" approved="no">
         <source>２２日の青山……|場所は、やはりノートにかけて|クラブ・ノートブルーか？&gt;&gt;……行くしかないな。</source>
@@ -6477,7 +6477,7 @@
       </trans-unit>
       <trans-unit id="627172" xml:space="preserve" approved="no">
         <source>第２のキラと接触を図ります。|捜査員を避けながらチェック|ポイントに向かってください。</source>
-        <target state="translated">Try to make contact with the 2nd Kira. Head toward the checkpoints while avoiding the investigators.</target>
+        <target state="translated">Try to make contact with the Second Kira. Head toward the checkpoints while avoiding the investigators.</target>
       </trans-unit>
       <trans-unit id="619256" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　２６|特殊移動ポイント　　６０|トラップ設置数　　　１２</source>
