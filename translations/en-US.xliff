@@ -857,7 +857,7 @@
       </trans-unit>
       <trans-unit id="801248" xml:space="preserve" approved="no">
         <source>ノートブルー……|第２のキラが暗に指定してきたのは、|ここにちがいない。</source>
-        <target state="translated">Note Blue... This is definitely the place the Second Kira was referring to.</target>
+        <target state="translated">Note Blue... This is definitely the place that Second Kira was referring to.</target>
       </trans-unit>
       <trans-unit id="792456" xml:space="preserve" approved="no">
         <source>追跡する捜査員をふりきって、月は|クラブ・ノートブルーに到着した。</source>
@@ -869,7 +869,7 @@
       </trans-unit>
       <trans-unit id="817700" xml:space="preserve" approved="no">
         <source>まず、ノートを見えるように|持っている者がいないかを見る。&gt;&gt;そして気付かれずにノートに|触れれば……</source>
-        <target state="translated">First, I need to look for anyone clearly carrying around a notebook. Then, if I can just touch their notebook without being noticed…</target>
+        <target state="translated">First, I need to look for anyone clearly carrying around a notebook.&gt;&gt;Then, if I can just touch their notebook without being noticed…</target>
       </trans-unit>
       <trans-unit id="765020" xml:space="preserve" approved="no">
         <source>みっけ♪</source>
@@ -2825,7 +2825,7 @@
       </trans-unit>
       <trans-unit id="834224" xml:space="preserve" approved="no">
         <source>あなたは死神と目の取引をして|ないんですね。&gt;&gt;だったら、私はあなたの目になる。|Ｌを倒す手助けをしてあげる。|だから……&gt;&gt;彼女にしてください！</source>
-        <target state="translated">You haven't made the deal for the Shinigami eyes, have you? I'll become your eyes. I'll help you beat L. So... please make me your girlfriend!</target>
+        <target state="translated">You haven't made the deal for the Shinigami Eyes, have you? I'll become your eyes. I'll help you beat L. So...&gt;&gt;Please make me your girlfriend!</target>
       </trans-unit>
       <trans-unit id="803220" xml:space="preserve" approved="no">
         <source>そこまで僕のことを…わかった…|彼氏にはなれないが、|振りはしてあげられる。</source>
