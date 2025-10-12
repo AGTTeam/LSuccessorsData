@@ -2329,7 +2329,7 @@
       </trans-unit>
       <trans-unit id="880444" xml:space="preserve" approved="no">
         <source>レスター指揮官、|何度も言わせないでください。&gt;&gt;魅上がＸキラと決まっても|それではＬ＝夜神月には|たどり着けない。&gt;&gt;今回の策は、デスノートに名前を|書かせなければ意味がありません。|そのために私が顔を見せるんです。&gt;&gt;魅上はこの策のキーマンになります。|おそらく死神の目を持っているのは|Ｘキラ＝魅上です。&gt;&gt;ですから身柄は拘束せず、|そのまま泳がせてください。</source>
-        <target state="translated">Commander Rester, please don't make me repeat myself.&gt;&gt;Even if we assume X-Kira is Mikami, we won't reach L, Light Yagami, that way.&gt;&gt;Our current strategy will not work if we don't allow Kira to write my name in the Death Note. It is for that purpose that I am showing my face.&gt;&gt;Mikami is a key component in this strategy, since it's likely that X-Kira, Mikami, is the one with the Shinigami Eyes.&gt;&gt;So please do not restrain him. Let him be for now.</target>
+        <target state="translated">Commander Rester, please don't make me repeat myself.&gt;&gt;Even if we assume X-Kira is Mikami, we won't reach L, Light Yagami, that way.&gt;&gt;Our current strategy will not work if we don't allow Kira to write my name in the Death Note.&gt;&gt;It is for that purpose that I am showing my face.&gt;&gt;Mikami is a key component in this strategy, since it's likely that X-Kira is the one with the Shinigami Eyes.&gt;&gt;So please do not restrain him.|Let him be for now.</target>
       </trans-unit>
       <trans-unit id="779364" xml:space="preserve" approved="no">
         <source>『魅上がひとり言を！|　映像送ります』</source>
@@ -2345,7 +2345,7 @@
       </trans-unit>
       <trans-unit id="835428" xml:space="preserve" approved="no">
         <source>あ・の…\T0030\t0008し・に・が・み…\T0030\t0008の・お・|と・を…\T0030\t0008わ・た・し・た・き・り…|\T0030\t0008あ・ら・わ・れ・や・し・な・い</source>
-        <target state="translated">Th-at…\T0030\t0008Shi-ni-ga-mi…\T0030\t0008Ev-er-sin-ce-he-han-ded-me…\T0030\t0008the-no-te-bo-ok…\T0030\t0008he-has-n't-ap-pear-ed.</target>
+        <target state="translated">Th-at…\T0030\t0008Shi-ni-ga-mi…\T0030\t0008 Ev-er-sin-ce|he-han-ded-me...\T0030\t0008 the-no-te-bo-ok…\T0030\t0008 he-has-n't-ap-pear-ed...</target>
       </trans-unit>
       <trans-unit id="787156" xml:space="preserve" approved="no">
         <source>…あの死神、ノートを渡したきり|現われやしない…</source>
@@ -2669,7 +2669,7 @@
       </trans-unit>
       <trans-unit id="833880" xml:space="preserve" approved="no">
         <source>あ・の…\T0030\t0008し・に・が・み…\T0030\t0008の・お・|と・を…\T0030\t0008わ・た・し・た・き・り…|\T0030\t0008あ・ら・わ・れ・や・し・な・い</source>
-        <target state="translated">Th-at…\T0030\t0008Shi-ni-ga-mi…\T0030\t0008Ev-er-sin-ce-he-han-ded-me…\T0030\t0008the-no-te-bo-ok…\T0030\t0008he-has-n't-ap-pear-ed.</target>
+        <target state="translated">Th-at…\T0030\t0008Shi-ni-ga-mi…\T0030\t0008 Ev-er-sin-ce|he-han-ded-me...\T0030\t0008 the-no-te-bo-ok…\T0030\t0008 he-has-n't-ap-pear-ed...</target>
       </trans-unit>
       <trans-unit id="785716" xml:space="preserve" approved="no">
         <source>…あの死神、ノートを渡したきり|現われやしない…</source>
@@ -6317,15 +6317,15 @@
       </trans-unit>
       <trans-unit id="496468" xml:space="preserve" approved="no">
         <source>本当によろしいですか？</source>
-        <target state="translated">This action cannot be undone.|Continue?</target>
+        <target state="translated">This action cannot be|undone. Continue?</target>
       </trans-unit>
       <trans-unit id="558288" xml:space="preserve" approved="no">
         <source>データをセーブ中です。|電源を切らないで下さい。</source>
-        <target state="translated">Saving data. Do not turn off the power.</target>
+        <target state="translated">Saving data.|Do not turn off the power.</target>
       </trans-unit>
       <trans-unit id="550272" xml:space="preserve" approved="no">
         <source>データを削除中です。|電源を切らないで下さい。</source>
-        <target state="translated">Deleting data. Do not turn off power.</target>
+        <target state="translated">Deleting data.|Do not turn off power.</target>
       </trans-unit>
       <trans-unit id="496540" xml:space="preserve" approved="no">
         <source>セーブが終了しました。</source>
