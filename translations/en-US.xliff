@@ -4009,7 +4009,7 @@
       </trans-unit>
       <trans-unit id="838216" xml:space="preserve" approved="no">
         <source>夜神月……ミサはあれほどの|尋問にも口を割らない。|すべてはおまえを思ってのことだ。&gt;&gt;いいな、何としてもミサを助け出せ。|でなければ、私がおまえを……</source>
-        <target state="translated">Light Yagami... Even after enduring so much torture, she refuses to confess. All because of her feelings for you. &gt;&gt;Rescue her, whatever it takes. If you don't, I'll…</target>
+        <target state="translated">Light Yagami... Even after enduring so much torture, she refuses to confess.&gt;&gt;All because of her feelings for you. Rescue her, whatever it takes. If you don't, I'll…</target>
       </trans-unit>
       <trans-unit id="807596" xml:space="preserve" approved="no">
         <source>……わかったよ、レム……|これからのＬの出方は大体|わかっている。僕に考えがある……</source>
@@ -4025,7 +4025,7 @@
       </trans-unit>
       <trans-unit id="828788" xml:space="preserve" approved="no">
         <source>……ククク、いいだろう。|おまえの計略に乗ってみるとしよう。&gt;&gt;しかしまさか|俺の渡したノートの最後は、|土の中に捨てられるとはな……</source>
-        <target state="translated">...Heh, alright. I'll go along with your plan. Although, I never thought the notebook I gave you would end up buried in the dirt…</target>
+        <target state="translated">...Heh, alright. I'll go along with your plan.&gt;&gt;Although, I never thought the notebook I gave you would end up buried in the dirt…</target>
       </trans-unit>
       <trans-unit id="777900" xml:space="preserve" approved="no">
         <source>レム、おまえにも協力してもらうぞ。</source>
@@ -4045,7 +4045,7 @@
       </trans-unit>
       <trans-unit id="811868" xml:space="preserve" approved="no">
         <source>これから月くんには、私と２４時間|行動を共にし、捜査協力してもらう|という事で手を打ちます。</source>
-        <target state="translated">Light, I'm willing to compromise under the condition that you stay in my sight 24 hours a day and cooperate with the investigation.</target>
+        <target state="translated">Light, I'm willing to compromise under the following conditions:&gt;&gt;Stay in my sight 24 hours a day and cooperate with the investigation.#better version of this that fits the textbox?</target>
       </trans-unit>
       <trans-unit id="800288" xml:space="preserve" approved="no">
         <source>もはや月をキラであると疑う者は|いなくなった。||だがＬの疑惑は消えなかった。</source>
@@ -4053,7 +4053,7 @@
       </trans-unit>
       <trans-unit id="822188" xml:space="preserve" approved="no">
         <source>月くんの推理力は本当に頼りになる。&gt;&gt;…しかし、まだ月くんが|キラである疑いを完全に|捨てたわけではありません。</source>
-        <target state="translated">I'm relying on you for your remarkable deductive reasoning... However, that does not mean I'm completely convinced of your innocence, Light.</target>
+        <target state="translated">I'm relying on you for your remarkable deductive reasoning...&gt;&gt;However, that does not mean I'm completely convinced of your innocence, Light.</target>
       </trans-unit>
       <trans-unit id="829428" xml:space="preserve" approved="no">
         <source>……僕といっしょに捜査しながら、|同時に僕を監視できるというわけか。&gt;&gt;いいだろう。必ずキラを捕まえて、|僕の真の潔白を証明してやるよ。</source>
@@ -4085,7 +4085,7 @@
       </trans-unit>
       <trans-unit id="849988" xml:space="preserve" approved="no">
         <source>……ヨツバの中にキラがいるのか|わかりませんが、&gt;&gt;キラの仕業だと考え、ヨツバを|徹底的に調べましょう。&gt;&gt;ただし、絶対にヨツバ側に|我々が調べている事を|気付かれないよう……</source>
-        <target state="translated">...It's unclear whether Kira is part of them, but we should investigate Yotsuba thoroughly under the assumption that this is the work of Kira. &gt;&gt;However, we must ensure that our investigation goes unnoticed by Yotsuba…</target>
+        <target state="translated">...It's unclear whether Kira is part of them,&gt;&gt;but we should investigate Yotsuba thoroughly under the assumption that this is the work of Kira. &gt;&gt;However, we must ensure that our investigation goes unnoticed by Yotsuba…</target>
       </trans-unit>
       <trans-unit id="768084" xml:space="preserve" approved="no">
         <source>……どうしました？</source>
@@ -4093,7 +4093,7 @@
       </trans-unit>
       <trans-unit id="818468" xml:space="preserve" approved="no">
         <source>松田さんからの緊急サインです。|それもどうやら|ヨツバ本社内からの様で…&gt;&gt;どうやら気づかれたようです。</source>
-        <target state="translated">There was an emergency signal from Matsuda. It appears to be coming from within Yotsuba's headquarters... It seems he has been spotted.</target>
+        <target state="translated">There was an emergency signal from Matsuda. It appears to be coming from within Yotsuba's headquarters...&gt;&gt;It seems he has been spotted.</target>
       </trans-unit>
       <trans-unit id="840892" xml:space="preserve" approved="no">
         <source>……松田のバカ……|\T0030\t0002作戦、考え直しです。&gt;&gt;まあとにかく、８人の中に|キラらしき者がいることは|確実になりました。&gt;&gt;あとは、誰がキラなのか……</source>
