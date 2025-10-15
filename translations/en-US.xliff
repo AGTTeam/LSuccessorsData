@@ -3181,7 +3181,7 @@
       </trans-unit>
       <trans-unit id="803320" xml:space="preserve" approved="no">
         <source>『それが、いちばん最初に|「８人で会議していた所に遭遇した」|と言ったんだ』</source>
-        <target state="translated">That's the thing, right at the start he said that he barged in while 8 people were in a meeting.</target>
+        <target state="translated">That's the thing, right at the start he said that he barged in while eight people were in a meeting.</target>
       </trans-unit>
       <trans-unit id="855128" xml:space="preserve" approved="no">
         <source>（会議のことを知っている者……？|誰だ、誰か裏切ったのか？）&gt;&gt;（しかし、テレビに映っている|この男、すりガラスでシルエットに|なってよくわからんが…）&gt;&gt;（待てよ……このシルエット……）</source>
@@ -3221,7 +3221,7 @@
       </trans-unit>
       <trans-unit id="867008" xml:space="preserve" approved="no">
         <source>たった今、火口が自宅を出ました。|これから松田を狙うために|動くと思われます。&gt;&gt;みなさんは、火口の手が|松田に届く前に、火口の身柄を|押さえてください。&gt;&gt;この勝負、一瞬のミスが|命取りになります。|くれぐれも慎重にお願いします。</source>
-        <target state="translated">Higuchi just left his home. He is likely moving to target Matsuda. &gt;&gt;Everyone, please apprehend Higuchi before he lays his hands on Matsuda. &gt;&gt;The slightest mistake could be fatal. Please proceed with caution.</target>
+        <target state="translated">Higuchi just left his home. He is likely moving to target Matsuda. &gt;&gt;Everyone, please apprehend Higuchi before he lays a hand on Matsuda. &gt;&gt;The slightest mistake could be fatal. Please proceed with caution.</target>
       </trans-unit>
       <trans-unit id="778740" xml:space="preserve" approved="no">
         <source>フフフ…\t0030　\t0002俺の勝ちだな。</source>
@@ -4073,7 +4073,7 @@
       </trans-unit>
       <trans-unit id="830876" xml:space="preserve" approved="no">
         <source>Ｌ、このデータを見てみろ。|ここ３ヶ月のヨツバグループの|成長グラフだ。&gt;&gt;この３ヶ月で、ヨツバに都合のいい|事件が１３件も発生している。</source>
-        <target state="translated">L, look at this. It's a graph of the Yotsuba Group's growth over the last 3 months. &gt;&gt;In these 3 months, there have been 13 accidents that were beneficial for Yotsuba.</target>
+        <target state="translated">L, look at this. It's a graph of the Yotsuba Group's growth over the last three months. &gt;&gt;In these three months, there have been thirteen accidents that were beneficial for Yotsuba.</target>
       </trans-unit>
       <trans-unit id="816948" xml:space="preserve" approved="no">
         <source>キラであった記憶を失った月は、|いまや捜査本部にこもりきり、|本気でキラを逮捕しようと情熱を|燃やしていた。</source>
@@ -4413,7 +4413,7 @@
       </trans-unit>
       <trans-unit id="808788" xml:space="preserve" approved="no">
         <source>火口、どうやって裁きをしてきた？&gt;&gt;キラとして|どうやって人を裁いてきた？|言うんだ！</source>
-        <target state="translated">How did you kill, Higuchi?&gt;&gt;How did you kill people as Kira? Spill it!</target>
+        <target state="translated">How did you kill, Higuchi?&gt;&gt;How did you kill people as Kira? Spill!</target>
       </trans-unit>
       <trans-unit id="768700" xml:space="preserve" approved="no">
         <source>『……ノートだ……』</source>
@@ -4425,11 +4425,11 @@
       </trans-unit>
       <trans-unit id="813164" xml:space="preserve" approved="no">
         <source>『信じられないだろうが、|顔を知っている人間の名前を書くと、|書かれた人間が倒れるノートだ…』</source>
-        <target state="translated">“There's no way you'd believe me, but if you write the name of someone whose face you know in that notebook, they'll die..."</target>
+        <target state="translated">“There's no way you'll believe me, but...&gt;&gt;If you write the name of someone whose face you know in that notebook, they'll die..."</target>
       </trans-unit>
       <trans-unit id="798172" xml:space="preserve" approved="no">
         <source>……これか……|Ｌ、ノートはあったが、|格別変わったノートでは……</source>
-        <target state="translated">... This thing? ...L, I found a notebook, but it doesn't look like…</target>
+        <target state="translated">...This thing? ...L, I found a notebook, but it doesn't look like…</target>
       </trans-unit>
       <trans-unit id="771256" xml:space="preserve" approved="no">
         <source>！！……うわあああっ！！</source>
