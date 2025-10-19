@@ -4109,7 +4109,7 @@
       </trans-unit>
       <trans-unit id="796828" xml:space="preserve" approved="no">
         <source>とある養護施設の一室で|責任者ロジャーは２人の少年に|ある事実を伝えた…</source>
-        <target state="translated">That was what the caretaker of one particular orphanage, Roger, told the two youths before him. The truth.</target>
+        <target state="translated">That was what Roger, the caretaker of one particular orphanage, told the two youths before him. The truth.</target>
       </trans-unit>
       <trans-unit id="767496" xml:space="preserve" approved="no">
         <source>Ｌが倒された……</source>
@@ -4157,7 +4157,7 @@
       </trans-unit>
       <trans-unit id="867264" xml:space="preserve" approved="no">
         <source>夜神月、警察庁に入庁。|情報通信局情報管理課に配属。||そして数年前から、Ｌの後を継いで|世界中の情報を追跡する、|キラ捜査班の実質的リーダー。||もちろんそれは表向きのことであり、|裏ではキラとして着々と|新世界創世への準備を進めていた。</source>
-        <target state="translated">Light Yagami enters the National Police Agency and is assigned to the Intelligence and Information Bureau. Ever since succeeding L all those years ago, he has been acting as the de facto leader of the Kira Task Force as they track information from all around the world.||Of course, this is all just a facade. As Kira, his preparations for the New World are well underway.</target>
+        <target state="translated">Light Yagami enters the National Police Agency and is assigned to the Intelligence and Information Bureau. Ever since succeeding L all those years ago, he has been acting as the de facto leader of the Kira Task Force as they track information from all around the world.||Of course, this is all just a façade. As Kira, his preparations for the New World are well underway.</target>
       </trans-unit>
       <trans-unit id="847432" xml:space="preserve" approved="no">
         <source>（警察内部での足場も固めた。|僕は今、Ｌであり、キラでもある）&gt;&gt;（もう誰も|僕を止められる者はいない）&gt;&gt;（こんなに簡単にいくとは…|…やはりＬがいないとぬるい……）</source>
@@ -4201,7 +4201,7 @@
       </trans-unit>
       <trans-unit id="818596" xml:space="preserve" approved="no">
         <source>『２日後、|ＬＡ（ロサンゼルス）です。&gt;&gt;『相手は、次長１人でノートを|持ってくるように要求しています』</source>
-        <target state="translated">Two days later, in Los Angeles.&gt;&gt;They're requesting the deputy director to come alone with the Note.</target>
+        <target state="translated">Two days from now, in Los Angeles.&gt;&gt;They're requesting the deputy director to come alone with the Note.</target>
       </trans-unit>
       <trans-unit id="779428" xml:space="preserve" approved="no">
         <source>何だと？|それじゃ、犯人はアメリカに？</source>
@@ -4237,11 +4237,11 @@
       </trans-unit>
       <trans-unit id="815708" xml:space="preserve" approved="no">
         <source>（こいつとは関わらない方が？……|いや…もう遅い……ここはひとまず、|二代目Ｌになりきるしかない）</source>
-        <target state="translated">(Would it be better not to get involved with this guy? …No, it's too late for that… For now, I have no choice but to play L number two.)</target>
+        <target state="translated">(Would it be better not to get involved with this guy? …No, it's too late for that…&gt;&gt;For now, I have no choice but to play L number two.)</target>
       </trans-unit>
       <trans-unit id="813284" xml:space="preserve" approved="no">
         <source>わかりました、Ｎ。感謝します。|ひとまずこちらが指揮をとり、|夜神粧裕の救出に全力をあげます。</source>
-        <target state="translated">I understand, N. Thank you.|We'll take command of this investigation for now and do everything we can to rescue Sayu Yagami.</target>
+        <target state="translated">I understand, N. Thank you. We'll take the lead for now and do everything we can to rescue Sayu Yagami.</target>
       </trans-unit>
       <trans-unit id="815832" xml:space="preserve" approved="no">
         <source>|||||こうして、舞台をアメリカに移し、|デスノートをめぐる新たな戦いの|幕が切って落とされたのである。</source>
