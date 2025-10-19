@@ -4809,7 +4809,7 @@
       </trans-unit>
       <trans-unit id="802920" xml:space="preserve" approved="no">
         <source>どうやら全員、ここまでは|無事に集まったようですね。|ドアの外の者も含めて…</source>
-        <target state="translated">It seems everyone has made it here safely.|Including the one standing just outside the door.</target>
+        <target state="translated">It seems everyone has made it here safely.&gt;&gt;Including the one standing just outside the door.</target>
       </trans-unit>
       <trans-unit id="766212" xml:space="preserve" approved="no">
         <source>（やはり…）</source>
@@ -5057,7 +5057,7 @@
       </trans-unit>
       <trans-unit id="803820" xml:space="preserve" approved="no">
         <source>どうやら全員、ここまでは|無事に集まったようですね。|ドアの外の者も含めて…</source>
-        <target state="translated">It seems everyone has made it here safely.|Including the one standing just outside the door.</target>
+        <target state="translated">It seems everyone has made it here safely.&gt;&gt;Including the one standing just outside the door.</target>
       </trans-unit>
       <trans-unit id="766428" xml:space="preserve" approved="no">
         <source>（やはり…）</source>
@@ -5181,7 +5181,7 @@
       </trans-unit>
       <trans-unit id="813764" xml:space="preserve" approved="no">
         <source>しかし、私がさっき|『ノートに細工した』と言ったのは&gt;&gt;本物のノートに対しても、|なんですよ。</source>
-        <target state="translated">But when I said earlier that we tampered with the notebook, I was referring to the real notebook as well.</target>
+        <target state="translated">But when I said earlier that we tampered with the notebook,&gt;&gt;I was referring to the real notebook as well.</target>
       </trans-unit>
       <trans-unit id="767376" xml:space="preserve" approved="no">
         <source>…ば、ばかな…！</source>
@@ -5189,7 +5189,7 @@
       </trans-unit>
       <trans-unit id="874596" xml:space="preserve" approved="no">
         <source>ニアは本物のノートを取り出した。|だが、それでも月には納得する事は|できなかった。|魅上に用意させたニセのノートは|完全なはずだったのだ。||\T0045\t0002だがニアは、魅上のノートに|死神が憑いていない事から、|魅上のノートをニセ物と疑った。||\T0045\t0002そこである行動に出たのだ。</source>
-        <target state="translated">Near pulled out the real Note for everyone to see.|But even then, Light couldn’t accept the reality of what had just happened.|The fake Note Mikami had prepared was flawless. It should have fooled Near perfectly.||\T0045\t0002But Near, upon realizing that Mikami’s Note was not being haunted by a Shinigami, had begun to suspect that Mikami’s Note was a fake.||\T0045\t0002That was the basis of Near’s entire plan.</target>
+        <target state="translated">Near pulled out the real Note for everyone to see. But even then, Light couldn’t accept the reality of what had just happened.|The fake Note Mikami had prepared was flawless. It should have fooled Near.||\T0045\t0002But Near, upon realizing that Mikami’s Note was not being haunted by a Shinigami, had begun to suspect that Mikami’s Note was a fake.||\T0045\t0002That was the basis of Near’s entire plan.</target>
       </trans-unit>
       <trans-unit id="799184" xml:space="preserve" approved="no">
         <source>メロのおかげです。|メロの行動がなければ、|私はあなたに負けていた。</source>
@@ -5209,7 +5209,7 @@
       </trans-unit>
       <trans-unit id="801920" xml:space="preserve" approved="no">
         <source>||||　　　２人ならＬに並べる、|||\T0060\t0002　　　２人ならＬを超せる。</source>
-        <target state="translated">...the two of us together could stand shoulder to shoulder with L,|||\T0060\t0002...together, we could surpass him.</target>
+        <target state="translated">...The two of us together could stand shoulder to shoulder with L,|||\T0060\t0002...Together, we could surpass him.</target>
       </trans-unit>
       <trans-unit id="785644" xml:space="preserve" approved="no">
         <source>…ふ\T0060\t0002…ふふ\T0030\t0000…ふははは！！</source>
@@ -5229,7 +5229,7 @@
       </trans-unit>
       <trans-unit id="858588" xml:space="preserve" approved="no">
         <source>そうさ、僕にしかできない…|\T0045\t0002新世界を創れるのは…||\T0045\t0002その頂点に立ち、常に正しく|導けるのは僕しかいない…||\T0045\t0002おまえ達が今|目の前にしているのはキラだが|新世界の神だ！</source>
-        <target state="translated">That’s right. I’m the only one who can do it…|\T0045\t0002The only one who can create the new world…||who can stand on that peak and guide the world correctly… It has to be me…||\T0045\t0002The person standing before all of you right now is Kira, but also the god of the new world!</target>
+        <target state="translated">That’s right. I’m the only one who can do it…||\T0045\t0002The only one who can create the new world… who can stand on that peak and guide the world correctly…||It has to be me…||\T0045\t0002The person standing before all of you right now is Kira, but also the god of the new world!</target>
       </trans-unit>
       <trans-unit id="822596" xml:space="preserve" approved="no">
         <source>いいえ、|あなたはただの犯罪者です。&gt;&gt;夜神月…\T0030\t0002Ｌ…\T0030\t0002キラ…|\T0030\t0002あなたの負けです。</source>
@@ -5261,11 +5261,11 @@
       </trans-unit>
       <trans-unit id="860412" xml:space="preserve" approved="no">
         <source>どう見ても、おまえの負けだ、月。&gt;&gt;ここをどう切り抜けるか、|少しは期待したが、&gt;&gt;俺にすがるようじゃな…|おまえは終わりだ。&gt;&gt;けっこう長い間、お互い|退屈しのぎになったじゃないか。|いろいろ面白かったぜ。</source>
-        <target state="translated">You’ve got to admit it now, Light. You’ve lost.&gt;&gt;I was kind of looking forward to watching how you’d make it out of this one,&gt;&gt;but it won’t be by clinging to me…|This is the way it ends for you.&gt;&gt;We had a good run, didn’t we? Nice break from all the boredom.|It’s been interesting.</target>
+        <target state="translated">You’ve got to admit it now, Light. You’ve lost.&gt;&gt;I was kind of looking forward to watching how you’d make it out of this one,&gt;&gt;but it won’t be by clinging to me…|This is the way it ends for you.&gt;&gt;We had a good run, didn’t we?|Nice break from all the boredom.|It’s been interesting.</target>
       </trans-unit>
       <trans-unit id="782308" xml:space="preserve" approved="no">
         <source>…終わるのか！？|僕はここで終わるのか！！</source>
-        <target state="translated">…The way it ends?|Now? Here?!</target>
+        <target state="translated">…This is the way it ends?|Now? Here?!</target>
       </trans-unit>
       <trans-unit id="776420" xml:space="preserve" approved="no">
         <source>そうだ。４０秒で…もう決まりだ。</source>
@@ -5285,7 +5285,7 @@
       </trans-unit>
       <trans-unit id="865728" xml:space="preserve" approved="no">
         <source>||デスノートに名前を書き込まれたら、|どんな事をしても取り消せない。|\T0015\t0002おまえが一番よく知っているはずだ。|\T0030\t0002||デスノートを使った人間が天国や|地獄にいけると思うな。|\T0015\t0002||…最初にそう言っただろう。</source>
-        <target state="translated">||When a name is written into the Death Note, there’s nothing you can do to erase it.|\T0015\t0002You should know that better than anyone.|\T0030\t0002||A human who uses the Death Note will not go to heaven nor hell.|\T0015\t0002||…I told you that right at the beginning, didn’t I?</target>
+        <target state="translated">When a name is written into the Death Note, there’s nothing you can do to erase it.||\T0015\t0002You should know that better than anyone.|\T0030\t0002|A human who uses the Death Note will not go to heaven nor hell.|\T0015\t0002|…I told you that right at the beginning, didn’t I?</target>
       </trans-unit>
       <trans-unit id="784420" xml:space="preserve" approved="no">
         <source>||||||　　　さよならだ、\T0045\t0002夜神月。</source>
@@ -5297,15 +5297,15 @@
       </trans-unit>
       <trans-unit id="865984" xml:space="preserve" approved="no">
         <source>キラ＝夜神月が消えて一年。||世界はすでにキラが現れる前の|退屈で堕落した日常に戻り、|重大犯罪も増加していった。||\T0060\t0002この日常に安心する者。||\T0060\t0002キラの裁きの再開を願う者。||\T0060\t0002人々の思いはそれぞれだった。</source>
-        <target state="translated">A year had passed since the death of Kira, i.e. Light Yagami.||The world had already fallen back into the everyday boredom and drudgery that it roiled within before Kira had first appeared.|The rate of serious crime shot back up.||\T0060\t0002Some took comfort in this reality.||\T0060\t0002Others prayed for Kira’s judgments to return.||\T0060\t0002The public opinion, as always, was divided.</target>
+        <target state="translated">A year had passed since the death of Kira, i.e. Light Yagami.||The world had already fallen back into the everyday boredom and drudgery that it roiled within before Kira had first appeared. The rate of serious crime shot back up.||\T0060\t0002Some took comfort in this reality.|\T0060\t0002Others prayed for Kira’s judgments to return. The public opinion, as always, was divided.</target>
       </trans-unit>
       <trans-unit id="820172" xml:space="preserve" approved="no">
         <source>夜神月のめざした新世界は|ついに実現しなかった。||||\T0060\t0002ただ、キラの復活を願う者達は|確実に残っている。</source>
-        <target state="translated">The new world that Light had dreamed of… never came to pass.||||\T0060\t0002 But some still hoped for Kira's resurrection.</target>
+        <target state="translated">||The new world that Light had dreamed of… never came to pass.||||\T0060\t0002 But some still hoped for Kira's resurrection.</target>
       </trans-unit>
       <trans-unit id="822736" xml:space="preserve" approved="no">
         <source>||||夜神月は神になれなかった。||\T0090\t0002だが信じる者達にとって、||\T0060\t0002キラは神となったのかもしれない。</source>
-        <target state="translated">||||Light Yagami could not become God.||\T0090\t0002 But to those who still believed,||\T0060\t0002 perhaps Kira had.</target>
+        <target state="translated">||||Light Yagami could not become God.||\T0090\t0002 But to those who still believed,|\T0060\t0002perhaps Kira had.</target>
       </trans-unit>
     </body>
   </file>
