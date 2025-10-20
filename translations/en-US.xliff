@@ -69,7 +69,7 @@
       </trans-unit>
       <trans-unit id="775300" xml:space="preserve" approved="no">
         <source>ハハハ！\t0030　\t0002楽勝だ。</source>
-        <target state="translated">Hahaha! \t0030　\t0002 Too easy.</target>
+        <target state="translated">Hahaha!\t0030 \t0002Too easy.</target>
       </trans-unit>
       <trans-unit id="788824" xml:space="preserve" approved="no">
         <source>ご覧下さっていますか…\t0030|\t0002我々の勝ちです！</source>
@@ -77,11 +77,11 @@
       </trans-unit>
       <trans-unit id="787608" xml:space="preserve" approved="no">
         <source>勝った！\t0030　\t0002…月くん…|これでいいのね。</source>
-        <target state="translated">I won! \t0030　\t0002...Light... This is what you wanted, right?</target>
+        <target state="translated">I won!\t0030 \t0002...Light... This is what you wanted, right?</target>
       </trans-unit>
       <trans-unit id="782716" xml:space="preserve" approved="no">
         <source>ははっ！\t0030|\t0002どうだ。マヌケども！</source>
-        <target state="translated">Haha! \t0030|\t0002 How do you like that, you idiots!</target>
+        <target state="translated">Haha! \t0030|\t0002How do you like that, you idiots!</target>
       </trans-unit>
       <trans-unit id="774528" xml:space="preserve" approved="no">
         <source>おいおい、|もう終わりかい？</source>
@@ -3901,7 +3901,7 @@
       </trans-unit>
       <trans-unit id="790604" xml:space="preserve" approved="no">
         <source>よし！\t0030　\t0002あとは最後の|仕上げをするだけだ。</source>
-        <target state="translated">Alright!\t0030 \t0002 Now I just need to put on the finishing touch.</target>
+        <target state="translated">Alright!\t0030 \t0002Now I just need to put on the finishing touch.</target>
       </trans-unit>
       <trans-unit id="782648" xml:space="preserve" approved="no">
         <source>動くな、メロ！|…いや、ミハエル＝ケール！</source>
@@ -4585,7 +4585,7 @@
       </trans-unit>
       <trans-unit id="845904" xml:space="preserve" approved="no">
         <source>彼女には常に護衛がついている。||その中にＳＰＫメンバーの１人|ハル＝リドナーの姿を見たとき|メロにはその意味がすぐにわかった。|||\T0045\t0002ニアも高田を監視している…</source>
-        <target state="translated">She was often surrounded by bodyguards.||When Mello spotted Halle Lidner, a member of the SPK, among those guards, he instantly understood what it meant.|||\T0045\t0002 Near was monitoring Takada too…</target>
+        <target state="translated">She was often surrounded by bodyguards.||When Mello spotted Halle Lidner, a member of the SPK, among those guards, he instantly understood what it meant.|||\T0045\t0002Near was monitoring Takada too…</target>
       </trans-unit>
       <trans-unit id="823996" xml:space="preserve" approved="no">
         <source>高田清美……|キラとつながってる事は確実だな。&gt;&gt;だが、二代目Ｌがキラだとすると|実際にキラの裁きを続けているのは…</source>
@@ -4953,7 +4953,7 @@
       </trans-unit>
       <trans-unit id="810244" xml:space="preserve" approved="no">
         <source>僕がキラ？　\T0060\t0002何を言うんです。|僕の名前もノートに|書かれているじゃないですか。</source>
-        <target state="translated">Me, Kira?　\T0060\t0002 What are you talking about? My name's written in the notebook too.</target>
+        <target state="translated">Me, Kira? \T0060\t0002What are you talking about? My name's written in the notebook too.</target>
       </trans-unit>
       <trans-unit id="768832" xml:space="preserve" approved="no">
         <source>（……………………）</source>
@@ -5301,11 +5301,11 @@
       </trans-unit>
       <trans-unit id="820172" xml:space="preserve" approved="no">
         <source>夜神月のめざした新世界は|ついに実現しなかった。||||\T0060\t0002ただ、キラの復活を願う者達は|確実に残っている。</source>
-        <target state="translated">||The new world that Light had dreamed of… never came to pass.||||\T0060\t0002 But some still hoped for Kira's resurrection.</target>
+        <target state="translated">||The new world that Light had dreamed of… never came to pass.||||\T0060\t0002But some still hoped for Kira's resurrection.</target>
       </trans-unit>
       <trans-unit id="822736" xml:space="preserve" approved="no">
         <source>||||夜神月は神になれなかった。||\T0090\t0002だが信じる者達にとって、||\T0060\t0002キラは神となったのかもしれない。</source>
-        <target state="translated">||||Light Yagami could not become God.||\T0090\t0002 But to those who still believed,|\T0060\t0002perhaps Kira had.</target>
+        <target state="translated">||||Light Yagami could not become God.||\T0090\t0002But to those who still believed,|\T0060\t0002perhaps Kira had.</target>
       </trans-unit>
     </body>
   </file>
