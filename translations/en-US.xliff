@@ -2893,7 +2893,7 @@
       </trans-unit>
       <trans-unit id="827080" xml:space="preserve" approved="no">
         <source>心配するな、ここにいる。|デスノートと交換だ。&gt;&gt;断るなら２人ともここで|死んでもらうだけだ……&gt;&gt;逃げ道はない。わかってるな？</source>
-        <target state="translated">Don't worry, she's right here. I'll trade her for the Death Note. If you refuse, you both die right here... You've got no way out. Got it?</target>
+        <target state="translated">Don't worry, she's right here. I'll trade her for the Death Note. If you refuse, you both die right here...&gt;&gt;You've got no way out. Got it?</target>
       </trans-unit>
       <trans-unit id="772552" xml:space="preserve" approved="no">
         <source>…く…っ！……わかった……</source>
@@ -3593,11 +3593,11 @@
       </trans-unit>
       <trans-unit id="810708" xml:space="preserve" approved="no">
         <source>『もうノートは犯人に渡ったと|考えるしかありません。何もできず、|みすみす渡してしまった』</source>
-        <target state="translated">“We have no choice now but to regard the notebook as having fallen into… or rather, passed directly into the perpetrator’s hands. Nothing could be done. It was handed over, right before our eyes.”</target>
+        <target state="translated">“We have no choice now but to regard the notebook as having passed into the perpetrator’s hands.&gt;&gt;Nothing could be done. It was handed over, right before our eyes.”</target>
       </trans-unit>
       <trans-unit id="842536" xml:space="preserve" approved="no">
         <source>Ｎ、誘拐犯とアメリカ…ＳＰＫ…|本当に無関係なんですか？　これは|アメリカの仕組んだことでは……？&gt;&gt;犯人はミサイルまで所持していた。|そう考えるのが自然です。</source>
-        <target state="translated">N, are the kidnappers really not connected with the United States… or the SPK? Was all of this arranged by the United States…?&gt;&gt;The kidnappers even had access to a missile. It's a logical suspicion.</target>
+        <target state="translated">N, are the kidnappers really not connected with the United States… or the SPK?&gt;&gt;Was all of this arranged by the United States…? The kidnappers even had access to a missile. It's logical to be suspicious.</target>
       </trans-unit>
       <trans-unit id="830068" xml:space="preserve" approved="no">
         <source>『正直それだったらよいのですが…|違います』&gt;&gt;『私達はノートやキラの正体が|ほしい』&gt;&gt;『しかし、この誘拐には一切|関わっていません』</source>
@@ -3621,7 +3621,7 @@
       </trans-unit>
       <trans-unit id="819644" xml:space="preserve" approved="no">
         <source>ワイミーズハウスは、|単なる養護施設じゃない。&gt;&gt;言ってみれば第２のＬ、|Ｌの後継者を育てるための施設だ。</source>
-        <target state="translated">Wammy's House was not an ordinary orphanage.&gt;&gt;It was a facility meant to raise children to become a second L - or rather, the successor to L.</target>
+        <target state="translated">Wammy's House was no ordinary orphanage.&gt;&gt;It was a facility meant to raise children to become a second L - or rather, the successor to L.</target>
       </trans-unit>
       <trans-unit id="788064" xml:space="preserve" approved="no">
         <source>そこで総合的にトップにいたのが|ニアという少年……</source>
@@ -3649,7 +3649,7 @@
       </trans-unit>
       <trans-unit id="828632" xml:space="preserve" approved="no">
         <source>俺、ノートをなくして大王の所に|行ったんだけど、リュークが自分のだ|…って言って持っていったって…&gt;&gt;この場合、どうすればいいんだ？</source>
-        <target state="translated">I lost my Note and went to report it to the Shinigami King, but when I told him what it looked like, he said that Ryuk said it was his and took it…&gt;&gt;What should I do?</target>
+        <target state="translated">I lost my Note and went to report it to the Shinigami King, but Ryuk said it was his and took it…&gt;&gt;What should I do?</target>
       </trans-unit>
       <trans-unit id="789204" xml:space="preserve" approved="no">
         <source>それだと、リュークから|返してもらわないとダメだな。</source>
@@ -13157,7 +13157,7 @@
       </trans-unit>
       <trans-unit id="604849" xml:space="preserve" approved="no">
         <source>怪しい人物はいないようだ。|監視する地域を|変えるべきかもしれん。</source>
-        <target state="translated">It seems there's nothing suspicious here. Maybe I should change tact.</target>
+        <target state="translated">It seems there's nothing suspicious here. Maybe I should change tack.</target>
       </trans-unit>
       <trans-unit id="582509" xml:space="preserve" approved="no">
         <source>この周辺のカメラは|すべて修復した。|もう大丈夫だろう。</source>
