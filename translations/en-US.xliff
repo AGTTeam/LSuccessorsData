@@ -369,7 +369,7 @@
       </trans-unit>
       <trans-unit id="852216" xml:space="preserve" approved="no">
         <source>ククク、意外とやるじゃないか。&gt;&gt;こういう時人間は、|「おめでとう」って|言うんだよな。&gt;&gt;次は『ノーマル』モードに|チャレンジしてみな。&gt;&gt;もっと俺を楽しませてくれよ。|ククク。</source>
-        <target state="translated">Kukuku, not bad at all. &gt;&gt;At times like this, you humans would say “congratulations," right? &gt;&gt;Next time, give Normal Mode a try. Keep me entertained. Kukuku...</target>
+        <target state="translated">Kukuku, not bad at all. &gt;&gt;At times like this, you humans would say “congratulations," right? &gt;&gt;Next time, give Normal Mode a try.|Keep me entertained. Kukuku...</target>
       </trans-unit>
       <trans-unit id="772812" xml:space="preserve" approved="no">
         <source>夜神月、どこに行ったんだ！</source>
@@ -2345,7 +2345,7 @@
       </trans-unit>
       <trans-unit id="835428" xml:space="preserve" approved="no">
         <source>あ・の…\T0030\t0008し・に・が・み…\T0030\t0008の・お・|と・を…\T0030\t0008わ・た・し・た・き・り…|\T0030\t0008あ・ら・わ・れ・や・し・な・い</source>
-        <target state="translated">Th-at…\T0030\t0008Shi-ni-ga-mi…\T0030\t0008 Ev-er-sin-ce|he-han-ded-me...\T0030\t0008 the-no-te-bo-ok…\T0030\t0008 he-has-n't-ap-pear-ed...</target>
+        <target state="translated">Th-at…\T0030\t0008Shi-ni-ga-mi…\T0030\t0008 Ev-er-sin-ce|he-han-ded-me...\T0030\t0008 the-no-te-bo-ok...\T0030\t0008 he-has-n't-ap-pear-ed...</target>
       </trans-unit>
       <trans-unit id="787156" xml:space="preserve" approved="no">
         <source>…あの死神、ノートを渡したきり|現われやしない…</source>
@@ -2361,7 +2361,7 @@
       </trans-unit>
       <trans-unit id="806412" xml:space="preserve" approved="no">
         <source>魅上に死神は憑いていないようです。|みなさん予定通り、作戦を続行して|ください。</source>
-        <target state="translated">It appears Mikami is not being possessed by a Shinigami.|Everyone, we'll continue with the same plan of attack.</target>
+        <target state="translated">It appears Mikami is not being possessed by a Shinigami.&gt;&gt;Everyone, we'll continue with the same plan of attack.</target>
       </trans-unit>
       <trans-unit id="777372" xml:space="preserve" approved="no">
         <source>||||||　　　　うわあああっ！？</source>
@@ -2669,7 +2669,7 @@
       </trans-unit>
       <trans-unit id="833880" xml:space="preserve" approved="no">
         <source>あ・の…\T0030\t0008し・に・が・み…\T0030\t0008の・お・|と・を…\T0030\t0008わ・た・し・た・き・り…|\T0030\t0008あ・ら・わ・れ・や・し・な・い</source>
-        <target state="translated">Th-at…\T0030\t0008Shi-ni-ga-mi…\T0030\t0008 Ev-er-sin-ce|he-han-ded-me...\T0030\t0008 the-no-te-bo-ok…\T0030\t0008 he-has-n't-ap-pear-ed...</target>
+        <target state="translated">Th-at…\T0030\t0008Shi-ni-ga-mi…\T0030\t0008 Ev-er-sin-ce|he-han-ded-me...\T0030\t0008 the-no-te-bo-ok...\T0030\t0008 he-has-n't-ap-pear-ed...</target>
       </trans-unit>
       <trans-unit id="785716" xml:space="preserve" approved="no">
         <source>…あの死神、ノートを渡したきり|現われやしない…</source>
@@ -2681,7 +2681,7 @@
       </trans-unit>
       <trans-unit id="857928" xml:space="preserve" approved="no">
         <source>（死神が憑いていない、|魅上はそうつぶやいた…）&gt;&gt;（ここまで見た限り魅上は独自に|大胆に動いているフシもある）&gt;&gt;魅上に死神は憑いていないようです。|みなさん予定通り、作戦を続行して|ください。</source>
-        <target state="translated">(So that means Mikami is not being possessed by a Shinigami…)&gt;&gt;(It seems that as of now, Mikami has been making bold moves all on his own.)&gt;&gt;It appears Mikami is not being possessed by a Shinigami.|Everyone, we'll continue with the same plan of attack.</target>
+        <target state="translated">(So that means Mikami is not being possessed by a Shinigami…)&gt;&gt;(It seems that as of now, Mikami has been making bold moves all on his own.)&gt;&gt;It appears Mikami is not being possessed by a Shinigami.&gt;&gt;Everyone, we'll continue with the same plan of attack.</target>
       </trans-unit>
       <trans-unit id="807164" xml:space="preserve" approved="no">
         <source>（この状況をどう見るか…|…単に使えない死神なのか…|それとも何かフェイクが…？…）</source>
@@ -4845,7 +4845,7 @@
       </trans-unit>
       <trans-unit id="783668" xml:space="preserve" approved="no">
         <source>外にいる者、|ノートに名前を書いたんですか？</source>
-        <target state="translated">To the person standing outside: have you written our names down yet?</target>
+        <target state="translated">To the person standing outside; have you written our names down yet?</target>
       </trans-unit>
       <trans-unit id="769528" xml:space="preserve" approved="no">
         <source>！…はい、書きました。</source>
@@ -5093,11 +5093,11 @@
       </trans-unit>
       <trans-unit id="856624" xml:space="preserve" approved="no">
         <source>月は内心、勝利を確信した。|ニアがノートに細工するだろう事は|読めていた。||その先手を打って、月は魅上に|ニセのノートを用意させたのだ。||ニアが細工したのはニセのノート…|本物は魅上の手にある！</source>
-        <target state="translated">Light was now sure of his victory.|He'd foreseen that Near would tamper with the Note.||Taking the initiative, Light had told Mikami to prepare a fake notebook.||The notebook Near had altered was the fake…|Mikami still had the real thing!</target>
+        <target state="translated">Light was now sure of his victory.|He'd foreseen that Near would tamper with the Note.||Taking the initiative, Light had told Mikami to prepare a fake notebook.||The notebook Near had altered was the fake…||Mikami still had the real thing!</target>
       </trans-unit>
       <trans-unit id="784280" xml:space="preserve" approved="no">
         <source>外にいる者、|ノートに名前を書いたんですか？</source>
-        <target state="translated">To the person standing outside: have you written our names down yet?</target>
+        <target state="translated">To the person standing outside; have you written our names down yet?</target>
       </trans-unit>
       <trans-unit id="769288" xml:space="preserve" approved="no">
         <source>！…はい、書きました。</source>
@@ -5145,7 +5145,7 @@
       </trans-unit>
       <trans-unit id="810132" xml:space="preserve" approved="no">
         <source>魅上は混乱し月にすがった。|||だが混乱していたのは|月も同じだった。|そして日本の捜査員達も…</source>
-        <target state="translated">Mikami clung to Light in confusion.|||But Light was just as confused.|And the Japanese task force, too…</target>
+        <target state="translated">Mikami clung to Light in confusion.||But Light was just as confused.||And the Japanese task force, too…</target>
       </trans-unit>
       <trans-unit id="848792" xml:space="preserve" approved="no">
         <source>ＳＰＫメンバーは、|すばやく魅上を取り押さえ|ノートを取り上げた。||ニアはそのノートを|全員の前に広げた。|そこには全員の名前が|書かれていた。||\T0120\t0000ただ１人を除いて…</source>
@@ -5189,7 +5189,7 @@
       </trans-unit>
       <trans-unit id="874596" xml:space="preserve" approved="no">
         <source>ニアは本物のノートを取り出した。|だが、それでも月には納得する事は|できなかった。|魅上に用意させたニセのノートは|完全なはずだったのだ。||\T0045\t0002だがニアは、魅上のノートに|死神が憑いていない事から、|魅上のノートをニセ物と疑った。||\T0045\t0002そこである行動に出たのだ。</source>
-        <target state="translated">Near pulled out the real Note for everyone to see. But even then, Light couldn’t accept the reality of what had just happened.|The fake Note Mikami had prepared was flawless. It should have fooled Near.||\T0045\t0002But Near, upon realizing that Mikami’s Note was not being haunted by a Shinigami, had begun to suspect that Mikami’s Note was a fake.||\T0045\t0002That was the basis of Near’s entire plan.</target>
+        <target state="translated">Near pulled out the real Note for everyone to see. But even then, Light couldn’t accept the reality of what had just happened.||The fake Note Mikami had prepared was flawless. It should have fooled Near.||\T0045\t0002But Near, upon realizing that Mikami’s Note was not being haunted by a Shinigami, had begun to suspect that Mikami’s Note was a fake. That was the basis of Near’s entire plan.</target>
       </trans-unit>
       <trans-unit id="799184" xml:space="preserve" approved="no">
         <source>メロのおかげです。|メロの行動がなければ、|私はあなたに負けていた。</source>
@@ -5205,11 +5205,11 @@
       </trans-unit>
       <trans-unit id="843836" xml:space="preserve" approved="no">
         <source>メロには、わかっていたんです。|私もメロもＬを超せない事を…&gt;&gt;私は行動力に欠け、|メロは冷静さに欠ける…&gt;&gt;つまり互いが互いの目標とする者を|超せないと…しかし…</source>
-        <target state="translated">Mello knew that neither he nor I could surpass L...&gt;&gt;I lack initiative,|and Mello couldn't keep a cool head...&gt;&gt;In other words, we couldn't surpass the person we each wanted to... But…</target>
+        <target state="translated">Mello knew that neither he nor I could surpass L...&gt;&gt;I lack initiative, and Mello couldn't keep a cool head...&gt;&gt;In other words, we couldn't surpass the person we each wanted to... But…</target>
       </trans-unit>
       <trans-unit id="801920" xml:space="preserve" approved="no">
         <source>||||　　　２人ならＬに並べる、|||\T0060\t0002　　　２人ならＬを超せる。</source>
-        <target state="translated">...The two of us together could stand shoulder to shoulder with L,|||\T0060\t0002...Together, we could surpass him.</target>
+        <target state="translated">...The two of us together could stand shoulder to shoulder with L.|||\T0060\t0002...Together, we could surpass him.</target>
       </trans-unit>
       <trans-unit id="785644" xml:space="preserve" approved="no">
         <source>…ふ\T0060\t0002…ふふ\T0030\t0000…ふははは！！</source>
@@ -5221,7 +5221,7 @@
       </trans-unit>
       <trans-unit id="868292" xml:space="preserve" approved="no">
         <source>僕はキラ。そして新世界の神だ！||今の世界では僕が法であり|僕が秩序を守っている。|これは事実。|\T0045\t0002|もはや僕は正義。世界の人間の希望。||\T0045\t0002世の中は腐っている。|腐った人間が多すぎる。|ならば、なくさなければならない。</source>
-        <target state="translated">I am Kira. And I’m the god of the new world!||Look around you. In today’s world, I am the law. I’m the one who keeps the peace.|You can’t deny that.|\T0045\t0002It’s already too late. I am justice. I am the hope of humankind.||\T0045\t0002This world is rotten.|It’s overflowing with rotten people.|There’s nothing we can do, other than make them disappear.</target>
+        <target state="translated">I am Kira. And I’m the god of the new world!||Look around you. In today’s world, I am the law. I’m the one who keeps the peace. You can’t deny that.||\T0045\t0002It’s already too late. I am justice. I am the hope of humankind.||\T0045\t0002This world is rotten.|It’s overflowing with rotten people.|There’s nothing we can do, other than make them disappear.</target>
       </trans-unit>
       <trans-unit id="844024" xml:space="preserve" approved="no">
         <source>この腐った世の中を改め、|真の平和・理想の世界を|創生するため選ばれた人間、||\T0045\t0002僕にしかできない。|僕がキラとしてやるしかない。|これは僕に与えられた使命。</source>
@@ -5301,7 +5301,7 @@
       </trans-unit>
       <trans-unit id="820172" xml:space="preserve" approved="no">
         <source>夜神月のめざした新世界は|ついに実現しなかった。||||\T0060\t0002ただ、キラの復活を願う者達は|確実に残っている。</source>
-        <target state="translated">||The new world that Light had dreamed of… never came to pass.||||\T0060\t0002But some still hoped for Kira's resurrection.</target>
+        <target state="translated">|||The new world that Light had dreamed of… never came to pass.||||\T0060\t0002But some still hoped for Kira's resurrection.</target>
       </trans-unit>
       <trans-unit id="822736" xml:space="preserve" approved="no">
         <source>||||夜神月は神になれなかった。||\T0090\t0002だが信じる者達にとって、||\T0060\t0002キラは神となったのかもしれない。</source>
