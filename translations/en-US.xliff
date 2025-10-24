@@ -2205,7 +2205,7 @@
       </trans-unit>
       <trans-unit id="841616" xml:space="preserve" approved="no">
         <source>通信機を破壊された？！　全滅か！&gt;&gt;くそっ！　これだけ万全の包囲を、|メロの奴、どうやって……！&gt;&gt;こんなことは死神にしか…そうか…|間違いない、死神がいる！</source>
-        <target state="translated">The receivers are broken! Was this a trap?!&gt;&gt;Damn it! How did Mello escape such a perfect siege?!&gt;&gt;This is something only a Shinigami could… Wait…|That's it! They must have a Shinigami on their side!</target>
+        <target state="translated">The receivers are broken! Was this a trap?!&gt;&gt;Damn it! How did Mello escape such a perfect siege?!&gt;&gt;This is something only a Shinigami could… Wait…That's it! They must have a Shinigami on their side!</target>
       </trans-unit>
       <trans-unit id="786940" xml:space="preserve" approved="no">
         <source>ボス。大統領の野郎、電話に出ねえ。|まさか……？</source>
@@ -2405,7 +2405,7 @@
       </trans-unit>
       <trans-unit id="806948" xml:space="preserve" approved="no">
         <source>だが、まずはこのアジトから|逃げ出す手助けをしろ。|表の特殊部隊を何とかするんだ。</source>
-        <target state="translated">But first, you have to help us get out of this hideout.|Do something to deal with the special task force in front.</target>
+        <target state="translated">But first, you have to help us get out of this hideout. Do something to deal with the special task force in front.</target>
       </trans-unit>
       <trans-unit id="795596" xml:space="preserve" approved="no">
         <source>…それならそのノートで|トラップが使えるように|してあげるよ。</source>
@@ -3025,7 +3025,7 @@
       </trans-unit>
       <trans-unit id="803620" xml:space="preserve" approved="no">
         <source>断われば、あんたは|歴史上最悪の大統領として名を残す。|選択の余地はない……</source>
-        <target state="translated">If you reject this offer, you're going down in history as the worst president the world has ever seen. You've got no other choice…</target>
+        <target state="translated">If you reject this offer, you're going down in history as the worst president the world has ever seen.&gt;&gt;You've got no other choice…</target>
       </trans-unit>
       <trans-unit id="823296" xml:space="preserve" approved="no">
         <source>それはデスノートでアメリカ全土を|人質に取った脅迫であった。||追い詰められた大統領は、|Ｌ＝月の元へ極秘に助けを求める。</source>
@@ -3069,7 +3069,7 @@
       </trans-unit>
       <trans-unit id="811056" xml:space="preserve" approved="no">
         <source>何だと？　なぜこのアジトが！？|ちっ、逃げるか……それとも…|…何とか奴らを撃退する手は…</source>
-        <target state="translated">What the--? How did they know we were here?!|Dammit. We could run… or…|…We could beat them back somehow…</target>
+        <target state="translated">What the--? How did they know we were here?! Dammit. We could run… or……We could beat them back somehow…</target>
       </trans-unit>
       <trans-unit id="879360" xml:space="preserve" approved="no">
         <source>ＦＢＩ捜査官の追求を退けた月。|だが、これで決着がついたとは、|どちらの側も考えてはいなかった。|\T0030\t0002むしろ、この戦いはいよいよ|激しさを増していくであろうという|予感を、両者とも胸に宿していたの|である。|しかし……|\T0045\t0002|そんなふたりの思惑をよそに、|事態はまったく思いもかけない|新たな展開を見せようとしていた。</source>
