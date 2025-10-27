@@ -949,7 +949,7 @@
       </trans-unit>
       <trans-unit id="776812" xml:space="preserve" approved="no">
         <source>||||||　　　ショートカットコマンド</source>
-        <target state="translated">||||||&lt;&lt;Info Command Shortcut</target>
+        <target state="translated">||||||&lt;&lt;Info Shortcut Command</target>
       </trans-unit>
       <trans-unit id="820568" xml:space="preserve" approved="no">
         <source>\c04『ショートカットコマンド』\c02とは、|各種\c04『情報系』\c02のコマンドを|まとめて呼び出すコマンドです。</source>
@@ -965,7 +965,7 @@
       </trans-unit>
       <trans-unit id="776532" xml:space="preserve" approved="no">
         <source>||||||　　　ショートカットコマンド</source>
-        <target state="translated">||||||&lt;&lt;Info Command Shortcut</target>
+        <target state="translated">||||||&lt;&lt;Info Shortcut Command</target>
       </trans-unit>
       <trans-unit id="819908" xml:space="preserve" approved="no">
         <source>\c04『ショートカットコマンド』\c02とは、|各種\c04『情報系』\c02のコマンドを|まとめて呼び出すコマンドだ。</source>
