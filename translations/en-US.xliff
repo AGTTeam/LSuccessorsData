@@ -3377,7 +3377,7 @@
       </trans-unit>
       <trans-unit id="850588" xml:space="preserve" approved="no">
         <source>ニアの推理で、キラは二代目Ｌ。|そしてそれが夜神月ということ|まではわかっていた。||ＳＰＫ内部では、キラの動きが|鈍った今、強行策に出て一気に|事件解決するべきとの意見が|出ていた。</source>
-        <target state="translated">By Near's logic, Kira was L number two. And furthermore, L number two was definitely Light Yagami.||An idea was floated within the SPK: to strike while Kira's movements were dulled and put the case to an end once and for all.</target>
+        <target state="translated">By Near's logic, Kira was the Second L. And furthermore, the Second L was definitely Light Yagami.||An idea was floated within the SPK: to strike while Kira's movements were dulled and put the case to an end once and for all.</target>
       </trans-unit>
       <trans-unit id="847240" xml:space="preserve" approved="no">
         <source>強行策とはつまり、Ｌキラ＝夜神月、|Ｘキラ＝魅上照を直接倒して|ノートを没収する…||それでキラの裁きは止まるはずだ。|Ｌ＝夜神月がキラだったとも|言えるだろう。||しかし…</source>
@@ -4213,7 +4213,7 @@
       </trans-unit>
       <trans-unit id="779492" xml:space="preserve" approved="no">
         <source>||||||　　『二代目Ｌ、はじめまして』</source>
-        <target state="translated">||||||&lt;&lt;Nice to meet you, L number two.</target>
+        <target state="translated">||||||&lt;&lt;Nice to meet you, Second L.</target>
       </trans-unit>
       <trans-unit id="786076" xml:space="preserve" approved="no">
         <source>！……二代目？|どういうことですか？　あなたは？</source>
@@ -4237,7 +4237,7 @@
       </trans-unit>
       <trans-unit id="815708" xml:space="preserve" approved="no">
         <source>（こいつとは関わらない方が？……|いや…もう遅い……ここはひとまず、|二代目Ｌになりきるしかない）</source>
-        <target state="translated">(Would it be better not to get involved with this guy? …No, it's too late for that…)&gt;&gt;(For now, I have no choice but to play L number two.)</target>
+        <target state="translated">(Would it be better not to get involved with this guy? …No, it's too late for that…)&gt;&gt;(For now, I have no choice but to play Second L.)</target>
       </trans-unit>
       <trans-unit id="813284" xml:space="preserve" approved="no">
         <source>わかりました、Ｎ。感謝します。|ひとまずこちらが指揮をとり、|夜神粧裕の救出に全力をあげます。</source>
@@ -4517,7 +4517,7 @@
       </trans-unit>
       <trans-unit id="777960" xml:space="preserve" approved="no">
         <source>||||||　　　キラは二代目Ｌです。</source>
-        <target state="translated">||||||&lt;&lt;Kira is L number two.</target>
+        <target state="translated">||||||&lt;&lt;Kira is the Second L.</target>
       </trans-unit>
       <trans-unit id="800012" xml:space="preserve" approved="no">
         <source>可能性は７％くらいですが、|そう考えると全てのつじつまが|合います。</source>
@@ -4589,7 +4589,7 @@
       </trans-unit>
       <trans-unit id="823996" xml:space="preserve" approved="no">
         <source>高田清美……|キラとつながってる事は確実だな。&gt;&gt;だが、二代目Ｌがキラだとすると|実際にキラの裁きを続けているのは…</source>
-        <target state="translated">Kiyomi Takada… Well, she’s definitely connected to Kira.&gt;&gt;But if L number two is Kira, then the person actually carrying out Kira’s judgments is…</target>
+        <target state="translated">Kiyomi Takada… Well, she’s definitely connected to Kira.&gt;&gt;But if Second L is Kira, then the person actually carrying out Kira’s judgments is…</target>
       </trans-unit>
       <trans-unit id="778620" xml:space="preserve" approved="no">
         <source>！　ちっ…ニアめ…|そういうことか。</source>
@@ -6861,7 +6861,7 @@
       </trans-unit>
       <trans-unit id="493752" xml:space="preserve" approved="no">
         <source>二代目Ｌ</source>
-        <target state="translated">L number two</target>
+        <target state="translated">Second L</target>
       </trans-unit>
       <trans-unit id="493824" xml:space="preserve" approved="no">
         <source>Ｍｒ．夜神</source>
@@ -8269,7 +8269,7 @@
       </trans-unit>
       <trans-unit id="494717" xml:space="preserve" approved="no">
         <source>キラと二代目Ｌは…</source>
-        <target state="translated">Kira and L number two…</target>
+        <target state="translated">Kira and the Second L…</target>
       </trans-unit>
       <trans-unit id="559121" xml:space="preserve" approved="no">
         <source>最後には正義が勝つんです。|どんな事があっても。</source>
