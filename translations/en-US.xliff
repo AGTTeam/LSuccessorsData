@@ -3321,7 +3321,7 @@
       </trans-unit>
       <trans-unit id="812564" xml:space="preserve" approved="no">
         <source>私の顔を出さなければ見せられない、|顔を出す事でお見せできる事もあり|それで全てが解決します。</source>
-        <target state="translated">I can't show you what it is without showing my face.&gt;&gt;And furthermore, showing my face is what will reveal something to you.|In fact, it will solve everything.</target>
+        <target state="translated">I can't show you what it is without showing my face.&gt;&gt;And furthermore, by showing my face I will be able to reveal something to you. In fact, it will solve everything.</target>
       </trans-unit>
       <trans-unit id="767696" xml:space="preserve" approved="no">
         <source>…いいでしょう。</source>
@@ -3393,7 +3393,7 @@
       </trans-unit>
       <trans-unit id="828164" xml:space="preserve" approved="no">
         <source>２人を倒して裁きが止まったから|『ほら、そうだった』…&gt;&gt;そんな事後承諾的なやり方は|許されません。|私達のやり方ではありません。</source>
-        <target state="translated">Killing two people, making the executions stop, then saying “See, we were right!"…&gt;&gt;That sort of backwards-justification is unforgivable. It is not our type of solution.</target>
+        <target state="translated">Killing two people, making the executions stop, then saying “See, we were right!"…&gt;&gt;That sort of backwards justification is unforgivable. It is not our type of solution.</target>
       </trans-unit>
       <trans-unit id="764892" xml:space="preserve" approved="no">
         <source>私達…？</source>
@@ -3409,7 +3409,7 @@
       </trans-unit>
       <trans-unit id="788292" xml:space="preserve" approved="no">
         <source>デスノートに名前を書かせた上で|そこを押さえます。</source>
-        <target state="translated">Make him write a name in the Death Note, right before everyone’s eyes. That was the only way.</target>
+        <target state="translated">Make him write a name in the Death Note, right before everyone’s eyes. That is the only way.</target>
       </trans-unit>
       <trans-unit id="855764" xml:space="preserve" approved="no">
         <source>この策を成功させるには、|ある準備が絶対に欠かせない。|それを可能にするためのワナも|必要だ。||\T0045\t0002そのワナのエサは……ニア自身！||\T0045\t0002ニアはＮとして、Ｌにある申し出を|した。</source>
@@ -15689,7 +15689,7 @@
       </trans-unit>
       <trans-unit id="542497" xml:space="preserve" approved="no">
         <source>あれはおそらく敵…|なぜだ…なぜ逮捕しない？</source>
-        <target state="translated">That person is likely the enemy… But why… Why haven't they arrested me yet?</target>
+        <target state="translated">That person is likely the enemy… But why… Why haven't they arrested me?</target>
       </trans-unit>
       <trans-unit id="542161" xml:space="preserve" approved="no">
         <source>…尾行されているのか？|このままでは計画が…</source>
