@@ -2829,7 +2829,7 @@
       </trans-unit>
       <trans-unit id="803220" xml:space="preserve" approved="no">
         <source>そこまで僕のことを…わかった…|彼氏にはなれないが、|振りはしてあげられる。</source>
-        <target state="translated">You'd go that far for me...? I understand... I can't be your boyfriend, but I can pretend for you.</target>
+        <target state="translated">You'd go that far for me...? Alright... I can't be your boyfriend, but I can pretend for you.</target>
       </trans-unit>
       <trans-unit id="791324" xml:space="preserve" approved="no">
         <source>ありがとう……|好きになってもらえるように、|がんばる！</source>
@@ -3073,7 +3073,7 @@
       </trans-unit>
       <trans-unit id="879360" xml:space="preserve" approved="no">
         <source>ＦＢＩ捜査官の追求を退けた月。|だが、これで決着がついたとは、|どちらの側も考えてはいなかった。|\T0030\t0002むしろ、この戦いはいよいよ|激しさを増していくであろうという|予感を、両者とも胸に宿していたの|である。|しかし……|\T0045\t0002|そんなふたりの思惑をよそに、|事態はまったく思いもかけない|新たな展開を見せようとしていた。</source>
-        <target state="translated">Light had evaded pursuit by the FBI agents, but neither side believed that this would put an end to things.||\T0030\t0002Deep within their hearts, they felt that their battle would only grow more fierce from here. However... \T0045\t0002||Despite their speculations, the situation took a completely unexpected turn.</target>
+        <target state="translated">Light had evaded pursuit by the FBI agents, but neither side believed that this would put an end to things.||\T0030\t0002Deep within their hearts, they felt that their battle would only grow more fierce from here. However... \T0045\t0002||Despite their calculations, the situation took a completely unexpected turn.</target>
       </trans-unit>
       <trans-unit id="776980" xml:space="preserve" approved="no">
         <source>||||||　　　　　私はキラです。</source>
@@ -3081,7 +3081,7 @@
       </trans-unit>
       <trans-unit id="877060" xml:space="preserve" approved="no">
         <source>自らキラと名乗る者から、|突然、さくらテレビに送られてきた|ビデオテープ。||そこには、キラであることの|証明である予告犯行と、|警察とＬが自分に降伏することを|要求するメッセージが収められて|いたのである。||このテープはさくらテレビによって|放送され、世間は新たなキラの動向|に騒然となったが……</source>
-        <target state="translated">A videotape was suddenly sent to Sakura TV from someone claiming to be Kira.||The tape included proof that the sender was Kira in the form of a murder prediction, as well as a message demanding that both the police and L to surrender to them.||Sakura TV broadcast the tape, and the world was thrown into confusion by this new Kira's arrival…</target>
+        <target state="translated">A videotape was suddenly sent to Sakura TV from someone claiming to be Kira.||The tape included proof that the sender was Kira in the form of a murder prediction, as well as a message demanding that both the police and L surrender to them.||Sakura TV broadcast the tape, and the world was thrown into confusion by this new Kira's arrival…</target>
       </trans-unit>
       <trans-unit id="842168" xml:space="preserve" approved="no">
         <source>このキラは、|キラの偽者の可能性が|高い。&gt;&gt;いや、第２のキラと|言うべきでしょう。|確率は７０％以上です。&gt;&gt;大体やり方が気にいらない…|…キラらしくない……</source>
@@ -3089,11 +3089,11 @@
       </trans-unit>
       <trans-unit id="808676" xml:space="preserve" approved="no">
         <source>キラが２人いることを|鋭く見抜いたＬ。||同時に月も、第２のキラ出現に|考えをめぐらせていた。</source>
-        <target state="translated">L sharply deduced the fact that there were two Kira's.||At the same time, Light thought about this second Kira's emergence.</target>
+        <target state="translated">L sharply deduced the fact that there were two Kiras.||At the same time, Light thought about this second Kira's emergence.</target>
       </trans-unit>
       <trans-unit id="780580" xml:space="preserve" approved="no">
         <source>人間界にもう１匹の死神が|舞い降りた……</source>
-        <target state="translated">Another shinigami has descended to the Human World…</target>
+        <target state="translated">Another Shinigami has descended to the Human World…</target>
       </trans-unit>
       <trans-unit id="799460" xml:space="preserve" approved="no">
         <source>それはもう１冊のデスノートが、|キラに賛同する人間の手に|あるということだ。</source>
@@ -3105,15 +3105,15 @@
       </trans-unit>
       <trans-unit id="863000" xml:space="preserve" approved="no">
         <source>捜査本部は、Ｌの計略により、|第２のキラへの返信を作成した。|本物のキラから第２のキラへ…|…という形の偽造メッセージである。||さくらテレビでこれが放映されるや、|第２のキラはＬの策略とも知らず、|すぐさま返事を送ってきた。</source>
-        <target state="translated">As part of L's plan, the Investigation Unit created a message for the second Kira... a fake message, pretending to be from the real Kira.|As soon as it was broadcast on Sakura TV, the 2nd Kira responded immediately, unaware that they were playing into L's hands.</target>
+        <target state="translated">As part of L's plan, the Investigation Unit created a message for the Second Kira... a fake message, pretending to be from the real Kira.||The Second Kira responded as soon as it was broadcast on Sakura TV, unaware that they were playing right into L's hands.</target>
       </trans-unit>
       <trans-unit id="836984" xml:space="preserve" approved="no">
         <source>『キラさん、|お返事ありがとうございます。|私はキラさんに会いたい』&gt;&gt;『キラさんは目を持ってないと|思いますが、私はキラさんを|殺したりはしません』</source>
-        <target state="translated">Kira, thank you for responding. I want to meet you. I don't think you have the eyes, but I won't try to kill you.</target>
+        <target state="translated">Kira, thank you for responding. I want to meet you. I don't think you have the Eyes, but I won't try to kill you.</target>
       </trans-unit>
       <trans-unit id="792792" xml:space="preserve" approved="no">
         <source>ば……バカかこいつ……！|世間に流れるビデオに目の事を……</source>
-        <target state="translated">I...Idiot...! This tape is being shown around the world, why did you talk about the eyes?</target>
+        <target state="translated">I...Idiot...! This tape is being shown around the world, why did you talk about the Eyes?</target>
       </trans-unit>
       <trans-unit id="848008" xml:space="preserve" approved="no">
         <source>死神の目。||それは見ただけで相手の本名を知り|また相手がデスノートの所有者か|どうかわかる能力。||自分の寿命の半分と引き換えに|死神と取引することで手に入る|奇跡の力だった。</source>
@@ -3141,7 +3141,7 @@
       </trans-unit>
       <trans-unit id="840712" xml:space="preserve" approved="no">
         <source>第２のキラの予想のつかない|立ち回りに、月とＬは困惑の|極地に立たされる。||ふたりの思惑や焦燥を知らぬかの|ように、第２のキラはさらなる|メッセージを送ってきた。</source>
-        <target state="translated">The Second Kira's unexpected behavior left both Light and L dumbfounded.||Oblivious to their thoughts and frustrations, the 2nd Kira sent yet another message.</target>
+        <target state="translated">The Second Kira's unexpected behavior left both Light and L dumbfounded.||Oblivious to their thoughts and frustrations, the Second Kira sent yet another message.</target>
       </trans-unit>
       <trans-unit id="854916" xml:space="preserve" approved="no">
         <source>それは、一見ただの日記の一片。||第２のキラは、これをテレビで|流すように要求する。|どういう意図か測りかね、困惑する|捜査陣。||しかし、これを目にした月は、|そこに隠されたメッセージを見抜く。</source>
@@ -3529,7 +3529,7 @@
       </trans-unit>
       <trans-unit id="851808" xml:space="preserve" approved="no">
         <source>（…そこまで思い詰めていたのか…|こうなると、止めても……）&gt;&gt;（それに、誰かが目を持たなければ|次の策は進まない……）&gt;&gt;……わかったよ、父さん。|目の取引をするなら父さんだ。</source>
-        <target state="translated">(…So he feels that guilty about it?|I didn't realize…)&gt;&gt;(Now that things have happened this way, even if I try to stop him…)&gt;&gt;(…And besides, for the plan to succeed, someone needs to have the eyes…)&gt;&gt;…Okay, Dad.|The one to trade for the eyes will be my dad.</target>
+        <target state="translated">(…So he feels that guilty about it?|I didn't realize…)&gt;&gt;(Now that things have happened this way, even if I try to stop him…)&gt;&gt;(…And besides, for the plan to succeed, someone needs to have the Eyes…)&gt;&gt;…Okay, Dad.|The one to trade for the Eyes will be my dad.</target>
       </trans-unit>
       <trans-unit id="845340" xml:space="preserve" approved="no">
         <source>（ククッ、|ついに父親まで利用かよ？）&gt;&gt;（これでシドウにもノートが戻り、|一件落着にはなりそうだし……）&gt;&gt;（何より総一郎が目の取引して|突入ってのは面白そうだ）</source>
@@ -4281,7 +4281,7 @@
       </trans-unit>
       <trans-unit id="844588" xml:space="preserve" approved="no">
         <source>死神リューク……|デスノートを|人間界にもたらした張本人。||死神界の退屈を嫌った彼は、|わざとノートを人間の手にあずけ、|その行く末を|見守るために人間界にきたのだった。</source>
-        <target state="translated">The one responsible for the Death Note's presence in the human world, the shinigami Ryuk.||Bored of the shinigami world, he deliberately put the notebook in the hands of a human and now came to the human world to watch over its future.</target>
+        <target state="translated">The one responsible for the Death Note's presence in the human world, the Shinigami Ryuk.||Bored of the Shinigami world, he deliberately put the notebook in the hands of a human and now came to the human world to watch over its future.</target>
       </trans-unit>
       <trans-unit id="827696" xml:space="preserve" approved="no">
         <source>そのノートはもう、おまえのものだ。|俺はおまえに何もしない。|ただ……&gt;&gt;デスノートを使った人間が、|天国や地獄に行けると思うな。</source>
@@ -5377,7 +5377,7 @@
       </trans-unit>
       <trans-unit id="565985" xml:space="preserve" approved="no">
         <source>ククク…死神以上に|ずる賢い奴なんて|初めてだぜ。</source>
-        <target state="translated">Kekeke... I've never seen a human with as much cunning as a shinigami before.</target>
+        <target state="translated">Kekeke... I've never seen a human with as much cunning as a Shinigami before.</target>
       </trans-unit>
       <trans-unit id="591501" xml:space="preserve" approved="no">
         <source>これも|新世界のためってやつか？|人間ってのは本当に面白い。</source>
@@ -10697,7 +10697,7 @@
       </trans-unit>
       <trans-unit id="594637" xml:space="preserve" approved="no">
         <source>リュークの奴…|本当にノートの使い方を|ちゃんと知ってるのか？</source>
-        <target state="translated">That shinigami, Ryuk…||Does he even know how to use the Death Note?</target>
+        <target state="translated">That Shinigami, Ryuk…||Does he even know how to use the Death Note?</target>
       </trans-unit>
       <trans-unit id="571417" xml:space="preserve" approved="no">
         <source>警察もＬも、|いずれは僕の偉大さを|思い知るだろう。</source>
@@ -10705,7 +10705,7 @@
       </trans-unit>
       <trans-unit id="518641" xml:space="preserve" approved="no">
         <source>死神界とは|どんな場所なんだろうか…</source>
-        <target state="translated">What sort of place is the shinigami realm?</target>
+        <target state="translated">What sort of place is the Shinigami realm?</target>
       </trans-unit>
       <trans-unit id="598525" xml:space="preserve" approved="no">
         <source>今にこの世界はすべて|善人だけになる。|みんなが幸せになるんだ。</source>
