@@ -2993,7 +2993,7 @@
       </trans-unit>
       <trans-unit id="769720" xml:space="preserve" approved="no">
         <source>？　月くん、どちらへ？</source>
-        <target state="translated">? Where are you going, Light?</target>
+        <target state="translated">...? Where are you going, Light?</target>
       </trans-unit>
       <trans-unit id="775636" xml:space="preserve" approved="no">
         <source>たいしたことない、ヤボ用だよ。</source>
@@ -12453,7 +12453,7 @@
       </trans-unit>
       <trans-unit id="603693" xml:space="preserve" approved="no">
         <source>降りた途端にトラップじゃ|シャレになんないから|気をつけないとな。</source>
-        <target state="translated">I'd better be careful to not fall into a trap when I get off the bus…</target>
+        <target state="translated">I'd better be careful to not fall into a trap when I get off the subway…</target>
       </trans-unit>
       <trans-unit id="616977" xml:space="preserve" approved="no">
         <source>これなら目的地はすぐそこだ。|少しでも広く捜査するには|もってこいってね。</source>
