@@ -3585,7 +3585,7 @@
       </trans-unit>
       <trans-unit id="836288" xml:space="preserve" approved="no">
         <source>『ダメです。やられましたね、Ｌ。|あのミサイルはレーダーでは|追えない型です』&gt;&gt;『自分は別ルートで逃亡し、|ノートは後で回収するつもり|でしょう』</source>
-        <target state="translated">“It’s no use. We’ve been beaten, L."|“That missile is a type that cannot be tracked by radar.”&gt;&gt;“The culprit must have fled via another route and planned to retrieve the notebook later.”</target>
+        <target state="translated">“It’s no use. We’ve been beaten, L.|That missile is a type that cannot be tracked by radar.”&gt;&gt;“The culprit must have fled via another route and planned to retrieve the notebook later.”</target>
       </trans-unit>
       <trans-unit id="768876" xml:space="preserve" approved="no">
         <source>（……くそっ……！）</source>
@@ -4217,7 +4217,7 @@
       </trans-unit>
       <trans-unit id="786076" xml:space="preserve" approved="no">
         <source>！……二代目？|どういうことですか？　あなたは？</source>
-        <target state="translated">! …Number two? What do you mean by that? …And who might you be?</target>
+        <target state="translated">! …Second? What do you mean by that? …And who might you be?</target>
       </trans-unit>
       <trans-unit id="802220" xml:space="preserve" approved="no">
         <source>『私達はＬに頼らず|キラを捕まえるために|新しく創られた組織、ＳＰＫです』</source>
@@ -13181,7 +13181,7 @@
       </trans-unit>
       <trans-unit id="604917" xml:space="preserve" approved="no">
         <source>こいつで敵を囲い込み、|こちらの捜査網に|誘導できればベストだな。</source>
-        <target state="translated">It's our best bet to cut off the enemy with this and herd them into the path of the investigation.</target>
+        <target state="translated">Our best bet is to cut off the enemy with this and herd them into our path.</target>
       </trans-unit>
       <trans-unit id="591245" xml:space="preserve" approved="no">
         <source>どうやら敵の囲い込みに|失敗したようだな。|仕方ないだろう。</source>
