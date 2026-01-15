@@ -2393,7 +2393,7 @@
       </trans-unit>
       <trans-unit id="872580" xml:space="preserve" approved="no">
         <source>死神シドウ。||キラのデスノートの本来の所有者。|それは今、メロの元にある。||うっかり落としたノートを|リュークに拾われ、|人間界に持ち去られたと知り、|あわてて追かけてきたのだった。||だが、少しドジで|頭のにぶいシドウは、メロにうまく|丸め込まれてしまう…</source>
-        <target state="translated">This was the Shinigami Sidoh. He was the original owner of Kira's Death Note, which was currently with Mello.||Ryuk had picked up Sidoh's Note after Sidoh had carelessly dropped it, and hearing that Ryuk had brought it into the Human World, Sidoh was anxious to get it back.||But Sidoh, not being very bright, was easily swayed by Mello's next words…</target>
+        <target state="translated">This was the Shinigami Sidoh. He was the original owner of Kira's Death Note, which was currently with Mello.||Ryuk had picked up Sidoh's Note after Sidoh had carelessly dropped it and, hearing that Ryuk had brought it into the Human World, Sidoh was anxious to get it back.||But Sidoh, not being very bright, was easily swayed by Mello's next words…</target>
       </trans-unit>
       <trans-unit id="823436" xml:space="preserve" approved="no">
         <source>シドウ、|人間界にノートはもう１冊ある。|それを奪う手助けをしろ。&gt;&gt;うまく行ったら、１冊はおまえに|返してやる。</source>
@@ -2405,7 +2405,7 @@
       </trans-unit>
       <trans-unit id="806948" xml:space="preserve" approved="no">
         <source>だが、まずはこのアジトから|逃げ出す手助けをしろ。|表の特殊部隊を何とかするんだ。</source>
-        <target state="translated">But first, you have to help us get out of this hideout. Do something to deal with the special task force in front.</target>
+        <target state="translated">But first, you have to help us get out of this hideout. Do something to deal with the special task force out front.</target>
       </trans-unit>
       <trans-unit id="795596" xml:space="preserve" approved="no">
         <source>…それならそのノートで|トラップが使えるように|してあげるよ。</source>
@@ -3065,7 +3065,7 @@
       </trans-unit>
       <trans-unit id="786868" xml:space="preserve" approved="no">
         <source>『特殊部隊だ！|入り口の監視カメラに映ってる！』</source>
-        <target state="translated">“It's a special task force! They're on the cameras out front at the entrance!"</target>
+        <target state="translated">“It's a special task force! They're on the cameras at the front entrance!"</target>
       </trans-unit>
       <trans-unit id="811056" xml:space="preserve" approved="no">
         <source>何だと？　なぜこのアジトが！？|ちっ、逃げるか……それとも…|…何とか奴らを撃退する手は…</source>
@@ -16257,7 +16257,7 @@
       </trans-unit>
       <trans-unit id="563177" xml:space="preserve" approved="no">
         <source>この辺りは封鎖した。|これで奴等は袋のネズミだ。</source>
-        <target state="translated">This area's closed off. Now they've got nowhere to run, like catching rats in a bag.</target>
+        <target state="translated">This area's closed off. Now we've got them backed into a corner.</target>
       </trans-unit>
       <trans-unit id="615533" xml:space="preserve" approved="no">
         <source>こちらの網にはかからんか。|なかなかしぶとい相手だ。|別の手を考えよう。</source>
