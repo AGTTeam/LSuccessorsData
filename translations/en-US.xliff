@@ -3497,7 +3497,7 @@
       </trans-unit>
       <trans-unit id="809572" xml:space="preserve" approved="no">
         <source>キラからの連絡通り、|デスノートが捜査本部に届けられた。||しかも、死神リュークが|直接運んで…</source>
-        <target state="translated">The Death Note arrived at the investigation quarters, just as Kira had promised.||In fact, it was escorted there personally by the Shinigami Ryuk.</target>
+        <target state="translated">The Death Note arrived at the investigation headquarters, just as Kira had promised.||In fact, it was escorted there personally by the Shinigami Ryuk.</target>
       </trans-unit>
       <trans-unit id="833544" xml:space="preserve" approved="no">
         <source>これがキラのノートです。どうぞ。&gt;&gt;（ククク……俺がこんな芝居に|つきあってやってるんだ）&gt;&gt;（さぞ面白いものを|見せてくれるんだろうな……月）</source>
@@ -6585,7 +6585,7 @@
       </trans-unit>
       <trans-unit id="613432" xml:space="preserve" approved="no">
         <source>メロ達を確保してください。|死神と接触するとトラップ|を無効化できます。</source>
-        <target state="translated">Arrest Mello and his companions. Contacting the Shinigami will nullify the traps.</target>
+        <target state="translated">Arrest Mello and his companions. Contacting the Shinigami will nullify traps.</target>
       </trans-unit>
       <trans-unit id="609976" xml:space="preserve" approved="no">
         <source>死神と接触する為に『総一郎』|はチェックポイントに|向かってください。</source>
