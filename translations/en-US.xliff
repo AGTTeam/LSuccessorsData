@@ -9253,7 +9253,7 @@
       </trans-unit>
       <trans-unit id="551329" xml:space="preserve" approved="no">
         <source>障害は取り除いた。|今のうちに行動しなければ。</source>
-        <target state="translated">I've removed the obstacles.|I should act while I have this chance.</target>
+        <target state="translated">I've removed this obstacle.|I should act while I have the chance.</target>
       </trans-unit>
       <trans-unit id="567181" xml:space="preserve" approved="no">
         <source>これでしばらく反逆者どもは|動きが取れないだろう。</source>
@@ -9337,7 +9337,7 @@
       </trans-unit>
       <trans-unit id="542785" xml:space="preserve" approved="no">
         <source>いいわ、ノートを渡します。|あとは任せるわ。</source>
-        <target state="translated">Sure, I'll give you the Note. I'll leave the rest to you!</target>
+        <target state="translated">Alright, I'll give you the Note. I'll leave the rest to you!</target>
       </trans-unit>
       <trans-unit id="542833" xml:space="preserve" approved="no">
         <source>あとは頼んだわ。|デスノート、うまく使って。</source>
@@ -9689,7 +9689,7 @@
       </trans-unit>
       <trans-unit id="588813" xml:space="preserve" approved="no">
         <source>ここはとりあえず、|そっちにノートを渡す。|あとは任せるぜ。</source>
-        <target state="translated">I’m passing the Death Note onto you for now.|I’ll leave the rest to ya.</target>
+        <target state="translated">I’m passing the Death Note on to you for now.|I’ll leave the rest to ya.</target>
       </trans-unit>
       <trans-unit id="576401" xml:space="preserve" approved="no">
         <source>このノート、|うまく使っていかなきゃ損だ。|頼んだぞ。</source>
@@ -13445,7 +13445,7 @@
       </trans-unit>
       <trans-unit id="550801" xml:space="preserve" approved="no">
         <source>今から地下鉄で敵を追います。|地上は頼みます。</source>
-        <target state="translated">I'm going to take the subway to chase down the enemy.|I leave the ground to you.#gevanni start</target>
+        <target state="translated">I'm going to take the subway to chase down the enemy.|I leave above-ground to you.#gevanni start</target>
       </trans-unit>
       <trans-unit id="541681" xml:space="preserve" approved="no">
         <source>こちらジェバンニ。|敵を地下鉄で追跡します。</source>
@@ -15993,7 +15993,7 @@
       </trans-unit>
       <trans-unit id="582809" xml:space="preserve" approved="no">
         <source>聞こえるか？|こちらは地下鉄を使う。|地上の捜索は頼む。</source>
-        <target state="translated">Can you hear me? I'm about to get on the subway. I'll leave the aboveground search to you.</target>
+        <target state="translated">Can you hear me? I'm about to get on the subway. I'll leave the above-ground search to you.</target>
       </trans-unit>
       <trans-unit id="591373" xml:space="preserve" approved="no">
         <source>高速バスか。|捜索範囲は広い方がいい。|好都合な移動手段だ。</source>
