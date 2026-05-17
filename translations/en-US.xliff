@@ -7889,7 +7889,7 @@
       </trans-unit>
       <trans-unit id="582268" xml:space="preserve" approved="no">
         <source>やってくれますね。|しかし、&lt;name&gt;が|しぶとくて助かります。</source>
-        <target state="translated">So we've been had. It's lucky &lt;name&gt; is so resilient.</target>
+        <target state="translated">So we've been had. It's lucky|&lt;name&gt; is so resilient.</target>
       </trans-unit>
       <trans-unit id="525448" xml:space="preserve" approved="no">
         <source>…&lt;name&gt;が|無事なだけで|良しとしましょう。</source>
@@ -7897,7 +7897,7 @@
       </trans-unit>
       <trans-unit id="558392" xml:space="preserve" approved="no">
         <source>やられましたか…|ですが、&lt;name&gt;が|無事でよかった。</source>
-        <target state="translated">Have we been had…? But, I'm glad &lt;name&gt; is unhurt.</target>
+        <target state="translated">Have we been had…? But, I'm|glad &lt;name&gt; is unhurt.</target>
       </trans-unit>
       <trans-unit id="514760" xml:space="preserve" approved="no">
         <source>なんでしょう、|イヤな予感がします。</source>
@@ -8153,11 +8153,11 @@
       </trans-unit>
       <trans-unit id="566296" xml:space="preserve" approved="no">
         <source>やってくれますね。|&lt;name&gt;が無事で|ラッキーでしたが。</source>
-        <target state="translated">We’ve been had. It’s lucky &lt;name&gt; is alright, at least.</target>
+        <target state="translated">We’ve been had. It’s lucky|&lt;name&gt; is alright, at least.</target>
       </trans-unit>
       <trans-unit id="573096" xml:space="preserve" approved="no">
         <source>やられました。|ですが&lt;name&gt;が|無事なら、まだいけます。</source>
-        <target state="translated">We’ve been had. But as long as &lt;name&gt; is safe now,|we can still carry on.</target>
+        <target state="translated">We’ve been had. But as long as|&lt;name&gt; is safe now,|we can still carry on.</target>
       </trans-unit>
       <trans-unit id="518440" xml:space="preserve" approved="no">
         <source>なんでしょう、|イヤな予感がします。</source>
@@ -8401,7 +8401,7 @@
       </trans-unit>
       <trans-unit id="578304" xml:space="preserve" approved="no">
         <source>くそっ…やってくれるな。|でも、&lt;name&gt;が|無事でよかった。</source>
-        <target state="translated">Dammit… They got us. But I’m glad &lt;name&gt; wasn't hurt.</target>
+        <target state="translated">Dammit… They got us. But I’m|glad &lt;name&gt; wasn't hurt.</target>
       </trans-unit>
       <trans-unit id="518840" xml:space="preserve" approved="no">
         <source>してやられた。|&lt;name&gt;は|大丈夫なのか…？</source>
