@@ -1,1 +1,1 @@
-206e87c=1If an investigator activates a trap, the poor sod will be out of the game.|
+206e87c=1If an investigator activates|a trap,|the poor bastard will be out of|the game.|

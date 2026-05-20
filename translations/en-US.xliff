@@ -657,7 +657,7 @@
       </trans-unit>
       <trans-unit id="879712" xml:space="preserve" approved="no">
         <source>\c04『勝利ポイント』\c02は、|キラ側と捜査側でどちらが|\c04優勢\c02か表したものだ。&gt;&gt;シングルモードや対戦時の|一部のステージで、|規定ターンを過ぎた場合、&gt;&gt;\c04勝利ポイントで勝敗を決する\c02。|勝利ポイントは|以下の行動で増加する。&gt;&gt;\c04『規定ターン数を逃げ切る』|『捜査員をリタイアさせる』|『チェックポイントを訪れる』\c02</source>
-        <target state="translated">\c04Victory Points\c02 show who currently \c04has the advantage\c02, Team Kira or the investigators.&gt;&gt;In some stages of both single-player mode and versus mode, \c04when there are no turns left\c02,&gt;&gt;the number of Victory Points \c04decides who wins\c02. The following actions will increase Victory Points: &gt;&gt;\c04Escaping within the set number of turns, eliminating an investigator, or visiting a checkpoint\c02.</target>
+        <target state="translated">\c04Victory Points\c02 show who currently \c04has the advantage\c02, Team Kira or the investigators.&gt;&gt;In some stages of both single-player mode and versus mode, \c04when there are no turns left\c02,&gt;&gt;the number of Victory Points \c04decides who wins\c02. The following actions will increase Victory Points: &gt;&gt;\c04Escaping within the set number of turns, eliminating an investigator, or visiting a checkpoint.\c02</target>
       </trans-unit>
       <trans-unit id="839096" xml:space="preserve" approved="no">
         <source>もし、『勝利ポイント』が|同点の場合は、僕ら|\c04キラ側の『勝利』\c02となる。&gt;&gt;僕らの勝利を確実にするためには、|必要なコトだ。|心に留めておくといい。</source>
@@ -6793,7 +6793,7 @@
       </trans-unit>
       <trans-unit id="493992" xml:space="preserve" approved="no">
         <source>シブタクさん</source>
-        <target state="translated">Mr. Shibutaku</target>
+        <target state="translated">Shibutaku</target>
       </trans-unit>
       <trans-unit id="493428" xml:space="preserve" approved="no">
         <source>月くん</source>
@@ -6801,7 +6801,7 @@
       </trans-unit>
       <trans-unit id="493548" xml:space="preserve" approved="no">
         <source>ミサさん</source>
-        <target state="translated">Miss Misa</target>
+        <target state="translated">Misa</target>
       </trans-unit>
       <trans-unit id="493276" xml:space="preserve" approved="no">
         <source>ニア</source>
@@ -6813,19 +6813,19 @@
       </trans-unit>
       <trans-unit id="493632" xml:space="preserve" approved="no">
         <source>松田さん</source>
-        <target state="translated">Mr. Matsuda</target>
+        <target state="translated">Matsuda</target>
       </trans-unit>
       <trans-unit id="493584" xml:space="preserve" approved="no">
         <source>模木さん</source>
-        <target state="translated">Mr. Mogi</target>
+        <target state="translated">Mogi</target>
       </trans-unit>
       <trans-unit id="493572" xml:space="preserve" approved="no">
         <source>相沢さん</source>
-        <target state="translated">Mr. Aizawa</target>
+        <target state="translated">Aizawa</target>
       </trans-unit>
       <trans-unit id="493560" xml:space="preserve" approved="no">
         <source>伊出さん</source>
-        <target state="translated">Mr. Ide</target>
+        <target state="translated">Ide</target>
       </trans-unit>
       <trans-unit id="494056" xml:space="preserve" approved="no">
         <source>レスター指揮官</source>
@@ -6841,15 +6841,15 @@
       </trans-unit>
       <trans-unit id="493716" xml:space="preserve" approved="no">
         <source>レイさん</source>
-        <target state="translated">Mr. Raye</target>
+        <target state="translated">Raye</target>
       </trans-unit>
       <trans-unit id="493836" xml:space="preserve" approved="no">
         <source>ナオミさん</source>
-        <target state="translated">Miss Naomi</target>
+        <target state="translated">Naomi</target>
       </trans-unit>
       <trans-unit id="493620" xml:space="preserve" approved="no">
         <source>大山さん</source>
-        <target state="translated">Miss Ooyama</target>
+        <target state="translated">Ooyama</target>
       </trans-unit>
       <trans-unit id="493356" xml:space="preserve" approved="no">
         <source>護衛</source>
@@ -7793,7 +7793,7 @@
       </trans-unit>
       <trans-unit id="507700" xml:space="preserve" approved="no">
         <source>うまくいきましたね。|これなら…</source>
-        <target state="translated">That went well.|Then our next move should be…</target>
+        <target state="translated">That went well. Then, our next move should be…</target>
       </trans-unit>
       <trans-unit id="505504" xml:space="preserve" approved="no">
         <source>なるほど、|そう動きましたか。</source>
@@ -8113,7 +8113,7 @@
       </trans-unit>
       <trans-unit id="507340" xml:space="preserve" approved="no">
         <source>放置しすぎかも|しれないですね。</source>
-        <target state="translated">We may have placed too many.</target>
+        <target state="translated">We may have been a bit neglectful.#survelliance down</target>
       </trans-unit>
       <trans-unit id="510112" xml:space="preserve" approved="no">
         <source>少しくらい壊れても|かまいません。</source>
@@ -8249,7 +8249,7 @@
       </trans-unit>
       <trans-unit id="558964" xml:space="preserve" approved="no">
         <source>いよいよ最後の仕上げです。|皆さん、いいですね？</source>
-        <target state="translated">It’s time for the final blow.|Is everyone ready?</target>
+        <target state="translated">It’s time to end this.|Is everyone ready?</target>
       </trans-unit>
       <trans-unit id="566400" xml:space="preserve" approved="no">
         <source>我々の勝ちは決まりです。|仕上げにかかりましょう。</source>
@@ -8441,7 +8441,7 @@
       </trans-unit>
       <trans-unit id="511840" xml:space="preserve" approved="no">
         <source>まだだ…|まだ何か手があるはずだ。</source>
-        <target state="translated">There’s still time… There has to be something we can use.</target>
+        <target state="translated">There’s still time… There has to be something we can do.</target>
       </trans-unit>
       <trans-unit id="509860" xml:space="preserve" approved="no">
         <source>やった！|勝てる…これなら勝てる！</source>
@@ -8821,7 +8821,7 @@
       </trans-unit>
       <trans-unit id="564268" xml:space="preserve" approved="no">
         <source>これで警察をやっつければ、|ライトの計画通りに…</source>
-        <target state="translated">If I can beat the police with this, Light's plan should go perfectly…</target>
+        <target state="translated">If I can beat the police with this, Light's plan should go perfectly…#bottom</target>
       </trans-unit>
       <trans-unit id="496648" xml:space="preserve" approved="no">
         <source>ミサ、うまくやったよ！</source>
@@ -9357,7 +9357,7 @@
       </trans-unit>
       <trans-unit id="526856" xml:space="preserve" approved="no">
         <source>これで敵を倒せば、|月くんの計画通りに…</source>
-        <target state="translated">If I can take down an enemy with this, then it'll all be as Light planned…</target>
+        <target state="translated">If I can stop an enemy with this, then it'll all be as Light planned.</target>
       </trans-unit>
       <trans-unit id="581008" xml:space="preserve" approved="no">
         <source>これも新世界のため…|敵は排除しなければ|いけないのよ。</source>
@@ -10389,7 +10389,7 @@
       </trans-unit>
       <trans-unit id="608176" xml:space="preserve" approved="no">
         <source>トラップに引っかかった|捜査員は、かわいそうだが|そこでリタイアだ。</source>
-        <target state="translated">If an investigator activates a trap,|the poor sod will be out of the game.</target>
+        <target state="translated">If an investigator is stupid enough to step on a trap, they'll be done for.</target>
       </trans-unit>
       <trans-unit id="625140" xml:space="preserve" approved="no">
         <source>トラップは設置して|２ターンしか効かない。|捜査員の動きを推理して|設置するんだ。</source>
@@ -10657,7 +10657,7 @@
       </trans-unit>
       <trans-unit id="525120" xml:space="preserve" approved="no">
         <source>よくやった。|いいぞ、おまえは使える。</source>
-        <target state="translated">Good job.|Alright, you can use it.#What's the context of this?</target>
+        <target state="translated">Good job.|This will help us.#checkpoint reached</target>
       </trans-unit>
       <trans-unit id="498244" xml:space="preserve" approved="no">
         <source>よし、ここまでは順調か…</source>
@@ -10769,7 +10769,7 @@
       </trans-unit>
       <trans-unit id="560576" xml:space="preserve" approved="no">
         <source>これで警察をやっつければ、|ライトの計画通りに…</source>
-        <target state="translated">If I can beat the police with this, Light's plan should go perfectly…</target>
+        <target state="translated">If I can beat the police with this,|Light's plan should go perfectly…#top</target>
       </trans-unit>
       <trans-unit id="565412" xml:space="preserve" approved="no">
         <source>ごめんなさい！|ライトのために…|…消えちゃって！</source>
@@ -11757,7 +11757,7 @@
       </trans-unit>
       <trans-unit id="590412" xml:space="preserve" approved="no">
         <source>デスノートか。|こんなアブナイもん、|人には渡したくないね。</source>
-        <target state="translated">The Death Note, huh. I don't really want to hand something this dangerous to people.</target>
+        <target state="translated">The Death Note, huh. I wouldn't want to hand something this dangerous to anyone.</target>
       </trans-unit>
       <trans-unit id="529628" xml:space="preserve" approved="no">
         <source>俺はキラもニアも|どうでもいいんだがな。</source>
@@ -11765,7 +11765,7 @@
       </trans-unit>
       <trans-unit id="582028" xml:space="preserve" approved="no">
         <source>どうも頭脳戦ってのは|性に合わないな。|派手に行こうぜ！</source>
-        <target state="translated">Anyway, battles of wits just don't suit me.|I like being flashy, baby!</target>
+        <target state="translated">Battles of wits just don't suit me.|I like being flashy, baby!</target>
       </trans-unit>
       <trans-unit id="545568" xml:space="preserve" approved="no">
         <source>メロも損な性格だな。|悪い奴じゃないんだが。</source>
