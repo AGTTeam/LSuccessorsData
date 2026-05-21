@@ -9,3 +9,4 @@ fontdata.bin
 *.xdelta
 .DS_Store
 *.sav
+*_TEMP
