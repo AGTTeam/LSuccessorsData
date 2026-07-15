@@ -2617,15 +2617,15 @@
       </trans-unit>
       <trans-unit id="770344" xml:space="preserve" approved="no">
         <source>||||||　　　　　　特殊移動</source>
-        <target state="translated">||||||&lt;&lt;Special Movement</target>
+        <target state="translated">||||||&lt;&lt;Transport</target>
       </trans-unit>
       <trans-unit id="849388" xml:space="preserve" approved="no">
         <source>マップ上には、通常の移動|よりも優れた移動の方法が|存在する。&gt;&gt;\c04『地下鉄』『水上バス』|『高速バス』『ヘリ』\c02など&gt;&gt;これらの移動方法を|\c04『特殊移動』\c02と呼ぶ。</source>
-        <target state="translated">On the map, there are ways to move around that are superior to just walking down a street. &gt;&gt;These \c04Special Movements\c02 include \c04the subway, water-buses, express buses, and helicopters\c02.</target>
+        <target state="translated">On the map, there are ways to move around that are superior to just walking down a street. &gt;&gt;These \c04Transport Methods\c02 include \c04the subway, water-buses, express buses, and helicopters\c02.</target>
       </trans-unit>
       <trans-unit id="800864" xml:space="preserve" approved="no">
         <source>特殊移動を行うには、|特殊移動の\c04『ターミナル』\c02に|移動する必要がある。</source>
-        <target state="translated">To use Special Movement, you must first move to a Special Movement \c04Terminal\c02.</target>
+        <target state="translated">To use Transport, you must first move to a Transport \c04Terminal\c02.</target>
       </trans-unit>
       <trans-unit id="812216" xml:space="preserve" approved="no">
         <source>ターミナルに入ったら、|移動先を選択する。&gt;&gt;ラインで繋がった\c04ターミナル\c02|をタッチするんだ。</source>
@@ -2637,15 +2637,15 @@
       </trans-unit>
       <trans-unit id="872860" xml:space="preserve" approved="no">
         <source>特殊移動を実行すると、|移動先のターミナルから|出現する。&gt;&gt;ただし、\c04特殊移動したターン\c02は|移動ポイントが\c04残っていても|移動することは出来ない\c02。&gt;&gt;特殊移動は、僕らにとって|大変有効な移動手段となる。&gt;&gt;捜査員から逃亡するのに|利用しない手はない。</source>
-        <target state="translated">Once you've completed the Special Movement, you’ll arrive at your destination terminal.&gt;&gt;However, note that \c04on turns where you use Special Movement\c02, you can’t move any further \c04even if you have Movement Points left\c02.&gt;&gt;Special Movement is a very effective method for us to move around.&gt;&gt;There’s no way you’ll escape the investigators without it.</target>
+        <target state="translated">Once you've completed the movement, you’ll arrive at your destination terminal.&gt;&gt;However, note that \c04on turns where you use Transport\c02, you can’t move any further \c04even if you have Transport Points left\c02.&gt;&gt;Taking transport is a very effective method for us to move around.&gt;&gt;There’s no way you’ll escape the investigators without it.</target>
       </trans-unit>
       <trans-unit id="847048" xml:space="preserve" approved="no">
         <source>たが、注意点が１つある。|特殊移動には\c04『特殊移動ポイント』\c02|が必要となる。&gt;&gt;序盤から特殊移動を多用すると|いざというときにポイントが|不足するかもしれない。</source>
-        <target state="translated">But there’s one more thing you should know. Special Movement requires \c04Special Movement Points\c02.&gt;&gt;If you overuse Special Movement early on, you might end up short on points when you really need them.</target>
+        <target state="translated">But there’s one more thing you should know. Taking transport requires \c04Transport Points\c02.&gt;&gt;If you overuse Transport early on, you might end up short on points when you really need them.</target>
       </trans-unit>
       <trans-unit id="832704" xml:space="preserve" approved="no">
         <source>また、特殊移動ポイントは|\c04ステータス画面\c02から|確認することが出来る。&gt;&gt;残りのポイントを確認して|使い所をよく考えてから|行動するんだ。</source>
-        <target state="translated">You can check how many Special Movement Points you have left from the \c04Status Screen\c02.&gt;&gt;Think carefully about how to use these points before moving.</target>
+        <target state="translated">You can check how many Transport Points you have left from the \c04Status Screen\c02.&gt;&gt;Think carefully about how to use these points before moving.</target>
       </trans-unit>
       <trans-unit id="843460" xml:space="preserve" approved="no">
         <source>（非通知着信……|\T0060\t0002…『確認』……やった！|\T0060\t0002これは魅上からの合図…）&gt;&gt;（ニアは思いの他、早く|魅上にたどり着いた。|しかし、これでいい…）</source>
@@ -2717,11 +2717,11 @@
       </trans-unit>
       <trans-unit id="835600" xml:space="preserve" approved="no">
         <source>ただし、特殊移動には|\c04『特殊移動ポイント』\c02が必要です。&gt;&gt;序盤から特殊移動を多用すると|いざというときにポイントが|不足するかもしれません。</source>
-        <target state="translated">However, Special Movement requires \c04Special Movement Points\c02.&gt;&gt;If you overuse Special Movement from the very start of a match,&gt;&gt;you may find yourself short on points when you really need them.</target>
+        <target state="translated">However, Special Movement requires \c04Transport Points\c02.&gt;&gt;If you overuse Special Movement from the very start of a match,&gt;&gt;you may find yourself short on points when you really need them.</target>
       </trans-unit>
       <trans-unit id="837864" xml:space="preserve" approved="no">
         <source>また、特殊移動ポイントは|\c04ステータス画面\c02から|確認することができます。&gt;&gt;残りのポイントを確認して|使い所をよく考えてから|指示を出してください。</source>
-        <target state="translated">You can check the remaining number of Special Movement Points from the \c04Profile Screen\c02. &gt;&gt;Think carefully about how to use these points before giving an order.</target>
+        <target state="translated">You can check the remaining number of Transport Points from the \c04Profile Screen\c02. &gt;&gt;Think carefully about how to use these points before giving an order.</target>
       </trans-unit>
       <trans-unit id="777036" xml:space="preserve" approved="no">
         <source>やりましたね。|我々の勝ちです。</source>
@@ -4289,7 +4289,7 @@
       </trans-unit>
       <trans-unit id="870940" xml:space="preserve" approved="no">
         <source>……ふ……ふふ……\T0030|\t0002ありがとう、リューク。|いいものをくれたよ。&gt;&gt;僕は、このノートで|世界を変えてやる。&gt;&gt;腐った人間を片っ端から排除し、|僕が認めた善良な人間だけの|世界を創る…&gt;&gt;そして、僕は…\T0030|\t0000新世界の神になる！</source>
-        <target state="translated">Heh...heheh....\T0030|\t0002I should be thanking you, Ryuk.&gt;&gt;With this notebook, I am going to change the world.&gt;&gt;I will eliminate all the rotten humans leaving only those I judge to be good people.&gt;&gt;Then I...\T0030\t0000 will become the god of this new world!</target>
+        <target state="translated">Heh...heheh...\T0030|\t0002I should be thanking you, Ryuk.&gt;&gt;With this notebook, I am going to change the world.&gt;&gt;I will eliminate all the rotten humans leaving only those I judge to be good people.&gt;&gt;Then I...\T0030\t0000 will become the god of this new world!</target>
       </trans-unit>
       <trans-unit id="780708" xml:space="preserve" approved="no">
         <source>（やっぱり……\T0030\t0000人間て面白！）</source>
@@ -4357,7 +4357,7 @@
       </trans-unit>
       <trans-unit id="804124" xml:space="preserve" approved="no">
         <source>『し……信じられない|…キラ、おまえは直接手を出さずに|こんな事ができるのか』</source>
-        <target state="translated">“I had to test this just in case, but I... I never thought it would really happen.."&gt;&gt;“Kira, it seems you can kill people without having to be there in person."</target>
+        <target state="translated">“I had to test this just in case, but I... I never thought it would really happen..."&gt;&gt;“Kira, it seems you can kill people without having to be there in person."</target>
       </trans-unit>
       <trans-unit id="765340" xml:space="preserve" approved="no">
         <source>何っ！？</source>
@@ -5533,7 +5533,7 @@
       </trans-unit>
       <trans-unit id="588448" xml:space="preserve" approved="no">
         <source>特殊移動ポイントを|消費せずに、特殊移動する|ことができる。</source>
-        <target state="translated">Allows you to execute a Special Movement without using Special Movement Points.#Takada support ability 報道特権</target>
+        <target state="translated">Allows you to execute a Special Movement without using Transport Points.#Takada support ability 報道特権</target>
       </trans-unit>
       <trans-unit id="584488" xml:space="preserve" approved="no">
         <source>実行すると、その時点での|移動ポイントが|１．４倍になる。</source>
@@ -6465,15 +6465,15 @@
       </trans-unit>
       <trans-unit id="619104" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　２６|特殊移動ポイント　　４０|トラップ設置数　　　０９</source>
-        <target state="translated">Turn limit 26|Special movement 40|Traps 09</target>
+        <target state="translated">Turn limit 26|Transport points 40|Traps 09</target>
       </trans-unit>
       <trans-unit id="620700" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１５|特殊移動ポイント　　２０|トラップ設置数　　　０６</source>
-        <target state="translated">Turn limit 15|Special movement 20|Traps 06</target>
+        <target state="translated">Turn limit 15|Transport points 20|Traps 06</target>
       </trans-unit>
       <trans-unit id="619180" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１３|特殊移動ポイント　　２０|トラップ設置数　　　０４</source>
-        <target state="translated">Turn limit 13|Special movement 20|Traps 04</target>
+        <target state="translated">Turn limit 13|Transport points 20|Traps 04</target>
       </trans-unit>
       <trans-unit id="627172" xml:space="preserve" approved="no">
         <source>第２のキラと接触を図ります。|捜査員を避けながらチェック|ポイントに向かってください。</source>
@@ -6481,15 +6481,15 @@
       </trans-unit>
       <trans-unit id="619256" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　２６|特殊移動ポイント　　６０|トラップ設置数　　　１２</source>
-        <target state="translated">Turn limit 26|Special movement 60|Traps 12</target>
+        <target state="translated">Turn limit 26|Transport points 60|Traps 12</target>
       </trans-unit>
       <trans-unit id="619332" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１５|特殊移動ポイント　　４０|トラップ設置数　　　０８</source>
-        <target state="translated">Turn limit 15|Special movement 40|Traps 08</target>
+        <target state="translated">Turn limit 15|Transport points 40|Traps 08</target>
       </trans-unit>
       <trans-unit id="619408" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１３|特殊移動ポイント　　４０|トラップ設置数　　　０６</source>
-        <target state="translated">Turn limit 13|Special movement 40|Traps 06</target>
+        <target state="translated">Turn limit 13|Transport points 40|Traps 06</target>
       </trans-unit>
       <trans-unit id="506152" xml:space="preserve" approved="no">
         <source>ヨツバ幹部を確保して|ください。</source>
@@ -6497,15 +6497,15 @@
       </trans-unit>
       <trans-unit id="631000" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　３０|特殊移動ポイント　　４０|隠しカメラ設置数　　０４|検問設置数　　　　　０３</source>
-        <target state="translated">Turn limit 30|Special movement 40|Hidden cameras 04|Roadblocks 03</target>
+        <target state="translated">Turn limit 30|Transport points 40|Hidden cameras 04|Roadblocks 03</target>
       </trans-unit>
       <trans-unit id="631104" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１９|特殊移動ポイント　　３５|隠しカメラ設置数　　０３|検問設置数　　　　　０２</source>
-        <target state="translated">Turn limit 19|Special movement 35|Hidden cameras 03|Roadblocks 02</target>
+        <target state="translated">Turn limit 19|Transport points 35|Hidden cameras 03|Roadblocks 02</target>
       </trans-unit>
       <trans-unit id="631208" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１６|特殊移動ポイント　　２０|隠しカメラ設置数　　０３|検問設置数　　　　　０２</source>
-        <target state="translated">Turn limit 16|Special movement 20|Hidden cameras 03|Roadblocks 02</target>
+        <target state="translated">Turn limit 16|Transport points 20|Hidden cameras 03|Roadblocks 02</target>
       </trans-unit>
       <trans-unit id="625392" xml:space="preserve" approved="no">
         <source>火口が松田を捜索しています。|火口が松田を発見する前に、|火口を確保してください。</source>
@@ -6513,15 +6513,15 @@
       </trans-unit>
       <trans-unit id="631312" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　２５|特殊移動ポイント　　６０|隠しカメラ設置数　　０４|検問設置数　　　　　０４</source>
-        <target state="translated">Turn limit 25|Special movement 60|Hidden cameras 04|Roadblocks 04</target>
+        <target state="translated">Turn limit 25|Transport points 60|Hidden cameras 04|Roadblocks 04</target>
       </trans-unit>
       <trans-unit id="631416" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１３|特殊移動ポイント　　４０|隠しカメラ設置数　　０３|検問設置数　　　　　０３</source>
-        <target state="translated">Turn limit 13|Special movement 40|Hidden cameras 03|Roadblocks 03</target>
+        <target state="translated">Turn limit 13|Transport points 40|Hidden cameras 03|Roadblocks 03</target>
       </trans-unit>
       <trans-unit id="631520" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１１|特殊移動ポイント　　４０|隠しカメラ設置数　　０３|検問設置数　　　　　０３</source>
-        <target state="translated">Turn limit 11|Special movement 40|Hidden cameras 03|Roadblocks 03</target>
+        <target state="translated">Turn limit 11|Transport points 40|Hidden cameras 03|Roadblocks 03</target>
       </trans-unit>
       <trans-unit id="633300" xml:space="preserve" approved="no">
         <source>ノートを回収する為に『月』|はチェックポイントに向かっ|てください。回収後、捜査員|をリタイアさせてください。</source>
@@ -6533,15 +6533,15 @@
       </trans-unit>
       <trans-unit id="619484" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　３８|特殊移動ポイント　　８０|トラップ設置数　　　１５</source>
-        <target state="translated">Turn limit 38|Special movement 80|Traps 15</target>
+        <target state="translated">Turn limit 38|Transport points 80|Traps 15</target>
       </trans-unit>
       <trans-unit id="619560" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　２０|特殊移動ポイント　　６０|トラップ設置数　　　１０</source>
-        <target state="translated">Turn limit 20|Special movement 60|Traps 10</target>
+        <target state="translated">Turn limit 20|Transport points 60|Traps 10</target>
       </trans-unit>
       <trans-unit id="619636" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１８|特殊移動ポイント　　６０|トラップ設置数　　　０８</source>
-        <target state="translated">Turn limit 18|Special movement 60|Traps 08</target>
+        <target state="translated">Turn limit 18|Transport points 60|Traps 08</target>
       </trans-unit>
       <trans-unit id="602060" xml:space="preserve" approved="no">
         <source>『総一郎』は粧裕救出の為、|チェックポイントに|向かってください。</source>
@@ -6553,15 +6553,15 @@
       </trans-unit>
       <trans-unit id="631624" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　３５|特殊移動ポイント　　８０|隠しカメラ設置数　　０５|検問設置数　　　　　０５</source>
-        <target state="translated">Turn limit 35|Special movement 80|Hidden cameras 05|Roadblocks 05</target>
+        <target state="translated">Turn limit 35|Transport points 80|Hidden cameras 05|Roadblocks 05</target>
       </trans-unit>
       <trans-unit id="631728" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１８|特殊移動ポイント　　６０|隠しカメラ設置数　　０４|検問設置数　　　　　０４</source>
-        <target state="translated">Turn limit 18|Special movement 60|Hidden cameras 04|Roadblocks 04</target>
+        <target state="translated">Turn limit 18|Transport points 60|Hidden cameras 04|Roadblocks 04</target>
       </trans-unit>
       <trans-unit id="631832" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１６|特殊移動ポイント　　６０|隠しカメラ設置数　　０４|検問設置数　　　　　０４</source>
-        <target state="translated">Turn limit 16|Special movement 60|Hidden cameras 04|Roadblocks 04</target>
+        <target state="translated">Turn limit 16|Transport points 60|Hidden cameras 04|Roadblocks 04</target>
       </trans-unit>
       <trans-unit id="630200" xml:space="preserve" approved="no">
         <source>死神と接触するとトラップ|が使用可能になります。|『メロ』はチェックポイント|に向かってください。</source>
@@ -6573,15 +6573,15 @@
       </trans-unit>
       <trans-unit id="619712" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　３８|特殊移動ポイント　１００|トラップ設置数　　　１５</source>
-        <target state="translated">Turn limit 38|Special movement 100|Traps 15</target>
+        <target state="translated">Turn limit 38|Transport points 100|Traps 15</target>
       </trans-unit>
       <trans-unit id="619788" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１９|特殊移動ポイント　　８０|トラップ設置数　　　０９</source>
-        <target state="translated">Turn limit 19|Special movement 80|Traps 09</target>
+        <target state="translated">Turn limit 19|Transport points 80|Traps 09</target>
       </trans-unit>
       <trans-unit id="619864" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１６|特殊移動ポイント　　８０|トラップ設置数　　　０８</source>
-        <target state="translated">Turn limit 16|Special movement 80|Traps 08</target>
+        <target state="translated">Turn limit 16|Transport points 80|Traps 08</target>
       </trans-unit>
       <trans-unit id="613432" xml:space="preserve" approved="no">
         <source>メロ達を確保してください。|死神と接触するとトラップ|を無効化できます。</source>
@@ -6593,15 +6593,15 @@
       </trans-unit>
       <trans-unit id="631936" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　４５|特殊移動ポイント　１００|隠しカメラ設置数　　０６|検問設置数　　　　　０６</source>
-        <target state="translated">Turn limit 45|Special movement 100|Hidden cameras 06|Roadblocks 06</target>
+        <target state="translated">Turn limit 45|Transport points 100|Hidden cameras 06|Roadblocks 06</target>
       </trans-unit>
       <trans-unit id="632040" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　２２|特殊移動ポイント　　８０|隠しカメラ設置数　　０４|検問設置数　　　　　０５</source>
-        <target state="translated">Turn limit 22|Special movement 80|Hidden cameras 04|Roadblocks 05</target>
+        <target state="translated">Turn limit 22|Transport points 80|Hidden cameras 04|Roadblocks 05</target>
       </trans-unit>
       <trans-unit id="632144" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１８|特殊移動ポイント　　６０|隠しカメラ設置数　　０４|検問設置数　　　　　０５</source>
-        <target state="translated">Turn limit 18|Special movement 60|Hidden cameras 04|Roadblocks 05</target>
+        <target state="translated">Turn limit 18|Transport points 60|Hidden cameras 04|Roadblocks 05</target>
       </trans-unit>
       <trans-unit id="541008" xml:space="preserve" approved="no">
         <source>『メロ』は高田と接触し、|脱出してください。</source>
@@ -6613,15 +6613,15 @@
       </trans-unit>
       <trans-unit id="619940" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　３８|特殊移動ポイント　１００|トラップ設置数　　　００</source>
-        <target state="translated">Turn limit 38|Special movement 100|Traps 00</target>
+        <target state="translated">Turn limit 38|Transport points 100|Traps 00</target>
       </trans-unit>
       <trans-unit id="620016" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１８|特殊移動ポイント　　８０|トラップ設置数　　　００</source>
-        <target state="translated">Turn limit 18|Special movement 80|Traps 00</target>
+        <target state="translated">Turn limit 18|Transport points 80|Traps 00</target>
       </trans-unit>
       <trans-unit id="620092" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　１６|特殊移動ポイント　　６０|トラップ設置数　　　００</source>
-        <target state="translated">Turn limit 16|Special movement 60|Traps 00</target>
+        <target state="translated">Turn limit 16|Transport points 60|Traps 00</target>
       </trans-unit>
       <trans-unit id="498048" xml:space="preserve" approved="no">
         <source>キラを確保してください。</source>
@@ -6633,15 +6633,15 @@
       </trans-unit>
       <trans-unit id="632352" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　４５|特殊移動ポイント　１２０|隠しカメラ設置数　　０７|検問設置数　　　　　０７</source>
-        <target state="translated">Turn limit 45|Special movement 120|Hidden cameras 07|Roadblocks 07</target>
+        <target state="translated">Turn limit 45|Transport points 120|Hidden cameras 07|Roadblocks 07</target>
       </trans-unit>
       <trans-unit id="632456" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　２９|特殊移動ポイント　１００|隠しカメラ設置数　　０５|検問設置数　　　　　０６</source>
-        <target state="translated">Turn limit 29|Special movement 100|Hidden cameras 05|Roadblocks 06</target>
+        <target state="translated">Turn limit 29|Transport points 100|Hidden cameras 05|Roadblocks 06</target>
       </trans-unit>
       <trans-unit id="632560" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　２７|特殊移動ポイント　　８０|隠しカメラ設置数　　０４|検問設置数　　　　　０６</source>
-        <target state="translated">Turn limit 27|Special movement 80|Hidden cameras 04|Roadblocks 06</target>
+        <target state="translated">Turn limit 27|Transport points 80|Hidden cameras 04|Roadblocks 06</target>
       </trans-unit>
       <trans-unit id="519080" xml:space="preserve" approved="no">
         <source>捜査員を全員リタイア|させてください。</source>
@@ -6653,15 +6653,15 @@
       </trans-unit>
       <trans-unit id="620168" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　４５|特殊移動ポイント　１２０|トラップ設置数　　　１６</source>
-        <target state="translated">Turn limit 45|Special movement 120|Traps 16</target>
+        <target state="translated">Turn limit 45|Transport points 120|Traps 16</target>
       </trans-unit>
       <trans-unit id="620244" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　２９|特殊移動ポイント　１００|トラップ設置数　　　１１</source>
-        <target state="translated">Turn limit 29|Special movement 100|Traps 11</target>
+        <target state="translated">Turn limit 29|Transport points 100|Traps 11</target>
       </trans-unit>
       <trans-unit id="620320" xml:space="preserve" approved="no">
         <source>ターン制限　　　　　２７|特殊移動ポイント　　８０|トラップ設置数　　　０９</source>
-        <target state="translated">Turn limit 27|Special movement 80|Traps 09</target>
+        <target state="translated">Turn limit 27|Transport points 80|Traps 09</target>
       </trans-unit>
       <trans-unit id="602128" xml:space="preserve" approved="no">
         <source>キラを逮捕してください。|デスノートを押さえれば|勝利となります。</source>
@@ -6829,7 +6829,7 @@
       </trans-unit>
       <trans-unit id="494056" xml:space="preserve" approved="no">
         <source>レスター指揮官</source>
-        <target state="translated">Commander Rester</target>
+        <target state="translated">Cdr. Rester#commander too long</target>
       </trans-unit>
       <trans-unit id="494024" xml:space="preserve" approved="no">
         <source>ジェバンニさん</source>
@@ -6861,7 +6861,7 @@
       </trans-unit>
       <trans-unit id="493752" xml:space="preserve" approved="no">
         <source>二代目Ｌ</source>
-        <target state="translated">Second L</target>
+        <target state="translated">the Second L</target>
       </trans-unit>
       <trans-unit id="493824" xml:space="preserve" approved="no">
         <source>Ｍｒ．夜神</source>
@@ -6909,19 +6909,19 @@
       </trans-unit>
       <trans-unit id="592908" xml:space="preserve" approved="no">
         <source>地下鉄を使って移動します。|特殊移動ポイント|消費Ｐ&lt;num&gt;／現Ｐ&lt;num&gt;</source>
-        <target state="translated">Move via subway.|Special Movement Points|Required P &lt;num&gt; / Current P &lt;num&gt;</target>
+        <target state="translated">Move via subway.|Transport Points|Required P &lt;num&gt; / Current P &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="597260" xml:space="preserve" approved="no">
         <source>高速バスを使って移動します。|特殊移動ポイント|消費Ｐ&lt;num&gt;／現Ｐ&lt;num&gt;</source>
-        <target state="translated">Move via express bus.|Special Movement Points|Required P &lt;num&gt; / Current P &lt;num&gt;</target>
+        <target state="translated">Move via express bus.|Transport Points|Required P &lt;num&gt; / Current P &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="597324" xml:space="preserve" approved="no">
         <source>水上バスを使って移動します。|特殊移動ポイント|消費Ｐ&lt;num&gt;／現Ｐ&lt;num&gt;</source>
-        <target state="translated">Move via water-bus.|Special Movement Points|Required P &lt;num&gt; / Current P &lt;num&gt;</target>
+        <target state="translated">Move via water-bus.|Transport Points|Required P &lt;num&gt; / Current P &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="588208" xml:space="preserve" approved="no">
         <source>ヘリを使って移動します。|特殊移動ポイント|消費Ｐ&lt;num&gt;／現Ｐ&lt;num&gt;</source>
-        <target state="translated">Move via helicopter.|Special Movement Points|Required P &lt;num&gt; / Current P &lt;num&gt;</target>
+        <target state="translated">Move via helicopter.|Transport Points|Required P &lt;num&gt; / Current P &lt;num&gt;</target>
       </trans-unit>
       <trans-unit id="500260" xml:space="preserve" approved="no">
         <source>移動先を選択してください。</source>
@@ -6929,7 +6929,7 @@
       </trans-unit>
       <trans-unit id="513400" xml:space="preserve" approved="no">
         <source>特殊移動ポイントが|不足しています。</source>
-        <target state="translated">You do not have enough Special Movement Points.</target>
+        <target state="translated">You do not have enough Transport Points.</target>
       </trans-unit>
       <trans-unit id="583948" xml:space="preserve" approved="no">
         <source>特殊移動ターミナルの|出口に人がいるので|移動できません。</source>
@@ -7377,7 +7377,7 @@
       </trans-unit>
       <trans-unit id="558132" xml:space="preserve" approved="no">
         <source>特殊移動ポイントを使わずに|特殊移動ができます。</source>
-        <target state="translated">Gained the ability to perform a Special Movement without using Special Movement Points.</target>
+        <target state="translated">Gained the ability to take transport without using Transport Points.</target>
       </trans-unit>
       <trans-unit id="533104" xml:space="preserve" approved="no">
         <source>このターンの移動ポイントが|増加しました。</source>
@@ -7545,7 +7545,7 @@
       </trans-unit>
       <trans-unit id="634004" xml:space="preserve" approved="no">
         <source>都市カメラには、|「グループ」と「エリア」|という単位があります。|同じグループは同色です。|それぞれにエリアが設定|されています。</source>
-        <target state="translated">City cameras are divided into “groups" and “areas". Groups are classified by colors.|Within a group, there may be several different areas.</target>
+        <target state="translated">City cameras are divided into “groups" and “areas." Groups are classified by colors.|Within a group, there may be several different areas.</target>
       </trans-unit>
       <trans-unit id="626568" xml:space="preserve" approved="no">
         <source>都市カメラは、各ターンの|最初に容疑者の情報を|報告してくれます。|とても重要です。</source>
@@ -7557,7 +7557,7 @@
       </trans-unit>
       <trans-unit id="601176" xml:space="preserve" approved="no">
         <source>地下鉄に乗るには、駅で|「特殊移動ポイント」を|使ってください。</source>
-        <target state="translated">In order to move via the subway, you must spend Special Movement Points at the station.</target>
+        <target state="translated">In order to move via the subway,|you must spend Transport Points at the station.</target>
       </trans-unit>
       <trans-unit id="531124" xml:space="preserve" approved="no">
         <source>地下鉄は隣の駅までしか|移動できません。</source>
@@ -7565,11 +7565,11 @@
       </trans-unit>
       <trans-unit id="627964" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」には|限りがあります。|くれぐれもポイント不足に|注意してください。</source>
-        <target state="translated">You have a limited number of Special Movement Points.|Be careful to ensure you do not run out.</target>
+        <target state="translated">You have a limited number of Transport Points.|Be careful to ensure you do not run out.</target>
       </trans-unit>
       <trans-unit id="623976" xml:space="preserve" approved="no">
         <source>高速バスに乗るには、|バスターミナルで|「特殊移動ポイント」を|使ってください。</source>
-        <target state="translated">In order to move via express bus, you must spend Special Movement Points at the bus terminal.</target>
+        <target state="translated">In order to move via express bus,|you must spend Transport Points at the bus terminal.</target>
       </trans-unit>
       <trans-unit id="569780" xml:space="preserve" approved="no">
         <source>高速バスは隣のターミナル|までしか移動できません。</source>
@@ -7577,7 +7577,7 @@
       </trans-unit>
       <trans-unit id="626652" xml:space="preserve" approved="no">
         <source>水上バスに乗るには、|水上バスターミナルで|「特殊移動ポイント」を|使ってください。</source>
-        <target state="translated">In order to move via water-bus, you must spend Special Movement Points at the water-bus terminal.</target>
+        <target state="translated">In order to move via water- bus, you must spend Transport Points at the water-bus terminal.</target>
       </trans-unit>
       <trans-unit id="630300" xml:space="preserve" approved="no">
         <source>水上バスは自動運行で|ターンにより進行方向が|変わる事があります。|くれぐれも注意して|ください。</source>
@@ -7585,7 +7585,7 @@
       </trans-unit>
       <trans-unit id="613720" xml:space="preserve" approved="no">
         <source>ヘリに乗るには、|ヘリポートで|「特殊移動ポイント」を|使ってください。</source>
-        <target state="translated">In order to move via helicopter, you must spend Special Movement Points at the heliport.</target>
+        <target state="translated">In order to move via helicopter,|you must spend Transport Points at the heliport.</target>
       </trans-unit>
       <trans-unit id="601584" xml:space="preserve" approved="no">
         <source>ヘリポートが空の場合、|移動は不可能です。|忘れないでください。</source>
@@ -7641,19 +7641,19 @@
       </trans-unit>
       <trans-unit id="606412" xml:space="preserve" approved="no">
         <source>地下鉄に乗るには、駅で|「特殊移動ポイント」を|使えばいいんです。</source>
-        <target state="translated">To board the subway from the station,|you will need to use Special Movement Points.</target>
+        <target state="translated">To board the subway from the station,|you will need to use Transport Points.</target>
       </trans-unit>
       <trans-unit id="624136" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」には|限りがあります。|ポイント不足に気をつけて|ください。</source>
-        <target state="translated">There is a limited number of Special Movement Points.|Pay attention so that you don't run out.</target>
+        <target state="translated">There is a limited number of Transport Points.|Pay attention so that you don't run out.</target>
       </trans-unit>
       <trans-unit id="625728" xml:space="preserve" approved="no">
         <source>高速バスに乗るには、|バスターミナルで|「特殊移動ポイント」を|使えばいいんです。</source>
-        <target state="translated">To board the express bus from the bus terminal,|you will need to use Special Movement Points.</target>
+        <target state="translated">To board the express bus from the bus terminal,|you will need to use Transport Points.</target>
       </trans-unit>
       <trans-unit id="627436" xml:space="preserve" approved="no">
         <source>水上バスに乗るには、|水上バスターミナルで|「特殊移動ポイント」を|使えばいいんです。</source>
-        <target state="translated">To board the water-bus from the bus terminal,|you will need to use Special Movement Points.</target>
+        <target state="translated">To board the water-bus from the bus terminal,|you will need to use Transport Points.</target>
       </trans-unit>
       <trans-unit id="633084" xml:space="preserve" approved="no">
         <source>水上バスは自動運行で|ターンにより進行方向が|変わる事があります。|注意しておかないと|痛い目にあいますよ。</source>
@@ -7661,7 +7661,7 @@
       </trans-unit>
       <trans-unit id="616064" xml:space="preserve" approved="no">
         <source>ヘリに乗るには、|ヘリポートで|「特殊移動ポイント」を|使えばいいんです。</source>
-        <target state="translated">To board the helicopter from the heliport,|you will need to use Special Movement Points.</target>
+        <target state="translated">To board the helicopter from the heliport,|you will need to use Transport Points.</target>
       </trans-unit>
       <trans-unit id="522000" xml:space="preserve" approved="no">
         <source>捜査員の移動は|タッチペンで行うんだ。</source>
@@ -7757,7 +7757,7 @@
       </trans-unit>
       <trans-unit id="604440" xml:space="preserve" approved="no">
         <source>地下鉄の駅では|「特殊移動ポイント」を|消費して地下鉄移動できる。</source>
-        <target state="translated">You can use Special Movement Points at stations to travel on the subway.</target>
+        <target state="translated">You can use Transport Points at stations to travel on|the subway.</target>
       </trans-unit>
       <trans-unit id="519880" xml:space="preserve" approved="no">
         <source>地下鉄で移動できるのは|隣の駅までだ。</source>
@@ -7765,11 +7765,11 @@
       </trans-unit>
       <trans-unit id="617888" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」は|無限じゃない。ポイントの|不足には気をつけるんだ。</source>
-        <target state="translated">Keep in mind that Special Movement Points are limited.|Be careful not to run out.</target>
+        <target state="translated">Keep in mind that Transport Points are limited.|Be careful not to run out.</target>
       </trans-unit>
       <trans-unit id="617964" xml:space="preserve" approved="no">
         <source>高速バスのターミナルでは|「特殊移動ポイント」を|消費してバス移動できる。</source>
-        <target state="translated">You can use Special Movement Points at bus terminals to travel on the express bus.</target>
+        <target state="translated">You can use Transport Points at bus terminals to travel on the express bus.</target>
       </trans-unit>
       <trans-unit id="562240" xml:space="preserve" approved="no">
         <source>高速バスで移動できるのは|隣のターミナルまでだ。</source>
@@ -7777,7 +7777,7 @@
       </trans-unit>
       <trans-unit id="618040" xml:space="preserve" approved="no">
         <source>水上バスのターミナルで|「特殊移動ポイント」を|使えば、水上を移動できる。</source>
-        <target state="translated">You can use Special Movement Points at bus terminals to travel on the water-bus.</target>
+        <target state="translated">You can use Transport Points at bus terminals to travel on the water-bus.</target>
       </trans-unit>
       <trans-unit id="590860" xml:space="preserve" approved="no">
         <source>水上バスは自動運行だ。|利用時には進行方向に|注意するんだ。</source>
@@ -7785,7 +7785,7 @@
       </trans-unit>
       <trans-unit id="604712" xml:space="preserve" approved="no">
         <source>ヘリポートに行けば|「特殊移動ポイント」を|使ってヘリに乗れるぞ。</source>
-        <target state="translated">You can use Special Movement Points at heliports to travel on the helicopter.</target>
+        <target state="translated">You can use Transport Points at heliports to travel on|the helicopter.</target>
       </trans-unit>
       <trans-unit id="613576" xml:space="preserve" approved="no">
         <source>ヘリがいなければ|ヘリポートに行っても|移動は不可能だ。|確認を怠るな。</source>
@@ -8153,7 +8153,7 @@
       </trans-unit>
       <trans-unit id="566296" xml:space="preserve" approved="no">
         <source>やってくれますね。|&lt;name&gt;が無事で|ラッキーでしたが。</source>
-        <target state="translated">We’ve been had. It’s lucky|&lt;name&gt; is alright, at least.</target>
+        <target state="translated">We’ve been had. It’s lucky|&lt;name&gt; is alright.</target>
       </trans-unit>
       <trans-unit id="573096" xml:space="preserve" approved="no">
         <source>やられました。|ですが&lt;name&gt;が|無事なら、まだいけます。</source>
@@ -9973,7 +9973,7 @@
       </trans-unit>
       <trans-unit id="596300" xml:space="preserve" approved="no">
         <source>地下鉄の駅からは|「特殊移動ポイント」を|使って移動できるよ。</source>
-        <target state="translated">At a subway station, using Special Movement Points will let you board the subway.</target>
+        <target state="translated">At a subway station, using Transport Points will let you board the subway.</target>
       </trans-unit>
       <trans-unit id="555264" xml:space="preserve" approved="no">
         <source>地下鉄は隣の駅までしか|移動できないんだって。</source>
@@ -9981,11 +9981,11 @@
       </trans-unit>
       <trans-unit id="623896" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」には|限りがあるんだよ。|ポイント不足に|ならないようにね。</source>
-        <target state="translated">There's a limit to the Special Movement Points you have,|so don't run out!</target>
+        <target state="translated">There's a limit to the number of Transport Points you have,|so don't run out!</target>
       </trans-unit>
       <trans-unit id="618420" xml:space="preserve" approved="no">
         <source>高速バスのターミナルで|「特殊移動ポイント」を|使えば高速バスに乗れるよ。</source>
-        <target state="translated">At an express bus terminal, using Special Movement Points will let you board the express bus.</target>
+        <target state="translated">At an express bus terminal, using Transport Points will let you board the express bus.</target>
       </trans-unit>
       <trans-unit id="555408" xml:space="preserve" approved="no">
         <source>高速バスは隣ターミナル|までしか移動できない。</source>
@@ -9993,7 +9993,7 @@
       </trans-unit>
       <trans-unit id="618496" xml:space="preserve" approved="no">
         <source>水上バスのターミナルで|「特殊移動ポイント」を|使えば水上バスに乗れるよ。</source>
-        <target state="translated">At a water-bus terminal, using Special Movement Points will let you board the water-bus.</target>
+        <target state="translated">At a water-bus terminal, using Transport Points will let you board the water-bus.</target>
       </trans-unit>
       <trans-unit id="612568" xml:space="preserve" approved="no">
         <source>水上バスはターンごとに、|進む方向が変わるから、|ご利用は計画的にね。</source>
@@ -10001,11 +10001,11 @@
       </trans-unit>
       <trans-unit id="605256" xml:space="preserve" approved="no">
         <source>ヘリポートでは|「特殊移動ポイント」を|使ってヘリに乗れちゃうよ。</source>
-        <target state="translated">At a heliport, using Special Movement Points will let you board a helicopter.</target>
+        <target state="translated">At a heliport, using Transport Points will let you board|the helicopter.</target>
       </trans-unit>
       <trans-unit id="613648" xml:space="preserve" approved="no">
         <source>ヘリがいない時は|ヘリポートに行っても|移動できないから|気をつけてね。</source>
-        <target state="translated">If there's no helicopter at the heliport you go to,|you won't be able to move, so be careful!</target>
+        <target state="translated">If there's no helicopter at the heliport you go to,|you won't be able to move,|so be careful!</target>
       </trans-unit>
       <trans-unit id="512056" xml:space="preserve" approved="no">
         <source>人はタッチペンで|移動させられる。</source>
@@ -10093,7 +10093,7 @@
       </trans-unit>
       <trans-unit id="597004" xml:space="preserve" approved="no">
         <source>駅から地下鉄に乗るには|「特殊移動ポイント」を|消費するんだ。</source>
-        <target state="translated">Taking the subway consumes Special Movement Points.</target>
+        <target state="translated">Taking the subway consumes Transport Points.</target>
       </trans-unit>
       <trans-unit id="548208" xml:space="preserve" approved="no">
         <source>地下鉄で一度に移動|できるのは隣の駅までだ。</source>
@@ -10101,23 +10101,23 @@
       </trans-unit>
       <trans-unit id="548304" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」は|上限が決まっている。</source>
-        <target state="translated">Special Movement Points aren't infinite, you know.</target>
+        <target state="translated">Transport Points aren't infinite, you know.</target>
       </trans-unit>
       <trans-unit id="613864" xml:space="preserve" approved="no">
         <source>ターミナルで|高速バスに乗るには|「特殊移動ポイント」を|消費するんだ。</source>
-        <target state="translated">Taking the express bus uses Special Movement Points.</target>
+        <target state="translated">Taking the express bus consumes Transport Points.</target>
       </trans-unit>
       <trans-unit id="625644" xml:space="preserve" approved="no">
         <source>水上バスのターミナルで|水上バスに乗るには|「特殊移動ポイント」を|消費するんだ。</source>
-        <target state="translated">Taking the water-bus uses Special Movement Points.</target>
+        <target state="translated">Taking the water-bus consumes Transport Points.</target>
       </trans-unit>
       <trans-unit id="592204" xml:space="preserve" approved="no">
         <source>水上バスは自動運行だ。|利用する時は進行方向に|気をつけろ。</source>
-        <target state="translated">The water-bus operates automatically.|Check what direction its heading before you set off.</target>
+        <target state="translated">The water-bus operates automatically.|Check the direction it's heading before you set off.</target>
       </trans-unit>
       <trans-unit id="602400" xml:space="preserve" approved="no">
         <source>ヘリに乗るには|ヘリポートで|「特殊移動ポイント」を|使えばいい。</source>
-        <target state="translated">Taking a helicopter consumes Special Movement Points.</target>
+        <target state="translated">Taking a helicopter consumes Transport Points.</target>
       </trans-unit>
       <trans-unit id="570196" xml:space="preserve" approved="no">
         <source>ヘリがヘリポートにないと|当然だが乗る事はできん。</source>
@@ -10189,7 +10189,7 @@
       </trans-unit>
       <trans-unit id="613216" xml:space="preserve" approved="no">
         <source>地下鉄の駅に行けば|「特殊移動ポイント」を|消費して地下鉄移動できる。</source>
-        <target state="translated">To travel on the subway, you must go to a subway station and spend Special Movement Points.</target>
+        <target state="translated">To travel on the subway, you must go to a subway station and spend Transport Points.</target>
       </trans-unit>
       <trans-unit id="524720" xml:space="preserve" approved="no">
         <source>地下鉄は隣の駅までしか|移動できない。</source>
@@ -10197,11 +10197,11 @@
       </trans-unit>
       <trans-unit id="615988" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」は|無限じゃない。|ポイントの不足には|注意が必要だ。</source>
-        <target state="translated">Special Movement Points are not infinite.|Be careful not to run out.</target>
+        <target state="translated">Transport Points are not infinite.|Be careful not to run out.</target>
       </trans-unit>
       <trans-unit id="623416" xml:space="preserve" approved="no">
         <source>バスターミナルに行くと|「特殊移動ポイント」を|消費して高速バスで移動|できる。</source>
-        <target state="translated">To travel on the express bus, you must go to an express bus terminal and spend Special Movement Points.</target>
+        <target state="translated">To travel on the express bus, you must go to an express bus terminal and spend Transport Points.</target>
       </trans-unit>
       <trans-unit id="559172" xml:space="preserve" approved="no">
         <source>高速バスは隣のターミナル|までしか移動できない。</source>
@@ -10209,7 +10209,7 @@
       </trans-unit>
       <trans-unit id="623496" xml:space="preserve" approved="no">
         <source>水上バスターミナルでは|「特殊移動ポイント」を|消費して水上バスで移動|できる。</source>
-        <target state="translated">To travel on the water-bus, you must go to a water-bus terminal and spend Special Movement Points.</target>
+        <target state="translated">To travel on the water-bus, you must go to a water-bus terminal and spend Transport Points.</target>
       </trans-unit>
       <trans-unit id="616520" xml:space="preserve" approved="no">
         <source>水上バスはターンにより|進行方向が変わる事がある。|計画的に利用すべきだ。</source>
@@ -10217,7 +10217,7 @@
       </trans-unit>
       <trans-unit id="610192" xml:space="preserve" approved="no">
         <source>ヘリポートに行くと|「特殊移動ポイント」を|消費してヘリ移動ができる。</source>
-        <target state="translated">To travel on a helicopter, you must go to a heliport and spend Special Movement Points.</target>
+        <target state="translated">To travel on a helicopter, you must go to a heliport and spend Transport Points.</target>
       </trans-unit>
       <trans-unit id="576288" xml:space="preserve" approved="no">
         <source>ヘリがヘリポートに|いなければ当然、移動は|不可能だ。</source>
@@ -10297,7 +10297,7 @@
       </trans-unit>
       <trans-unit id="629432" xml:space="preserve" approved="no">
         <source>都市カメラは「グループ」|ごとに同一色で表示され、|それぞれに「エリア」が|設定されているわ。</source>
-        <target state="translated">City cameras are separated into colored “groups."|Each group also has its own “areas".</target>
+        <target state="translated">City cameras are separated into colored “groups."|Each group also has its own “areas."</target>
       </trans-unit>
       <trans-unit id="623656" xml:space="preserve" approved="no">
         <source>都市カメラは、ターンの|開始時に捜査員へ、|情報を報告するように|なっているの。</source>
@@ -10309,7 +10309,7 @@
       </trans-unit>
       <trans-unit id="585808" xml:space="preserve" approved="no">
         <source>駅から地下鉄に乗るには|「特殊移動ポイント」を|使うのよ。</source>
-        <target state="translated">Taking the subway from a subway station requires you to spend Special Movement Points.</target>
+        <target state="translated">Taking the subway from a subway station requires you to spend Transport Points.</target>
       </trans-unit>
       <trans-unit id="521120" xml:space="preserve" approved="no">
         <source>地下鉄で移動できるのは|隣の駅までよ。</source>
@@ -10317,11 +10317,11 @@
       </trans-unit>
       <trans-unit id="598252" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」は|限られているから、不足|しないようにね。</source>
-        <target state="translated">Special Movement Points are limited,|so be mindful to ensure that you don't run out.</target>
+        <target state="translated">Transport Points are limited,|so be mindful to ensure that you don't run out.</target>
       </trans-unit>
       <trans-unit id="616216" xml:space="preserve" approved="no">
         <source>バスターミナルから|高速バスに乗るには|「特殊移動ポイント」を|使うのよ。</source>
-        <target state="translated">Taking the express bus from a terminal requires you to spend Special Movement Points.</target>
+        <target state="translated">Taking the express bus from a terminal requires you to spend Transport Points.</target>
       </trans-unit>
       <trans-unit id="560316" xml:space="preserve" approved="no">
         <source>高速バスで移動できるのは|隣のターミナルまでよ。</source>
@@ -10329,7 +10329,7 @@
       </trans-unit>
       <trans-unit id="623736" xml:space="preserve" approved="no">
         <source>水上バスのターミナルから|水上バスに乗るには|「特殊移動ポイント」を|使うのよ。</source>
-        <target state="translated">Taking the water-bus from a terminal requires you to spend Special Movement Points.</target>
+        <target state="translated">Taking the water-bus from a terminal requires you to spend Transport Points.</target>
       </trans-unit>
       <trans-unit id="610912" xml:space="preserve" approved="no">
         <source>水上バスは自動運行だから|ターンによって進行方向が|変わる事があるの。</source>
@@ -10337,7 +10337,7 @@
       </trans-unit>
       <trans-unit id="592844" xml:space="preserve" approved="no">
         <source>ヘリポートで|ヘリに乗るには|「特殊移動ポイント」が|必要よ。</source>
-        <target state="translated">Taking the helicopter from a heliport requires you to spend Special Movement Points.</target>
+        <target state="translated">Taking the helicopter from a heliport requires you to spend Transport Points.</target>
       </trans-unit>
       <trans-unit id="552288" xml:space="preserve" approved="no">
         <source>ヘリがいないヘリポート|では移動はできないわ。</source>
@@ -10409,7 +10409,7 @@
       </trans-unit>
       <trans-unit id="630800" xml:space="preserve" approved="no">
         <source>都市カメラには、|「グループ」と「エリア」|がある。|同色は１グループで、|それぞれにエリアを持つ。</source>
-        <target state="translated">The city cameras are split into “groups."|Each group has a different color,|and is made up of several “areas".</target>
+        <target state="translated">The city cameras are split into “groups."|Each group has a different color,|and is made up of several “areas."</target>
       </trans-unit>
       <trans-unit id="567908" xml:space="preserve" approved="no">
         <source>カメラの情報は、捜査側|にターンの頭で報告される。</source>
@@ -10421,19 +10421,19 @@
       </trans-unit>
       <trans-unit id="599068" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」を|地下鉄の駅で使えば|地下鉄で移動できる。</source>
-        <target state="translated">Using Special Movement Points at the subway station will let you go for a ride.</target>
+        <target state="translated">Using Transport Points at the subway station will let you go for a ride.</target>
       </trans-unit>
       <trans-unit id="611416" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」は|上限が決まっている。|ポイント不足に注意しろ。</source>
-        <target state="translated">Special Movement Points are in short supply.|Don't waste them.</target>
+        <target state="translated">Transport Points are in short supply. Don't waste them.</target>
       </trans-unit>
       <trans-unit id="611488" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」を|バスターミナルで使えば|高速バスで移動できる。</source>
-        <target state="translated">Using Special Movement Points at the express bus terminal will let you go for a ride.</target>
+        <target state="translated">Using Transport Points at the express bus terminal will let you go for a ride.</target>
       </trans-unit>
       <trans-unit id="609832" xml:space="preserve" approved="no">
         <source>水上バスに乗るには|ターミナルで|「特殊移動ポイント」を|使えばいい。</source>
-        <target state="translated">Using Special Movement Points at the water-bus terminal will let you go for a ride.</target>
+        <target state="translated">Using Transport Points at the water-bus terminal will let you go for a ride.</target>
       </trans-unit>
       <trans-unit id="590284" xml:space="preserve" approved="no">
         <source>水上バスの進行方向は|ターンにより違う事がある。|注意しろ。</source>
@@ -10501,7 +10501,7 @@
       </trans-unit>
       <trans-unit id="611992" xml:space="preserve" approved="no">
         <source>「特殊移動ポイント」は|上限が決まっている。|ポイント不足に要注意だ。</source>
-        <target state="translated">Special Movement Points don't last forever.|Keep an eye on them.</target>
+        <target state="translated">Transport Points don't last forever. Keep an eye on them.</target>
       </trans-unit>
       <trans-unit id="561876" xml:space="preserve" approved="no">
         <source>水上バスの進行方向は|ターンにより違う事がある。</source>
@@ -16993,7 +16993,7 @@
       </trans-unit>
       <trans-unit id="541344" xml:space="preserve" approved="no">
         <source>&lt;name&gt;は|無事でしたか。|不幸中のさいわいです。</source>
-        <target state="translated">&lt;name&gt;'s alright?|That's a relief…|Things could have been much worse.</target>
+        <target state="translated">But &lt;name&gt;'s alright?|That's a relief…|Things could have been much worse.</target>
       </trans-unit>
       <trans-unit id="634268" xml:space="preserve" approved="no">
         <source>てすとてすと</source>
