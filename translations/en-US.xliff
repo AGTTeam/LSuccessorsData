@@ -749,7 +749,7 @@
       </trans-unit>
       <trans-unit id="855976" xml:space="preserve" approved="no">
         <source>\c04『キラ』\c02とは\c04『デスノート』\c02を|所持し、\c04『トラップ』\c02を|仕掛けられる者を指す。&gt;&gt;\c04デスノートを持つ者が、|キラと呼ばれるんだ。\c02&gt;&gt;キラは捜査員が狙う最重要人物。</source>
-        <target state="translated">The name \c04Kira\c02 refers to the person in possession of the \c04Death Note\c02.&gt;&gt;As well, Kira is able to \c04set traps\c02.&gt;&gt;Kira is the primary target for the investigators.</target>
+        <target state="translated">The name \c04Kira\c02 refers to the person in possession of the \c04Death Note\c02.&gt;&gt;With the Note, Kira is able to \c04set traps\c02.&gt;&gt;Therefore, Kira is the primary target for the investigators.</target>
       </trans-unit>
       <trans-unit id="793968" xml:space="preserve" approved="no">
         <source>キラが逮捕されれば、|僕らの\c04『敗北』\c02となってしまう。</source>
@@ -765,11 +765,11 @@
       </trans-unit>
       <trans-unit id="837336" xml:space="preserve" approved="no">
         <source>僕らは捜査員を\c04リタイア\c02させる|為に\c04『移動』\c02そして\c04『コマンド』\c02|を使用する。&gt;&gt;移動とは文字通り、メンバーを|移動させることだ。</source>
-        <target state="translated">In order to force out the investigators, we must first \c04move\c02 into position before activating a \c04command\c02.</target>
+        <target state="translated">To take out the investigators, you must utilize both \c02movement\c04 and \c02commands\c04.</target>
       </trans-unit>
       <trans-unit id="872304" xml:space="preserve" approved="no">
         <source>コマンドはメンバーが|様々な逃亡行動を取る。&gt;&gt;コマンドは\c04１ターン\c02に\c04『１回』\c02。|移動は\c04『移動ポイント』\c02が|残っている限りは、&gt;&gt;\c04『何度でも行うことが出来る』\c02。|ここが捜査員との決定的な違いに|なる。よく覚えておくんだ。</source>
-        <target state="translated">The different commands will allow for members to escape.&gt;&gt;Movement is only limited by \c04Move Points\c02, whereas only \c04one\c02 command may be used \c04per turn\c02.&gt;&gt;This is the principal difference from the investigators. Remember it well.</target>
+        <target state="translated">Movement is as straightforward as it sounds, it involves moving members around the map.&gt;&gt;Commands are the tools which allow members to evade capture. &gt;&gt;Movement is limited by \c04Movement Points\c02. In addition, only \c04one\c02 command may be used \c04per turn\c02.&gt;&gt;This is the principal difference from the investigators. Remember it well.</target>
       </trans-unit>
       <trans-unit id="801344" xml:space="preserve" approved="no">
         <source>ヤツラは一部を除いて、|数だけに頼る集団。|僕らをとめることなど出来ない。</source>
@@ -2517,7 +2517,7 @@
       </trans-unit>
       <trans-unit id="800196" xml:space="preserve" approved="no">
         <source>！　メロ……！？|待って……待ちなさい！|……メロ……　一体……！？</source>
-        <target state="translated">! Mello…?! Wait… Please, wait!|…Mello… what on earth are you doing…?!</target>
+        <target state="translated">Mello…?! Wait… Please, wait!|…Mello… what on earth are you doing…?!</target>
       </trans-unit>
       <trans-unit id="810020" xml:space="preserve" approved="no">
         <source>あ……あなたは……！？&gt;&gt;（さっき見た顔は、夜神くんが|注意しろと言っていた、メロ…？）</source>
@@ -3289,7 +3289,7 @@
       </trans-unit>
       <trans-unit id="794808" xml:space="preserve" approved="no">
         <source>||||||月＝キラは、いよいよ全世界を|手中に収めようとしていた。</source>
-        <target state="translated">||||||Bit by bit, the entire world was falling into the palm of Light's, a.k.a. Kira's, hand.</target>
+        <target state="translated">|||||Bit by bit, the entire world was falling into the palm of Light's, a.k.a. Kira's, hand.</target>
       </trans-unit>
       <trans-unit id="843272" xml:space="preserve" approved="no">
         <source>メロが実行しようとしていた策…||それが成功したのか失敗だったのか|今となっては知る術もない。||しかし、メロの行動によって|キラと魅上の連絡が|困難になったのは確かだ。</source>
@@ -4529,7 +4529,7 @@
       </trans-unit>
       <trans-unit id="795860" xml:space="preserve" approved="no">
         <source>さらにニアは、逃走中のメロと|接触し、この重大な情報を|託すのだった。</source>
-        <target state="translated">Then Near contacted Mello, who was still on the run, and entrusted him with this important information.</target>
+        <target state="translated">\T0060\t0002Near contacted Mello, who was still on the run, and entrusted him with this important information.</target>
       </trans-unit>
       <trans-unit id="808460" xml:space="preserve" approved="no">
         <source>……二代目Ｌがキラだと……？|なくはない……か……？|それじゃ俺もひとつ教えてやる。</source>
@@ -4537,7 +4537,7 @@
       </trans-unit>
       <trans-unit id="798724" xml:space="preserve" approved="no">
         <source>ニアの真意を読んだメロは、|デスノートと死神に関する情報を|ニアに伝える。</source>
-        <target state="translated">Reading Near's true intentions, Mello told him what he knew about the Death Note and the Shinigami.</target>
+        <target state="translated">\T0060\t0002Reading Near's intentions, Mello told him what he knew about the Death Note and the Shinigami.</target>
       </trans-unit>
       <trans-unit id="833040" xml:space="preserve" approved="no">
         <source>……死神……信じますよ。|ウソだとしたら意味がなさすぎる。|よって死神はいます。&gt;&gt;メロが色々やってくれたおかげで、|だいぶキラが絞れました。</source>
@@ -4561,7 +4561,7 @@
       </trans-unit>
       <trans-unit id="868032" xml:space="preserve" approved="no">
         <source>キラの新世界創世は、最終段階に|入ろうとしていた。||Ｌとして|捜査本部をあざむき続ける月には、|自分のかわりにキラの裁きを行なう|補佐役が必要になっていた。||この役目はミサでは手に余る……||月は１人のキラ崇拝者に|新たにノートを授けた。</source>
-        <target state="translated">The creation of Kira's new world had entered its final stage.||Light, who was busy with keeping the task force's suspicions off of him, decided he needed an assistant to carry out Kira's judgments in his stead.||He thought such a duty was beyond Misa, so instead…||Light gave the Note to one particular Kira worshipper.</target>
+        <target state="translated">The creation of Kira's new world had entered its final stage.||Light, who was busy with keeping the task force's suspicions off of him, decided he needed an assistant to carry out Kira's judgments in his stead.||He thought such a duty was beyond Misa, so instead, he gave the Note to one particular Kira worshipper...</target>
       </trans-unit>
       <trans-unit id="816080" xml:space="preserve" approved="no">
         <source>魅上照。|検察庁に勤める若手検事。||正義感のあまり、悪人を憎悪する、|キラの代理にふさわしい人物だった。</source>
@@ -4577,11 +4577,11 @@
       </trans-unit>
       <trans-unit id="833712" xml:space="preserve" approved="no">
         <source>月は、キラの意志を世に伝える|スポークスマンも必要と考えていた。||その意志を受け、魅上が選んだのは、|偶然にも、月の学生時代の友人、|高田清美だった。</source>
-        <target state="translated">Light had deemed it necessary to have a spokesperson who could present Kira’s intentions to the world at large.||As his proxy, Mikami had chosen Kiyomi Takada for the task.||Unbeknownst to Mikami, Takada just so happened to be Light’s friend from college.</target>
+        <target state="translated">Light had deemed it necessary to have a spokesperson who could present Kira’s intentions to the world.||As his proxy, Mikami had chosen Kiyomi Takada for the task.||Unbeknownst to Mikami, Takada just so happened to be Light’s friend from college.</target>
       </trans-unit>
       <trans-unit id="856408" xml:space="preserve" approved="no">
         <source>彼女はその美貌と清楚な雰囲気で、|キラ信者からは高位の女神官の|ように注目を集めることとなる。||世界へ向けてのキラの代弁者として、|また裏では月と魅上の連絡役として、|高田は有能な手腕を発揮した。</source>
-        <target state="translated">With her regal appearance and crisp demeanor, Takada was quickly noticed by Kira worshippers and hailed as a high priestess.||Using her skills as a news announcer, she deftly presented herself as Kira’s representative to the world at large, while acting as the intermediary between Light and Mikami.</target>
+        <target state="translated">With her regal appearance and disciplined demeanor, Takada was quickly noticed by Kira worshippers and hailed as a high priestess.||Using her skills as a news announcer, she deftly presented herself as Kira’s representative to the world at large, while acting as the intermediary between Light and Mikami.</target>
       </trans-unit>
       <trans-unit id="845904" xml:space="preserve" approved="no">
         <source>彼女には常に護衛がついている。||その中にＳＰＫメンバーの１人|ハル＝リドナーの姿を見たとき|メロにはその意味がすぐにわかった。|||\T0045\t0002ニアも高田を監視している…</source>
@@ -4589,7 +4589,7 @@
       </trans-unit>
       <trans-unit id="823996" xml:space="preserve" approved="no">
         <source>高田清美……|キラとつながってる事は確実だな。&gt;&gt;だが、二代目Ｌがキラだとすると|実際にキラの裁きを続けているのは…</source>
-        <target state="translated">Kiyomi Takada… Well, she’s definitely connected to Kira.&gt;&gt;But if Second L is Kira, then the person actually carrying out Kira’s judgments is…</target>
+        <target state="translated">Kiyomi Takada… Well, she’s definitely connected to Kira.&gt;&gt;But if the Second L is Kira, then the person actually carrying out Kira’s judgments is…</target>
       </trans-unit>
       <trans-unit id="778620" xml:space="preserve" approved="no">
         <source>！　ちっ…ニアめ…|そういうことか。</source>
@@ -6765,7 +6765,7 @@
       </trans-unit>
       <trans-unit id="624552" xml:space="preserve" approved="no">
         <source>『メロ』は『高田』を連れて|逃走する為に、|チェックポイントに向かって|ください。</source>
-        <target state="translated">Mello, head towards the checkpoints to escape with Takada in tow.</target>
+        <target state="translated">Mello, head towards the checkpoint to escape with Takada in tow.</target>
       </trans-unit>
       <trans-unit id="613504" xml:space="preserve" approved="no">
         <source>『デスノート』をすり替える|為に、チェックポイントに|向かってください。</source>
@@ -10381,7 +10381,7 @@
       </trans-unit>
       <trans-unit id="567544" xml:space="preserve" approved="no">
         <source>「変装」すればカメラに|映る姿を他人に変えられる。</source>
-        <target state="translated">When wearing a disguise, you'll show up on camera as that other person.</target>
+        <target state="translated">When wearing a disguise, you'll show up on camera as a different person.</target>
       </trans-unit>
       <trans-unit id="528264" xml:space="preserve" approved="no">
         <source>変装は失敗する事もある。|過信はするな。</source>
