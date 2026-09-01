@@ -381,7 +381,7 @@
       </trans-unit>
       <trans-unit id="817444" xml:space="preserve" approved="no">
         <source>もう、あなたの手の内は|分かっています。&gt;&gt;もっとも、おとなしく|捕まるような人では|ないでしょうが。</source>
-        <target state="translated">I already understand you perfectly.&gt;&gt;And above all else, I know you won’t go down without a fight.</target>
+        <target state="translated">I already understand you perfectly.&gt;&gt;And above all else, I know you won’t go down without a fight.#chp10</target>
       </trans-unit>
       <trans-unit id="779044" xml:space="preserve" approved="no">
         <source>もうすぐだ。|もうすぐ新世界が始まる！</source>
@@ -2325,7 +2325,7 @@
       </trans-unit>
       <trans-unit id="802320" xml:space="preserve" approved="no">
         <source>ニア、Ｘキラはもう魅上で|決まりだな。&gt;&gt;どうするニア、魅上を押さえるか？</source>
-        <target state="translated">Near, X-Kira is definitely Mikami.&gt;&gt;What should we do, Near? Aren't we going to capture Mikami?</target>
+        <target state="translated">Near, X-Kira is definitely Mikami.&gt;&gt;What should we do, Near? Aren't we going to capture him?</target>
       </trans-unit>
       <trans-unit id="880444" xml:space="preserve" approved="no">
         <source>レスター指揮官、|何度も言わせないでください。&gt;&gt;魅上がＸキラと決まっても|それではＬ＝夜神月には|たどり着けない。&gt;&gt;今回の策は、デスノートに名前を|書かせなければ意味がありません。|そのために私が顔を見せるんです。&gt;&gt;魅上はこの策のキーマンになります。|おそらく死神の目を持っているのは|Ｘキラ＝魅上です。&gt;&gt;ですから身柄は拘束せず、|そのまま泳がせてください。</source>
@@ -3377,7 +3377,7 @@
       </trans-unit>
       <trans-unit id="850588" xml:space="preserve" approved="no">
         <source>ニアの推理で、キラは二代目Ｌ。|そしてそれが夜神月ということ|まではわかっていた。||ＳＰＫ内部では、キラの動きが|鈍った今、強行策に出て一気に|事件解決するべきとの意見が|出ていた。</source>
-        <target state="translated">By Near's logic, Kira was the Second L. And furthermore, the Second L was definitely Light Yagami.||An idea was floated within the SPK: to strike while Kira's movements were dulled and put the case to an end once and for all.</target>
+        <target state="translated">By Near's logic, Kira was the Second L. And furthermore, the Second L was definitely Light Yagami.||An idea was floated within the SPK: to strike while Kira's movements were restricted and put the case to an end once and for all.</target>
       </trans-unit>
       <trans-unit id="847240" xml:space="preserve" approved="no">
         <source>強行策とはつまり、Ｌキラ＝夜神月、|Ｘキラ＝魅上照を直接倒して|ノートを没収する…||それでキラの裁きは止まるはずだ。|Ｌ＝夜神月がキラだったとも|言えるだろう。||しかし…</source>
@@ -3401,7 +3401,7 @@
       </trans-unit>
       <trans-unit id="858812" xml:space="preserve" approved="no">
         <source>そうです私達…|私や…Ｌのやり方ではない。|Ｌが浮かばれません。&gt;&gt;Ｌが次の者に託した意味がない。&gt;&gt;すべての根源、|夜神月がキラだという事を|明らかにし、&gt;&gt;叩きのめさなければ|意味がありません。</source>
-        <target state="translated">That’s right. Not mine… or L’s.|L is at rest, but not at peace.&gt;&gt;L never meant to have a successor in the first place.&gt;&gt;We have to strike down the root of the evil. We have to prove that Light Yagami is Kira.&gt;&gt;Otherwise, none of this will mean anything.</target>
+        <target state="translated">That’s right. Not mine… or L’s.|L would not be happy if we did that.&gt;&gt;It would be an insult to L, who entrusted those who came after him with this case.&gt;&gt;We have to strike down the root of the evil. We have to prove that Light Yagami is Kira.&gt;&gt;Otherwise, none of this will mean anything.</target>
       </trans-unit>
       <trans-unit id="867776" xml:space="preserve" approved="no">
         <source>これはニアにとって、|Ｌとキラのプライドを賭けた|戦いだった。|負けるわけにはいかない。||Ｌ＝夜神月＝キラ。|それは９９．９９９９％確実だった。||１００にならないのは、証拠がない、|ただそれだけの事。||その証拠をつかむ決定的な策とは…</source>
@@ -3413,7 +3413,7 @@
       </trans-unit>
       <trans-unit id="855764" xml:space="preserve" approved="no">
         <source>この策を成功させるには、|ある準備が絶対に欠かせない。|それを可能にするためのワナも|必要だ。||\T0045\t0002そのワナのエサは……ニア自身！||\T0045\t0002ニアはＮとして、Ｌにある申し出を|した。</source>
-        <target state="translated">For this plan to succeed, some preparation was absolutely crucial.|A trap had to be laid.||\T0045\t0002And the bait for that trap would be… Near himself!||\T0045\t0002Near, as N, reached out to L with a request.</target>
+        <target state="translated">For this plan to succeed, some preparation was absolutely crucial.|A trap had to be laid.||And the bait for that trap would be… Near himself!||Near, as N, reached out to L with a request.</target>
       </trans-unit>
       <trans-unit id="803720" xml:space="preserve" approved="no">
         <source>Ｌ、お会いしたい。|どうしてもキラ事件に関し、|お見せしたいものがあります。</source>
@@ -3449,7 +3449,7 @@
       </trans-unit>
       <trans-unit id="846092" xml:space="preserve" approved="no">
         <source>それはニアにとっても賭けだった。||\T0045\t0002夜神月もこの策を読んでいるだろう。||\T0045\t0002ニアの策のための準備行動とは…|||\T0045\t0000……デスノートのすり替え！</source>
-        <target state="translated">This was a risky gamble for Near, too.||\T0045\t0002Light Yagami almost certainly could read his strategy.||\T0045\t0002For Near's plan to work, they had to take one more step…|||Swap the Death Note with a fake!</target>
+        <target state="translated">This was a risky gamble for Near, too.||Light Yagami almost certainly could read his strategy.||For Near's plan to work, they had to take one more step…||||Swap the Death Note with a fake!</target>
       </trans-unit>
       <trans-unit id="864476" xml:space="preserve" approved="no">
         <source>これは時間との戦いです。&gt;&gt;すり替えに失敗すれば|我々は負け、全員が倒されることに|なるでしょう。&gt;&gt;（どうだ、夜神月。|これならおまえのやろうと|していることも可能だろう）&gt;&gt;（おまえは必ず動く。|………その時が勝負だ）</source>
@@ -4805,7 +4805,7 @@
       </trans-unit>
       <trans-unit id="825732" xml:space="preserve" approved="no">
         <source>大黒埠頭の外れ、ＹＢ倉庫…||ついに日本捜査本部とＳＰＫの|全員が集結した。||そして夜神月とニアは、|初めて顔を合わせたのだが……</source>
-        <target state="translated">The Yellow Box Warehouse, Daikoku Wharf.||At last, the members of the Japanese Task Force and the SPK had assembled here.||It was the first time Light Yagami and Near had met face-to-face…</target>
+        <target state="translated">The Yellow Box Warehouse, Daikoku Wharf.||The members of the Japanese Task Force and the SPK had all assembled.||It was the first time Light Yagami and Near had met face-to-face…</target>
       </trans-unit>
       <trans-unit id="802920" xml:space="preserve" approved="no">
         <source>どうやら全員、ここまでは|無事に集まったようですね。|ドアの外の者も含めて…</source>
@@ -4861,7 +4861,7 @@
       </trans-unit>
       <trans-unit id="779236" xml:space="preserve" approved="no">
         <source>１人目の名前を書いてから|何秒ですか？</source>
-        <target state="translated">How long does it take after the name is written?</target>
+        <target state="translated">How long does it take after a name is written?</target>
       </trans-unit>
       <trans-unit id="769912" xml:space="preserve" approved="no">
         <source>もうすぐ４０秒…あと…</source>
@@ -4901,7 +4901,7 @@
       </trans-unit>
       <trans-unit id="791244" xml:space="preserve" approved="no">
         <source>そして残りは、私…Ｌを含めて|日本側捜査本部の本名です。</source>
-        <target state="translated">And the remaining ones are… I…|They're the names of the Japanese task force. Including L.</target>
+        <target state="translated">And the remaining ones are… I…|They're the names of the Japanese Task Force. Including L.</target>
       </trans-unit>
       <trans-unit id="767136" xml:space="preserve" approved="no">
         <source>（夜神月………）</source>
@@ -4945,7 +4945,7 @@
       </trans-unit>
       <trans-unit id="846280" xml:space="preserve" approved="no">
         <source>ニア、これまでの協力に感謝します。|しかし、ここは日本だ。&gt;&gt;魅上の身柄は我々、日本捜査本部で|預かります。&gt;&gt;むろん、あなた方が手に入れた|本物のデスノートもです。</source>
-        <target state="translated">Near, I thank you for all your help up to this point. However, this is Japan, which is in our jurisdiction.&gt;&gt;Please, leave Mikami's arrest to us, the Japanese task force.&gt;&gt;And we'll take the Death Note you have there too, naturally.</target>
+        <target state="translated">Near, I thank you for all your help up to this point. However, this is Japan, which is in our jurisdiction.&gt;&gt;Please, leave Mikami's arrest to us, the Japanese Task Force.&gt;&gt;And we'll take the Death Note you have there too, naturally.</target>
       </trans-unit>
       <trans-unit id="790204" xml:space="preserve" approved="no">
         <source>ふざけるな、夜神月！|本当のキラはおまえじゃないか！！</source>
@@ -4969,7 +4969,7 @@
       </trans-unit>
       <trans-unit id="859260" xml:space="preserve" approved="no">
         <source>それはニアの推理でしょう。|本当にそんな者が存在するのか、|それとも魅上自身がキラなのか…&gt;&gt;それは魅上を取り調べれば、|はっきりするでしょう。&gt;&gt;いずれにしろ、それは我々、|日本の捜査本部の仕事です。</source>
-        <target state="translated">That was just Near's theory, right?|Whether such an individual actually exists, or if Mikami himself is Kira…&gt;&gt;I'm sure all of that will become clear once we interrogate Mikami.&gt;&gt;In any case, that's the duty of the Japanese task force, not the SPK.</target>
+        <target state="translated">That was just Near's theory, right?|Whether such an individual actually exists, or if Mikami himself is Kira…&gt;&gt;I'm sure all of that will become clear once we interrogate Mikami.&gt;&gt;In any case, that's the duty of the Japanese Task Force, not the SPK.</target>
       </trans-unit>
       <trans-unit id="866752" xml:space="preserve" approved="no">
         <source>こう言っては何ですが、今、世界は|キラ支持が多数派になっています。|その中でＳＰＫは非合法組織だ。&gt;&gt;おとなしく従ってもらえないなら|我々は日本警察としてＳＰＫを|逮捕せざるを得ない。&gt;&gt;ニア、僕はそんなことを|したくはないんです。</source>
@@ -5053,7 +5053,7 @@
       </trans-unit>
       <trans-unit id="826324" xml:space="preserve" approved="no">
         <source>大黒埠頭の外れ、ＹＢ倉庫…||ついに日本捜査本部とＳＰＫの|全員が集結した。||そして夜神月とニアは、|初めて顔を合わせたのだが……</source>
-        <target state="translated">The Yellow Box Warehouse, Daikoku Wharf.||At last, the members of the Japanese Task Force and the SPK had assembled here.||It was the first time Light Yagami and Near had met face-to-face…</target>
+        <target state="translated">The Yellow Box Warehouse, Daikoku Wharf.||The members of the Japanese Task Force and the SPK had all assembled||It was the first time Light Yagami and Near had met face-to-face…</target>
       </trans-unit>
       <trans-unit id="803820" xml:space="preserve" approved="no">
         <source>どうやら全員、ここまでは|無事に集まったようですね。|ドアの外の者も含めて…</source>
@@ -5113,7 +5113,7 @@
       </trans-unit>
       <trans-unit id="780260" xml:space="preserve" approved="no">
         <source>１人目の名前を書いてから|何秒ですか？</source>
-        <target state="translated">How long does it take after the name is written?</target>
+        <target state="translated">How long does it take after a name is written?</target>
       </trans-unit>
       <trans-unit id="772344" xml:space="preserve" approved="no">
         <source>もうすぐ４０秒です…あと…</source>
@@ -5141,11 +5141,11 @@
       </trans-unit>
       <trans-unit id="785572" xml:space="preserve" approved="no">
         <source>な…なぜ、なぜだ…|か、神…私は仰せの通りに…</source>
-        <target state="translated">Wh…B-but, how…|G-God… I did everything according to your will…</target>
+        <target state="translated">Wh… B-but, how…|G-God… I did everything according to your will…</target>
       </trans-unit>
       <trans-unit id="810132" xml:space="preserve" approved="no">
         <source>魅上は混乱し月にすがった。|||だが混乱していたのは|月も同じだった。|そして日本の捜査員達も…</source>
-        <target state="translated">Mikami clung to Light in confusion.||But Light was just as confused.||And the Japanese task force, too…</target>
+        <target state="translated">Mikami clung to Light in confusion.||But Light was just as confused.||And the Japanese Task Force, too…</target>
       </trans-unit>
       <trans-unit id="848792" xml:space="preserve" approved="no">
         <source>ＳＰＫメンバーは、|すばやく魅上を取り押さえ|ノートを取り上げた。||ニアはそのノートを|全員の前に広げた。|そこには全員の名前が|書かれていた。||\T0120\t0000ただ１人を除いて…</source>
@@ -5181,7 +5181,7 @@
       </trans-unit>
       <trans-unit id="813764" xml:space="preserve" approved="no">
         <source>しかし、私がさっき|『ノートに細工した』と言ったのは&gt;&gt;本物のノートに対しても、|なんですよ。</source>
-        <target state="translated">But when I said earlier that we tampered with the notebook,&gt;&gt;I was referring to the real notebook as well.</target>
+        <target state="translated">But when I said earlier that we tampered with the notebook,&gt;&gt;I was referring to the real one as well.</target>
       </trans-unit>
       <trans-unit id="767376" xml:space="preserve" approved="no">
         <source>…ば、ばかな…！</source>
@@ -5189,7 +5189,7 @@
       </trans-unit>
       <trans-unit id="874596" xml:space="preserve" approved="no">
         <source>ニアは本物のノートを取り出した。|だが、それでも月には納得する事は|できなかった。|魅上に用意させたニセのノートは|完全なはずだったのだ。||\T0045\t0002だがニアは、魅上のノートに|死神が憑いていない事から、|魅上のノートをニセ物と疑った。||\T0045\t0002そこである行動に出たのだ。</source>
-        <target state="translated">Near pulled out the real Note for everyone to see. But even then, Light couldn’t accept the reality of what had just happened.||The fake Note Mikami had prepared was flawless. It should have fooled Near.||\T0045\t0002But Near, upon realizing that Mikami’s Note was not being haunted by a Shinigami, had begun to suspect that Mikami’s Note was a fake. That was the basis of Near’s entire plan.</target>
+        <target state="translated">Near pulled out the real Note for everyone to see. But even then, Light couldn’t accept the reality of what had just happened.||The fake Note Mikami had prepared was flawless. It should have fooled Near.||But Near, upon realizing that Mikami’s Note was not being haunted by a Shinigami, had begun to suspect that Mikami’s Note was a fake. That was the basis of Near’s entire plan.</target>
       </trans-unit>
       <trans-unit id="799184" xml:space="preserve" approved="no">
         <source>メロのおかげです。|メロの行動がなければ、|私はあなたに負けていた。</source>
@@ -5197,7 +5197,7 @@
       </trans-unit>
       <trans-unit id="869868" xml:space="preserve" approved="no">
         <source>ニアの示した本物のデスノート。||\T0045\t0002そこにはメロに誘拐された|高田清美の名前があった。||\T0090\t0002つまり、魅上も独自の判断で|高田を消すためにノートを|使ったのだ。||\T0045\t0002そのとき魅上がノートをもう１冊|持っているとニアは知った。</source>
-        <target state="translated">Near flipped open the real Death Note.||\T0045\t0002There was the name of the person Mello had kidnapped: Kiyomi Takada.||\T0090\t0002Mikami must have independently concluded that Takada needed to die, then used the notebook to kill her.||\T0045\t0002At that point, Near realized that Mikami had a second notebook.</target>
+        <target state="translated">Near flipped open the real Death Note.||There was the name of the person Mello had kidnapped: Kiyomi Takada.||Mikami must have independently concluded that Takada needed to die, then used the notebook to kill her.||At that point, Near realized that Mikami had a second notebook.</target>
       </trans-unit>
       <trans-unit id="837688" xml:space="preserve" approved="no">
         <source>２冊のノートのどちらが本物か、|手に入れてみなければ１００％の|確証はない…||そこでニアは、魅上の持つ２冊の|ノートを、両方ともすり替える策に|出たのだった。</source>
@@ -5205,23 +5205,23 @@
       </trans-unit>
       <trans-unit id="843836" xml:space="preserve" approved="no">
         <source>メロには、わかっていたんです。|私もメロもＬを超せない事を…&gt;&gt;私は行動力に欠け、|メロは冷静さに欠ける…&gt;&gt;つまり互いが互いの目標とする者を|超せないと…しかし…</source>
-        <target state="translated">Mello knew that neither he nor I could surpass L...&gt;&gt;I lack initiative, and Mello couldn't keep a cool head...&gt;&gt;In other words, we couldn't surpass the person we each wanted to... But…</target>
+        <target state="translated">Mello knew that neither he nor I could surpass L...&gt;&gt;I lack initiative, and Mello couldn't keep a cool head...&gt;&gt;In other words, we couldn't surpass the one we admired on our own... But…</target>
       </trans-unit>
       <trans-unit id="801920" xml:space="preserve" approved="no">
         <source>||||　　　２人ならＬに並べる、|||\T0060\t0002　　　２人ならＬを超せる。</source>
-        <target state="translated">...The two of us together could stand shoulder to shoulder with L.|||\T0060\t0002...Together, we could surpass him.</target>
+        <target state="translated">...The two of us together could stand shoulder to shoulder with L.|||...Together, we could surpass him.</target>
       </trans-unit>
       <trans-unit id="785644" xml:space="preserve" approved="no">
         <source>…ふ\T0060\t0002…ふふ\T0030\t0000…ふははは！！</source>
-        <target state="translated">…Hah\T0060\t0002…Hah hah…\T0030\t0000…Ahahahaha!</target>
+        <target state="translated">\T0060\t0002…Hah…Hah hah…\T0030\t0000…Ahahahaha!</target>
       </trans-unit>
       <trans-unit id="788520" xml:space="preserve" approved="no">
         <source>…そうだ…僕がキラだ！|\T0060\t0002ならばどうする？</source>
-        <target state="translated">…That’s right… I’m Kira!|\T0060\t0002And what are you going to do about it?</target>
+        <target state="translated">\T0060\t0002…That’s right… I’m Kira!|And what are you going to do about it?</target>
       </trans-unit>
       <trans-unit id="868292" xml:space="preserve" approved="no">
         <source>僕はキラ。そして新世界の神だ！||今の世界では僕が法であり|僕が秩序を守っている。|これは事実。|\T0045\t0002|もはや僕は正義。世界の人間の希望。||\T0045\t0002世の中は腐っている。|腐った人間が多すぎる。|ならば、なくさなければならない。</source>
-        <target state="translated">I am Kira. And I’m the god of the new world!||Look around you. In today’s world, I am the law. I’m the one who keeps the peace. You can’t deny that.||\T0045\t0002It’s already too late. I am justice. I am the hope of humankind.||\T0045\t0002This world is rotten.|It’s overflowing with rotten people.|There’s nothing we can do, other than make them disappear.</target>
+        <target state="translated">I am Kira. And I’m the god of the new world!||Look around you. In today’s world, I am the law. I’m the one who keeps the peace. You can’t deny that.||It’s already too late. I am justice. I am the hope of humankind.||\T0045\t0002This world is rotten. It’s overflowing with rotten people. There’s nothing we can do, other than make them disappear.</target>
       </trans-unit>
       <trans-unit id="844024" xml:space="preserve" approved="no">
         <source>この腐った世の中を改め、|真の平和・理想の世界を|創生するため選ばれた人間、||\T0045\t0002僕にしかできない。|僕がキラとしてやるしかない。|これは僕に与えられた使命。</source>
@@ -5241,7 +5241,7 @@
       </trans-unit>
       <trans-unit id="823576" xml:space="preserve" approved="no">
         <source>リューク…\T0060\t0000そうだリューク！|\T0025\t0000書け！\T0025\t0001　おまえのノートに|こいつらの名前を書くんだ！</source>
-        <target state="translated">Ryuk…\T0060\t0000That’s it! Ryuk!|\T0025\t0000Write!\T0025\t0001 Write these bastards’ names into your Note!</target>
+        <target state="translated">Ryuk… That’s it! Ryuk!|\T0025\t0000Write!\T0025\t0001 Write these bastards’ names into your Note!</target>
       </trans-unit>
       <trans-unit id="769052" xml:space="preserve" approved="no">
         <source>や、止めろリューク！</source>
@@ -5289,15 +5289,15 @@
       </trans-unit>
       <trans-unit id="784420" xml:space="preserve" approved="no">
         <source>||||||　　　さよならだ、\T0045\t0002夜神月。</source>
-        <target state="translated">||||||&lt;&lt;This is goodbye, \T0045\t0002Light Yagami.</target>
+        <target state="translated">||||||&lt;&lt;This is goodbye, Light Yagami.</target>
       </trans-unit>
       <trans-unit id="784492" xml:space="preserve" approved="no">
         <source>||||||　　　ち…\T0060\t0002ちくしょう………</source>
-        <target state="translated">||||||&lt;&lt;D…\T0060\t0002Damn it…</target>
+        <target state="translated">||||||&lt;&lt;D…\T0045\t0002Damn it…</target>
       </trans-unit>
       <trans-unit id="865984" xml:space="preserve" approved="no">
         <source>キラ＝夜神月が消えて一年。||世界はすでにキラが現れる前の|退屈で堕落した日常に戻り、|重大犯罪も増加していった。||\T0060\t0002この日常に安心する者。||\T0060\t0002キラの裁きの再開を願う者。||\T0060\t0002人々の思いはそれぞれだった。</source>
-        <target state="translated">A year had passed since the death of Kira, i.e. Light Yagami.||The world had already fallen back into the everyday boredom and drudgery that it roiled within before Kira had first appeared. The rate of serious crime shot back up.||\T0060\t0002Some took comfort in this reality.|\T0060\t0002Others prayed for Kira’s judgments to return. The public opinion, as always, was divided.</target>
+        <target state="translated">A year had passed since the death of Kira, i.e. Light Yagami.||The world had already fallen back into the everyday boredom and drudgery that it roiled within before Kira had first appeared. The rate of serious crime shot back up.||Some took comfort in this reality.|Others prayed for Kira’s judgments to return. The public opinion, as always, was divided.</target>
       </trans-unit>
       <trans-unit id="820172" xml:space="preserve" approved="no">
         <source>夜神月のめざした新世界は|ついに実現しなかった。||||\T0060\t0002ただ、キラの復活を願う者達は|確実に残っている。</source>
@@ -6625,7 +6625,7 @@
       </trans-unit>
       <trans-unit id="498048" xml:space="preserve" approved="no">
         <source>キラを確保してください。</source>
-        <target state="translated">Arrest Kira.</target>
+        <target state="translated">Locate Kira.</target>
       </trans-unit>
       <trans-unit id="610048" xml:space="preserve" approved="no">
         <source>また、チェックポイントに|向かい、ノートをすり替える|必要があります。</source>
@@ -15661,7 +15661,7 @@
       </trans-unit>
       <trans-unit id="513840" xml:space="preserve" approved="no">
         <source>？…今すれ違ったのは|たぶんニアの…</source>
-        <target state="translated">? ...That person I passed just now was probably one of Near's…</target>
+        <target state="translated">? ...That person I passed just now was probably one of Near's…#chp10 located kira before death note swap</target>
       </trans-unit>
       <trans-unit id="529672" xml:space="preserve" approved="no">
         <source>奴はおそらくＳＰＫの…|尾行のつもりか…</source>
