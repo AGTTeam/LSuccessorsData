@@ -4889,7 +4889,7 @@
       </trans-unit>
       <trans-unit id="831696" xml:space="preserve" approved="no">
         <source>ネイト＝リバー|アンソニー＝カーター|ステファン＝ラウド|ハル＝ブロック||相沢周市…松田桃太…模木完造…|伊出英基…||\T0060\t0000そして、夜神月！</source>
-        <target state="translated">Nate River|Anthony Rester|Stephen Loud|Halle Bullook||Shuichi Aizawa… Touta Matsuda… Kanzo Mogi…||\T0060\t0000And… Light Yagami!</target>
+        <target state="translated">Nate River|Anthony Rester|Stephen Loud|Halle Bullook||Shuichi Aizawa… Touta Matsuda… Kanzo Mogi… Hideki Ide…||And…\T0060\t0000 Light Yagami!</target>
       </trans-unit>
       <trans-unit id="769008" xml:space="preserve" approved="no">
         <source>ニア、どういう事だ？</source>
@@ -4945,7 +4945,7 @@
       </trans-unit>
       <trans-unit id="846280" xml:space="preserve" approved="no">
         <source>ニア、これまでの協力に感謝します。|しかし、ここは日本だ。&gt;&gt;魅上の身柄は我々、日本捜査本部で|預かります。&gt;&gt;むろん、あなた方が手に入れた|本物のデスノートもです。</source>
-        <target state="translated">Near, I thank you for all your help up to this point. However, this is Japan, which is in our jurisdiction.&gt;&gt;Please, leave Mikami's arrest to us, the Japanese Task Force.&gt;&gt;And we'll take the Death Note you have there too, naturally.</target>
+        <target state="translated">Near, I thank you for all your help up to this point. However, this is Japan, which is in our jurisdiction.&gt;&gt;Please leave Mikami's arrest to us, the Japanese Task Force.&gt;&gt;And we'll take the Death Note you have there too, naturally.</target>
       </trans-unit>
       <trans-unit id="790204" xml:space="preserve" approved="no">
         <source>ふざけるな、夜神月！|本当のキラはおまえじゃないか！！</source>
@@ -4989,7 +4989,7 @@
       </trans-unit>
       <trans-unit id="780644" xml:space="preserve" approved="no">
         <source>いいでしょう。|相沢さん、お願いします。</source>
-        <target state="translated">That’ll be no problem.|I’ll leave it to you, Mr. Aizawa.</target>
+        <target state="translated">That’ll be no problem.|I’ll leave it to you, Aizawa.</target>
       </trans-unit>
       <trans-unit id="766576" xml:space="preserve" approved="no">
         <source>あ、ああ………</source>
@@ -5013,11 +5013,11 @@
       </trans-unit>
       <trans-unit id="848400" xml:space="preserve" approved="no">
         <source>だが、僕はずっと以前から|魅上に指示していたのさ。||\T0015\t0002ノートのすり替えに注意しろと。||\T0015\t0002そしてもし、すり替えられたら、|黙って僕の名前もノートに書けと…</source>
-        <target state="translated">But I warned Mikami ages ago.||\T0015\t0002I told him to watch out for if the Note were replaced.||\T0045\t0002And if it ever was, to not say anything to anyone, but write my name in the Note along with all the rest…</target>
+        <target state="translated">But I warned Mikami ages ago.||\T0015\t0002I told him to keep an eye out in case the Note was replaced.||\T0045\t0002And if it ever was, to not say anything to anyone, but write my name in the Note along with all the rest…</target>
       </trans-unit>
       <trans-unit id="869336" xml:space="preserve" approved="no">
         <source>それを全員の前で見せれば、|僕への疑いは晴れる。||むろん一時的でいい。|\T0015\t0002おまえの顔と名前がわかれば、|それでいいんだ。||\T0045\t0002その後、日本の警察権を盾に、|おまえ達から魅上の身柄とノートを|取り上げれば、僕の策は完了だ。</source>
-        <target state="translated">If the investigators saw that, it'd clear up all the suspicion towards me.||Even if it was only temporary.|\T0015\t0002Because you know what, Near? Now I know your face and your name.||\T0045\t0002All I had to do was use my Japanese policeman status as a shield and take Mikami and the Note away from the SPK, and my plan would be complete.</target>
+        <target state="translated">If the investigators saw that, it'd clear up all the suspicion towards me. Even if it was only temporary.||\T0015\t0002Because you know what, Near?|Now I know your face and your name.||\T0045\t0002All I had to do was use my Japanese policeman status as a shield, and take Mikami and the Note away from the SPK, and my plan would be complete.</target>
       </trans-unit>
       <trans-unit id="871208" xml:space="preserve" approved="no">
         <source>これはニア、おまえのおかげで|可能になった策なんだよ。||\T0060\t0002おまえは魅上が高田を始末した時、|隠されたもう１冊のノートの存在に|気づいた。|そこまでは上出来だ。||\T0060\t0002だが、本当に魅上が独自の判断で|高田を始末したと思っているのか？</source>
@@ -5033,7 +5033,7 @@
       </trans-unit>
       <trans-unit id="817572" xml:space="preserve" approved="no">
         <source>つまりニア、|\T0060\t0002おまえが魅上に目をつけた瞬間から、|どう転んでも、僕の勝ちは|決まっていたのさ。</source>
-        <target state="translated">In summary, Near:|\T0060\t0002No matter how fate tried to twist - the instant you laid eyes on Mikami, I'd won.</target>
+        <target state="translated">In summary, Near:|No matter how fate tried to twist - the instant you laid eyes on Mikami, I'd won.</target>
       </trans-unit>
       <trans-unit id="840532" xml:space="preserve" approved="no">
         <source>ルールとはいつの世界でも|神とされる者によって|創られるものだ。||\T0045\t0002おまえは僕の創ったルールに平伏し|新世界の神に逆らおうとした罪で|裁かれるんだ。</source>
@@ -5045,7 +5045,7 @@
       </trans-unit>
       <trans-unit id="802020" xml:space="preserve" approved="no">
         <source>||||||　クククッ|\T0060\t0002　…やっぱ人間て\T0045\t0002面白ーーっ！！</source>
-        <target state="translated">||||||&lt;&lt;Kukuku...|&lt;&lt;\T0060\t0002… I knew it. The Human World \T0045\t0002sure is fun!</target>
+        <target state="translated">||||||&lt;&lt;Kukuku...|&lt;&lt;\T0060\t0002… I knew it. The Human World sure is fun!</target>
       </trans-unit>
       <trans-unit id="783396" xml:space="preserve" approved="no">
         <source>残るは直接対決です。|皆さん、いいですね？</source>
@@ -6709,7 +6709,7 @@
       </trans-unit>
       <trans-unit id="513160" xml:space="preserve" approved="no">
         <source>デスノートを|全て回収してください。</source>
-        <target state="translated">Retrieve all the Death Note scraps.</target>
+        <target state="translated">Retrieve all of the Death Notes.</target>
       </trans-unit>
       <trans-unit id="597452" xml:space="preserve" approved="no">
         <source>端末から犯罪者情報を|引き出し、犯罪者の裁きを|行ってください。</source>
@@ -8113,7 +8113,7 @@
       </trans-unit>
       <trans-unit id="507340" xml:space="preserve" approved="no">
         <source>放置しすぎかも|しれないですね。</source>
-        <target state="translated">We may have been a bit neglectful.#survelliance down</target>
+        <target state="translated">We may have been a bit neglectful.#surveillance down</target>
       </trans-unit>
       <trans-unit id="510112" xml:space="preserve" approved="no">
         <source>少しくらい壊れても|かまいません。</source>
@@ -9253,7 +9253,7 @@
       </trans-unit>
       <trans-unit id="551328" xml:space="preserve" approved="no">
         <source>障害は取り除いた。|今のうちに行動しなければ。</source>
-        <target state="translated">I've removed this obstacle.|I should take advantage of this chance to act.</target>
+        <target state="translated">I've removed this obstacle.|I should take advantage of this chance.</target>
       </trans-unit>
       <trans-unit id="567180" xml:space="preserve" approved="no">
         <source>これでしばらく反逆者どもは|動きが取れないだろう。</source>
